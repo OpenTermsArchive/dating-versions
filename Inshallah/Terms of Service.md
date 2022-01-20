@@ -6,21 +6,21 @@ CAJIS FRANCE (hereafter "Inshallah"), a simplified joint stock company with a sh
 
 In the General Terms and Conditions of Use, the following terms are understood as defined below :
 
-*   GCU: the present General Conditions of Use
-*   Application: the Inshallah application accessible from Apple's App Store, Google's Play Store and inshallah.com website
-*   Member: a natural person registered on the Application
-*   Account: personal space dedicated to the Member on the Application and the Site, which the Member accesses by registering and connecting to the Application or the Site. It allows the Member to access the Service. A Member may only have one
-*   Account.
-*   Service: means all the services, free or paid, made available to the Member whose purpose is to promote virtual or real encounters.
-*   Match: refers to a mutual interest between two Members who have "liked" each other.
-*   Like: action aimed at expressing interest in another member. This action is anonymous as long as the other member has not expressed a reciprocal interest by "Liking" the other profile.
-*   Dismiss: action intended to express disinterest in another member. This action is anonymous and definitive, i.e. the Member will no longer be displayed on the Application once "Dismissed".
-*   Blur photos: action which consists in blurring your photos. Blurred photos can only be "unblurred" by Members who have obtained a Match or Members with access to Inshallah Premium.
-*   Inshallah: refers to CAJIS FRANCE, the simplified joint stock company with a capital of 20,000 euros, registered in the Paris Trade and Companies Register under number 530 423 763, owner and sole operator of the Application and the "Inshallah" trademark.
-*   Messages: sending of messages between two members who have expressed a mutual interest by "Liking" each other.
-*   Inshallah Premium: paid services in the form of a subscription of which the Member can choose the duration.
-*   Facebook Connect: feature offered to the Member allowing him/her to register and access the Application with his/her Facebook account, in order to simplify registration.
-*   Content: Photos or texts appearing on a Member's profile. Site: site accessible at inshallah.com
+* GCU: the present General Conditions of Use
+* Application: the Inshallah application accessible from Apple's App Store, Google's Play Store and inshallah.com website
+* Member: a natural person registered on the Application
+* Account: personal space dedicated to the Member on the Application and the Site, which the Member accesses by registering and connecting to the Application or the Site. It allows the Member to access the Service. A Member may only have one
+* Account.
+* Service: means all the services, free or paid, made available to the Member whose purpose is to promote virtual or real encounters.
+* Match: refers to a mutual interest between two Members who have "liked" each other.
+* Like: action aimed at expressing interest in another member. This action is anonymous as long as the other member has not expressed a reciprocal interest by "Liking" the other profile.
+* Dismiss: action intended to express disinterest in another member. This action is anonymous and definitive, i.e. the Member will no longer be displayed on the Application once "Dismissed".
+* Blur photos: action which consists in blurring your photos. Blurred photos can only be "unblurred" by Members who have obtained a Match or Members with access to Inshallah Premium.
+* Inshallah: refers to CAJIS FRANCE, the simplified joint stock company with a capital of 20,000 euros, registered in the Paris Trade and Companies Register under number 530 423 763, owner and sole operator of the Application and the "Inshallah" trademark.
+* Messages: sending of messages between two members who have expressed a mutual interest by "Liking" each other.
+* Inshallah Premium: paid services in the form of a subscription of which the Member can choose the duration.
+* Facebook Connect: feature offered to the Member allowing him/her to register and access the Application with his/her Facebook account, in order to simplify registration.
+* Content: Photos or texts appearing on a Member's profile. Site: site accessible at inshallah.com
 
 ##### 2: Conditions of Access and Registration to Services
 
