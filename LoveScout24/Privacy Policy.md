@@ -255,7 +255,7 @@ Wir speichern Ihre personenbezogenen Daten nur solange, wie wir sie für berecht
 
 In der Praxis bedeutet das, dass wir all Ihre Daten entweder ein Jahr nach der Löschung Ihres Kontos oder nach Ablauf von zwei Jahren seit der letzten Aktivität auf der Plattform löschen oder anonymisieren, es sei denn:
 
-1.  Wir müssen diese aufbewahren, um gesetzliche Vorschriften einzuhalten (z.B. werden einige “Verkehrsdaten” aufbewahrt, um den gesetzlichen Aufbewahrungspflichten nachzukommen),
+1.  Wir müssen diese aufbewahren, um gesetzliche Vorschriften einzuhalten (z.B. werden einige „Verkehrsdaten“ aufbewahrt, um den gesetzlichen Aufbewahrungspflichten nachzukommen),
 2.  wir müssen diese aufbewahren, um die Einhaltung gesetzlicher Vorschriften nachzuweisen (z.B. werden Nachweise über die Zustimmung zu unseren Nutzungsbedingungen und zu unseren Datenschutzbestimmungen sowie andere Einwilligungen fünf Jahre lang aufbewahrt);
 3.  eine offene Frage, eine Forderung oder ein Streitfall veranlasst uns, die entsprechenden Informationen aufzubewahren, bis das Problem geklärt ist; oder
 4.  die Informationen müssen für unsere berechtigten Geschäftsinteressen wie beispielsweise Betrugsbekämpfung und Verbesserung der Sicherheit der Nutzer aufbewahrt werden. So müssen zum Beispiel Daten aufbewahrt werden, um Nutzer, die wegen ihres Verhaltens oder Sicherheitsvorfällen gesperrt wurden, an der Eröffnung eines neuen Kontos zu hindern.
