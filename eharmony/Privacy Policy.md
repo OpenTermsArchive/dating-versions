@@ -1,10 +1,12 @@
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_01_31.pdf)
+
 ### eharmony - United Kingdom
 
 ### Privacy Policy
 
   
 
-Version: 11.05.2021
+Version: 31.01.2022
 
   
 
@@ -25,13 +27,14 @@ You can find information about data processing in connection with Cookies and ot
 *   [Transfer of data to third parties; service provider](#pp04)
 *   [How do we protect your personal data?](#pp11)
 *   [Duration of storage; retention obligations](#pp05)
+*   [Are you obliged to provide us with personal data?](#pp05)
 *   [Rights of the data subject at a glance](#pp06)
 *   [Social Media](#pp10)
 *   [Cookies & tracking technologies](#pp08)
 
 Contact / Data Controller
 
-Unless otherwise stated in this privacy policy or in our Cookies & Tracking Policy, the controller of your personal data is eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain (hereafter “eharmony”, “us”, “our”, “we”).
+Unless otherwise stated in this privacy policy or in our [Cookies & Tracking Policy](https://www.eharmony.co.uk/cookiesandtracking) , the controller of your personal data is eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain (hereafter “eharmony”, “us”, “our”, “we”).
 
 If you have any questions or suggestions about how we use your personal data, please contact us or our data protection officer.
 
@@ -41,7 +44,7 @@ eHarmony UK Ltd., Customer Care, BM Box 5904, London WC1N 3XX, United-Kingdom, [
 
 **You can reach our data protection officer at:**
 
-Dr. Stefanie Wegener, [privacypolicy@eharmony.co.uk](mailto:privacypolicy@eharmony.co.uk) (e-mail)
+eharmony UK Privacy Team, [privacy@eharmony.co.uk](mailto:privacy@eharmony.co.uk) (e-mail)
 
 **Our EU Representative is:**
 
@@ -187,7 +190,7 @@ Every time you access the eharmony website, we will collect your usage data. Thi
 
 Each time a eharmony member logs in to our network, we also collect their eharmony user identifier.
 
-While using the website, and in addition to the data mentioned above, cookies or pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+While using the website, and in addition to the data mentioned above, cookies or pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://uk.eharmony.com/cookiesandtracking).
 
 What information does eharmony collect when using the eharmony app?
 
@@ -242,7 +245,7 @@ Eharmony offers members who have met their partner on the eharmony platform the 
 
 Your personal data in connection with your success story is processed subject to your prior written consent.
 
-In this case, the following data is stored by eharmony:
+The following data is stored by eharmony in connection with success stories:
 
 *   Profile ID
 *   Email address
@@ -250,16 +253,18 @@ In this case, the following data is stored by eharmony:
 *   Any pseudonym (if the name of a member was changed in the success story)
 *   Age
 *   Occupation
+*   Gender (especially for assignment in the product experience report in the sense of "experiences as a man/woman“)
 *   County or place of residence
 *   Any photos of the couple
 *   Information on children
 *   Telephone number
 *   The success story
 *   A link to where the success story and any photo(s) are published
+*   Any contacts between eharmony and members who share their success story
 
-The following data is made available online: First name, any pseudonym, age, occupation, county and your love story.
+The following data is made available online: First name, any pseudonym, age, occupation, county, your love story and any other information with your consent.
 
-You will receive further information on the processing and/or storage of your data in connection with your love story within the framework of instructions for giving your consent.
+You will receive further information on the processing and/or storage of your data in this connection if you choose to share your love story with us.
 
 Processing purposes
 
@@ -280,6 +285,8 @@ eharmony processes the personal data of its users for the following purposes and
 *   For the protection and defence of our rights and the fulfilment of legal obligations. (The legal basis for these activities is the fulfilment of our legal obligations and our legitimate interest in asserting and defending our rights.)
 *   For the purposes of sending advertising relating to our own products through promotional emails and/or push messages, newsletters, surveys and personalised guidance. (The legal basis is our legitimate interests in relation to sending direct marketing about our own products. The legal basis in some instances is also your consent.)
 *   To comply with statutory retention obligations and other statutory or legal obligations and provisions (e.g. in connection with tax audits, official or judicial orders for information or other purposes). (The legal basis is the fulfilment of our legal obligations).
+*   To answer communications or questions from you. (The legal basis is contractual necessity, complying with our legal obligations, and eharmony’s and our users’ legitimate interests in offering/receiving customer service and improving the customer experience.)
+*   To publish your love story (success story) on the eharmony website and other online and offline channels with your consent. (The legal basis is your consent.)
 
 You will find the processing purposes and legal basis for the processing of personal data regarding the use of “cookies” and other tracking technologies when using eharmony in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
 
@@ -323,15 +330,15 @@ Please note that if you purchase a Premium Membership over the eharmony app, eha
 
 **Transfer of data to non-European countries**
 
-eHarmony may disclose your personal data to third parties or to our processors who are located outside the UK and European Economic Area (“EEA”) (collectively, “Europe”). When this happens (and before disclosing your data) we ensure that the recipient has an adequate level of protection to enable the lawful transfer of your data. For example, this may be because the recipient is in a country that a competent authority has determined offers an adequate level of data protection in accordance with Article 45 UK GDPR; or has entered into the standard data protection clause s; or (where permitted by law) because you have expressly consented to this transfer.
+eHarmony may disclose your personal data to third-party controllers (joint or independent) or to our processors who are located outside the UK and European Economic Area (“EEA”) (collectively, “Europe”). When this happens, (and before disclosing your data) we ensure that the recipient has an adequate level of protection to enable the lawful transfer of your data. For example, this may be because the recipient is in a country that a competent authority has determined offers an adequate level of data protection in accordance with Article 45 UK GDPR; or has entered into standard data protection clauses and implemented appropriate technical and organizational measures; or (where permitted by law) because you have expressly consented to this transfer.
 
-We can provide you with an overview of recipients in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection. Please use the information provided under [Contact](#pp07) for this purpose.
+We can provide you with an overview of recipients (processor) in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection (standard contractual clauses). Please use the information provided under [Contact](#pp07) for this purpose.
 
 How do we protect your personal data?
 
 Eharmony uses a variety of security measures, including state-of-the-art encryption and authentication tools, to protect the security, integrity and availability of our customers’ and users’ personal data. In particular, these measures include the following:
 
-*   Strict criteria for the authorization to access your data as well as random 2-factor authentication,
+*   Strict criteria for the authorization to access your data as well as 2-factor authentication,
 *   Storage of confidential data in encrypted form,
 *   Firewall protection of IT systems to prevent unauthorized access,
 *   Permanent monitoring of access to IT systems to detect and prevent the misuse of personal data.
@@ -358,7 +365,7 @@ We store your data for as long as is necessary for the provision of our Service 
 
 Data that is subject to a mandatory retention period is blocked from deletion until the end of that period.
 
-For Basic Members: You can choose to remove the data in your profile at any time. You can also erase your profile data yourself (when you have completed the compatibility quiz) by logging in to the eharmony website and starting the deletion process. Otherwise, eharmony automatically erases personal profile data of Basic members who are inactive for 24 months.
+For Basic Members: You can choose to remove the data in your profile at any time. You can also erase your profile data yourself (when you have completed the compatibility quiz) by starting the deletion process in the “Profile Settings” area of your eharmony account. If you are a web or iOS user, you can also erase your profile data yourself (when you have completed the compatibility test) by starting the deletion process in the “Profile Settings” area of your Parship account. Otherwise, eharmony automatically erases personal profile data of Basic members who are inactive for 24 months.
 
 For Premium Members: Your personal data will be stored for the duration of our contractual relationship. However, we will erase your data following your request as long as there is no legal storage obligation that applies to that information. If your data is subject to a mandatory storage period, we will ensure that this information is isolated and stored until the expiry of the retention period. Once your Premium Membership is over, if you do not ask us to erase your data before your Premium subscription comes to an end, your Premium Membership will be converted into a Basic Membership. In this case, the description above relating to the retention period of Basic members’ data will apply.
 
@@ -370,15 +377,38 @@ Please note that if the deletion of your data is prevented due to a mandatory re
 
 Eharmony will also store any personal data which is required to demonstrate that eharmony has lawfully complied with a valid data subject rights request within the required period.
 
+Are you obliged to provide us with personal data?
+
+In principle, you are not obliged to provide your personal data to us. However, the use of certain services may require the provision of personal data, e.g. registration or participation in a competition. If this is the case, we will let you know by marking mandatory data fields with an \*. If you do not wish to provide the required data, you will unfortunately not be able to use the corresponding services.
+
 Rights of the data subject at a glance
 
-You have the right to access, and -under certain conditions- to rectify, erase, restrict or object to the processing of your personal data, as well as the right to data portability.
+Under the UK GDPR and data protection laws, you have rights, including:
 
-You can also object at any time to the processing of your personal data for advertising purposes ("object advertising "). Please take into account that for organisational reasons, there may be a time lapse between when you submit your request and when we are able to remove your data from an ongoing campaign. Please also note that your objection will not affect the lawfulness of any processing that occurred prior to the date on which you objected to this activity.
+**Your right to be informed** – You have a right to receive concise, transparent, intelligible, and easily accessible information about your personal data and our use of it.
 
-By using our Service, you will have provided us with information about your sexual orientation (such as your gender and your sexual preferences). You can withdraw your consent to our use of this information at any time. However, please note that any withdrawal of your consent will not affect the lawfulness of our processing of such data prior to the date on which you withdrew your consent. In addition, once you have withdrawn your consent, we will no longer be able to provide you with matches or our Service.
+**Your right of access** – You have the right to ask us for copies of your personal data. This right always applies. There are some exemptions, which means you may not always receive all the information. When you request this data, this is known as making a data subject access request (DSAR).
 
-By using our Service, you may have provided us with sensitive information about your religion, ethnicity and/or political view. You can withdraw your consent to our use of this information at any time. To do so, you should change your answers to “prefer not to specify” in the religion, ethnicity and/or political view fields (as appropriate) in your profile. However, please note that any withdrawal of your consent will not affect the lawfulness of our processing of such data prior to the date on which you withdrew your consent.
+**Your right to rectification** – You have the right to ask us to rectify personal data you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. This right always applies.
+
+**Your right to erasure** - You have the right to ask us to erase your personal data in certain circumstances. We have the right to refuse to comply with a request for erasure if we are processing the personal data for one of the following reasons:
+
+*   To exercise the right of freedom of expression and information.
+*   To comply with a legal obligation.
+*   To perform a task in the public interest or exercise official authority.
+*   For archiving purposes in the public interest, scientific research, historical research or statistical purposes.
+*   For the exercise or defence of legal claims.
+
+**Your right to restriction of processing** – You have the right to ask us to restrict the processing of your personal data in certain circumstances. In such case, we will still hold the data but will not process it any further. This right is an alternative to the right to erasure. If one of the following conditions applies, you may exercise the right to restrict processing:
+
+*   The accuracy of the personal data is contested.
+*   Processing of the personal data is unlawful.
+*   We no longer need the personal data for processing, but the personal data is required for part of a legal process.
+*   The right to object has been exercised and processing is restricted pending a decision on the status of the processing.
+
+**Your right to object to processing** – You have the right to object to processing in certain circumstances. You can also object if the processing is for a task carried out in the public interest, the exercise of official authority vested in you, or your legitimate interests (or those of a third party).
+
+**Your right to data portability** – This right only applies if we are processing information based on your consent or for the performance of a contract and the processing is automated.
 
 If you would like to exercise any of your rights, please use the information under [Contact](#pp07). Please also ensure that when you do so, we will be able to clearly identify you.
 
@@ -392,7 +422,7 @@ You have the right to file a complaint with a data protection authority. If you 
 
 If you are located elsewhere in Europe, you can contact your local data protection authority or our appointed data protection authority. This is:
 
-Free and Hanseatic City of Hamburg, The Hamburg Commissioner for Data Protection and Freedom of Information, Prof. Dr. med. Johannes Caspar, E-Mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de)
+Free and Hanseatic City of Hamburg, The Hamburg Commissioner for Data Protection and Freedom of Information, E-Mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de)
 
 Social Media
 
