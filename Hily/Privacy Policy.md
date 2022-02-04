@@ -59,7 +59,7 @@ By using the Service, you agree that collection and processing of your data will
 
 1.  in this current case, your data controller is Hily Corp., a company with its registered address at 3172 North Rainbow Boulevard #1132, Las Vegas, NV 89108, United States of America; email: [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection#removed);
 2.  our EU Representative – for General Data Protection Regulation (GDPR) compliance purposes – is Risovel Limited, a company with its registered address at 7 Florinis Street, Nicosia, Cyprus, email: [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection#removed);
-3.  our Data Protection Officer (DPO) email: [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection#removed). If you are the EU citizen or a resident, feel free to contact our EU DPO in case you have any questions.
+3.  our Data Protection Officer (DPO) email: [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection#removed)[hily.com](https://hily.com/). If you are the EU citizen or a resident, feel free to contact our EU DPO in case you have any questions.
 
 3.4. **Data Processors**. When processing your data, we may use the following data processors:
 
