@@ -6,7 +6,7 @@
 
   
 
-Version: 31.01.2022
+Version: 31. January 2022
 
   
 
@@ -175,7 +175,7 @@ Within the use of the app, you may receive "push messages" from us, even when yo
 
 **What information does eharmony collect when using the eharmony website?**
 
-Every time you access the eharmony website, we will collect your usage data. This means that, even if you have not signed up to be a eharmony member, we will collect and use this information about you. This data is sent to us by your Internet browser and is stored in log files. This data includes:
+Every time you access the eharmony website, we will collect your usage data. This means that, even if you have not signed up to be an eharmony member, we will collect and use this information about you. This data is sent to us by your Internet browser and is stored in log files. This data includes:
 
 *   Information about your browser type and your internet service provider, as well as your operating system (for example Windows 7, Apple OS, etc.)
 *   The IP address (Internet Protocol address) of the device you use to access our website or Service (for example, your computer, tablet or smartphone). We will also compare your IP address against a geo-database to collect information about your location, such as your country, state and city.In this context eharmony uses MaxMind (see explanations below)
@@ -188,7 +188,7 @@ Every time you access the eharmony website, we will collect your usage data. Thi
 *   Session participant´s pseudonym
 *   Screen resolution used on your device
 
-Each time a eharmony member logs in to our network, we also collect their eharmony user identifier.
+Each time an eharmony member logs in to our network, we also collect their eharmony user identifier.
 
 While using the website, and in addition to the data mentioned above, cookies or pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://uk.eharmony.com/cookiesandtracking).
 
