@@ -234,9 +234,7 @@ For every request or claim regarding your use of the Services, you may consult o
 
 18.  **Applicable law – Disputes**
 
-These Terms of Use are governed, interpreted and applied in accordance with the laws of France, subject to mandatory consumer laws in force in your country of residence.
-
-Users may make claims on the European Commission’s online dispute resolution platform at: http://ec.europa.eu/consumers/odr/. The European Commission will transfer the user’s claim to the competent national mediators.
+These Terms of Use are governed, interpreted and applied in accordance with the laws of England, subject to mandatory consumer laws in force in your country of residence.
 
 In accordance with the rules applicable to mediation, prior to any request for mediation, you must first raise any dispute with us in writing in order to attempt an amicable resolution.
 
