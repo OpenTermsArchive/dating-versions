@@ -159,6 +159,7 @@ You can can reach our offices and our data protection lead at:
 
 Attn: Privacy  
 Unit #4315,  
+2261 Market Street  
 San Francisco, CA, 94114
 
 Copyright 2022 Bloomer Inc
