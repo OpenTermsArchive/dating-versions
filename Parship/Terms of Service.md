@@ -1,6 +1,8 @@
 CGU
 ---
 
+[Imprimer et enregistrer en format pdf](https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Terms_and_Conditions_2022_02_28.pdf)
+
 ### Conditions Générales d'Utilisation de Parship en France
 
 **
@@ -11,7 +13,7 @@ CGU
 
 Personne n'aime lire les petits caractères - néanmoins, nous vous demandons de jeter également un coup d'œil à nos CGU en vigueur. Merci beaucoup.
 
-Dernière mise à jour : 02.11.2021
+Dernière mise à jour : 28.02.2022
 
 Les présentes Conditions générales régissent la relation contractuelle payante ou non payante entre Parship (le contractant est PE Digital GmbH, Speersort 10, 20095 Hambourg, Allemagne) et ses clients, que vous accédiez à Parship via le site web ou les applications mobiles.
 
@@ -67,7 +69,7 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 
   
 
-3.2 Dès lors qu’il conclut un abonnement Premium, le client reçoit, en ligne et par e-mail, des suggestions de partenaires correspondant à ses critères de recherche et constamment actualisées. Dans le cadre des propositions de partenaires et des profils des membres accessibles aux membres Premium sont présentés la profession ou le prénom du membre, les photos des membres Basic et des membres Premium sous une forme identifiable (l’identification des photos dépend de l'implémentation de cette fonctionnalité par Parship dans les différents pays) ainsi que l'indication si le client est « nouveau » sur Parship. Les clients visualisent également une version succincte de l'analyse de personnalité des autres clients. En outre, dans le cadre de l'abonnement Premium, le client a, conformément aux consignes d’utilisation énoncées à l’article 7 de ces CGU, la possibilité d'entrer en contact sans restriction et d'un commun accord, avec d'autres clients et de communiquer par le biais de message ou, dans certains pays, via une fonctionnalité de conversation vidéo. Enfin, sauf indication contraire ci-dessus, il a accès aux mêmes possibilités d'utilisation qu'un membre Basic. Parship établit une évaluation détaillée du test de personnalité en ligne dans son profil ainsi que sous la forme d’un rapport de personnalité complet. Le rapport de personnalité est mis à la disposition du client sous la forme d’un fichier PDF par e-mail. En outre le client a la possibilité de commander séparément le rapport de personnalité.
+3.2 Dès lors qu’il conclut un abonnement Premium, le client reçoit, en ligne et par e-mail, des suggestions de partenaires correspondant à ses critères de recherche et constamment actualisées. Dans le cadre des propositions de partenaires et des profils des membres accessibles aux membres Premium sont présentés la profession ou le prénom du membre, les photos des membres Basic et des membres Premium sous une forme identifiable ainsi que l'indication si le client est « nouveau » sur Parship. Les clients visualisent également une version succincte de l'analyse de personnalité des autres clients. En outre, dans le cadre de l'abonnement Premium, le client a, conformément aux consignes d’utilisation énoncées à l’article 7 de ces CGU, la possibilité d'entrer en contact sans restriction et d'un commun accord, avec d'autres clients et de communiquer par le biais de message ou, dans certains pays, via une fonctionnalité de conversation vidéo. Enfin, sauf indication contraire ci-dessus, il a accès aux mêmes possibilités d'utilisation qu'un membre Basic. Parship établit une évaluation détaillée du test de personnalité en ligne dans son profil ainsi que sous la forme d’un rapport de personnalité complet. Le rapport de personnalité est mis à la disposition du client sous la forme d’un fichier PDF par e-mail. En outre le client a la possibilité de commander séparément le rapport de personnalité.
 
   
 
@@ -267,11 +269,6 @@ Allemagne
 
   
 
-ou par fax:  
-+49 (0) 40 46 00 26 165
-
-  
-
 ou par téléphone:  
 +49 (0) 40 469 751 34
 
@@ -282,7 +279,7 @@ ou par e-mail:
 
   
 
-votre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation ([ici](#widerruf) ou [http://www.parship.com/web/Modele-de-formulaire-de-retractation.pdf](http://www.parship.com/web/Modele-de-formulaire-de-retractation.pdf)) mais ce n’est pas obligatoire.  
+votre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation ([ici](#widerruf) ou [https://parship.fr/static\_cms/parship/static/Downloads/Modele-de-formulaire-de-retractation-FR.pdf](https://parship.fr/static_cms/parship/static/Downloads/Modele-de-formulaire-de-retractation-FR.pdf)) mais ce n’est pas obligatoire.  
 Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l’exercice du droit de rétractation avant l’expiration du délai de rétractation.
 
   
@@ -339,7 +336,7 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
   
 
-À l’attention de PE Digital GmbH, Service Clientèle Parship France, Speersort 10, 20095 Hambourg, Allemagne ; fax: +49 (0) 40 46 00 26-165 ; e-mail: aide@parship.fr:  
+À l’attention de PE Digital GmbH, Service Clientèle Parship France, Speersort 10, 20095 Hambourg, Allemagne ; e-mail: aide@parship.fr:  
 
 Je/Nous (1) vous notifie/notifions (1) par la présente ma/notre (1) rétractation du contrat portant sur la vente du bien (1)/pour la prestation de service (1) ci-dessous
 
