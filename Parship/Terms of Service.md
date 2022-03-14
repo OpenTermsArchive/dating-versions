@@ -35,7 +35,7 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 
 1.4 L’objet du contrat avec Parship n’est explicitement pas le courtage matrimonial ni la mise en relation en vue d’un mariage. Parship est un réseau social qui offre à ses clients la possibilité de se présenter avec leurs propres contenus et d'interagir avec d'autres clients.
 
-### 2\. Accès / conclusion de contrat
+### 2\. Accès / conclusion du contrat
 
   
 
@@ -237,7 +237,7 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
 Vis-à-vis du client, Parship est le seul détenteur des droits de reproduction, de diffusion, de traitement et de tous les droits d'auteur, ainsi que du droit de cession immatérielle et de la reproduction du site web Parship, y compris chacun des contenus qu’il comprend. L'utilisation de tous les programmes et des contenus, documents, marques et noms commerciaux qu’ils comprennent, est autorisée exclusivement aux fins spécifiées dans les présentes Conditions Générales.
 
-### 10\. Juridiction et droit applicable
+### 10\. Droit applicable, règlement alternatif des litiges
 
   
 
@@ -326,7 +326,7 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
   
 
-12.5 Parship n’effectue aucun enregistrement automatique du texte contractuel dans le cadre de la conclusion du contrat. Par conséquent, le client est invité à enregistrer le texte contractuel respectif en vigueur au moment de la conclusion de contrat, accessible sur le site web de Parship, sur son disque dur ou à l’archiver d'une autre manière.
+12.5 Parship n’effectue aucun enregistrement automatique du texte contractuel dans le cadre de la conclusion du contrat. Par conséquent, le client est invité à enregistrer le texte contractuel respectif en vigueur au moment de la conclusion du contrat, accessible sur le site web de Parship, sur son disque dur ou à l’archiver d'une autre manière.
 
   
 
