@@ -1,4 +1,5 @@
-**Terms of Use**
+Terms of Use
+============
 
 (Terms of Use revised on 09/02/2022)
 
