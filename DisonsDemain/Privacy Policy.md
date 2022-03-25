@@ -1,290 +1,290 @@
-**NOS ENGAGEMENTS**
-
-Chez DisonsDemain, la protection de vos données est une priorité. Elle est au cœur de la façon dont nous concevons et développons les services et les produits que vous connaissez et aimez, de façon à ce que vous puissiez leur faire pleinement confiance et vous concentrer sur le développement de relations avec d’autres utilisateurs.
-
-Nous sommes tout à fait conscients que vous nous accordez votre confiance lorsque vous nous livrez des données vous concernant et nous ne prenons pas cette confiance à la légère.
-
-**Nous ne faisons pas de compromis lorsqu’il s’agit de la protection de vos données**. Tous nos produits et services sont conçus avec votre la protection de vos données à l’esprit. Nous impliquons des experts dans différents domaines, notamment juridique, sécurité, ingénierie, produit et d’autres pour nous assurer qu’aucune décision n’est prise sans prendre en considération la protection de vos données.
-
-**Nous nous efforçons d’être transparents dans la façon dont nous traitons vos données**. Puisque nous utilisons bon nombre des mêmes services en ligne que vous, nous savons que les politiques de confidentialité souffrent souvent d’un manque d’information et d’une rédaction trop complexe. Nous adoptons une approche opposée : nous avons rédigé notre Politique de confidentialité et les documents associés en des termes simples. Nous souhaitons réellement que vous lisiez nos politiques et que vous compreniez nos pratiques !
-
-**Nous travaillons dur pour protéger vos données**. Nous avons des équipes dédiées à la sûreté et la sécurité de vos données personnelles. Nous investissons et mettons constamment à jour nos pratiques en matière de sécurité aux fins d’améliorer la sûreté de vos données.
+Politique de Confidentialité
+============================
 
 \* \* \*
 
-POLITIQUE DE CONFIDENTIALITÉ
-============================
+**NOTRE ENGAGEMENT ENVERS VOUS**
 
-Bienvenue dans la Politique de confidentialité de DisonsDemain . Merci de prendre le temps de la lire.
+Chez DISONS DEMAIN, la confidentialité de vos données est une priorité absolue. La protection de votre vie privée est au cœur de la conception et de l’élaboration des services et des produits que vous connaissez et appréciez, afin que vous puissiez leur faire pleinement confiance et vous concentrer sur vos nouvelles rencontres.
 
-Nous sommes conscients que vous nous faites confiance lorsque vous nous fournissez vos données et nous avons bien l’intention de toujours préserver cette confiance. Cela commence par nous assurer que vous comprenez les données que nous recueillons, pourquoi nous les recueillons, comment elles sont utilisées et vos choix s’agissant de ces données. La présente Politique décrit nos pratiques en des termes simples et en évitant au maximum le jargon juridique et technique.
+Nous sommes tout à fait conscients de la confiance que vous nous accordez en nous partageant vos informations et nous ne prenons pas cette marque de confiance cela à la légère.
 
-La présente Politique de confidentialité entre en vigueur à dater du 25 mai 2018. La version précédente de cette Politique de confidentialité, disponible [ici](https://www.disonsdemain.fr/pages/misc/privacy_052018), sera applicable jusqu’à cette date.
+**Notre engagement concernant la confidentialité de tes données**. Nous concevons tous nos produits et services en ayant le respect de votre vie privée à l’esprit. Nous faisons appel à des experts de différents secteurs, notamment le droit, la sécurité, l’ingénierie et la conception de produits, pour nous assurer que toutes nos décisions sont prises dans le plus grand respect de votre vie privée.
 
-DATE D’ENTRÉE EN VIGUEUR : 25 mai 2018
+**Notre engagement en termes de transparence**. Parce que nous utilisons bon nombre des mêmes services en ligne que vous, nous savons que le manque d’informations et un langage trop compliqué sont des problèmes courants dans les politiques de confidentialité. Nous adoptons exactement l’approche inverse : nous faisons de notre mieux pour rédiger notre politique de confidentialité et les documents associés dans un langage simple. En effet, nous voulons que vous lisiez nos politiques et compreniez nos pratiques en matière de confidentialité !
 
-1.  [QUI NOUS SOMMES](#_Toc513129493)
-2.  [A QUOI CETTE POLITIQUE DE CONFIDENTIALITÉ S’APPLIQUE-T-ELLE ?](#_Toc513129494)
-3.  [LES DONNÉES QUE NOUS RECUEILLONS](#_Toc513129495)
-4.  [COOKIES ET AUTRES TECHNOLOGIES SIMILAIRES](#_Toc513129496)
-5.  [COMMENT NOUS UTILISONS CES DONNÉES](#_Toc513129497)
-6.  [COMMENT NOUS PARTAGEONS CES DONNÉES](#_Toc513129498)
-7.  [TRANSFERTS DE DONNÉES TRANSFRONTALIERS](#_Toc513129499)
-8.  [VOS DROITS](#_Toc513129500)
-9.  [COMMENT NOUS PROTÉGEONS VOS DONNEES PERSONNELLES](#_Toc513129502)
-10.  [PENDANT COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNEES](#_Toc513129503)
-11.  [CONFIDENTIALITÉ RELATIVE AUX ENFANTS](#_Toc513129504)
-12.  [MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ](#_Toc513129505)
-13.  [COMMENT NOUS CONTACTER ?](#_Toc513129506)
+**Notre engagement envers la sécurité.** Nous avons des équipes dédiées à la protection et à la sécurité de vos données. Nous mettons constamment à jour nos pratiques en matière de sécurité et investissons nos efforts concernant la sécurité pour renforcer la protection de vos informations.
 
-1\. QUI NOUS SOMMES
+\* \* \*
+
+**POLITIQUE DE CONFIDENTIALITÉ**
+
+Bienvenue dans la politique de confidentialité de DISONS DEMAIN. Merci de prendre le temps de la lire.
+
+Nous sommes conscients de la confiance que vous nous portez en nous partageant vos informations et nous avons l’intention de toujours conserver cette confiance. Cela commence par nous assurer que vous comprenez les informations que nous recueillons, les raisons pour lesquelles nous les recueillons, la manière dont elles sont utilisées et les choix qui s’offrent à vous concernant ces informations. La présente politique décrit nos pratiques en matière de confidentialité des données dans un langage simple, en limitant au minimum le jargon juridique et technique.
+
+Cette politique de confidentialité s’applique à partir de 29/04/2022.
+
+La version précédente de cette politique de confidentialité, disponible [ici](https://www.disonsdemain.fr/pages/misc/privacy_042022?styled=1), s’applique jusqu’à cette date.
+
+1.  [QUI SOMMES NOUS](#_section01)
+2.  [OÙ S’APPLIQUE LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ](#_section02)
+3.  [LES INFORMATIONS QUE NOUS RECUEILLONS](#_section03)
+4.  [COOKIES ET AUTRES TECHNOLOGIES SIMILAIRES DE COLLECTE DE DONNÉES](#_section04)
+5.  [COMMENT NOUS UTILISONS VOS INFORMATIONS](#_section05)
+6.  [COMMENT NOUS PARTAGEONS VOS INFORMATIONS](#_section06)
+7.  [TRANSFERTS TRANSFRONTALIERS DE DONNÉES](#_section07)
+8.  [VOS DROITS](#_section08)
+9.  [DURÉE DE CONSERVATION DE VOS INFORMATIONS](#_section09)
+10.  [PROTECTION DE LA VIE PRIV](#_section10)[É](#_section07)[E DES ENFANTS](#_section10)
+11.  [CANDIDATS, CONTRACTUELS ET REPRÉSENTANTS DES PRESTATAIRES](#_section11)
+12.  [CHANGEMENTS DE POLITIQUE DE CONFIDENTIALITÉ](#_section12)
+13.  [COMMENT NOUS CONTACTER](#_section13)
+
+1\. QUI SOMMES NOUS
 -------------------
 
-Si vous vivez au sein de l’Union Européenne, la société responsable de vos données dans le cadre de la présente Politique de confidentialité (le « responsable de traitement ») est :
+La société responsable de vos données (« Responsable de Traitement ») en vertu de cette politique de confidentialité est :
 
 Meetic S.A.S.  
 DISONS DEMAIN  
 53 rue de Châteaudun Paris 9 FRANCE
 
-2\. A QUOI CETTE POLITIQUE DE CONFIDENTIALITÉ S’APPLIQUE-T-ELLE ?
------------------------------------------------------------------
+2\. OÙ S’APPLIQUE LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ
+----------------------------------------------------------
 
-La présente Politique de confidentialité s’applique aux sites Internet, applications, événements et autres services exploités par DisonsDemain . Pour plus de simplicité, nous désignons, dans cette Politique de confidentialité, l’ensemble de ces éléments sous le terme de « services ». A des fins de clarté, nous avons ajouté des liens à la présente Politique de confidentialité sur tous les services applicables.
+La présente politique de confidentialité s’applique aux sites internet, applications, événements et autres services que nous exploitons sous la marque DISONS DEMAIN. Par souci de simplicité, nous désignons l’ensemble de ces services par le terme « services » dans la présente politique de confidentialité. Afin de rendre cela très clair, nous avons ajouté des liens renvoyant à cette politique de confidentialité sur tous les services auxquels elle s’applique.
 
-Il se peut que certains services nécessitent leur propre Politique de confidentialité. Si un service particulier a sa propre Politique de confidentialité, alors c’est cette politique — et non pas la présente Politique de confidentialité – sera applicable.
+Certains services peuvent disposer de leur propre politique de confidentialité. Si un service possède sa propre politique de confidentialité, alors c’est cette dernière — et non la présente politique de confidentialité — qui s’applique.
 
-3\. LES DONNÉES QUE NOUS RECUEILLONS
-------------------------------------
+3\. LES INFORMATIONS QUE NOUS RECUEILLONS
+-----------------------------------------
 
-Il va sans dire qu’il nous est impossible de vous aider à développer des relations avec d’autres utilisateurs sans certaines données vous concernant, telles que les données de base de votre profil ainsi que les types de personnes que vous aimeriez rencontrer. Nous recueillons également des données générées lors de l’utilisation de nos services, par exemple des journaux d’accès (ou « logs »), ainsi que des données de la part de tiers, comme lorsque vous accédez à nos services par l’intermédiaire d’un compte de réseau social. Si vous souhaitez des informations supplémentaires, nous les abordons plus en détail ci-dessous.
+Il va sans dire que nous ne pouvons pas vous aider à faire des rencontres sans disposer de certaines informations à votre sujet, telles que les informations de base sur votre profil et le type de personnes que vous souhaitez rencontrer. Nous collectons également des informations sur la façon dont vous utilisez nos services, telles que les journaux d’accès, ainsi que des informations provenant de tiers, comme lorsque vous accédez à nos services via votre compte sur un réseau social ou lorsque vous téléchargez des informations à partir de votre compte de réseaux sociaux pour compléter votre profil. Nous vous donnons plus de détails ci-dessous.
 
-**_Informations que vous nous donnez_**
+**_Les informations que vous nous fournissez_**
 
-Lorsque vous utilisez nos services, vous choisissez de nous donner certaines informations. Cela inclut :
+Lorsque vous utilisez nos services, vous choisissez de nous communiquer certaines informations. Par exemple :
 
-*   Lorsque vous créez un compte, vous nous livrez au moins vos identifiants de connexion, ainsi que certaines informations de base nécessaires au fonctionnement du service, telles que votre sexe et votre date de naissance.
-*   Lorsque vous remplissez votre profil, vous pouvez partager avec nous des informations supplémentaires, telles que des détails sur votre personnalité, votre style de vie, vos centres d’intérêt et d’autres renseignement vous concernant, ainsi que du contenu tel que des photos et des vidéos. Pour ajouter certains contenus, tels que des images ou des vidéos, vous pouvez également nous permettre d’accéder à votre appareil photo ou à votre album de photos. Certaines des informations que vous choisissez de nous fournir peuvent être considérées comme « spéciales » ou « sensibles » dans certaines juridictions, par exemple, votre origine raciale ou ethnique, votre orientation sexuelle et vos croyances religieuses. En choisissant de fournir ces informations, vous consentez à leur traitement.
-*   Lorsque vous souscrivez à un service payant ou effectuez un achat directement auprès de nous (plutôt que par l’intermédiaire d’une plateforme telle que iOS et Android), vous nous fournissez, ou fournissez à notre prestataire de services de paiement, des informations telles que votre numéro de carte de débit ou de crédit ou d’autres informations financières.
-*   Lorsque vous participez à des sondages ou à des groupes de discussion, vous nous fournissez vos avis sur de nos produits et services, des réponses à nos questions et des témoignages.
-*   Lorsque vous choisissez de participer à nos promotions, événements ou concours, nous recueillons les informations que vous utilisez pour vous inscrire ou participer.
-*   Si vous contactez notre service clients, nous recueillons les informations que vous nous donnez dans le cadre de cette interaction. Parfois, nous surveillons ou enregistrons ces interactions à des fins de formation et pour vous garantir une qualité de service élevée.
-*   Si vous nous demandez de communiquer avec ou de traiter des informations relatives à d’autres personnes (par exemple, si vous nous demandez d’envoyer un email en votre nom à l’un de vos amis), nous recueillons les informations sur les autres personnes que vous nous donnez pour que nous puissions accéder à votre demande.
-*   Bien sûr, nous traitons également vos discussions avec les autres utilisateurs ainsi que le contenu que vous publiez, dans le cadre du fonctionnement des services.
+*   En créant un compte, vous nous fournissez au moins vos identifiants de connexion ou votre numéro de téléphone, ainsi que certaines informations de base nécessaires au fonctionnement du service, tels que votre genre et votre date de naissance.
+*   En complétant votre profil, vous pouvez partager avec nous des informations supplémentaires, telles que des détails sur votre personnalité, votre style de vie, vos centres d’intérêts et d’autres détails vous concernant, ainsi que des contenus tels que des photos et des vidéos. Pour ajouter certains contenus, comme des photos ou des vidéos, vous pouvez nous autoriser à accéder à votre appareil photo ou à votre galerie photo.
+*   En vous abonnant à un service payant ou en effectuant un achat directement sur nos plateformes (plutôt que par l’intermédiaire d’une plateforme telle qu’iOS ou Android), vous nous fournissez, à nous ou à notre prestataire de services de paiement, des informations, telles que votre numéro de carte de débit ou de crédit ou d’autres informations financières.
+*   Lorsque vous participez à des sondages, des groupes de discussion ou des études de marché, vous nous donnez votre avis sur nos produits et services, vos réponses à nos questions et vos témoignages.
+*   En choisissant de participer à nos promotions, événements ou concours, nous recueillons les informations que vous utilisez pour vous inscrire ou participer.
+*   Si vous contactez notre service clientèle, nous recueillons les informations que vous nous fournissez dans le cadre de cette interaction.
+*   Si vous partagez avec nous des informations concernant d’autres personnes (par exemple, si vous utilisez les coordonnées d’un ami pour une fonctionnalité donnée), nous traitons ces informations en votre nom afin de répondre à votre demande.
+*   Bien sûr, pour assurer le bon fonctionnement du service, nous traitons également vos conversations avec d’autres utilisateurs ainsi que le contenu que vous publiez.
 
-**_Informations que nous recevons de la part de tiers_**
+**_Les informations que nous recevons des tiers_**
 
-En plus des informations que vous nous donnez directement, nous recevons des informations vous concernant de la part de tiers, y compris :
+En plus des informations que vous pouvez nous fournir directement, nous recevons des informations vous concernant de la part de tiers, notamment :
 
-*   **Les autres utilisateurs**
+*   **Les utilisateurs**
 
-Les autres utilisateurs peuvent fournir des informations vous concernant lorsqu’ils utilisent nos services. Par exemple, nous pouvons collecter des informations vous concernant auprès d’autres utilisateurs s’ils nous contactent à votre sujet. D’autre part, si un utilisateur nous demande d’accéder aux contacts enregistrés sur son répertoire et s’il se trouve que vous en faites partie, il se peut que nous utilisions cette donnée pour vous contacter au nom de l’utilisateur.
+Les utilisateurs peuvent fournir des informations vous concernant lorsqu’ils utilisent nos services, par exemple lorsqu’ils interagissent avec vous ou lorsqu’ils font un signalement vous concernant.
 
 *   **Les réseaux sociaux**
 
-Vous pourriez être en mesure d’utiliser vos identifiants de réseaux sociaux (tels que Facebook) pour créer et vous connecter à votre compte DisonsDemain. Cela vous évite d’avoir à vous souvenir d’encore un autre nom d’utilisateur et mot de passe et vous permet de partager certaines informations contenues sur votre compte de réseau social avec nous.
+Vous pouvez décider de partager des informations avec nous via votre compte sur un réseau social, par exemple si vous décidez de créer ou de vous connecter à votre compte DISONS DEMAIN via votre réseau social ou un autre compte (par exemple, Facebook, Google ou Apple) ou de télécharger sur nos services des informations telles que des photos provenant de l’un de vos comptes sur les réseaux sociaux (par exemple, Facebook, Instagram…).
 
-*   **Les autres partenaires**
+*   **Les affiliés**
 
-Nous pouvons recevoir des informations vous concernant de la part de nos partenaires, par exemple lorsque des comptes DisonsDemain peuvent être créés par l’intermédiaire de sites Internet de partenaires (auquel cas ils nous transmettent les informations d’inscription) ou lorsque des publicités DisonsDemain sont publiées sur des sites Internet et des plateformes partenaire (auquel cas, ils peuvent nous transmettre des informations relatives à la réussite d’une campagne).
+DISONS DEMAIN fait partie du [la famille d’entreprises Match Group](http://mtch.com/). Match Group considère la sûreté et la sécurité des utilisateurs comme une priorité absolue. Si vous avez été banni d’un autre service de Match Group, vos informations peuvent être partagées avec nous pour nous permettre de prendre les mesures nécessaires, notamment supprimer votre compte ou vous empêcher de créer un compte sur nos services.
 
-**_Informations recueillies lorsque vous utilisez nos services_**
+*   **Autres partenaires**
 
-Lorsque vous utilisez nos services, nous recueillons des informations sur les fonctionnalités dont vous vous servez, sur la façon dont vous les utilisez et sur les périphériques grâce auxquels vous accédez à nos services. Plus d’informations sont disponibles ci-dessous:
+Nous pouvons recevoir des informations à votre sujet de la part de nos partenaires, notamment lorsque des comptes DISONS DEMAIN peuvent être créés par le biais du service d’un partenaire (auquel cas ils nous transmettent les informations d’inscription) ou lorsque des publicités DISONS DEMAIN sont publiées sur le service d’un partenaire (auquel cas ils peuvent transmettre des informations sur le succès d’une campagne). Lorsque la loi l’autorise, nous pouvons également recevoir de tiers des informations sur des personnes soupçonnées ou reconnus coupables d’actes malveillants ou d’infractions dans le cadre de nos efforts pour assurer la sécurité de nos utilisateurs.
 
-*   **Renseignements relatifs à l’utilisation**
+**_Informations générées lorsque vous utilisez nos services_**
 
-Nous recueillons des informations sur votre activité sur nos services, par exemple comment vous les utilisez (p. ex., la date et l’heure auxquelles vous vous connectez, les fonctionnalités que vous avez utilisées, vos recherches, vos clics et les pages qui vous ont été présentées, l’adresse de page Web de référence, les publicités sur lesquelles vous cliquez) et comment vous interagissez avec les autres utilisateurs (p. ex., les utilisateurs auxquels vous vous connectez et avec lesquels vous interagissez, l’heure et la date de vos échanges, le nombre de messages que vous envoyez et recevez).
+Quand vous utilisez nos services, des données techniques sont générées sur les fonctionnalités que vous avez utilisées, la façon dont vous les avez utilisées et les appareils que vous utilisez pour accéder à nos services. Voir ci-dessous pour plus de détails :
 
-*   **Informations relatives à votre appareil**
+*   **Données d’utilisation**
 
-Nous recueillons des informations depuis et sur le ou les appareils que vous utilisez pour accéder à nos services, et notamment :
+L’utilisation de nos services génère des données sur votre activité sur ces derniers, par exemple la manière dont vous les utilisez (par exemple, le moment où vous vous êtes connecté, les fonctions que vous avez utilisées, les actions effectuées, les informations qui vous ont été présentées, l’adresse des pages web qui vous ont redirigés chez nous et les publicités avec lesquelles vous avez interagi) ou encore sur vos interactions avec d’autres utilisateurs (par exemple, les utilisateurs avec lesquels vous vous connectez et interagissez, le moment de l’interaction, le nombre de messages envoyés et reçus).
 
-*   des informations matériel et logiciel tels que l’adresse IP, l’identifiant et le type d’appareil, les paramètres et les caractéristiques propres à l’appareil et aux applications, les pannes de l’application, les identifiants de publicité (tels que l’AAID de Google et l’IDFA d’Apple, l’un et l’autre étant des numéros générés aléatoirement que vous pouvez réinitialiser en vous rendant dans les paramètres de votre appareil), le type de navigateur utilisé, la version et la langue, le système d’exploitation, les fuseaux horaires, les identifiants associés aux cookies ou d’autres technologies en mesure d’identifier de façon unique votre appareil ou votre navigateur (p. ex., IMEI/UDID et l’adresse MAC) ;
-*   des informations sur votre connexion sans fil et réseau mobile, telles que votre prestataire de service et la force de votre signal ;
-*   des informations sur les capteurs de votre appareil tels que les accéléromètres, les gyroscopes et les compas.
+*   **Informations sur l’appareil**
 
-*   **D’autres informations avec votre consentement**
+Nous collectons des informations à partir de et sur le(s) appareil(s) que vous utilisez pour accéder à nos services, notamment des informations relative à vos équipements et logiciels telles que l’adresse IP, l’identifiants et le type d’appareil, les paramètres et les caractéristiques des applications, les pannes de l’application, les identifiants publicitaires (qui sont des numéros générés de manière aléatoire que vous pouvez réinitialiser en allant dans les paramètres de votre appareil), les identifiants associés aux cookies ou d’autres technologies qui peuvent identifier de manière unique un appareil ou un navigateur.
 
-Si vous nous y autorisez, nous pouvons aussi recueillir votre géolocalisation précise (latitude et longitude) à travers divers moyens, en fonction du service et de l’appareil que vous utilisez, y compris le GPS, les connexions Bluetooth ou Wi-Fi. La collecte de votre géolocalisation peut se produire en arrière-plan (même lorsque vous n’utilisez pas les services) si la permission que vous nous avez accordée autorise expressément la collecte de ces informations. Si vous nous refusez cette permission de recueillir votre géolocalisation, nous ne le ferons pas.
+*   **Autres informations avec votre consentement**
 
-De même, si vous y consentez, nous pourrons recueillir vos photos et vos vidéos (par exemple, si vous voulez publier une photo, une vidéo ou un flux de diffusion (streaming) sur les services). Nous pouvons aussi recueillir votre carnet d’adresse (par exemple, si vous voulez que nous contactions vos amis en votre nom).
+Si vous nous en donnez la permission, nous pouvons recueillir votre géolocalisation précise (latitude et longitude). La collecte de votre géolocalisation peut avoir lieu en arrière-plan, même lorsque vous n’utilisez pas nos services, si l’autorisation que vous nous avez donnée permet expressément cette collecte. Si vous vous n’acceptez pas que nous collections votre géolocalisation précise, nous ne le ferons pas. De la même façon, si vous y consentez, nous pouvons recueillir des photos et des vidéos (par exemple, si vous souhaitez publier une photo ou une vidéo ou utiliser des fonctionnalités de streaming sur nos services).
 
-4\. COOKIES ET AUTRES TECHNOLOGIES SIMILAIRES
----------------------------------------------
+4\. COOKIES ET AUTRES TECHNOLOGIES SIMILAIRES DE COLLECTE DE DONNÉES
+--------------------------------------------------------------------
 
-Nous utilisons et pouvons autoriser d’autres personnes à utiliser des cookies et des technologies similaires (p. ex., des balises web, des pixels) afin de vous reconnaître et/ou de reconnaître votre ou vos appareils. Vous pouvez lire notre Politique relative à l’utilisation des cookies [ici](https://www.disonsdemain.fr/pages/misc/cookie?styled=1) pour plus d’informations sur les raisons pour lesquelles nous les utilisons (telles que pour vous authentifier, se souvenir de vos préférences et de vos paramètres, analyser le trafic et les tendances sur le site, garantir et mesurer l’efficacité des campagnes de publicité, vous permettre d’utiliser les fonctionnalités sociales) ainsi que sur la façon dont vous pouvez mieux contrôler leur utilisation, à travers vos paramètres de navigateur et d’autres outils.
+Nous utilisons et pouvons autoriser des tiers à utiliser des cookies et autres technologies similaires (par ex., des balises web, des pixels, des SDK) pour vous reconnaître et/ou reconnaître votre ou vos appareil(s). Vous pouvez consulter notre [Charte d’utilisation des cookies](https://www.disonsdemain.fr/pages/misc/cookie?styled=1) pour plus d’informations sur les raisons pour laquelle nous les utilisons et sur la manière dont vous pouvez mieux contrôler leur utilisation.
 
-Certains navigateurs Internet (et notamment Safari, Internet Explorer, Firefox et Chrome) ont une fonctionnalité « Ne pas suivre » (**« Do Not Track, DNT** ») qui indique à un site Internet qu’un utilisateur ne souhaite pas que son activité en ligne soit suivie. Si un site Internet qui répond à un signal DNT reçoit un signal DNT, le navigateur peut bloquer ce site Internet et l’empêcher de collecter certaines informations sur l’utilisateur du navigateur. Tous les navigateurs ne proposent pas une option DNT et les signaux DNT ne sont pas encore uniformisés. C’est pourquoi de nombreuses entreprises, y compris DisonsDemain, ne répondent pas aux signaux DNT à l’heure actuelle.
+Certains navigateurs web (dont Safari, Internet Explorer, Firefox et Chrome) disposent d’une fonctionnalité « Ne pas suivre » (« Do Not Track, **DNT** ») qui indique à un site internet qu’un utilisateur ne souhaite pas que son activité en ligne soit suivie. Si un site internet qui répond à un signal DNT reçoit un signal DNT, le navigateur peut empêcher ce site internet de recueillir certaines informations sur l’utilisateur du navigateur. Tous les navigateurs ne disposent pas d’une option DNT et les signaux DNT ne sont pas uniformisés. Pour cette raison, de nombreuses entreprises, y compris DISONS DEMAIN, ne répondent pas à l’heure actuelle aux signaux DNT.
 
-5\. COMMENT NOUS UTILISONS CES DONNÉES
---------------------------------------
+5\. COMMENT NOUS UTILISONS VOS INFORMATIONS
+-------------------------------------------
 
-La principale raison pour laquelle nous utilisons vos données est afin de fournir et d’améliorer nos services. Par ailleurs, nous utilisons vos données pour nous aider à vous protéger et vous proposer des publicités susceptibles de vous intéresser. Veuillez poursuivre votre lecture pour avoir des explications détaillées quant aux diverses raisons pour lesquelles nous utilisons vos données, ainsi que des exemples concrets.
+La principale raison pour laquelle nous utilisons vos informations est de fournir et d’améliorer nos services. Par ailleurs, nous utilisons vos informations pour assurer votre sécurité et pour vous proposer des publicités susceptibles de vous intéresser. Poursuivez votre lecture pour avoir des explications plus détaillées sur les différentes raisons pour lesquelles nous utilisons vos informations, ainsi que des exemples concrets.
 
-**_Pour administrer votre compte et vous fournir nos services_**
+1.  **_Pour gérer votre compte et vous offrir nos services_**
 
 *   Créer et gérer votre compte
-*   Vous offrir une assistance à la clientèle et répondre à vos demandes
-*   Réaliser vos transactions
-*   Communiquer avec vous au sujet de nos services, y compris la gestion et la facturation des commandes
+*   Vous fournir un service client et répondre à vos demandes
 
-**_Pour vous aider à vous connecter à d’autres utilisateurs_**
+*   Compléter vos transactions
+*   Communiquer avec vous au sujet de nos services
 
-*   Analyser votre profil et celui des autres utilisateurs afin de vous recommander des connexions
-*   Afficher mutuellement les profils des utilisateurs
+1.  **_Pour vous aider à entrer en relation avec d’autres utilisateurs_**
 
-**_Pour garantir une expérience cohérente sur tous vos appareils_**
+*   Vous recommander d’autres utilisateurs à rencontrer
+*   Afficher les profils des utilisateurs les uns aux autres
 
-*   Lier les différents appareils que vous utilisez de telle sorte que vous pouvez profiter d’une expérience cohérente de nos services sur chacun d’entre eux. Nous y parvenons en liant les données des appareils et du navigateur, par exemple lorsque vous vous connectez à votre compte sur différents appareils ou en utilisant une adresse IP partielle ou complète, la version du navigateur et d’autres données similaires sur vos appareils pour permettre de les identifier et de les lier entre eux.
+1.  **_Pour mener des campagnes publicitaire et de marketing_**
 
-**_Pour vous proposer des offres et des publicités pertinentes_**
+*   Gérer les tirages au sort, les jeux concours, les remises ou d’autres offres.
+*   Réaliser et mesurer l’efficacité des campagnes publicitaires sur nos services et campagnes de marketing faisant la promotion de DISONS DEMAIN sur et en dehors de nos services
+*   Communiquer avec vous au sujet de produits ou de services qui, selon nous, pourraient vous intéresser.
 
-*   Administrer des loteries publicitaires, concours, réductions ou autres offres
-*   Développer, présenter et suivre du contenu et de la publicité susceptibles de vous intéresser sur nos services et sur d’autres sites
-*   Communiquer avec vous par email, téléphone, réseaux sociaux ou appareils mobile à propos des produits ou des services dont nous pensons qu’ils pourraient vous intéresser
+1.  **_Pour améliorer nos services et en développer de nouveaux_**
 
-**_Pour améliorer nos services et en développer de nouveaux_**
+*   Gérer des groupes de discussion, des études de marché et des sondages
+*   Analyser les interactions avec les équipes du service client dans le but d’améliorer la qualité de notre service
+*   Comprendre comment les utilisateurs utilisent généralement les services afin de les améliorer (par exemple, nous pouvons décider de changer le design ou l’interface ou même de modifier significativement une fonctionnalité selon les réactions des utilisateurs à cette fonctionnalité)
+*   Développer de nouvelles fonctionnalités et de nouveaux services (par exemple, nous pouvons décider de créer une nouvelle fonctionnalité basée sur les centres d’intérêt de nos utilisateurs si ils en font la demande).
 
-*   Administrer les groupes de discussion et les sondages
-*   Mener des recherches et analyser le comportement des utilisateurs afin d’améliorer nos services et notre contenu (par exemple, nous pouvons décider de modifier l’apparence et certains aspects ou même de changer sensiblement une fonctionnalité en fonction du comportement des utilisateurs)
-*   Développer de nouvelles fonctionnalités et services (par exemple, nous pourrions décider de développer une nouvelle fonctionnalité basée sur les intérêts des utilisateurs à la suite de requêtes en ce sens de la part d’utilisateurs).
+1.  **_Pour prévenir, détecter et lutter contre la fraude et toute autres activités illégales ou non autorisées_**
 
-**_Pour empêcher, détecter et lutter contre la fraude ou toute autre activité illégale ou non autorisée_**
+*   Détecter et traiter les violations avérées, suspectées ou présumées de nos [Conditions d’utilisation](https://www.disonsdemain.fr/pages/misc/terms?styled=1), notamment par l’examen des signalements et des interactions entre les utilisateurs.
+*   Mieux comprendre et prendre des mesures permettant de lutter contre les violations de nos [conditions d’utilisation](https://www.disonsdemain.fr/pages/misc/terms?styled=1)_._
+*   Conserver les données relatives aux violations de nos [conditions d’utilisation](https://www.disonsdemain.fr/pages/misc/terms?styled=1) afin de prévenir toute récidive.
+*   Faire respecter ou exercer nos droits, par exemple nos [conditions d’utilisation](https://www.disonsdemain.fr/pages/misc/terms?styled=1).
+*   Informer les utilisateurs qui envoient un signalement des actions réalisées à la suite à ce dernier.
 
-*   Traiter un mauvais comportement en cours ou présumé sur et en dehors de la plateforme
-*   Effectuer des analyses de données pour mieux comprendre et concevoir des contremesures contre ces activités
-*   Retenir les données associées aux activités frauduleuses pour se prémunir contre les récidives
-
-**_Pour garantir la conformité juridique_**
+1.  **_Pour garantir la conformité légale_**
 
 *   Se conformer aux exigences légales
-*   Assister les autorités
-*   Faire appliquer ou exercer nos droits, par exemple nos conditions générales d’utilisation
+*   Aider les forces de l’ordre
 
-Pour traiter vos données comme décrit plus haut, nous nous appuyons sur les bases légales suivantes :
+Pour de plus amples informations sur la manière dont nous traitons les informations personnelles via le profilage et la prise de décision automatisée, veuillez consulter notre [FAQ](https://www.disonsdemain.fr/faq/est-ce-que-disons-demain-a-recours-au-profilage-et-a-la-prise-de-decision-individuelle-automatisee/).
 
-*   _Vous offrir notre service_: La plupart du temps, nous traitons vos données pour exécuter le contrat que vous avez avec nous. Par exemple, lorsque vous utilisez notre service pour établir des relations avec d’autres utilisateurs, nous utilisons vos données pour maintenir votre compte et votre profil, le rendre consultable par d’autres utilisateurs et vous recommander d’autres utilisateurs.
-*   _Intérêts légitimes_: Nous pouvons utiliser vos données lorsque nous avons des intérêts légitimes de le faire. Par exemple, nous analysons le comportement des utilisateurs sur nos services pour améliorer constamment nos offres, nous suggérons des offres dont nous pensons qu’elles vous intéresseront, et nous traitons des données à des fins administratives, de détection de la fraude et d’autres finalités d’ordre juridique.
-*   _Consentement_: De temps à autre, nous pouvons vous demander votre consentement pour utiliser vos données pour certaines raisons bien spécifiques. Vous pouvez retirer votre consentement à tout moment en nous contactant à l’adresse fournie à la fin de la présente Politique de confidentialité.
+Pour traiter vos informations comme décrit dans la présente politique de confidentialité, nous nous appuyons sur les bases légales suivantes :
 
-6\. COMMENT NOUS PARTAGEONS CES DONNÉES
----------------------------------------
+*   _Vous fournir notre service_ : La raison pour laquelle nous traitons vos informations aux fins A et B ci-dessus est d’exécuter le contrat que vous avez conclu avec nous. Par exemple, lorsque vous utilisez notre service pour faire des rencontres, nous utilisons vos informations pour gérer votre compte et votre profil, le rendre visible aux autres utilisateurs et vous recommander d’autres utilisateurs et vous fournir nos fonctionnalités gratuites et payantes.
+*   _Intérêts légitimes_ : Nous traitons vos informations dans le cadre des objectifs C, D et E ci-dessus, sur la base de notre intérêt légitime. Par exemple, nous analysons le comportement des utilisateurs sur nos services afin d’améliorer continuellement nos offres, nous vous suggérons des offres dont nous pensons qu’elles pourraient vous intéresser et faisons la promotion de nos propres services, nous traitons des informations pour assurer la sécurité de nos utilisateurs et nous traitons les données, si nécessaire, pour faire valoir nos droits, aider les forces de l’ordre et nous permettre de nous défendre en cas d’action en justice.
+*   _Se conformer aux lois et_ _réglementations_ applicables : Nous traitons vos informations dans le cadre de l’objectif F ci-dessus, lorsque nécessaire, afin de nous conformer aux lois et règlementations applicables et de prouver notre conformité aux lois et règlementations applicables. Par exemple, nous conservons les données relatives au trafic et aux transactions conformément à nos obligations comptable et fiscale et autres obligations légales de conservation des données, et pour être en mesure de répondre aux demandes d’accès valides des forces de l’ordre. Nous conservons également les données prouvant les consentements que les utilisateurs nous ont donné et les décisions qu’ils ont pu prendre pour refuser une fonction ou un traitement donné.
+*   _Consentement_ : Si vous choisissez de nous fournir des informations qui peuvent être considérées comme « spéciales » ou « sensibles » dans certaines juridictions, telles que votre orientation sexuelle, vous consentez à ce que nous traitions ces informations conformément à la présente politique de confidentialité. De temps à autre, nous pouvons vous demander votre consentement pour collecter des informations spécifiques telles que votre géolocalisation précise ou pour utiliser vos informations à des fins spécifiques. Dans certains cas, vous pouvez retirer votre consentement en modifiant vos paramètres (par exemple en ce qui concerne la collecte de votre géolocalisation précise) ou en supprimant votre contenu (par exemple lorsque vous avez saisi dans votre profil des informations qui peuvent être considérées comme « spéciales » ou « sensibles »). Dans tous les cas, vous pouvez retirer votre consentement à tout moment en nous contactant à l’adresse indiquée à la fin de la présente politique de confidentialité.
 
-Dans la mesure où notre objectif est de vous aider à développer des relations avec d’autres utilisateurs, le principal partage de données est, bien entendu, avec d’autres utilisateurs. Nous partageons également certaines données d’utilisateurs avec des prestataires de service et des partenaires qui nous assistent dans l’exploitation de nos services, avec d’autres sociétés du Groupe Match et, dans certaines cas, des autorités publiques. Veuillez poursuivre votre lecture pour avoir plus de détails sur la façon dont vos données sont partagées avec des tiers.
+6\. COMMENT NOUS PARTAGEONS VOS INFORMATIONS
+--------------------------------------------
 
-*   **Avec d’autres utilisateurs**
+Puisque notre objectif est de vous aider à faire de nouvelles rencontres, le principal partage des informations des utilisateurs se fait, bien entendu, avec d’autres utilisateurs. Nous partageons également certaines informations de nos utilisateurs avec des prestataires de services et des partenaires qui nous aident à assurer le bon fonctionnement des services, avec d’autres sociétés de Match Group pour des raisons spécifiées ci-dessous et, dans certains cas, avec les autorités juridiques. Lisez la suite pour plus de détails sur la façon dont vos informations sont partagées avec d’autres.
 
-Vous partagez des informations avec d’autres utilisateurs lorsque vous divulguez volontairement des informations sur le service (y compris votre profil public). Soyez donc vigilants avec vos informations et assurez-vous que le contenu que vous partagez est constitué d’éléments qui peuvent être visibles publiquement sans que cela ne vous pose problème parce que ni vous ni nous ne pouvons contrôler ce que les autres font avec vos informations une fois que vous les partagez.
+*   **Avec** **autres utilisateurs**
 
-Si vous choisissez de limiter l’audience pour tout ou une partie de votre profil ou pour certains contenus ou informations vous concernant, alors ils seront visibles conformément à vos paramètres.
+Vous partagez des informations avec d’autres utilisateurs lorsque vous divulguez volontairement des informations sur le service (notamment sur votre profil public). Soyez prudent avec vos données et assurez-vous que le contenu que vous partagez est un contenu que vous êtes à l’aise de rendre visible.
 
-*   **_Avec nos prestataires de service et nos partenaires_**
+Si vous choisissez de limiter l’audience pour tout ou partie de votre profil ou pour certains contenus ou informations à votre sujet, alors il sera visible conformément à vos paramètres.
 
-Nous utilisons des tiers pour nous aider à exploiter et à améliorer nos services. Ces tiers nous viennent en aide s’agissant de diverses tâches, y compris l’hébergement et la maintenance des données, l’analyse des données, l’assistance à la clientèle, le marketing, la publicité, le traitement des paiements et les opérations de sécurité.
+Si une personne effectue un signalement vous concernant (pour signaler, par exemple, que vous auriez enfreint nos Conditions Générales d’Utilisation ou nos Règles de communauté), nous nous réservons le droit de communiquer les actions que nous avons prises suite à ce signalement, le cas échéant.
 
-Nous pouvons également partager des données avec des partenaires qui distribuent et nous aident dans la promotion de nos services. Par exemple, nous pouvons partager des données limitées à votre sujet sous une forme hachée, illisible pour les humains, avec nos partenaires publicitaires.
+*   **_Avec nos prestataires de services et nos partenaires_**
 
-Nous procédons à un processus de sélection rigoureux avant d’engager tout prestataire de service ou de travailler avec tout partenaire. Tous nos prestataires de services et partenaires doivent respecter des obligations strictes en matière de confidentialité.
+Nous faisons appel à des tiers pour nous aider à exploiter et à améliorer nos services. Ces tiers nous aident dans diverses tâches, notamment l’hébergement et la maintenance des données, l’analyse, le service client, le marketing, la publicité, le traitement des paiements et les opérations de sécurité. Nous partageons également des informations avec des partenaires qui distribuent et nous aident à faire la publicité de nos services. Par exemple, nous pouvons partager des informations limitées vous concernant avec nos partenaires publicitaires sous forme hachée et non lisible par l’homme.
 
-*   **_Avec d’autres entreprises du groupe Match_**
+Nous suivons un processus de vérification rigoureux avant d’engager un prestataire de services ou de travailler avec un partenaire. Nos prestataires de services et nos partenaires doivent respecter des obligations strictes en matière de confidentialité.
 
-DisonsDemain fait partie du groupe Match qui, à la date de cette politique de confidentialité, inclut différents sites Web et différentes applications tels que Tinder, OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito et Twoo (cliquez [ici](http://mtch.com/) pour en savoir plus).
+*   **_Avec nos sociétés affiliées_**
 
-Nous communiquons vos données aux autres sociétés du groupe Match pour que vous puissiez en tirer deux avantages :
+DISONS DEMAIN fait partie de la [famille d’entreprises Match Group](http://mtch.com/).
 
-*   pour que les autres sociétés du groupe Match nous assistent dans le traitement de vos données, en qualité de prestataires de services, selon nos instructions et pour notre compte. L’assistance fournie par les autres sociétés du groupe Match peut notamment inclure des opérations de traitement de données telles que leur hébergement et maintenance, le service à la clientèle, le marketing et la publicité ciblée, l’assistance comptable et financière, la meilleure compréhension de la façon dont vous utilisez nos services ainsi que des habitudes des utilisateurs aux fins de nous permettre d’améliorer nos services, la sécurisation de nos données et systèmes ainsi que la lutte contre les courriers indésirables, les actes de violence, la fraude et autres activités illicites et malversations.
-*   Afin d’améliorer vos chances de développer des relations durables avec d’autres utilisateurs, nous pouvons vous rendre visible sur d’autres services du groupe Match ou vous permettre de profiter de fonctionnalités communes aux plateformes. Nous nous conformerons bien évidemment à la législation applicable et, le cas échéant, vous avertirons de ces opportunités et vous donnerons la possibilité de les accepter ou de les refuser. Un exemple d’une telle opportunité est la création d’un nouveau service au sein du groupe Match ciblant une catégorie démographique bien spécifique qui, nous pensons, pourrait vous intéresser à la lumière de vos critères de recherche.
+Nous partageons vos informations avec des sociétés affiliées à des fins légitimes limitées, comme indiqué ci-dessous :
 
-Nous pouvons également communiquer vos données à d’autres sociétés du groupe Match à des fins commerciales légitimes telles que l’audit d’entreprise, l’analyse et la consolidation des rapports ainsi que la conformité avec les lois en vigueur. Nous pouvons également communiquer les données des utilisateurs à d’autres sociétés du groupe Match pour supprimer les utilisateurs qui enfreignent nos conditions d’utilisation ou dont les activités illégales ou le comportement déplacé ont été signalés. Dans certains cas, nous pouvons supprimer un tel utilisateur de toutes les plateformes.
+*   pour rendre toutes les plateformes de Match Group plus sûres et nous permettre de gérer (par exemple, bannir) les personnes malveillantes identifiées sur une plateforme aussi sur les autres ;
+*   pour qu’elles nous assistent dans les opérations de traitement des données, en tant que prestataires de services, sur nos instructions et pour notre compte. Leur assistance peut inclure des opérations techniques de traitement, telles que l’hébergement et la maintenance des données, le service client, le marketing et la publicité ciblée, l’analyse, l’assistance financière et comptable, l’amélioration de notre service, la sécurisation de nos données et systèmes et la lutte contre les spams, les abus, la fraude, les infractions et autres actes répréhensibles.
+*   afin d’améliorer vos chances de faire de nouvelles rencontres, nous pouvons rendre votre profil visible sur d’autres services de Match Group ou vous faire bénéficier de fonctionnalités multiplateformes. Nous nous conformerons bien entendu à la loi applicable et, le cas échéant, nous vous informerons de toute opportunité de ce type, en vous permettant de l’accepter ou de le refuser. Il peut s’agir, par exemple, de la création d’un nouveau service au sein de Match Group, s’adressant à un groupe démographique spécifique qui, selon nous, pourrait vous intéresser en raison de votre profil.
+*   à d’autres fins commerciales légitimes, notamment l’audit, l’analyse et les rapports consolidés de l’entreprise, dans la mesure où les lois applicables l’autorisent.
 
 *   **_Pour les transactions d’entreprise_**
 
-Nous pouvons transférer vos données si nous sommes impliqués, en tout ou en partie, dans une fusion, une vente, une acquisition, une cession, une restructuration, une réorganisation, une dissolution, une banqueroute ou d’autres changement de propriété ou de contrôle.
+Nous pouvons transférer vos informations si nous sommes impliqués, en tout ou partie, dans une fusion, une vente, une acquisition, une cession, une restructuration, une réorganisation, une dissolution, une faillite ou tout autre changement de propriété ou de contrôle.
 
-*   **_Lorsque la législation l’exige_**
+*   **_Avec les forces de l’ordre / lorsque la loi l’exige_**
 
-Nous pouvons divulguer vos données si cela est raisonnablement nécessaire : (i) pour se conformer à un processus légal, tel qu’une ordonnance du tribunal, une assignation ou un mandat de perquisition, une enquête gouvernementale ou judiciaire ou une autre exigence légale ; (ii) pour offrir une aide dans la prévention ou la détection d’une activité illégale (soumise, dans chaque cas, à la législation en vigueur) ; ou (iii) pour protéger la sécurité de toute personne.
+Nous pouvons divulguer vos informations si cela est raisonnablement nécessaire : (i) pour se conformer à une procédure légale, telle qu’une ordonnance d’un tribunal, une assignation ou un mandat de perquisition, une enquête gouvernementale ou policière ou d’autres exigences légales ; (ii) pour aider à la prévention ou à la détection d’une activité illégale (sous réserve, dans chaque cas, de la loi applicable) ; ou (iii) pour protéger la sécurité de toute personne.
 
-*   **_Pour faire valoir nos droits_**
+*   **_Pour exercer nos droits légaux_**
 
-Nous pouvons également partager des données : (i) si leur divulgation devait atténuer notre responsabilité dans des poursuites judiciaires en cours ou potentielles ; (ii) selon ce qui est nécessaire pour protéger nos droits et les droits de nos utilisateurs, de nos partenaires commerciaux ou d’autres parties intéressées ; (iii) pour appliquer nos accords avec vous ; et (iv) pour enquêter, éviter, ou prendre d’autres mesures concernant une activité illégale, une fraude soupçonnée ou un autre acte répréhensible.
+Nous pouvons également partager des informations : (i) si la divulgation atténuerait notre responsabilité dans une poursuite judiciaire en cours ou potentielle ; (ii) si nécessaire pour protéger nos droits légaux et les droits légaux de nos utilisateurs, partenaires commerciaux ou autres parties intéressées ; (iii) pour faire appliquer nos accords avec vous ; et (iv) pour enquêter, prévenir ou prendre d’autres mesures concernant une activité illégale, une fraude présumée ou un autre acte répréhensible.
 
 *   **_Avec votre consentement ou à votre demande_**
 
-Nous pouvons demander votre consentement pour partager vos données avec des tierces parties. Dans de tels cas, nous vous exprimerons clairement pourquoi nous avons besoin de partager les données.
+Nous pouvons demander votre consentement pour partager vos informations avec des tiers. Dans un tel cas, nous indiquerons clairement pourquoi nous voulons partager l’information.
 
-Nous pouvons utiliser et partager des données non personnelles (c.-à-d., des données qui, par elles-mêmes, n’identifient pas qui vous êtes, telles que des données relatives à un appareil, des données démographiques générales, des données comportementales générales, des données de géolocalisation sous une forme anonymisée), ainsi que des données personnelles sous une forme hachée, illisible par un être humain, dans les différents scénarios décrits ci-avant. Nous pouvons également partager ces données avec d’autres entreprises du groupe Match et avec des tiers (notamment annonceurs) afin d’élaborer et de présenter des publicités ciblées sur notre service et sur les sites Web ou applications de tiers et d’effectuer des analyses et des rapports sur la publicité que vous voyez. Nous pouvons combiner ces données avec des données non personnelles ou personnelles sous une forme hachée et illisible par l’être humain que nous recueillons auprès d’autres sources. Plus d’informations sur l’utilisation que nous faisons des cookies et des technologies similaires sont disponibles dans notre Politique relative à l’utilisation des cookies [ici](https://www.disonsdemain.fr/pages/misc/cookie?styled=1).
+Dans les cas de figure cités ci-dessus, nous pouvons utiliser et partager des données non personnelles (c’est-à-dire des informations qui, par elles-mêmes, ne permettent pas de vous identifier, telles que des informations sur les appareils, des données démographiques générales, des données comportementales générales, la géolocalisation sous une forme anonymisée), ainsi que des données personnelles sous une forme hachée et non lisible par l’homme. Nous pouvons également partager ces informations avec d’autres sociétés de Match Group et des tiers (notamment des annonceurs) pour développer et diffuser des publicités ciblées sur nos services et sur les sites Web ou applications de tiers, et pour et d’effectuer des analyses et des rapports sur la publicité que vous voyez. Nous pouvons combiner ces données avec des données non personnelles ou des données personnelles supplémentaires sous forme hachée, non lisible par l’homme, recueillies auprès d’autres sources. Vous trouverez plus d’informations sur notre utilisation des cookies et des technologies similaires dans notre [Charte d’utilisation des cookies](https://www.disonsdemain.fr/pages/misc/cookie?styled=1).
 
-7\. TRANSFERTS DE DONNÉES TRANSFRONTALIERS
+7\. TRANSFERTS TRANSFRONTALIERS DE DONNÉES
 ------------------------------------------
 
-Le partage de données décrit dans la Section 6 implique parfois des transferts de données transfrontaliers, par exemple vers les États-Unis d’Amérique et d’autres juridictions. À titre d’exemple, lorsque le service permet aux utilisateurs d’être situés dans l’Espace Économique Européen (« E.E.E. »), leurs données personnelles sont transférées vers des pays situés en dehors de l’E.E.E. Nous utilisons des clauses contractuelles types approuvées par la Commission européenne ou d’autres mesures de sécurité pertinentes pour autoriser des transferts de données depuis l’E.E.E. vers d’autres pays. Les clauses contractuelles types sont des engagements entre les sociétés transférant les données personnelles, les liant pour protéger la confidentialité et la sécurité de vos données.
+Le partage d’informations décrit à la [Section 6](#_section06) implique des transferts transfrontaliers de données vers les États-Unis d’Amérique et d’autres juridictions qui peuvent disposer de lois différentes en matière de traitements des données. Lorsque nous transférons des informations personnelles en dehors de l’EEE, du Royaume-Uni, de la Suisse ou d’autres pays dont les lois sur la protection des données ont été jugées adéquates par la Commission européenne ou tout autre organisme gouvernemental compétent, nous utilisons des [clauses contractuelles types](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (les clauses contractuelles types sont des engagements entre les entreprises qui transfèrent des données personnelles, les obligeant à protéger la confidentialité et la sécurité de vos données) ou tout autre mécanisme de transfert approprié. Nous sommes actuellement en train de revoir nos transferts vers nos prestataires et la base légale associée suite au récent [arrêt de la Cour de justice de l’Union européenne sur les transferts de données personnelles vers les États-Unis](https://curia.europa.eu/juris/document/document.jsf?text=&docid=228677&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=14024666).
 
 8\. VOS DROITS
 --------------
 
-Nous voulons que vous contrôliez vos données, et c’est pour cela que nous avons fourni les outils suivants :
+Nous voulons que vous ayez le contrôle de vos informations, c’est pourquoi nous vous rappelons les options et outils suivants qui sont à votre disposition :
 
-*   Outils d’Accès / de Mise à jour dans le service. Outils et paramètres de compte qui vous aident à accéder, rectifier ou supprimer les données que vous nous avez fournies et qui sont associées à votre compte, accessibles directement dans le service. Si vous avez des questions sur ces outils et paramètres, veuillez contacter notre équipe [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20request).
-*   Autorisations dans l’appareil. Les plateformes mobiles disposent de systèmes d’autorisation pour des types spécifiques de données et de notifications, tels que le carnet d’adresse, les services de localisation ainsi que les « push notifications ». Vous pouvez modifier vos paramètres sur votre appareil, soit pour consentir soit vous opposer à la collecte des données ou l’affichage des notifications correspondantes. Bien sûr, si vous le faites, certains services peuvent perdre une partie de leurs fonctionnalités.
-*   Suppression. Vous pouvez supprimer votre compte en utilisant la fonctionnalité correspondante directement sur le service.
+*   Outils d’accès et de mise à jour du service. Les outils et les paramètres du compte peuvent vous permettre d’accéder, rectifier ou supprimer les informations que vous nous avez fournies et qui sont associées à votre compte directement dans le service. Si vous avez des questions sur ces outils et paramètres, veuillez contacter notre équipe du service client pour obtenir de l’[aide](https://www.disonsdemain.fr/faq).
+*   Autorisations du périphérique. Les plateformes mobiles peuvent disposer de systèmes d’autorisation pour des types spécifiques de données et de notifications de périphériques, tels que les contacts téléphoniques, les photos, les services de localisation, les notifications push et les identifiants publicitaires. Vous pouvez modifier vos paramètres sur votre appareil pour consentir ou vous opposer à la collecte ou au traitement des informations correspondantes ou à l’affichage des notifications correspondantes. Bien entendu, si vous vous y opposez, certaines fonctionnalités des services peuvent ne plus être disponible.
+*   Désinstallation. Vous pouvez mettre fin à toute collecte d’informations par une application en la désinstallant à l’aide du processus de désinstallation standard de votre appareil. N’oubliez pas que la désinstallation d’une application ne supprime PAS votre compte. Pour supprimer votre compte, veuillez utiliser la fonctionnalité correspondante sur le service.
+*   Suppression du compte. Vous pouvez supprimer votre compte en utilisant la fonctionnalité correspondante directement sur le service.
 
-Nous voulons que vous soyez informés de vos droits en matière de confidentialité. Voici quelques points clés à retenir :
+Nous voulons également que vous soyez conscient de vos droits en matière de protection de vos données. Voici quelques points clés à retenir :
 
-*   Consulter vos données. Les lois en vigueur relatives à la protection des données peuvent vous octroyer le droit de consulter les données personnelles vous concernant que nous conservons (en fonction du pays, ce droit peut être appelé droit d’accès, de portabilité ou une variation de ces termes). Vous pouvez demander une copie de vos données personnelles en plaçant une telle demande [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20request).
-*   Mettre à jour vos données. Si vous pensez que les informations que nous détenons à votre sujet sont inexactes ou que nous ne sommes plus habilités à les utiliser et que souhaitez demander leur rectification, leur suppression ou refuser leur traitement, veuillez nous contacter [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20request).
+*   Examen de vos informations. Les lois applicables en matière de protection de la vie privée peuvent vous donner le droit d’examiner les informations personnelles que nous conservons à votre sujet (selon la juridiction, cela peut être appelé droit d’accès, droit de portabilité, droit de savoir ou modifications de ces termes). Vous pouvez exercer ce droit en introduisant une telle demande [ici](#_section13).
+*   Mise à jour de vos informations. Si vous pensez que les informations que nous détenons à votre sujet sont inexactes ou que nous ne sommes plus habilités à les utiliser et que vous souhaitez demander leur rectification, leur suppression, vous opposer à leur traitement ou le restreindre, veuillez nous contacter [ici](#_section13).
 
-Pour votre protection et la protection de tous nos utilisateurs, il est possible que nous vous demandions de fournir une preuve d’identité avant que nous puissions répondre aux demandes ci-dessus.
+Pour votre protection et celle de tous nos utilisateurs, nous pouvons vous demander de fournir une preuve de votre identité avant de pouvoir répondre aux demandes ci-dessus.
 
-Gardez à l’esprit qu’il se peut que nous refusions de telles demandes pour certaines raisons, notamment si la demande est illégale ou si elle aurait pour conséquence de porter atteinte à des secrets d’affaire à des droits de propriété intellectuelle ou à la confidentialité d’un autre utilisateur. Si vous souhaitez recevoir des données relatives à un autre utilisateur, telles qu’une copie de tous les messages que vous avez reçus de sa part par l’intermédiaire de notre service, l’autre utilisateur devra contacter notre responsable de la protection des données (Privacy Officer) pour lui fournir son consentement écrit avant que les données ne soient partagées.
+Gardez à l’esprit que nous pouvons rejeter des demandes, notamment si nous ne sommes pas en mesure de vous authentifier, si la demande est illégale ou invalide, ou si elle risque d’enfreindre des secrets commerciaux ou la propriété intellectuelle ou la vie privée ou d’autres droits d’un tiers. Si vous souhaitez recevoir des informations relatives à un autre utilisateur, telles qu’une copie des messages que vous avez reçus de lui sur notre service, l’autre utilisateur devra nous contacter pour donner son consentement écrit avant que les informations ne soient partagées. Nous pouvons également lui demander de fournir une preuve de son identité avant de pouvoir répondre à la demande.
 
-D’autre part, il se peut que nous ne puissions pas répondre positivement à certaines demandes par lesquelles un utilisateur s’opposerait au traitement de ses données personnelles, notamment lorsque ces demandes ne nous permettraient plus de fournir nos services. Par exemple, nous ne pouvons pas fournir notre service si nous n’avons pas votre date de naissance.
+Par ailleurs, il se peut que nous ne soyons pas en mesure de satisfaire certaines demandes d’opposition ou de restriction du traitement de vos données personnelles, notamment lorsque ces demandes ne nous permettraient plus de vous fournir notre service. Par exemple, nous ne pouvons pas fournir notre service si nous ne disposons pas de votre date de naissance car nous ne pourrions pas savoir si vous avez plus de 18 ans.
 
-*   Désinstaller. Vous pouvez arrêter toute collecte de données par une application en la désinstallant en utilisant le processus de désinstallation standard de votre appareil. Si vous désinstallez l’application de votre appareil mobile, l’identifiant unique associé à votre appareil continuera d’être stocké. Si vous réinstallez l’application sur le même périphérique mobile, nous serons capables de réassocier cet identifiant à vos transactions et à vos activités précédentes.
-*   Responsabilité. Dans certains pays, y compris dans l’Union Européenne, vous êtes en droit de déposer une réclamation auprès de l’autorité de contrôle compétente si vous avez des inquiétudes quant à la façon dont nous traitons vos données personnelles. L’autorité de contrôle auprès de laquelle vous pouvez déposer une plainte peut notamment être celle de votre résidence habituelle, là où vous travaillez ou là où nous sommes établis.
+Dans certains pays, notamment dans l’Espace économique européen et au Royaume-Uni, vous avez le droit de déposer une plainte auprès de l’autorité de protection des données appropriée si vous avez des doutes concernant la façon dont nous traitons vos informations personnelles. Vous trouverez des informations sur votre régulateur compétent en matière de protection des données dans l’Espace économique européen [ici](https://edpb.europa.eu/about-edpb/board/members_en), et au Royaume-Uni [ici](https://ico.org.uk/). L’autorité de protection des données auprès de laquelle vous pouvez déposer une plainte peut être celle de votre résidence habituelle, de votre lieu de travail ou du lieu l’infraction présumée aurait eu lieu.
 
-9\. COMMENT NOUS PROTÉGEONS VOS DONNEES PERSONNELLES
-----------------------------------------------------
+9\. DURÉE DE CONSERVATION DE VOS INFORMATIONS
+---------------------------------------------
 
-Nous travaillons dur pour vous protéger contre tout accès non autorisé ou toute altération, divulgation ou destruction de vos données personnelles. A l’instar de toute entreprise de technologie, bien que nous prenions des mesures pour sécuriser vos données, nous ne pouvons pas vous garantir, et vous ne devriez pouvez pas attendre, que vos données personnelles resteront toujours sécurisées.
+Nous conservons vos données à caractère personnel aussi longtemps que cela nous est nécessaire à des fins commerciales légitimes et tel que la loi applicable le permet (comme indiqué à la [Section 5](#_section05)) et dans le respect des lois applicables. Si vous décidez de ne plus utiliser nos services, vous pouvez fermer votre compte et votre profil ne sera plus visible par les autres utilisateurs. Veuillez noter que nous fermerons automatiquement votre compte si vous êtes inactif pendant une période de deux ans. Après la fermeture de votre compte, nous supprimerons vos informations personnelles, comme indiqué ci-dessous :
 
-Nous surveillons régulièrement nos systèmes afin de détecter des vulnérabilités et des attaques potentielles et examinons également régulièrement nos pratiques de collecte, de stockage et de traitement des données pour mettre à jour nos mesures de sécurité physiques, techniques et organisationnelles.
+1.  Pour veiller à la sûreté et à la sécurité de nos utilisateurs, nous mettons en place une fenêtre de rétention de sûreté de trois mois après la fermeture du compte. Pendant cette période, nous conservons vos informations dans l’éventualité où il serait nécessaire d’enquêter sur des comportements illicites ou préjudiciables. La conservation des informations pendant cette fenêtre de conservation de sécurité est fondée sur notre intérêt légitime ainsi que sur celui des victimes tierces potentielles.
+2.  Une fois la fenêtre de rétention de sûreté écoulée, nous supprimons vos données et ne conservons que des informations limitées à des fins spécifiques, comme indiqué ci-dessous :
+    1.  Nous conservons des données limitées pour nous conformer à nos obligations légales en termes de conservation des données : en particulier, nous conservons les données de transaction pendant 10 ans pour nous conformer aux exigences légales en matière de fiscalité et de comptabilité. Nous pouvons également avoir besoin de conserver les « données relatives au trafic » / logs pendant un an pour nous conformer aux obligations légales de conservation des données. Nous conservons également des registres des consentements que les utilisateurs nous donnent pendant cinq ans pour prouver notre conformité aux lois en vigueur.
+    2.  Nous conservons des informations limitées sur la base de notre intérêt légitime : nous conservons les dossiers du service client et les informations justificatives associées ainsi que la localisation imprécise des téléchargements/achats pendant cinq ans pour étayer nos décisions en matière de service client, faire valoir nos droits et nous permettre de nous défendre en cas de réclamation, les données de profil pendant un an en prévision d’un litige potentiel, pour la constatation, l’exercice ou la défense de droits en justice. Enfin, nous conservons les données nécessaires pour empêcher les utilisateurs qui ont été bannis ou les personnes qui se sont révélées être âgées de moins de 18 ans de créer un nouveau compte, pour assurer la sécurité et les protéger les intérêts vitaux de nos utilisateurs.
+    3.  Enfin, nous conservons les informations sur la base de notre intérêt légitime lorsqu’il existe un problème, une réclamation ou un litige potentiels ou avérés nécessitant la conservation des informations (notamment si nous recevons une assignation ou une demande légale valide nous invitant à conserver les données – auquel cas nous devrions conserver les données pour nous conformer à nos obligations légales- ou si les données sont autrement nécessaires dans le cadre d’une procédure judiciaire).
 
-Nous pouvons suspendre votre utilisation de tout ou partie des services sans préavis si nous soupçonnons ou détectons toute atteinte à la sécurité de nos systèmes. Si vous pensez que votre compte ou vos données ne sont plus sécurisées, veuillez nous le notifier immédiatement [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20request).
+10\. PROTECTION DE LA VIE PRIVÉE DES ENFANTS
+--------------------------------------------
 
-10\. PENDANT COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNEES
----------------------------------------------------------
+Nos services sont réservés aux personnes majeures. Nous n’autorisons pas les personnes âgées de moins de 18 ans sur notre plateforme. Si vous soupçonnez qu’un utilisateur est mineur, veuillez utiliser le mécanisme de déclaration signalement à votre disposition sur le service.
 
-Nous conservons vos données personnelles uniquement aussi longtemps que nous en avons besoin dans le cadre de pratiques commerciales légitimes (telles qu’énoncées dans la Section 5) et dans la mesure autorisée par la législation en vigueur. Pour protéger la sûreté et la sécurité de nos utilisateurs sur et en dehors de nos services, nous mettons en œuvre une fenêtre de conservation de sécurité d’un an après la suppression du compte. Pendant cette période, les données du compte seront conservées même si le compte ne sera bien sûr plus visible sur les services.
+11\. CANDIDATS, CONTRACTUELS ET REPRÉSENTANTS DES PRESTATAIRES
+--------------------------------------------------------------
 
-En pratique, nous supprimons ou anonymisons vos données à la suppression de votre compte (suite à la fenêtre de conservation de sécurité) ou après deux ans d’inactivité continue, à moins:
+Nous traitons également les données personnelles de nos candidats, de nos contractuels et des représentants de nos prestataires, dans le cadre de nos opérations de recrutement et de gestion des talents ou de notre gestion des services fournis par nos contractuels et prestataires. Si vous êtes un candidat à un de nos postes, un contractant ou un représentant des prestataires de DISONS DEMAIN, certaines clauses de la présente politique de confidentialité s’appliquent à notre traitement de vos informations personnelles, y compris les sections de la présente politique de confidentialité qui traitent de l’[entité responsable du traitement de vos données personnelles](#_section01), les [transferts des données personnelles](#_section07), les [droits que vous pouvez avoir en vertu du droit applicable](#_section08), [comment nous contacter](#_section13).
 
-1.  que nous devions les garder pour apporter la preuve de notre conformité à la législation en vigueur (par exemple, les enregistrements des consentements à nos conditions générales d’utilisation, Politique de confidentialité et autres consentements similaires sont conservés pendant 5 ans) ;
-2.  qu’il n’y ait un problème, une réclamation ou un litige non résolu qui nécessite que nous conservions les informations pertinentes jusqu’à sa résolution ; ou
-3.  que les données doivent être conservées pour nos intérêts commerciaux légitimes, tels que la prévention de la fraude et l’amélioration de la sûreté et de la sécurité des utilisateurs. Par exemple, les données peuvent devoir être conservées pour empêcher un utilisateur qui a été banni pour comportement dangereux ou des incidents de sécurité d’ouvrir un nouveau compte.
+Si vous êtes candidat à un de nos postes, les données personnelles te concernant que nous traitons peuvent varier en fonction du poste auquel vous postulez, mais comprennent généralement les informations que vous nous fournissez dans le cadre de votre candidature, ainsi que vos qualifications professionnelles, vos antécédents et vos références que les recruteurs ou d’autres tiers partagent avec nous. Nous utilisons ces renseignements dans le cadre processus de recrutement, qui peut aboutir à un contrat de travail. Pour les entrepreneurs et les représentants des fournisseurs, nous pouvons traiter des informations d’identification et des informations professionnelles, si nécessaire pour gérer notre relation avec vous et votre employeur, pour l’exécution du contrat de services, et pour établir, exercer ou nous défendre contre d’éventuelles réclamations légales. Nous pouvons partager vos données personnelles avec des prestataires de services qui nous aident dans les opérations de recrutement et de traitement des données techniques ainsi qu’avec les sociétés de Match Group (par exemple si vous avez une relation commerciale avec des employés d’une filiale). Nous conservons vos données à caractère personnel aussi longtemps que cela nous est nécessaire pour ces finalités.
 
-Gardez à l’esprit que même si nos systèmes sont conçus pour mener à bien les processus de suppression des données conformément aux directives ci-dessus, nous ne pouvons pas garantir que toutes les données seront supprimées dans un délai spécifique du fait des limitations techniques.
+12\. CHANGEMENTS DE POLITIQUE DE CONFIDENTIALITÉ
+------------------------------------------------
 
-11\. CONFIDENTIALITÉ RELATIVE AUX ENFANTS
------------------------------------------
+Etant donné que nous sommes toujours à la recherche de moyens nouveaux et innovants pour vous aider à faire de nouvelles rencontres et que nous nous efforçons de faire en sorte que les explications sur nos pratiques en matière de données restent à jour, cette politique peut être modifiée de temps à autre. Nous vous informerons avant l’entrée en vigueur de toute modification importante afin que vous ayez le temps de prendre connaissance des changements.
 
-Nos services sont ouverts aux seuls utilisateurs de 18 ans ou plus. Nous n’autorisons pas les utilisateurs âgés de moins de 18 ans sur notre plateforme et nous ne recueillons pas sciemment les données personnelles de quiconque est âgé de moins de 18 ans. Si vous soupçonnez qu’un utilisateur est âgé de moins de 18 ans, veuillez utiliser le mécanisme de signalement à votre disposition dans le service.
+13\. COMMENT NOUS CONTACTER
+---------------------------
 
-12\. MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ
------------------------------------------------------
+Si vous avez des questions concernant cette politique de confidentialité, vous disposez de différentes options ci-dessous :
 
-Parce que nous cherchons constamment des façons nouvelles et innovantes de vous aider à établir des relations avec d’autres utilisateurs, la présente politique peut être modifiée de temps à autres. Nous vous préviendrons par avance si des modifications importantes sont prévues afin que vous ayez le temps d’examiner ces changements.
+**En ligne :** [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20Request)
 
-13\. COMMENT NOUS CONTACTER ?
------------------------------
+**Par la poste :**
 
-Si vous avez des questions sur la présente Politique de confidentialité, vous pouvez nous contacter comme suit :
-
-En ligne : [ici](mailto:privacy@disonsdemain.com?subject=Privacy%20request)
-
-Par courrier :
-
-Privacy Officer
+Agent de protection des données
 
 Meetic S.A.S.  
 DISONS DEMAIN  
