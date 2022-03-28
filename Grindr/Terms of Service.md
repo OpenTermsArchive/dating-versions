@@ -22,7 +22,7 @@
 
 FOLLOW US
 
-[![](/images/fb-logo.png)](https://www.facebook.com/Grindr/) [![](/images/tw-logo.png)](https://twitter.com/grindr) [![](/images/ig-logo.png)](https://www.instagram.com/grindr/) [![](/images/yt-logo.png)](https://www.youtube.com/grindr) [![](/images/lk-logo.svg)](https://www.linkedin.com/company/grindr)
+[![Facebook](/images/fb-logo.png)](https://www.facebook.com/Grindr/) [![Twitter](/images/tw-logo.png)](https://twitter.com/grindr) [![Instagram](/images/ig-logo.png)](https://www.instagram.com/grindr/) [![YouTube](/images/yt-logo.png)](https://www.youtube.com/grindr) [![TikTok](/images/tt-logo.svg)](https://www.tiktok.com/@grindr) [![LinkedIn](/images/lk-logo.svg)](https://www.linkedin.com/company/grindr)
 
 ©Grindr LLC
 
@@ -50,7 +50,7 @@ FOLLOW US
 
 FOLLOW US
 
-[![](/images/fb-logo.png)](https://www.facebook.com/Grindr/) [![](/images/tw-logo.png)](https://twitter.com/grindr) [![](/images/ig-logo.png)](https://www.instagram.com/grindr/) [![](/images/yt-logo.png)](https://www.youtube.com/grindr) [![](/images/lk-logo.svg)](https://www.linkedin.com/company/grindr)
+[![Facebook](/images/fb-logo.png)](https://www.facebook.com/Grindr/) [![Twitter](/images/tw-logo.png)](https://twitter.com/grindr) [![Instagram](/images/ig-logo.png)](https://www.instagram.com/grindr/) [![YouTube](/images/yt-logo.png)](https://www.youtube.com/grindr) [![TikTok](/images/tt-logo.svg)](https://www.tiktok.com/@grindr) [![LinkedIn](/images/lk-logo.svg)](https://www.linkedin.com/company/grindr)
 
 ©Grindr LLC
 
