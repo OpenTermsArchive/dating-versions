@@ -103,9 +103,9 @@ We make no representations or warranties regarding the holder of a badge, distin
 
 **6.1 General**
 
-Depending on your locality and the way you access the Services (for example via a desktop, a web mobile version, or an app on iOS or Android systems), Purchases may be available via direct billing (for example via a payment card, Paypal, etc.), mobile carriers, in-app payment systems (such as App Store). If you choose to make a Purchase, you will be prompted to confirm your Purchase with the applicable payment provider and your method of payment such as a payment card or your third party account such as App Store’s Apple Pay (your “Payment Method”) will be charged at the prices displayed to you for the Purchase(s) you have selected and you authorise us and/or Apple or other third party account (as applicable) to charge you.
+Depending on your locality and the way you access the Services (for example via a desktop, a web mobile version, or an app on iOS or Android systems), Purchases may be available via direct billing (for example via a payment card, Paypal, etc.), mobile carriers, in-app payment systems (such as App Store/Google Play). If you choose to make a Purchase, you will be prompted to confirm your Purchase with the applicable payment provider and your method of payment such as a payment card or your third party account such as App Store/Google Play’s Apple Pay/Google Play (your “Payment Method”) will be charged at the prices displayed to you for the Purchase(s) you have selected and you authorise us and/or Apple/Google or other third party account (as applicable) to charge you.
 
-Your Purchase is confirmed at the point when your financial transaction is authorised and confirmed with your bank or third-party account (such as mobile carriers or Apple’s App Store).
+Your Purchase is confirmed at the point when your financial transaction is authorised and confirmed with your bank or third-party account (such as mobile carriers or Apple/Google’s App Store/Google play).
 
 **6.2 Subscription Auto-Renewal; Automatic Card Payment**
 
@@ -125,9 +125,9 @@ If you connect to your account and use the Services before the end of the cancel
 
 You can find additional information on the [Help page](https://uk.match.com/faq/) about the scope and application of your right to cancel.
 
-**Purchase via Apple’s App Store**
+**Purchase via Apple/Google’s App Store/Google Play**
 
-If you purchased a Paid Service via the App Store that you wish to cancel within 14 days after Purchase, cancellations and refunds are handled by Apple under their own terms and conditions which we do not control. To request a refund, you must log in to your Apple ID and follow Apple’s cancellation and refund instructions.
+If you purchased a Paid Service via the App Store/Google Play that you wish to cancel within 14 days after Purchase, cancellations and refunds are handled by Apple/Google under their own terms and conditions which we do not control. To request a refund, you must log in to your Apple ID/Google ID and follow Apple/Google’s cancellation and refund instructions.
 
 **6.4 Additional third-party services**
 
@@ -143,9 +143,9 @@ Deleting our application from your device does not terminate your Subscription. 
 
 Once you have turned off the auto-renewal, you will then be entitled to continue using your Subscription until the expiry of its current term. Any remaining payment instalments of the Subscription’s total price will remain due and payable until expiry of the current term. You will then no longer have access to the Subscription from the date the current Subscription term expires, but you will still have access to the free features.
 
-**7.2 Non-renewal of Subscriptions purchased via the Apple Store**
+**7.2 Non-renewal of Subscriptions purchased via the Apple Store/Google Play**
 
-If you made a Purchase via Apple, auto-renewals and terminations are handled by Apple under their own terms and conditions which we do not control. To request the termination of a Paid Service, you must log in to your Apple ID and follow Apple’s instructions.
+If you made a Purchase via Apple/Google, auto-renewals and terminations are handled by Apple/Google under their own terms and conditions which we do not control. To request the termination of a Paid Service, you must log in to your Apple ID/Google ID and follow Apple/Google’s instructions.
 
 **7.3 Profile suspension**
 
