@@ -119,7 +119,7 @@ You will indemnify and hold harmless Coffee Meets Bagel and its officers, direct
 
 ##### 17\. Termination
 
-We may terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you. You may delete your Account, deactivate your membership, or put your Account on hold at any time by sending an email to us at [**\[email protected\]**](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection#removed)or via the functionality of the App; deleting your Account is your sole method of terminating this Agreement. Upon termination of this Agreement, the following will survive Sections 3(d),6(c),7,14,15,16,18,19,21, and this sentence of Section 17.
+We may terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you. You may delete your Account, or put your Account on hold at any time by sending an email to us at [**\[email protected\]**](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection#removed) or via the functionality of the App; deleting your Account is your sole method of terminating this Agreement. Upon termination of this Agreement, the following will survive Sections 3(d),6(c),7,14,15,16,18,19,21, and this sentence of Section 17.
 
 ##### 18\. Governing Law and Forum Choice
 
