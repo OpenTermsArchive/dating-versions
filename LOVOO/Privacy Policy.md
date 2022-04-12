@@ -12,7 +12,7 @@ If you want to object against the use of this data for advertising purposes, you
 
 The service offering is based on the freemium model allowing a LOVOO user ("user" or "you") to use the LOVOO domain or run the LOVOO app to create a profile ("user profile"), upload images and exchange news etc. with other interested users and their user profiles for free. Users have access to various functions such as Chat, Live Radar, Match Game or Live-Video and many other LOVOO functions. Added to that, LOVOO offers a chargeable premium service for users who wish to gain access to further unique functions.
 
-LOVOO's offering also lets you meet real people in your area and therefore classifies as a so-called dating service. Everybody aged 16 or older may register.
+LOVOO's offering also lets you meet real people in your area and therefore classifies as a so-called dating service. Everybody aged 18 or older may register.
 
 Collecting, processing and using your data is based on the provisions of the Federal Telemedia Act (TMG) and the data privacy laws, the latter particularly including the Federal Data Protection Act (BDSG) and as of 25 May 2018 -- the General Data Protection Regulation (GDPR).
 
@@ -636,12 +636,10 @@ EMAIL: [datenschutz@lovoo.com](mailto:datenschutz@lovoo.com)
 
 ### Data Protection Officer
 
-ePrivacy GmbH
+Dr. Stefanie Wegener
 
-Managing Director Prof. Dr. Christoph Bauer
+Speersort 10
 
-Große Bleichen 21
-
-20354 Hamburg
+20095 Hamburg
 
 E-MAIL: [datenschutz@lovoo.com](mailto:datenschutz@lovoo.com)
