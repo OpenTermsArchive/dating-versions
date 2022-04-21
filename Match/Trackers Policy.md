@@ -1,3 +1,6 @@
+Cookie policy
+=============
+
 At MATCH, we believe in being clear and open about how we collect and process data about you. This page is designed to inform you about our practices regarding cookies and explain to you how you can manage them.
 
 **You already know everything there is to know about cookies and just want to adjust your settings**? No problem. Head on Cookie Settings to update your website cookies settings or head to your account settings in your app to adjust your privacy preferences there.
