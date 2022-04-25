@@ -1,5 +1,5 @@
-**UNSERE VERPFLICHTUNG IHNEN GEGENÜBER**
-========================================
+UNSERE VERPFLICHTUNG IHNEN GEGENÜBER
+====================================
 
 \* \* \*
 
