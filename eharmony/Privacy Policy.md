@@ -1,4 +1,4 @@
-[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_01_31.pdf)
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25.pdf)
 
 ### eharmony - United Kingdom
 
@@ -6,7 +6,7 @@
 
   
 
-Version: 31. January 2022
+Version: 25. April 2022
 
   
 
@@ -16,7 +16,7 @@ Please note that we offer our Service (as defined below) in different countries 
 
 This privacy policy explains what personal data eharmony collects, how we use this data and what rights you have in relation to your personal data as an eharmony user.
 
-You can find information about data processing in connection with Cookies and other tracking technologies when using the eharmony website and app in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+You can find information about data processing in connection with Cookies and other tracking technologies when using the eharmony website and app in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
 **Table of Contents:**
 
@@ -34,7 +34,7 @@ You can find information about data processing in connection with Cookies and ot
 
 Contact / Data Controller
 
-Unless otherwise stated in this privacy policy or in our [Cookies & Tracking Policy](https://www.eharmony.co.uk/cookiesandtracking) , the controller of your personal data is eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain (hereafter “eharmony”, “us”, “our”, “we”).
+Unless otherwise stated in this privacy policy or in our [Cookies & Tracking Policy](https://www.eharmony.co.uk/cookiesandtracking/) , the controller of your personal data is eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain (hereafter “eharmony”, “us”, “our”, “we”).
 
 If you have any questions or suggestions about how we use your personal data, please contact us or our data protection officer.
 
@@ -101,7 +101,7 @@ If you use the Facebook login on our website or app, Facebook will also collect 
 
 You may dissociate your eharmony account from your Facebook-ID at any time in your profile on our website. In this case, we will need your access data, as explained above.
 
-For more information about the types of information collected by Facebook and how Facebook will use your information, as well as about your rights and your ability to protect your data), please refer to the [Facebook’s privacy policy](https://www.facebook.com/policy.php).
+For more information about the types of information collected by Facebook and how Facebook will use your information, as well as about your rights and your ability to protect your data), please refer to the [Facebook’s privacy policy](file:///C:/Users/cdauvergne/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/X30DJZTO/Facebook%E2%80%99s%20privacy%20policy).
 
 **Data required in connexion with a Basic Membership**
 
@@ -153,7 +153,7 @@ If you contact our customer care, please note the following: if you communicate 
 
 Please note that, in principle, communications between you and eharmony will only be conducted via the email address associated with your eharmony account. Members who are registered via Apple and have hidden their email address will only receive communications if the automatic forwarding function is activated through Apple. Please bear in mind that Apple does not inform us whether you have activated the forwarding function.
 
-If you would prefer not to contact our customer care by email (for example, because you are concerned that your email provider does not support TLS encryption or the content of our email is not encrypted), please contact eharmony by post or fax instead. You will find our contact details under [Contact](#pp07)
+If you would prefer not to contact our customer care by email (for example, because you are concerned that your email provider does not support TLS encryption or the content of our email is not encrypted), please contact eharmony by post or fax instead. You will find our contact details under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1)
 
 As a Premium Member, as well as in some promotions for Basic Members, you have the opportunity to communicate with other members via video chat in selected countries. For this purpose, eharmony uses a service provider based in the USA with whom eharmony has a data processing agreement. eharmony transfers your IP address and your profile ID to this service provider when using the video chat feature. The service provider also stores data regarding the time and duration of any video chat calls. This data processing is necessary technically and for billing purposes. The video communication is encrypted end-to-end. Video and audio content is not stored. eharmony does not collect or transfer any other data in connection with video chat. If you do not want eharmony to transfer your IP address and your profile ID to its service provider, or do not want the time and duration of the chat to be stored, you should not use the video chat function.
 
@@ -165,7 +165,7 @@ In your profile under “Notification options,” you can also choose to receive
 
 As long as your email provider supports “Transport Layer Security” (TLS) transport encryption, these promotional emails (including our personalised guidance) are protected in transit via TLS transfer encryption.
 
-**You can object to our use of your email address for promotional purposes or personal guidance, upon registration or later at any time, either by: (i) clicking on the link in our emails to adjust your email notification settings, (ii) adjusting your settings in your profile under [“Notification options”](https://www.eharmony.co.uk/settings/notificationoptions), or (iii) contacting us using the information in the [Contact](#pp07) section. Members who have not yet completed the compatibility quiz may use this [link](https://www.eharmony.co.uk/settings/notificationoptions) for an objection.** You may re-subscribe to receive such emails in your profile under [“Notification options”](https://www.eharmony.co.uk/settings/notificationoptions) at any time.
+**You can object to our use of your email address for promotional purposes or personal guidance, upon registration or later at any time, either by: (i) clicking on the link in our emails to adjust your email notification settings, (ii) adjusting your settings in your profile under [“Notification options”](https://www.eharmony.co.uk/%20settings/notificationoptions), or (iii) contacting us using the information in the [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) section. Members who have not yet completed the compatibility quiz may use this [link](https://www.eharmony.co.uk/%20settings/notificationoptions) for an objection.** You may re-subscribe to receive such emails in your profile under [“Notification options”](https://www.eharmony.co.uk/%20settings/notificationoptions) at any time.
 
 **Push Messages**
 
@@ -175,7 +175,7 @@ Within the use of the app, you may receive "push messages" from us, even when yo
 
 **What information does eharmony collect when using the eharmony website?**
 
-Every time you access the eharmony website, we will collect your usage data. This means that, even if you have not signed up to be an eharmony member, we will collect and use this information about you. This data is sent to us by your Internet browser and is stored in log files. This data includes:
+Every time you access the eharmony website, we will collect your usage data. This means that, even if you have not signed up to be a eharmony member, we will collect and use this information about you. This data is sent to us by your Internet browser and is stored in log files. This data includes:
 
 *   Information about your browser type and your internet service provider, as well as your operating system (for example Windows 7, Apple OS, etc.)
 *   The IP address (Internet Protocol address) of the device you use to access our website or Service (for example, your computer, tablet or smartphone). We will also compare your IP address against a geo-database to collect information about your location, such as your country, state and city.In this context eharmony uses MaxMind (see explanations below)
@@ -188,9 +188,9 @@ Every time you access the eharmony website, we will collect your usage data. Thi
 *   Session participant´s pseudonym
 *   Screen resolution used on your device
 
-Each time an eharmony member logs in to our network, we also collect their eharmony user identifier.
+Each time a eharmony member logs in to our network, we also collect their eharmony user identifier.
 
-While using the website, and in addition to the data mentioned above, cookies or pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://uk.eharmony.com/cookiesandtracking).
+While using the website, and in addition to the data mentioned above, cookies or pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
 What information does eharmony collect when using the eharmony app?
 
@@ -212,7 +212,7 @@ Every time you access the eharmony app, we will collect your usage data. This da
 *   Status message as to whether you were successfully able to access the app
 *   Session identifier
 
-While using the app, and in addition to the data mentioned above, tracking technologies or pseudonym IDs (such as your AD-ID (e.g. the Apple IDFA (Identifier for Advertisers) or the Google Advertising ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+While using the app, and in addition to the data mentioned above, tracking technologies or pseudonym IDs (such as your AD-ID (e.g. the Apple IDFA (Identifier for Advertisers) or the Google Advertising ID) may also be stored on your device, when you visit, or after you visited, our online content. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
 **Login data**
 
@@ -223,7 +223,7 @@ We also collect the following usage data each time an eharmony member logs in to
 *   IP address (Internet Protocol Address)
 *   Device ID (e.g. UDID) to identify your device for a secured authentication.
 
-While using the app, and in addition to the data mentioned above, pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our app. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+While using the app, and in addition to the data mentioned above, pseudonym IDs (such as user-ID, ad-ID) may also be stored on your device, when you visit, or after you visited, our app. You will find specific information about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
 **GPS data when using the app**
 
@@ -270,7 +270,7 @@ Processing purposes
 
 eharmony processes the personal data of its users for the following purposes and legal bases. If data processing is based on the legal basis of a legitimate interest, we will also explain our legitimate interest in data processing to you below:
 
-*   To provide the eharmony platform and thereby perform our Services as described in our [General Terms and Conditions](https://www.eharmony.co.uk/termsandconditions/).In particular, this includes:
+*   To provide the eharmony platform and thereby perform our Services as described in our [General Terms and Conditions](https://eharmony.co.uk/termsandconditions/).In particular, this includes:
 
 *   Provision of our website for non-registered users;
 *   Use of our website and app for registered eharmony members;
@@ -281,14 +281,15 @@ eharmony processes the personal data of its users for the following purposes and
 (The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).*   To provide a login via the eharmony platform, Facebook login or Apple login. (The legal basis of processing is contractual necessity.)
 *   For the prevention of and defence against abuse. eharmony automatically collects, processes and uses personal data and geodata we collect during your registration and the completion of the eharmony compatibility quiz and/or your eharmony profile, to check for any evidence of the misuse of the platform. This information is stored in a database and compared against empirical values and information. If our automated processing activities suggest that our Service has been misused, an eharmony employee will review the relevant rating and underlying clues, as well as the information in your profile (including any wording and photos you have provided) to confirm whether this is the case. In addition, Customer care representatives perform profile checks to check members’ profiles that have been reported by other members through the function “suspicious profile?” or as having breached our General Terms and Conditions. Furthermore, as mentioned above, if you have provided your mobile phone number, eharmony may use this information to carry out an identity check (SMS verification),(i.e. to check that you are who you say you are). (The legal basis for these activities is the legitimate interests of eharmony and our eharmony members, to ensure that the eharmony Service is not used in a way that is in breach of our General Terms and Conditions and/or the law. In doing so, we also comply with our legal obligation regarding data security to guarantee system security and to detect and trace unauthorised access attempts or accesses.)
 *   For automated price determination reasons. In principle, we do not use fully automated individual decision-making in accordance with Article 22 GDPR, but we do process some of your data automatically in order to offer you suitable products. The following data is used for this purpose: age, income, registration device (app or website ). (The legal basis for these activities is contractual necessity as well as our legitimate interest in contacting our users through targeted and individual communications.)
-*   To ensure that you comply with your obligations under your subscription and our General Terms and Conditions, including your payment obligation (which concerns only Premium members). If you do not pay outstanding invoices / instalments despite repeated reminders, we will transfer the data that are required for the execution of a debt collection procedure to a debt collection service provider for the purpose of fiduciary debt collection. In the event of disputed claims, we also transfer any necessary data to our payment services providers for the purpose of asserting our rights (e.g. within the framework of conflict resolution for chargebacks). (The legal basis for these activities is the legitimate interests of eharmony to ensure that (as applicable) you provide the agreed payment for our Service in accordance with your subscription.)
+*   To ensure that you comply with your obligations under your subscription and our General Terms and Conditions, including your payment obligation (which concerns only Premium members). If you do not pay outstanding invoices / instalments despite repeated reminders, we will transfer the data that are required for the execution of a debt collection procedure to a debt collection service provider for the purpose of fiduciary debt collection. In the event of payment disputes, we also transfer data as necessary and appropriate for the purpose of asserting our rights (e.g. to requesting banks or payment service providers in the event of disputed payment obligations and/or within the framework of conflict resolution for chargebacks). (The legal basis for these activities is the legitimate interests of eharmony to ensure that (as applicable) you provide the agreed payment for our Service in accordance with your subscription.)
 *   For the protection and defence of our rights and the fulfilment of legal obligations. (The legal basis for these activities is the fulfilment of our legal obligations and our legitimate interest in asserting and defending our rights.)
 *   For the purposes of sending advertising relating to our own products through promotional emails and/or push messages, newsletters, surveys and personalised guidance. (The legal basis is our legitimate interests in relation to sending direct marketing about our own products. The legal basis in some instances is also your consent.)
 *   To comply with statutory retention obligations and other statutory or legal obligations and provisions (e.g. in connection with tax audits, official or judicial orders for information or other purposes). (The legal basis is the fulfilment of our legal obligations).
 *   To answer communications or questions from you. (The legal basis is contractual necessity, complying with our legal obligations, and eharmony’s and our users’ legitimate interests in offering/receiving customer service and improving the customer experience.)
 *   To publish your love story (success story) on the eharmony website and other online and offline channels with your consent. (The legal basis is your consent.)
+*   To send you other service-related emails/messages, including invitations to review eharmony services. For this purpose, we may also contract with and send limited personal information (email, name, and customer reference number) to third parties to facilitate sending such emails/messages on our behalf. (The legal basis is our contractual relationship and our legitimate interests in managing our relationship and improving our services, which may include sending service communications including asking you, directly or via a service provider, to leave a review or take a survey.)
 
-You will find the processing purposes and legal basis for the processing of personal data regarding the use of “cookies” and other tracking technologies when using eharmony in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+You will find the processing purposes and legal basis for the processing of personal data regarding the use of “cookies” and other tracking technologies when using eharmony in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
 Legal basis for the processing of personal data
 
@@ -310,19 +311,19 @@ We may share your personal information within our group of companies, and other 
 In the following cases, personal data may also be transferred to third parties:
 
 *   to service providers, if the data is required for the fulfilment of their data processing agreement with us;
-*   any providers of marketing tracking technologies and analysis tools (you can find out more about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking);
+*   any providers of marketing tracking technologies and analysis tools (you can find out more about this in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/);
 *   where we are obliged to do so by law, a regulator or an enforceable official order;
 *   in connection with legal disputes (vis-à-vis courts or our lawyers), debt collections or audits (vis-à-vis chartered accountants/tax auditors);
 *   relevant investigating authorities in connection with possible criminal offences;
 *   in the event of the sale of the business (vis-à-vis the purchaser).
 
-Insofar as data is regularly transferred to other third parties, this is explained in our privacy policy and/or our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking). If the transfer takes place on the basis of consent, the explanation may also be provided when obtaining consent.
+Insofar as data is regularly transferred to other third parties, this is explained in our privacy policy and/or our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/). If the transfer takes place on the basis of consent, the explanation may also be provided when obtaining consent.
 
 **Transfers to service providers**
 
 eharmony may use service providers when collecting or processing your personal data. eharmony will ensure that service provider only receive that portion of your personal data they need for their specific activity.
 
-In addition to those already expressly mentioned in this privacy policy and/or in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking), eharmony uses, amongst others, service providers to send promotional emails and push messages to members. In addition, eharmony uses service providers to provide our servers. If you subscribed to your Premium Membership over the website, we also use external payment services and service providers to help us with the settlement of payments and debt collection. Depending on the particular payment method you choose when purchasing your Premium Membership over our website, eharmony will send your payment information to the bank or to the particular payment service provider that we have appointed. Please be aware that such payment service providers will be responsible for their use of your personal data for their own purposes (i.e., to process your payment). As such, the privacy policy of the respective payment service provider will also apply.
+In addition to those already expressly mentioned in this privacy policy and/or in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/), eharmony uses, amongst others, service providers to send promotional emails and push messages to members. eharmony may also share personal data with third party service providers to send service-related messages and receive customer review management services (e.g., with Trustpilot, whose privacy notice is available here). In addition, eharmony uses service providers to provide our servers. If you subscribed to your Premium Membership over the website, we also use external payment services and service providers to help us with the settlement of payments and debt collection. Depending on the particular payment method you choose when purchasing your Premium Membership over our website, eharmony will send your payment information to the bank or to the particular payment service provider that we have appointed. Please be aware that such payment service providers will be responsible for their use of your personal data for their own purposes (i.e., to process your payment). As such, the privacy policy of the respective payment service provider will also apply.
 
 Generally, the service providers that we appoint are engaged as our processor and may only use the personal data of our membersin accordance with our instructions.
 
@@ -332,7 +333,7 @@ Please note that if you purchase a Premium Membership over the eharmony app, eha
 
 eHarmony may disclose your personal data to third-party controllers (joint or independent) or to our processors who are located outside the UK and European Economic Area (“EEA”) (collectively, “Europe”). When this happens, (and before disclosing your data) we ensure that the recipient has an adequate level of protection to enable the lawful transfer of your data. For example, this may be because the recipient is in a country that a competent authority has determined offers an adequate level of data protection in accordance with Article 45 UK GDPR; or has entered into standard data protection clauses and implemented appropriate technical and organizational measures; or (where permitted by law) because you have expressly consented to this transfer.
 
-We can provide you with an overview of recipients (processor) in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection (standard contractual clauses). Please use the information provided under [Contact](#pp07) for this purpose.
+We can provide you with an overview of recipients (processor) in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection (standard contractual clauses). Please use the information provided under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) for this purpose.
 
 How do we protect your personal data?
 
@@ -410,15 +411,15 @@ Under the UK GDPR and data protection laws, you have rights, including:
 
 **Your right to data portability** – This right only applies if we are processing information based on your consent or for the performance of a contract and the processing is automated.
 
-If you would like to exercise any of your rights, please use the information under [Contact](#pp07). Please also ensure that when you do so, we will be able to clearly identify you.
+If you would like to exercise any of your rights, please use the information under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1). Please also ensure that when you do so, we will be able to clearly identify you.
 
 Alternatively, you may use the setting options in your eharmony profile to rectify certain information that you provided during your registration or to object to advertising.
 
-You can also delete your data or your complete profile from an eharmony Basic Membership yourself in your profile (if you have completed the eharmony compatibility quiz). To do this, log in to your profile on the eharmony website and delete your profile under [Data & Settings / Profile](https://eharmony.co.uk/settings/dataandsettings). Alternatively, Basic Members can contact our customer service using the information under [Contact](#pp07) and request the deletion of their data. However, please note that Premium Members can only delete data regarding their Premium Membership by contacting our customer care.
+You can also delete your data or your complete profile from an eharmony Basic Membership yourself in your profile (if you have completed the eharmony compatibility quiz). To do this, log in to your profile on the eharmony website and delete your profile under [Data & Settings / Profile](https://eharmony.co.uk/settings/dataandsettings). Alternatively, Basic Members can contact our customer service using the information under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) and request the deletion of their data. However, please note that Premium Members can only delete data regarding their Premium Membership by contacting our customer care.
 
 **Right to lodge a complaint with a supervisory authority**
 
-You have the right to file a complaint with a data protection authority. If you are located in the UK, you can contact the UK’s data protection authority, the Information Commissioner’s Office, at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, Telephone Number: + 44 (0) 303 123 1113, Email: [casework@ico.org.uk](mailto:mailbox%40casework@ico.org.uk).
+You have the right to file a complaint with a data protection authority. If you are located in the UK, you can contact the UK’s data protection authority, the Information Commissioner’s Office, at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, Telephone Number: + 44 (0) 303 123 1113, Email: [casework@ico.org.uk](mailto:casework@ico.org.uk).
 
 If you are located elsewhere in Europe, you can contact your local data protection authority or our appointed data protection authority. This is:
 
@@ -430,4 +431,4 @@ In general, if social media plugins are used, the provider of such plugins will 
 
 Cookies & other tracking technologies
 
-You will find information on cookies and other tracking technologies that are used on our website and in our app in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking). If personal data is processed in connection with tracking-based processes, you will also find detailed information on the reasons for doing so there. Information on how to object to this type of data processing is also provided in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking).
+You will find information on cookies and other tracking technologies that are used on our website and in our app in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/). If personal data is processed in connection with tracking-based processes, you will also find detailed information on the reasons for doing so there. Information on how to object to this type of data processing is also provided in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
