@@ -1,4 +1,4 @@
-[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25.pdf)
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25)
 
 ### eharmony - United Kingdom
 
