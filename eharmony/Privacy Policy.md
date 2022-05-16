@@ -1,4 +1,4 @@
-[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25)
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25.pdf)
 
 ### eharmony - United Kingdom
 
@@ -153,7 +153,7 @@ If you contact our customer care, please note the following: if you communicate 
 
 Please note that, in principle, communications between you and eharmony will only be conducted via the email address associated with your eharmony account. Members who are registered via Apple and have hidden their email address will only receive communications if the automatic forwarding function is activated through Apple. Please bear in mind that Apple does not inform us whether you have activated the forwarding function.
 
-If you would prefer not to contact our customer care by email (for example, because you are concerned that your email provider does not support TLS encryption or the content of our email is not encrypted), please contact eharmony by post or fax instead. You will find our contact details under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1)
+If you would prefer not to contact our customer care by email (for example, because you are concerned that your email provider does not support TLS encryption or the content of our email is not encrypted), please contact eharmony by post or fax instead. You will find our contact details under [Contact](#pp07)
 
 As a Premium Member, as well as in some promotions for Basic Members, you have the opportunity to communicate with other members via video chat in selected countries. For this purpose, eharmony uses a service provider based in the USA with whom eharmony has a data processing agreement. eharmony transfers your IP address and your profile ID to this service provider when using the video chat feature. The service provider also stores data regarding the time and duration of any video chat calls. This data processing is necessary technically and for billing purposes. The video communication is encrypted end-to-end. Video and audio content is not stored. eharmony does not collect or transfer any other data in connection with video chat. If you do not want eharmony to transfer your IP address and your profile ID to its service provider, or do not want the time and duration of the chat to be stored, you should not use the video chat function.
 
@@ -165,7 +165,7 @@ In your profile under “Notification options,” you can also choose to receive
 
 As long as your email provider supports “Transport Layer Security” (TLS) transport encryption, these promotional emails (including our personalised guidance) are protected in transit via TLS transfer encryption.
 
-**You can object to our use of your email address for promotional purposes or personal guidance, upon registration or later at any time, either by: (i) clicking on the link in our emails to adjust your email notification settings, (ii) adjusting your settings in your profile under [“Notification options”](https://www.eharmony.co.uk/%20settings/notificationoptions), or (iii) contacting us using the information in the [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) section. Members who have not yet completed the compatibility quiz may use this [link](https://www.eharmony.co.uk/%20settings/notificationoptions) for an objection.** You may re-subscribe to receive such emails in your profile under [“Notification options”](https://www.eharmony.co.uk/%20settings/notificationoptions) at any time.
+**You can object to our use of your email address for promotional purposes or personal guidance, upon registration or later at any time, either by: (i) clicking on the link in our emails to adjust your email notification settings, (ii) adjusting your settings in your profile under [“Notification options”](https://www.eharmony.co.uk/settings/notificationoptions), or (iii) contacting us using the information in the [Contact](#pp07) section. Members who have not yet completed the compatibility quiz may use this [link](https://www.eharmony.co.uk/settings/notificationoptions) for an objection.** You may re-subscribe to receive such emails in your profile under [“Notification options”](https://www.eharmony.co.uk/settings/notificationoptions) at any time.
 
 **Push Messages**
 
@@ -333,7 +333,7 @@ Please note that if you purchase a Premium Membership over the eharmony app, eha
 
 eHarmony may disclose your personal data to third-party controllers (joint or independent) or to our processors who are located outside the UK and European Economic Area (“EEA”) (collectively, “Europe”). When this happens, (and before disclosing your data) we ensure that the recipient has an adequate level of protection to enable the lawful transfer of your data. For example, this may be because the recipient is in a country that a competent authority has determined offers an adequate level of data protection in accordance with Article 45 UK GDPR; or has entered into standard data protection clauses and implemented appropriate technical and organizational measures; or (where permitted by law) because you have expressly consented to this transfer.
 
-We can provide you with an overview of recipients (processor) in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection (standard contractual clauses). Please use the information provided under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) for this purpose.
+We can provide you with an overview of recipients (processor) in third countries and a copy of agreed-upon regulations regarding ensuring an adequate level of data protection (standard contractual clauses). Please use the information provided under [Contact](#pp07) for this purpose.
 
 How do we protect your personal data?
 
@@ -411,11 +411,11 @@ Under the UK GDPR and data protection laws, you have rights, including:
 
 **Your right to data portability** – This right only applies if we are processing information based on your consent or for the performance of a contract and the processing is automated.
 
-If you would like to exercise any of your rights, please use the information under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1). Please also ensure that when you do so, we will be able to clearly identify you.
+If you would like to exercise any of your rights, please use the information under [Contact](#pp07). Please also ensure that when you do so, we will be able to clearly identify you.
 
 Alternatively, you may use the setting options in your eharmony profile to rectify certain information that you provided during your registration or to object to advertising.
 
-You can also delete your data or your complete profile from an eharmony Basic Membership yourself in your profile (if you have completed the eharmony compatibility quiz). To do this, log in to your profile on the eharmony website and delete your profile under [Data & Settings / Profile](https://eharmony.co.uk/settings/dataandsettings). Alternatively, Basic Members can contact our customer service using the information under [Contact](https://www.eharmony.co.uk/privacypolicy/_Contact_1) and request the deletion of their data. However, please note that Premium Members can only delete data regarding their Premium Membership by contacting our customer care.
+You can also delete your data or your complete profile from an eharmony Basic Membership yourself in your profile (if you have completed the eharmony compatibility quiz). To do this, log in to your profile on the eharmony website and delete your profile under [Data & Settings / Profile](https://eharmony.co.uk/settings/dataandsettings). Alternatively, Basic Members can contact our customer service using the information under [Contact](#pp07) and request the deletion of their data. However, please note that Premium Members can only delete data regarding their Premium Membership by contacting our customer care.
 
 **Right to lodge a complaint with a supervisory authority**
 
