@@ -1,4 +1,4 @@
-[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1652276083494)
+[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1653379842366)
 
 Privacy Policy for the Use of LOVOO
 ===================================
@@ -43,11 +43,11 @@ Unless otherwise specified in this Privacy Policy or our [Cookie and Tracking Po
 
 If you would like to get in touch with us, you can contact us using the following information:
 
-LOVOO GmbH, Customer Care Team, Prager Strasse 10, 01069 Dresden, Germany, [datenschutz@lovoo.de](mailto:datenschutz@lovoo.com) (email)
+LOVOO GmbH, Customer Care Team, Prager Strasse 10, 01069 Dresden, Germany, [datenschutz@lovoo.com](mailto:datenschutz@lovoo.com) (email)
 
 **Our Data Protection Officer can be reached at:**
 
-Dr. Stefanie Wegener, [datenschutz@lovoo.de](mailto:datenschutz@lovoo.com) (email)
+Dr. Stefanie Wegener, [datenschutz@lovoo.com](mailto:datenschutz@lovoo.com) (email)
 
 c/o PE Digital GmbH
 
