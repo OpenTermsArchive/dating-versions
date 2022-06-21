@@ -1,4 +1,4 @@
-[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_04_25.pdf)
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_06_21.pdf)
 
 ### eharmony - United Kingdom
 
@@ -6,7 +6,7 @@
 
   
 
-Version: 25. April 2022
+Version: 21 June 2022
 
   
 
@@ -150,12 +150,13 @@ If you contact our customer care, please note the following: if you communicate 
 
 1.  using the online contact form: the content of your message to us will be encrypted in transit; provided that your email provider supports Transport Layer Security (TLS) transfer encryption.
 2.  via email: the content of your message to us will only be protected in transit via TLS transfer encryption if your email provider supports TLS transport encryption.
+3.  (if available) via chat function for logged-in members in the customer service portal, the transmission of chat communication is SSL-encrypted (transport encryption). If the chat function is used with customer service, an appropriate chat report will be provided.
 
 Please note that, in principle, communications between you and eharmony will only be conducted via the email address associated with your eharmony account. Members who are registered via Apple and have hidden their email address will only receive communications if the automatic forwarding function is activated through Apple. Please bear in mind that Apple does not inform us whether you have activated the forwarding function.
 
 If you would prefer not to contact our customer care by email (for example, because you are concerned that your email provider does not support TLS encryption or the content of our email is not encrypted), please contact eharmony by post or fax instead. You will find our contact details under [Contact](#pp07)
 
-As a Premium Member, as well as in some promotions for Basic Members, you have the opportunity to communicate with other members via video chat in selected countries. For this purpose, eharmony uses a service provider based in the USA with whom eharmony has a data processing agreement. eharmony transfers your IP address and your profile ID to this service provider when using the video chat feature. The service provider also stores data regarding the time and duration of any video chat calls. This data processing is necessary technically and for billing purposes. The video communication is encrypted end-to-end. Video and audio content is not stored. eharmony does not collect or transfer any other data in connection with video chat. If you do not want eharmony to transfer your IP address and your profile ID to its service provider, or do not want the time and duration of the chat to be stored, you should not use the video chat function.
+As a Premium Member, as well as in some promotions for Basic Members, you have the opportunity to communicate with other members via video chat in selected countries. For this purpose, eharmony uses a service provider based in the USA with whom eharmony has a data processing agreement. Standard contractual clauses are integrated in this agreement and the use of additional technical and organisational security measures is contractually guaranteed. eharmony transfers your IP address and your profile ID to this service provider when using the video chat feature. The service provider also stores data regarding the time and duration of any video chat calls. This data processing is necessary technically and for billing purposes. The video communication is encrypted end-to-end. Video and audio content is not stored. eharmony does not collect or transfer any other data in connection with video chat. If you do not want eharmony to transfer your IP address and your profile ID to its service provider, or do not want the time and duration of the chat to be stored, you should not use the video chat function.
 
 **Promotional emails - Messages**
 
@@ -278,10 +279,11 @@ eharmony processes the personal data of its users for the following purposes and
 *   Facilitation of the conclusion of a contract, incl. invoicing;
 *   Sending emails and/or push messages regarding matches or other contractually relevant messages.
 
-(The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).*   To provide a login via the eharmony platform, Facebook login or Apple login. (The legal basis of processing is contractual necessity.)
+(The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).*   For so-called A/B testing. (The legal basis is Parship’s legitimate interest in improving the user-friendliness and enhancing the attractiveness of our website.)
+*   To provide a login via the eharmony platform, Facebook login or Apple login. (The legal basis of processing is contractual necessity.)
 *   For the prevention of and defence against abuse. eharmony automatically collects, processes and uses personal data and geodata we collect during your registration and the completion of the eharmony compatibility quiz and/or your eharmony profile, to check for any evidence of the misuse of the platform. This information is stored in a database and compared against empirical values and information. If our automated processing activities suggest that our Service has been misused, an eharmony employee will review the relevant rating and underlying clues, as well as the information in your profile (including any wording and photos you have provided) to confirm whether this is the case. In addition, Customer care representatives perform profile checks to check members’ profiles that have been reported by other members through the function “suspicious profile?” or as having breached our General Terms and Conditions. Furthermore, as mentioned above, if you have provided your mobile phone number, eharmony may use this information to carry out an identity check (SMS verification),(i.e. to check that you are who you say you are). (The legal basis for these activities is the legitimate interests of eharmony and our eharmony members, to ensure that the eharmony Service is not used in a way that is in breach of our General Terms and Conditions and/or the law. In doing so, we also comply with our legal obligation regarding data security to guarantee system security and to detect and trace unauthorised access attempts or accesses.)
 *   For automated price determination reasons. In principle, we do not use fully automated individual decision-making in accordance with Article 22 GDPR, but we do process some of your data automatically in order to offer you suitable products. The following data is used for this purpose: age, income, registration device (app or website ). (The legal basis for these activities is contractual necessity as well as our legitimate interest in contacting our users through targeted and individual communications.)
-*   To ensure that you comply with your obligations under your subscription and our General Terms and Conditions, including your payment obligation (which concerns only Premium members). If you do not pay outstanding invoices / instalments despite repeated reminders, we will transfer the data that are required for the execution of a debt collection procedure to a debt collection service provider for the purpose of fiduciary debt collection. In the event of payment disputes, we also transfer data as necessary and appropriate for the purpose of asserting our rights (e.g. to requesting banks or payment service providers in the event of disputed payment obligations and/or within the framework of conflict resolution for chargebacks). (The legal basis for these activities is the legitimate interests of eharmony to ensure that (as applicable) you provide the agreed payment for our Service in accordance with your subscription.)
+*   To ensure that you comply with your obligations under your subscription and our General Terms and Conditions, including your payment obligation (which concerns only Premium members). If you do not pay outstanding invoices / instalments despite repeated reminders, we will transfer the data that are required for the execution of a debt collection procedure to a debt collection service provider for the purpose of fiduciary debt collection. In the event of payment disputes, we also transfer data as necessary and appropriate for the purpose of asserting our rights (e.g. in the case of disputed payment obligations, requests from banks, or within the framework of conflict resolution for chargebacks). (The legal basis for these activities is the legitimate interests of eharmony to ensure that (as applicable) you provide the agreed payment for our Service in accordance with your subscription.)
 *   For the protection and defence of our rights and the fulfilment of legal obligations. (The legal basis for these activities is the fulfilment of our legal obligations and our legitimate interest in asserting and defending our rights.)
 *   For the purposes of sending advertising relating to our own products through promotional emails and/or push messages, newsletters, surveys and personalised guidance. (The legal basis is our legitimate interests in relation to sending direct marketing about our own products. The legal basis in some instances is also your consent.)
 *   To comply with statutory retention obligations and other statutory or legal obligations and provisions (e.g. in connection with tax audits, official or judicial orders for information or other purposes). (The legal basis is the fulfilment of our legal obligations).
@@ -298,6 +300,7 @@ Legal basis for the processing of personal data
 *   When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis is point (b) of Article 6(1) UK GDPR. This also applies to any processing that is required to carry out any pre-contractual actions.
 *   When the processing of your personal data is required to fulfil a legal obligation, our legal basis is point (c) of Article 6(1) UK GDPR.
 *   If the processing is necessary to safeguard the legitimate interests of eharmony or a third party, such as our members, and the interests, fundamental rights and freedoms of the data subject do not override those legitimate interests, our legal basis for the processing is point (f) of Article 6(1) UK GDPR.
+*   For further data processing, Art. 6 (1) UK GDPR takes effect in its relevant littera depending on the data processing constellation.
 *   When the processing of personal data is required for our own marketing (either in relation to Basic Membership or Premium Membership), the legal basis for the processing is point (f) of Article 6(1) UK GDPR.
 
 When the legal basis for processing is your consent, you are entitled to withdraw your consent at any time. However, this withdrawal will not affect the lawfulness of any processing carried out on the basis of your consent before your withdrawal. If the legal basis is a legitimate interest, you are also entitled, in general, to object to the processing of your personal data, at any time, for reasons arising from your specific situation. Article 21 UK GDPR applies in this respect.
@@ -350,15 +353,25 @@ In this context, eharmony also uses service providers from the USA. In particula
 
 **Cloudflare**
 
-In order to secure this website and optimize loading times (SSL certificate) we use a "Content Delivery Network" (CDN). This CDN is a service of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, USA. Therefore, registration and login requests are routed through the Cloudflare server and consolidated into statistics that cannot be deactivated.
+In order to secure this website and optimize loading times we use a "Content Delivery Network" (CDN). This CDN is a service of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, USA. Use of the Cloudflare service requires website enquiries and website content to be transmitted and processed via its server. In connection with this, data is consolidated to form statistics, which cannot be deactivated.
 
-We have an agreement with Cloudflare for order processing, based on EU Standard Contractual Clauses.
+We have entered into a processing agreement with Cloudflare on the basis of the standard contractual clauses as defined by the EU Commission on 4 June 2021 and the use of additional technical and organisational security measures.
 
 [Here](https://www.cloudflare.com/en-gb/privacypolicy/) you can find information about the data collected by Cloudflare.
 
 **MaxMind**
 
-Eharmony uses the GeoIP2 Precision City geolocation service from MaxMind, Inc, Waltham, MA, 14 Spring St., Suite 3, Waltham, Massachusetts 02451, USA. With this service, we use IP addresses to determine approximate location/geolocation data based on the country of origin. No personal data is exchanged with MaxMind. [Here](https://www.maxmind.com/en/privacy-policy) you can find further information about MaxMind.
+Eharmony uses the GeoIP2 Precision City geolocation service from MaxMind, Inc, Waltham, MA, 14 Spring St., Suite 3, Waltham, Massachusetts 02451, USA. With this service, we use IP addresses to determine approximate location/geolocation data based on the country of origin. No personal data is exchanged with MaxMind.
+
+[Here](https://www.maxmind.com/en/privacy-policy) you can find further information about MaxMind.
+
+**iovation**
+
+In order to protect the Parship platform and Parship users from fraud and abuse, Parship employs the abuse prevention service provided by iovation Inc. 555 SW Oak Street #300, Portland, OR 97204, USA. iovation checks your IP address, date and time of access, referrer URL and browser information when you access the Parship platform in order to determine the probability of fraudulent behaviour. All personal data received by iovation is pseudonymised, encrypted and subject to principles of data minimisation.
+
+We have concluded an agreement with iovation as independent controllers on the basis of the EU standard contractual clauses (Module 1).
+
+You can find out more about iovation [here](https://www.transunion.com/privacy/iovation).
 
 Duration of storage; retention obligations
 
