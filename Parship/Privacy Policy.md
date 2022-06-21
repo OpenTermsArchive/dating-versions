@@ -1,10 +1,10 @@
-[Imprimer et enregistrer en format pdf](https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Privacy_Policy_2022_01_31.pdf)
+[Imprimer et enregistrer en format pdf](https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Privacy_Policy_2022_06_21.pdf)
 
 ### Politique de protection des données pour l’utilisation de Parship - France
 
   
 
-Dernière mise à jour : 31.01.2022
+Dernière mise à jour : 21.06.2022
 
 Merci d’utiliser Parship ! Vous trouverez ici des informations concernant les données à caractère personnel recueillies par Parship, la façon dont nous traitons ces données et les options dont vous disposez en tant qu’utilisateur.
 
@@ -113,7 +113,7 @@ De plus, dans le cadre de l’exécution de ses services, Parship demande à ses
 
 Toutes les données du profil Parship sont visibles sur le site web et l’application pour les autres utilisateurs connectés. En particulier, l’âge, le lieu de résidence ou code postal, et les centres d'intérêt du client sont visibles.
 
-Parship offre la possibilité de fournir un numéro de téléphone mobile dans le cadre d’un « ID Check » (vérification d’identité) ou pour la réception de messages envoyés par Parship. Il n'est pas nécessaire de fournir un numéro de téléphone mobile pour utiliser le service Parship.
+Parship offre la possibilité de fournir un numéro de téléphone mobile dans le cadre d’une « vérification par SMS » ou pour la réception de messages envoyés par Parship. Il n'est pas nécessaire de fournir un numéro de téléphone mobile pour utiliser le service Parship.
 
 **Souscription d'un Abonnement Premium**
 
@@ -133,12 +133,13 @@ Veuillez prendre note des informations suivantes concernant la communication ave
 
 1.  par l’intermédiaire du formulaire de contact, la transmission du formulaire est cryptée. La transmission de notre réponse à votre demande est cryptée, dans la mesure où votre fournisseur de messagerie prend en charge le cryptage de transport Transport Layer Security (TLS),
 2.  par e-mail, la transmission de l’e-mail est cryptée, dans la mesure où votre fournisseur de messagerie prend en charge le cryptage de transport Transport Layer Security (TLS).
+3.  – si la fonction est proposée – via la fonction de chat pour les membres connectés au portail du service client, la transmission de la communication par chat est chiffrée en SSL (le SSL est un chiffrement de la couche de transport). Si la fonction de chat est utilisée pour communiquer avec le service client, un protocole de chat correspondant est mis à disposition.
 
 Si vous souhaitez une communication par e-mail avec cryptage du contenu, veuillez contacter Parship par courrier ou par fax. Vous trouverez nos coordonnées dans la rubrique [Contact](#pp07).
 
 Veuillez noter qu’en règle générale, la communication entre Parship et vous se fera uniquement par l’intermédiaire de l’adresse e-mail associée à votre compte Parship. Les membres qui se sont inscrits via Apple et ont masqué leur adresse électronique ne recevront nos communications que si la fonction de transfert automatique est activée chez Apple. Veuillez noter qu’Apple ne nous indique pas si vous avez activé la fonction de transfert.
 
-En tant que Membre Premium, et dans le cadre d’opérations publicitaires destinées aux Membres Basic, vous avez la possibilité, dans tous les pays, de communiquer avec d'autres membres via un chat vidéo. À cette fin, Parship fait appel à un fournisseur de services basé aux États-Unis, avec lequel Parship a conclu un contrat de traitement des données. Les clauses contractuelles types de l'UE sont intégrées dans ce contrat. Lors de l'utilisation du chat vidéo, Parship transmet votre adresse IP ainsi que votre Chiffre à son fournisseur de services. En outre, le fournisseur de services enregistre l'heure et la durée du chat. Le traitement des données susmentionnées est nécessaire à des fins techniques et de facturation. La communication vidéo est cryptée de bout en bout. Les contenus vidéo et audio ne sont pas stockés. Parship ne collectera ni ne transmettra pas d'autres données dans le cadre du chat vidéo. Si vous ne souhaitez pas que Parship transmette votre adresse IP et votre ID à son fournisseur de service, ni ne mémorise l'heure et la durée du chat, vous ne devez pas utiliser la fonction de chat vidéo.
+En tant que Membre Premium, et dans le cadre d’opérations publicitaires destinées aux Membres Basic, vous avez la possibilité, dans tous les pays, de communiquer avec d'autres membres via un chat vidéo. À cette fin, Parship fait appel à un fournisseur de services basé aux États-Unis, avec lequel Parship a conclu un contrat de traitement des données. Les clauses contractuelles types de l'UE sont intégrées dans ce contrat et l’utilisation de mesures de protection techniques et organisationnelles est contractuellement garantie. Lors de l'utilisation du chat vidéo, Parship transmet votre adresse IP ainsi que votre Chiffre à son fournisseur de services. En outre, le fournisseur de services enregistre l'heure et la durée du chat. Le traitement des données susmentionnées est nécessaire à des fins techniques et de facturation. La communication vidéo est cryptée de bout en bout. Les contenus vidéo et audio ne sont pas stockés. Parship ne collectera ni ne transmettra pas d'autres données dans le cadre du chat vidéo. Si vous ne souhaitez pas que Parship transmette votre adresse IP et votre ID à son fournisseur de service, ni ne mémorise l'heure et la durée du chat, vous ne devez pas utiliser la fonction de chat vidéo.
 
 **E-mails publicitaires - Newsletters – Messages**
 
@@ -150,7 +151,7 @@ Par ailleurs, au cours de votre abonnement Parship, vous recevrez des e-mails co
 
 Les e-mails publicitaires (y compris les newsletters et les conseils) sont chiffrés lors du transfert, à condition que votre fournisseur de courrier électronique prenne en charge la technologie de chiffrement « Transport Layer Security » (TLS).
 
-**Si vous ne souhaitez plus recevoir d’e-mails publicitaires, de newsletters ou de conseils personnalisés de Parship, vous pouvez à tout moment vous opposer à l'utilisation de votre adresse e-mail enregistrée sur votre profil à de telles fins : (1) cliquez sur le lien de désabonnement au bas de chaque e-mail ou (2) ajustez vos notifications comme vous le souhaitez dans votre profil sous [« Mes données » / « Notification de réception »](https://www.parship.fr/settings/notificationoptions) ou (3) contactez le service clientèle de Parship. Les membres qui n'ont pas encore finaliser le questionnaire Parship peuvent utiliser ce [lien](https://www.parship.fr/settings/notificationoptions) pour faire part de leur opposition.** Après avoir fait opposition, vous pouvez à tout moment vous réabonner à de tels e-mails publicitaires dans votre profil, sous [« Mes données » / « Notification de réception »](https://www.parship.fr/settings/notificationoptions).
+**Si vous ne souhaitez plus recevoir d’e-mails publicitaires, de newsletters ou de conseils personnalisés de Parship, vous pouvez à tout moment vous opposer à l'utilisation de votre adresse e-mail enregistrée sur votre profil à de telles fins : (1) cliquez sur le lien de désabonnement au bas de chaque e-mail ou (2) ajustez vos notifications comme vous le souhaitez dans votre profil sous [« Mes données » (ou le symbole de la roue dentée)/ « Notification de réception »](https://www.parship.fr/settings/notificationoptions) ou (3) contactez le service clientèle de Parship. Les membres qui n'ont pas encore finaliser le questionnaire Parship peuvent utiliser ce [lien](https://www.parship.fr/settings/notificationoptions) pour faire part de leur opposition.** Après avoir fait opposition, vous pouvez à tout moment vous réabonner à de tels e-mails publicitaires dans votre profil, sous [« Mes données » (ou le symbole de la roue dentée)/ « Notification de réception »](https://www.parship.fr/settings/notificationoptions).
 
 **Messages push**
 
@@ -230,11 +231,12 @@ Parship traite les données à caractère personnel de ses utilisateurs aux fins
     *   La mise à disposition d'une possibilité de contact et le traitement des demandes via la plate-forme.
     *   La possibilité de conclure un contrat, y compris la facturation.
 *   L'envoi d’e-mails ou de notifications « push » ou d'autres messages ayant trait au contrat. (La base juridique du traitement est l'exécution du contrat avec vous. Dans certains cas, la base juridique est votre consentement. Notre obligation légale ainsi que notre intérêt légitime à proposer un service client et à améliorer l'expérience client peuvent également constituer la base juridique.)
+*   Pour les tests A/B. La base juridique de l'utilisation des tests A/B est l'intérêt légitime de Parship. Cet intérêt légitime consiste à améliorer la convivialité et l'attractivité de notre site web.
 *   Pour la mise à disposition d’une connexion via la plate-forme Parship, le login Facebook ou le login Apple. (La base juridique du traitement est l'exécution de notre contrat.)
-*   Afin de prévenir et protéger contre tout abus. Parship collecte, traite et utilise les données à caractère personnel et les données géographiques recueillies dans le cadre de votre inscription et lorsque vous renseignez le test de personnalité Parship et le profil Parship afin de vérifier automatiquement s'il existe des indices ou des données indiquant une utilisation abusive de Parship. Les données sont stockées dans une base de données et comparées à des valeurs empiriques. Si le traitement automatisé révèle une suspicion d’abus, un employé de Parship analyse les résultats de la vérification et les indices sous-jacents, puis les éventuelles informations en texte libre et photos de profil enregistrées. Par ailleurs, Parship fournit à ses membres une fonctionnalité dénommée « Signaler ce profil », et procède à des contrôles de profil par les collaborateurs du service clientèle lorsque d’autres membres ont signalé des violations du contrat. En outre, Parship utilise le numéro de téléphone portable fourni à titre volontaire pour effectuer un contrôle d'identité par téléphone portable dans le cadre d'un « ID Check ». (L’intérêt légitime de Parship et des membres de Parship à ce que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d'accès ou des accès non autorisés.)
-*   À des fins de calcul automatisé des prix. Par principe, nous n’avons pas recours à la prise de décision entièrement automatisée selon l’article 22 du RGPD, mais nous traitons vos données de manière partiellement automatisée afin de pouvoir vous proposer des offres de produits adaptées. Les données suivantes sont utilisées à cette fin : âge, sexe, revenus et code postal. (La base juridique est la réalisation de la relation contractuelle ainsi que notre intérêt légitime à nous adresser à nos utilisateurs de manière ciblée et personnalisée.)
-*   Afin de garantir l'exécution de vos obligations découlant de la relation contractuelle en cas de défaut de paiement (ceci ne s'applique qu'à l'achat de l'Abonnement Premium via Parship). Si, malgré des rappels répétés, vous ne réglez pas les factures / les paiements partiels en souffrance, nous transmettons les données nécessaires à l'exécution d'une procédure de recouvrement à un prestataire de services de recouvrement dans le but d'un recouvrement fiduciaire. En cas de créances litigieuses, nous transmettons également les données nécessaires à nos prestataires de paiement pour faire valoir nos droits (ou dans le cadre de la résolution de conflits en cas de rétrofacturation). (Outre l’exécution de la relation contractuelle, l’intérêt légitime de Parship au paiement de la rémunération convenue dans le contrat constitue la base juridique.)
-*   Pour la protection et la défense de nos droits et le respect des obligations légales. (Notre intérêt légitime à faire valoir et à défendre nos droits constitue la base juridique).
+*   Afin de prévenir et protéger contre tout abus. Parship collecte, traite et utilise les données à caractère personnel et les données géographiques recueillies dans le cadre de votre inscription et lorsque vous renseignez le test de personnalité Parship et le profil Parship afin de vérifier automatiquement s'il existe des indices ou des données indiquant une utilisation abusive de Parship. Les données sont stockées dans une base de données et comparées à des valeurs empiriques. Si le traitement automatisé révèle une suspicion d’abus, un employé de Parship analyse les résultats de la vérification et les indices sous-jacents, puis les éventuelles informations en texte libre et photos de profil enregistrées. Par ailleurs, Parship fournit à ses membres une fonctionnalité dénommée « Signaler ce profil », et procède à des contrôles de profil par les collaborateurs du service clientèle lorsque d’autres membres ont signalé des violations du contrat. En outre, Parship utilise le numéro de téléphone portable fourni à titre volontaire pour vérifier l’identité de la personne en envoyant un SMS sur le téléphone portable. (L’intérêt légitime de Parship et des membres de Parship à ce que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d'accès ou des accès non autorisés.)
+*   Pour les offres personnalisées (par ex. le calcul automatisé des prix). Par principe, nous n’avons pas recours à la prise de décision entièrement automatisée selon l’article 22 du RGPD, mais nous traitons vos données de manière partiellement automatisée afin de pouvoir vous proposer des offres de produits adaptées. Les données suivantes sont utilisées à cette fin : âge, sexe, revenus et code postal. (La base juridique est la réalisation de la relation contractuelle ainsi que notre intérêt légitime à nous adresser à nos utilisateurs de manière ciblée et personnalisée.)
+*   Afin de garantir l'exécution de vos obligations découlant de la relation contractuelle en cas de défaut de paiement (ceci ne s'applique qu'à l'achat de l'Abonnement Premium via Parship). Si, malgré des rappels répétés, vous ne réglez pas les factures / les paiements partiels en souffrance, nous transmettons les données nécessaires à l'exécution d'une procédure de recouvrement à un prestataire de services de recouvrement dans le but d'un recouvrement fiduciaire. En cas de demandes de paiements litigieuses, nous transmettons également les données nécessaires correspondantes à nos prestataires de paiement pour faire valoir nos droits (ou en cas d'obligations de paiement litigieuses, de demandes de banques et/ou dans le cadre de la résolution de conflits en cas de rétro-facturation). (Outre l’exécution de la relation contractuelle, l’intérêt légitime de Parship au paiement de la rémunération convenue dans le contrat constitue la base juridique.)
+*   À des fins d'autopromotion par le biais d’e-mails publicitaires et/ou de messages push, de newsletters, de sondages (utilisateurs) et de conseils personnalisés. (La base juridique est, outre le respect d'une obligation légale, notre intérêt légitime à faire valoir et à défendre nos droits).
 *   À des fins d'autopromotion par le biais d’e-mails publicitaires et/ou de messages push, de newsletters, de sondages et de conseils personnalisés. (L’intérêt légitime de PE Digital GmbH aux opérations de marketing direct pour ses propres produits constitue la base juridique. Dans certains cas, votre consentement constitue également la base juridique)
 *   Afin de respecter les obligations légales de conservation et d'autres obligations et dispositions légales ou réglementaires (par exemple, en rapport avec les contrôles fiscaux, les demandes d’informations administratives ou judiciaires et autres décisions). (La base juridique est le respect de nos obligations légales.)
 *   À d’autres fins de communication dans le cadre de demandes de renseignements. (La base juridique peut être un rapport juridique précontractuel ou une obligation légale.)
@@ -250,6 +252,7 @@ Base juridique pour le traitement de données à caractère personnel
 *   Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
 *   Lors du traitement de données personnelles pour satisfaire à une obligation légale, l'article 6, paragraphe 1, première phrase, point c) du RGPD constitue la base juridique.
 *   Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
+*   Pour le traitement supplémentaire des données, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
 *   Lors du traitement des données à caractère personnel nécessaires à l’autopromotion (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique.
 
   
@@ -302,9 +305,9 @@ Dans ce contexte, Parship fait également appel à des prestataires de services 
 
 **Cloudflare**
 
-Pour sécuriser ce site web et optimiser les temps de chargement (certificats SSL), nous utilisons un « Content Delivery Network » (CDN). Ce CDN est un service de Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, États-Unis. Par conséquent, les demandes d'inscription et de connexion sont acheminées par le serveur Cloudflare et consolidées sous forme de statistiques qui ne peuvent pas être désactivées.
+Pour sécuriser ce site web et optimiser les temps de chargement, nous utilisons un « Content Delivery Network » (CDN). Ce CDN est un service de Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, États-Unis. L'utilisation du service Cloudflare exige que les demandes de pages ainsi que le contenu des pages soient acheminés et traités via leurs serveurs. Dans ce contexte, les données sont consolidées en statistiques (cette option ne peut être désactivée).
 
-Nous avons conclu avec Cloudflare un accord concernant le traitement des commandes sur la base des [clauses contractuelles types en vigueur dans l’UE](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
+Nous avons conclu avec Cloudflare un accord concernant le traitement des commandes et ce sur la base des clauses contractuelles types de la Commission européenne du 04.06.2021, en utilisant des mesures de protection organisationnelles techniques supplémentaires.
 
 Vous trouverez [ici](https://www.cloudflare.com/fr-fr/privacypolicy/) des informations sur les données collectées par Cloudflare.
 
@@ -312,7 +315,13 @@ Vous trouverez [ici](https://www.cloudflare.com/fr-fr/privacypolicy/) des inform
 
 Parship utilise le service de géolocalisation GeoIP2 Precision City de MaxMind, Inc, Waltham, MA, 14 Spring St., Suite 3, Waltham, Massachusetts 02451, USA. À cet égard, les adresses IP sont utilisées afin de déterminer des données approximatives de localisation/géolocalisation en fonction du pays d'origine. Les données ne sont pas échangées avec MaxMind. Cliquez [ici](https://www.maxmind.com/en/privacy-policy) pour plus d’informations concernant MaxMind.
 
-Nous avons conclu un accord avec MaxMind pour le traitement des commandes sur la base des clauses contractuelles types en vigueur dans l’UE.
+**iovation**
+
+Pour protéger la plate-forme Parship et les utilisateurs Parship contre les fraudes et les abus, Parship utilise le service de prévention des usages abusifs de la société iovation Inc sise 555 SW Oak Street #300, Portland, OR 97204 aux États-Unis. Lorsque vous accédez à la plate-forme Parship, le service iovation vérifie votre adresse IP, la date et l'heure d'accès, l'URL de référence et les informations du navigateur afin de déterminer la probabilité de fraude. Toutes les données personnelles obtenues par iovation sont pseudonymisées, chiffrées et soumises aux principes de minimisation des données.
+
+Nous avons conclu un accord avec iovation dans le cadre de l'Independent Controlling sur la base des clauses contractuelles types de l'UE (module 1).
+
+Vous trouverez plus de renseignements sur iovation [ici](https://www.transunion.com/privacy/iovation).
 
 Durée du stockage ; Obligations de conservation
 
@@ -330,7 +339,7 @@ Les fichiers journaux sont stockés par Parship pour une durée de 30 jours, pui
 
 Veuillez noter que vos données sont dans un premier temps seulement verrouillées si leur suppression fait obstacle au respect des obligations de conservation.
 
-Afin que les personnes concernées puissent faire valoir leurs droits, Parship conserve les données nécessaires à l'exécution ou à la preuve pendant le délai de prescription correspondant (36 mois).
+Afin que les personnes concernées puissent faire valoir leurs droits, Parship conserve les données nécessaires à l'exécution ou à la preuve pendant le délai de prescription correspondant (en principe 36 mois).
 
 Êtes-vous obligé(e) de nous transmettre des données à caractère personnel ?
 
@@ -346,7 +355,7 @@ Vous pouvez également utiliser les options de paramétrage de votre profil Pars
 
 Veuillez noter que vos données sont dans un premier temps seulement verrouillées si leur suppression fait obstacle au respect des obligations de conservation.
 
-**Droit d’accès**
+**Droit d’accès à vos informations et droit de rectification**
 
 Vous avez le droit de demander à Parship des informations concernant le traitement par nos soins de données à caractère personnel vous concernant. En outre, vous avez également le droit d'être informé de ces données à caractère personnel et de la catégorie de données stockées, de la finalité du traitement, des éventuels destinataires, de la durée de stockage et de vos droits en tant que personne concernée. Si vos données sont inexactes ou incomplètes, vous pouvez demander qu'elles soient rectifiées ou complétées. Si nous avons transmis vos données à des tiers, nous les informerons de la rectification, dans la mesure où la loi l’exige.
 
