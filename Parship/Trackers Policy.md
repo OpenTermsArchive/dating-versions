@@ -2,7 +2,7 @@
 
   
 
-Dernière mise à jour: 31.01.2022
+Dernière mise à jour: 21.06.2022
 
 **Aperçu de la gestion des cookies et des technologies de suivi ou de la révocation du consentement accordé**
 
@@ -28,7 +28,7 @@ Sauf indication contraire dans ces Informations sur les cookies et les technolog
 *   [Cookies et autres technologies de suivi lors de l’utilisation du site Web de Parship](#pp01)
 
 *   [Quelles catégories de cookies utilise Parship?](#pp02)
-*   [Base juridique pour le traitement de données à caractère personnel en relation avec les « cookies »](#pp03)
+*   [Base juridique pour le traitement de données à caractère personnel et l’acccès à votre terminal en rapport avec les « cookies »](#pp03)
 *   [Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies?](#pp23)
 *   [Aperçu des cookies utilisés par Parship](#pp04)
 *   [Annexe: Notes techniques sur les cookies](#pp12)
@@ -36,7 +36,7 @@ Sauf indication contraire dans ces Informations sur les cookies et les technolog
 *   [Technologies de suivi lors de l’utilisation l’application Parship](#pp24)
 
 *   [Quelles catégories de technologies de suivi utilise Parship?](#pp05)
-*   [Base juridique pour le traitement de données à caractère personnel en relation avec les technologies de suivi](#pp08)
+*   [Base juridique pour le traitement de données à caractère personnel ainsi que pour l’accès à votre terminal en relation avec les technologies de suivi (comme l’identifiant de l’application our « App Identifier ») dans le cadre d’une utilisation de l’application Parship](#pp08)
 *   [Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi?](#pp06)
 *   [Aperçu des technologies de suivi utilisées par Parship](#pp07)
 
@@ -44,7 +44,7 @@ Cookies et autres technologies de suivi lors de l’utilisation du site Web de P
 
 **Cookies et suivi**
 
-Outre le traitement des données à caractère personnel mentionné dans la [Politique de protection des données](https://www.parship.fr/privacypolicy/), des cookies et autres technologies de suivi sont stockés sur votre appareil pendant ou après votre visite sur Parship.
+Outre le traitement des données à caractère personnel mentionné dans la [Politique de protection des données](https://www.parship.fr/privacypolicy/), des cookies et autres technologies de suivi, comme l'Identifiant de l’application (« App Identifier »), sont stockés sur votre appareil pendant ou après votre visite sur Parship.
 
 Les cookies sont de petits fichiers texte envoyés à votre navigateur et mémorisés sur ce dernier lorsque vous consultez un site Internet. Lorsque le site Internet en question est à nouveau consulté, le navigateur de l'utilisateur renvoie le contenu du cookie reçu au serveur, permettant ainsi de reconnaître l'utilisateur.
 
@@ -58,9 +58,9 @@ En principe, aucune donnée permettant de vous identifier en tant que personne n
 
 Selon leur fonction et leur objectif, les cookies et autres technologies de suivi (ci-après également collectivement dénommés « cookies ») sont répartis en plusieurs catégories par Parship.
 
-**Cookies « nécessaires »**
+**Cookies « strictement nécessaires » ou « nécessaires »**
 
-Certains cookies sont indispensables au bon fonctionnement du site web de Parship. Ils garantissent le bon fonctionnement et la sécurité de notre offre en ligne.
+Certains cookies sont indispensables au bon fonctionnement du site web de Parship. Ils garantissent le bon fonctionnement et la sécurité de notre offre en ligne. Ces cookies assurent des fonctions sans lesquelles vous ne pourriez profiter de ces services numériques comme vous le souhaitez. Ils peuvent être indispensables au fonctionnement d’un site web, comme pour l’enregistrement des identifiants ou d’autres données utilisateur, ou encore pour des questions de sécurité.
 
 C'est le cas par exemple des
 
@@ -75,11 +75,11 @@ C'est le cas par exemple des
 
 Ces cookies vous permettent de naviguer en toute sécurité sur notre site web et d'utiliser les fonctionnalités à votre convenance. Sans ces cookies, Parship ne pourrait pas fournir les services essentiels. Nous utilisons ces cookies uniquement lorsque vous consultez notre site web. Ils sont généralement supprimés à la fermeture de votre navigateur. En outre, ces cookies sont utilisés pour optimiser l'affichage du site web lorsqu'il est consulté avec un appareil mobile, afin de limiter la consommation inutile de votre volume de données.
 
-L’intérêt légitime des membres de Parship et de Parship à ce que le service Parship puisse être utilisé facilement et en toute sécurité et à ce que la qualité de notre site web et de son contenu soit constamment améliorée constitue la base juridique.
+La base juridique est l’intérêt légitime pour Parship et les membres de Parship à pouvoir utiliser facilement et en toute sécurité le service Parship et à pouvoir optimiser en continu de qualité du site web Parship et ses contenus.
 
-Aucun consentement n'est requis pour l'utilisation des cookies « nécessaires ». Ils ne peuvent pas être désactivés.
+Aucun consentement n'est requis pour l'utilisation des cookies « strictement nécessaires » ou « nécessaires ». Ils ne peuvent pas être désactivés.
 
-Vous trouverez un aperçu et des informations plus détaillées sur les cookies « nécessaires » que nous utilisons dans notre [CMP](#uc-info-modal-show).
+Vous trouverez un aperçu et des informations plus détaillées sur les cookies « strictement nécessaires » ou « nécessaires » que nous utilisons dans notre [CMP](#uc-info-modal-show).
 
   
 
@@ -95,23 +95,24 @@ La base juridique du traitement des données est votre consentement.
 
 Nous traitons vos données nous-mêmes, ou avec l'aide de sous-traitants conformément à l’art. 28 RGPD ; ces sous-traitants traitant vos données sur la base de nos instructions et non pour leurs propres besoins.. Dans certains cas, les entreprises sont conjointement responsables (« responsabilité conjointe ») avec nous du traitement des données conformément à l'art. 26 RGPD, à condition que nous traitions conjointement les données personnelles à des fins spécifiques et avec des moyens déterminés en commun. Dans d'autres cas, les entreprises traitent également les données personnelles sous leur propre responsabilité. Certaines ces entreprises peuvent être situées dans des pays hors UE/EEE ou peuvent transférer des données vers des pays hors UE/EEE.
 
-Vous trouverez [ici](#uc-info-modal-show) un aperçu et des informations plus détaillées sur les cookies publicitaires que nous utilisons, les fournisseurs avec lesquels nous travaillons et la finalité du traitement.
+**Vous trouverez [ici](#uc-info-modal-show) un aperçu et des informations plus détaillées sur les cookies publicitaires que nous utilisons, les fournisseurs avec lesquels nous travaillons et la finalité du traitement.**
 
-Vous pouvez à tout moment refuser le traitement de données en relation avec les cookies sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies ? »](#pp23). Dans le cas d’outils fonctionnant avec des cookies opt-out, il convient de noter que la fonction opt-out se réfère à l’appareil ou au navigateur et s’applique par principe seulement à l’appareil ou au navigateur actuellement utilisé. Si vous utilisez plusieurs appareils ou navigateurs, vous devez placer l’opt-out sur chaque appareil et dans chaque navigateur utilisé. En outre, vous pouvez également empêcher complètement la création de profils d'utilisation en vous opposant de manière générale à l'utilisation de cookies.
+Vous pouvez à tout moment refuser le traitement de données en relation avec les cookies sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies ? »](#pp23). En outre, vous pouvez également empêcher complètement la création de profils d'utilisation en vous opposant de manière générale à l'utilisation de cookies.
 
 Si vous n'acceptez pas l'utilisation de cookies publicitaires, ou si vous les désactivez par la suite, les publicités qui vous seront proposées pourront être moins pertinentes.
 
-**Base juridique pour le traitement de données à caractère personnel en relation avec les « cookies »**
+**Base juridique pour le traitement de données à caractère personnel et l’acccès à votre terminal en rapport avec les « cookies »**
 
 *   Dans la mesure où nous obtenons le consentement de la personne concernée pour le traitement des données à caractère personnel, l'article 6, paragraphe 1, première phrase, point a) du règlement général de l’UE sur la protection des données (RGPD) constitue la base juridique.
 *   Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
 *   Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
+*   Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
 
 Dans la mesure où votre consentement constitue la base juridique, vous avez le droit de retirer votre consentement à tout moment sans que la licéité du traitement effectué sur la base de ce consentement jusqu'à votre [retrait](#pp21) en soit affectée. Si l’intérêt légitime est la base juridique, vous avez également le droit, en principe, de vous opposer à tout moment au traitement des données à caractère personnel vous concernant pour des raisons liées à votre situation particulière. L'article 21 du RGPD s'applique à cet égard.
 
 **Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies ?**
 
-À l'exception des cookies « nécessaires », nous n'utilisons les cookies qu'avec votre consentement. Parship vous propose, à l’aide d’une plate-forme de gestion du consentement (« CMP »), de paramétrer l’utilisation de cookies selon vos choix et de vérifier les cookies utilisés. Vous avez la possibilité à tout moment de modifier vos choix et, par exemple, de retirer tout consentement que vous auriez donné. À cette fin, vous pouvez utiliser les options de réglage sur notre [CMP](#uc-first-modal-show).
+À l'exception des cookies « strictement nécessaires » ou « nécessaires », nous n'utilisons les cookies qu'avec votre consentement. Parship vous propose, à l’aide d’une plate-forme de gestion du consentement (« CMP »), de paramétrer l’utilisation de cookies selon vos choix et de vérifier les cookies utilisés. Vous avez la possibilité à tout moment de modifier vos choix et, par exemple, de retirer tout consentement que vous auriez donné. À cette fin, vous pouvez utiliser les options de réglage sur notre [CMP](#uc-first-modal-show).
 
 Si vous souhaitez nous contacter au sujet de votre consentement, veuillez utiliser les coordonnées figurant dans la section « Contact » de notre [Politique de protection des données](https://www.parship.fr/privacypolicy/) ou écrivez-nous à [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) en indiquant votre numéro de consentement et la date à laquelle celui-ci a été donné. Ces deux informations sont disponibles sur notre [CMP](#uc-info-modal-show).
 
@@ -151,17 +152,21 @@ Instructions ici : [https://support.apple.com/fr-fr/guide/safari/manage-cookies-
 
 Technologies de suivi lors de l’utilisation l’application Parship
 
-Outre le traitement des données personnelles mentionné dans la [Politique de protection des données](https://www.parship.fr/privacypolicy/), des technologies de suivi sont utilisées lorsque vous consultez l'application Parship et peuvent conduire au traitement de données à caractère personnel.
+Outre le traitement des données personnelles mentionné dans la [Politique de protection des données](https://www.parship.fr/privacypolicy/), des technologies de suivi, comme l'Identifiant de l’application (« App Identifier »), sont utilisées lorsque vous consultez l'application Parship et peuvent conduire au traitement de données à caractère personnel.
 
-Pour le suivi dans les applications, on utilise des identifiants d’appareil uniques à chaque terminal. Il s’agit ici de l’identifiant pour les annonceurs (IDFA) pour iOS et l’identifiant publicitaire Google pour Android. Si vous ne vous êtes pas opposé à l'utilisation de cet identifiant à des fins de ciblage et/ou de publicité dans les paramètres de votre terminal, ou si vous ne vous êtes généralement pas déconnecté lorsque des identifiants sont utilisés, votre identifiant nous sera transmis et pourra être utilisé par nous ou par nos partenaires pour la collecte de données personnelles.
+Pour le suivi dans les applications, on utilise ce que l’on appelle des identifiants d’appareils (également appelés identifiants d'applications (« App Identifier ») propres à chaque terminal.
 
 Si vous installez notre application sur votre appareil par le biais d’un App-Store tiers, comme l’Apple Store ou Google Play, l'intermédiaire concerné est seul responsable du suivi dans son App-Store ou avant que vous n'ayez installé et utilisé notre application. Ce n’est que dans le cadre d’une utilisation de l’application Parship que Parship est responsable du suivi (tracking) à l’intérieur de son application, sauf indication contraire figurant dans ses [« Informations sur les cookies et les technologies de suivi »](#).
 
 **Quelles sont les catégories de technologies de suivi employées par Parship dans le cadre d’une utilisation de l’application Parship ?**
 
-**Technologies de suivi « nécessaires »**
+**Technologies de suivi « strictement nécessaires » ou « nécessaires »**
 
 Certaines technologies de suivi sont nécessaires au bon fonctionnement de l’application Parship. Ils garantissent le bon fonctionnement et la sécurité de notre application. Cette catégorie comprend par exemple :
+
+Ces cookies assurent des fonctions sans lesquelles vous ne pourriez pas profiter de ces services numériques comme vous le souhaitez. Ils peuvent être indispensables au fonctionnement d’une application, comme l’enregistrement des identifiants ou d’autres données utilisateur, ou encore pour des questions de sécurité.
+
+Cette catégorie comprend par exemple :
 
 *   les technologies de suivi permettant l’identification ou l’authentification de nos utilisateurs, et technologies de suivi en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
 *   les technologies de suivi visant à assurer la sécurité des systèmes informatiques de Parship
@@ -174,9 +179,11 @@ Certaines technologies de suivi sont nécessaires au bon fonctionnement de l’a
 
 Ces technologies de suivi vous permettent de naviguer en toute sécurité dans notre application et d'utiliser les fonctionnalités à votre convenance. Sans ces technologies de suivi, Parship ne pourrait pas fournir les services essentiels. Nous utilisons ces technologies de suivi uniquement lorsque vous consultez notre application. Elles sont généralement supprimées à la fermeture de votre navigateur.
 
-L’intérêt légitime des membres de Parship et de Parship à ce que le service Parship puisse être utilisé facilement et en toute sécurité et à ce que la qualité de notre application et de son contenu soit constamment améliorée constitue la base juridique. Aucun consentement n'est requis pour l'utilisation des technologies de suivi « nécessaires ». Elles ne peuvent pas être désactivées.
+(La base juridique est l’intérêt légitime des membres de Parship et de Parship à ce que le service Parship puisse être utilisé facilement et en toute sécurité et à ce que la qualité de notre application et de ses contenus soit continuellement optimisée.)
 
-Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_mechanism.pdf) un aperçu des technologies de suivi « nécessaires » que nous utilisons et des informations plus détaillées à ce sujet.
+Aucun consentement n’est requis pour l’utilisation des technologies de suivi « strictement nécessaires » ou « nécessaires ». Elles ne peuvent pas être désactivées.
+
+Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_mechanism.pdf) un aperçu des technologies de suivi « strictement nécessaires » ou « nécessaires » que nous utilisons et des informations plus détaillées à ce sujet.
 
   
 
@@ -196,37 +203,36 @@ La base juridique du traitement des données est votre consentement.
 
 Nous traitons vos données nous-mêmes, ou avec l’aide de sous-traitants conformément à l’Art. 28 RGPD ; ces sous-traitants traitant vos données sur la base de nos instructions et non pour leurs propres besoins.’ Dans certains cas, les fournisseurs sont conjointement responsables (« responsabilité conjointe ») avec nous du traitement des données conformément à l’art. 26 RGPD, à condition que nous traitions conjointement les données personnelles à des fins spécifiques et avec des moyens déterminés en commun. Dans d’autres cas, les fournisseurs traitent également les données personnelles sous leur propre responsabilité. Certains ces fournisseurs peuvent être situés dans des pays hors UE/EEE ou peuvent transférer des données vers des pays hors UE/EEE.
 
-Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_mechanism_App.pdf) un aperçu et des informations plus détaillées sur les technologies de tracking « fonctionnelles » que nous utilisons, les entreprises avec lesquelles nous collaborons ainsi que la finalité du traitement.
+**Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_mechanism_App.pdf) un aperçu et des informations plus détaillées sur les technologies de tracking « fonctionnelles » que nous utilisons, les entreprises avec lesquelles nous collaborons ainsi que la finalité du traitement.**
 
-Vous pouvez à tout moment refuser le traitement de données en relation avec les technologies de suivi sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi ? »](#pp06). Veuillez noter que pour les applications, la fonction opt-out se réfère à l’appareil et s’applique par principe seulement à l’appareil actuellement utilisé. Si vous utilisez notre application sur plusieurs appareils, vous devez placer l’opt-out sur chaque appareil utilisé.
+Vous pouvez à tout moment refuser le traitement de données en relation avec les technologies de suivi sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi ? »](#pp06).
 
 **Technologies de suivi « publicitaires »**
 
 Nous utilisons également des technologies de suivi à des fins publicitaires (technologies de suivi « publicitaires »). Les profils créés à l'aide de ces technologies de suivi à partir du comportement d’utilisation (par exemple, les bannières publicitaires cliquées, , actions dans l’application les recherches effectuées) nous permettent d’analyser les performances de nos annonces (mesures des performances de nos campagnes publicitaires).
 
-À cet égard, nous autorisons également d'autres entreprises à recueillir les données de nos utilisateurs à l'aide de technologies de suivi publicitaire, ou des données qui leur sont transmises par nos soins. Ceci nous permet, ainsi qu'à des tiers, de mesurer le succès de ces campagnes publicitaires (« suivi des conversions »).
+À cet égard, nous autorisons également d'autres entreprises à recueillir les données de nos utilisateurs à l'aide de technologies de suivi publicitaire, comme des identifiants d’applications (App Identifier), ou des données qui leur sont transmises par nos soins. Ceci nous permet, ainsi qu'à des tiers, de mesurer le succès de ces campagnes publicitaires (« suivi des conversions »).
 
 La base juridique du traitement des données est votre consentement.
 
 Nous traitons vos données nous-mêmes, ou avec l'aide de sous-traitants conformément à l’Art. 28 RGPD ; ces sous-traitants traitant vos données sur la base de nos instructions et non pour leurs propres besoins.Dans certains cas, les entreprises sont conjointement responsables (« responsabilité conjointe ») avec nous du traitement des données conformément à l'art. 26 RGPD, à condition que nous traitions conjointement les données personnelles à des fins spécifiques et avec des moyens déterminés en commun. Dans d'autres cas, les entreprises traitent également les données personnelles sous leur propre responsabilité. Certaines de ces entreprises peuvent être situées dans des pays hors UE/EEE ou peuvent transférer des données vers des pays hors UE/EEE.
 
-Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_Mechanismen_App.pdf) un aperçu et des informations plus détaillées sur les cookies « publicitaires » que nous utilisons, les entreprises avec lesquelles nous collaborons et la finalité du traitement.
+**Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_Mechanismen_App.pdf) un aperçu et des informations plus détaillées sur les cookies « publicitaires » que nous utilisons, les entreprises avec lesquelles nous collaborons et la finalité du traitement.**
 
 Vous pouvez à tout moment refuser le traitement de données en relation avec les technologies de suivi sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi ? »](#pp06).
 
-Veuillez noter que pour les applications, la fonction opt-out se réfère à l’appareil et s’applique par principe seulement à l’appareil actuellement utilisé. Si vous utilisez notre application sur plusieurs appareils, vous devez placer l’opt-out sur chaque appareil utilisé.
-
-**Base juridique pour le traitement de données à caractère personnel en relation avec les technologies de suivi dans le cadre d’une utilisation de l’application Parship**
+**Base juridique pour le traitement de données à caractère personnel ainsi que pour l’accès à votre terminal en relation avec les technologies de suivi (comme l’identifiant de l’application our « App Identifier ») dans le cadre d’une utilisation de l’application Parship**
 
 *   Nous recueillons le consentement de la personne concernée pour le traitement des données à caractère personnel via des technologies de suivi qui ne sont pas nécessaires. Dans ce cas, l'article 6, paragraphe 1, première phrase, point a) du RGPD constitue la base juridique.
 *   Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
 *   Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
+*   Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
 
 Dans la mesure où votre consentement constitue la base juridique, vous avez le droit de retirer votre consentement à tout moment sans que la licéité du traitement effectué sur la base de ce consentement en soit affectée jusqu'à votre [retrait](#pp06). Si l’intérêt légitime est la base juridique, vous avez également le droit, en principe, de vous opposer à tout moment au traitement des données à caractère personnel vous concernant pour des raisons liées à votre situation particulière. L'article 21 du RGPD s'applique à cet égard.
 
 **Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi dans le cadre d’une utilisation de l’application Parship ?**
 
-À l'exception des technologies de suivi « nécessaires », nous n'utilisons les technologies de suivi qu'avec votre consentement. Vous avez la possibilité de révoquer votre consentement ou de modifier vos paramètres à tout moment. Pour ce faire, cliquez sur « Paramètres de suivi » en haut de cette page pour accéder aux options de paramètres.
+À l'exception des technologies de suivi « strictement nécessaires » ou « nécessaires », nous n'utilisons les technologies de suivi qu'avec votre consentement. Vous avez la possibilité de révoquer votre consentement ou de modifier vos paramètres à tout moment. Pour ce faire, cliquez sur « Paramètres de suivi » en haut de cette page pour accéder aux options de paramètres.
 
 En outre, vous avez la possibilité de réinitialiser à tout moment l'utilisation de l'identifiant à des fins de ciblage et/ou de publicité sur votre appareil. En outre, il vous est possible de refuser de manière générale l'utilisation d'identifiants sur votre appareil (cf. instructions pour les appareils Android [ici](https://support.google.com/accounts/answer/2662922?hl=fr#stop_goog_p13n) et pour les appareils Apple [ici](https://support.apple.com/fr-fr/HT202074)).
 
