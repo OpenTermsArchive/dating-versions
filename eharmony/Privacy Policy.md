@@ -40,11 +40,11 @@ If you have any questions or suggestions about how we use your personal data, pl
 
 Our contact details are as follows:
 
-eHarmony UK Ltd., Customer Care, BM Box 5904, London WC1N 3XX, United-Kingdom, [privacypolicy@eharmony.co.uk](mailto:privacypolicy@eharmony.co.uk) (e-mail)
+eHarmony UK Ltd., Customer Care, BM Box 5904, London WC1N 3XX, United-Kingdom, [privacypolicy@eharmony.co.uk](mailto:privacypolicy@eharmony.co.uk) (email)
 
 **You can reach our data protection officer at:**
 
-eharmony UK Privacy Team, [privacy@eharmony.co.uk](mailto:privacy@eharmony.co.uk) (e-mail)
+eharmony UK Privacy Team, [privacy@eharmony.co.uk](mailto:privacy@eharmony.co.uk) (email)
 
 **Our EU Representative is:**
 
@@ -77,11 +77,11 @@ In order to register for the eharmony Service and conclude a Basic Membership or
 
 In order to register for eharmony’s free Service (i.e.,conclude a “Basic Membership”), you will need to provide us with personal data, without which the registration cannot be completed. These data are:
 
-*   Gender and sex of partner sought (your sexual preference is a data regarding your sexual orientation and therefore sensitive personal)
+*   Gender and sex of partner sought (your sexual preference is data regarding your sexual orientation and therefore sensitive personal data)
 *   Email address
 *   Password
 
-If you have chosen to log in via a third-party provider such as Facebook or Apple, you do not need to enter an email address or a password during the registration process. You can access eharmony’s Service respectiely with the email address and the password you have indicated (your access data) or alternatively via the third party provider’s login data.
+If you have chosen to log in via a third-party provider such as Facebook or Apple, you do not need to enter an email address or a password during the registration process. You can access eharmony’s Service respectively with the email address and the password you have indicated (your access data) or alternatively via the third party provider’s login data.
 
 **During registration via Apple ("Sign in with Apple")**
 
@@ -101,7 +101,7 @@ If you use the Facebook login on our website or app, Facebook will also collect 
 
 You may dissociate your eharmony account from your Facebook-ID at any time in your profile on our website. In this case, we will need your access data, as explained above.
 
-For more information about the types of information collected by Facebook and how Facebook will use your information, as well as about your rights and your ability to protect your data), please refer to the [Facebook’s privacy policy](file:///C:/Users/cdauvergne/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/X30DJZTO/Facebook%E2%80%99s%20privacy%20policy).
+For more information about the types of information collected by Facebook and how Facebook will use your information, as well as about your rights and your ability to protect your data), please see [Facebook’s privacy policy](file:///C:/Users/cdauvergne/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/X30DJZTO/Facebook%E2%80%99s%20privacy%20policy).
 
 **Data required in connexion with a Basic Membership**
 
@@ -148,7 +148,7 @@ If you correspond with other eharmony members through the eharmony platform, or 
 
 If you contact our customer care, please note the following: if you communicate with our customer care:
 
-1.  using the online contact form: the content of your message to us will be encrypted in transit; provided that your email provider supports Transport Layer Security (TLS) transfer encryption.
+1.  using the online contact form: the content of your message to us will be encrypted in transit; our reply will be protected in transit, provided that your email provider supports Transport Layer Security (TLS) transfer encryption.
 2.  via email: the content of your message to us will only be protected in transit via TLS transfer encryption if your email provider supports TLS transport encryption.
 3.  (if available) via chat function for logged-in members in the customer service portal, the transmission of chat communication is SSL-encrypted (transport encryption). If the chat function is used with customer service, an appropriate chat report will be provided.
 
@@ -328,7 +328,7 @@ eharmony may use service providers when collecting or processing your personal d
 
 In addition to those already expressly mentioned in this privacy policy and/or in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/), eharmony uses, amongst others, service providers to send promotional emails and push messages to members. eharmony may also share personal data with third party service providers to send service-related messages and receive customer review management services (e.g., with Trustpilot, whose privacy notice is available here). In addition, eharmony uses service providers to provide our servers. If you subscribed to your Premium Membership over the website, we also use external payment services and service providers to help us with the settlement of payments and debt collection. Depending on the particular payment method you choose when purchasing your Premium Membership over our website, eharmony will send your payment information to the bank or to the particular payment service provider that we have appointed. Please be aware that such payment service providers will be responsible for their use of your personal data for their own purposes (i.e., to process your payment). As such, the privacy policy of the respective payment service provider will also apply.
 
-Generally, the service providers that we appoint are engaged as our processor and may only use the personal data of our membersin accordance with our instructions.
+Generally, the service providers that we appoint are engaged as our processor and may only use the personal data of our members in accordance with our instructions.
 
 Please note that if you purchase a Premium Membership over the eharmony app, eharmony will not process any payment. In this case, the app store operator will be responsible for handling the payment process.
 
@@ -389,7 +389,7 @@ Log files are stored by eharmony for 30 days and then deleted. Log files whose f
 
 Please note that if the deletion of your data is prevented due to a mandatory retention period, your data will be blocked and stored for no other purposes, until we can delete it.
 
-Eharmony will also store any personal data which is required to demonstrate that eharmony has lawfully complied with a valid data subject rights request within the required period.
+Eharmony will also store any personal data which is required to demonstrate that eharmony has lawfully complied with a valid data subject's rights request within the required period.
 
 Are you obliged to provide us with personal data?
 
