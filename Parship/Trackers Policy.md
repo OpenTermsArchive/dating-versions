@@ -156,13 +156,15 @@ Outre le traitement des données personnelles mentionné dans la [Politique de p
 
 Pour le suivi dans les applications, on utilise ce que l’on appelle des identifiants d’appareils (également appelés identifiants d'applications (« App Identifier ») propres à chaque terminal.
 
+Il s’agit ici de l’identifiant pour les annonceurs (IDFA) pour iOS et l’identifiant publicitaire Google pour Android. Si vous ne vous êtes pas opposé à l'utilisation de cet identifiant à des fins de ciblage et/ou de publicité dans les paramètres de votre terminal, ou si vous ne vous êtes généralement pas déconnecté lorsque des identifiants sont utilisés, votre identifiant nous sera transmis et pourra être utilisé par nous ou par nos partenaires pour la collecte de données personnelles.
+
 Si vous installez notre application sur votre appareil par le biais d’un App-Store tiers, comme l’Apple Store ou Google Play, l'intermédiaire concerné est seul responsable du suivi dans son App-Store ou avant que vous n'ayez installé et utilisé notre application. Ce n’est que dans le cadre d’une utilisation de l’application Parship que Parship est responsable du suivi (tracking) à l’intérieur de son application, sauf indication contraire figurant dans ses [« Informations sur les cookies et les technologies de suivi »](#).
 
 **Quelles sont les catégories de technologies de suivi employées par Parship dans le cadre d’une utilisation de l’application Parship ?**
 
 **Technologies de suivi « strictement nécessaires » ou « nécessaires »**
 
-Certaines technologies de suivi sont nécessaires au bon fonctionnement de l’application Parship. Ils garantissent le bon fonctionnement et la sécurité de notre application. Cette catégorie comprend par exemple :
+Certaines technologies de suivi sont nécessaires au bon fonctionnement de l’application Parship. Ils garantissent le bon fonctionnement et la sécurité de notre application.
 
 Ces cookies assurent des fonctions sans lesquelles vous ne pourriez pas profiter de ces services numériques comme vous le souhaitez. Ils peuvent être indispensables au fonctionnement d’une application, comme l’enregistrement des identifiants ou d’autres données utilisateur, ou encore pour des questions de sécurité.
 
@@ -171,8 +173,7 @@ Cette catégorie comprend par exemple :
 *   les technologies de suivi permettant l’identification ou l’authentification de nos utilisateurs, et technologies de suivi en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
 *   les technologies de suivi visant à assurer la sécurité des systèmes informatiques de Parship
 *   les technologies de suivi destinées à prévenir les abus,
-*   les technologies de suivi qui enregistrent temporairement certaines données de  
-    l'utilisateur ;
+*   les technologies de suivi qui enregistrent temporairement certaines données de l'utilisateur ;
 *   les technologies de suivi qui enregistrent certaines préférences de l’utilisateur
 
   
