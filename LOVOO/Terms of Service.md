@@ -25,7 +25,7 @@ Content
 
 The terms and conditions described here apply to the use of the LOVOO website and the mobile apps of LOVOO GmbH as well as to all websites of LOVOO GmbH that make reference to these GTC. Deviating regulations and, in particular, terms of the user that are in conflict with the terms and conditions require the express consent of LOVOO in text form.
 
-Together with the Content and Conduct Policy, available at [https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite) and any supplementary terms agreed between the user and LOVOO, these General Terms and Conditions constitute the Terms of Use.
+Together with the Content and Conduct Policy, available at [Content Guidelines and Code of Conduct](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite) and any supplementary terms agreed between the user and LOVOO, these General Terms and Conditions constitute the Terms of Use.
 
 2\. Contract conclusion, contract start, prices
 -----------------------------------------------
@@ -91,7 +91,7 @@ d. Both parties can cancel a subscription with a notice period of 24 hours befor
 
 e. The user account remains unaffected by the cancellation of the subscription. The user can continue to use his/her user account following cancellation without the additional features included in the subscription.
 
-f. Cancellation must be carried out in iTunes or the Apple Play Store for a subscription which has been purchased or signed up for via iTunes \[comment\]: <> (typo in source = iunes) or the Apple App Store. LOVOO cannot carry out reversal charges/cancellation due to technical restrictions of these stores.
+f. Cancellation must be carried out in iTunes or the Apple Play Store for a subscription which has been purchased or signed up for via iTunes or the Apple App Store. LOVOO cannot carry out reversal charges/cancellation due to technical restrictions of these stores.
 
 g. Subscriptions that have been signed up for via other payment providers can be canceled directly via the respective provider and in text form (by fax and email) or written form (by letter) with respect to LOVOO. In the event of cancellation, the user must specify the email address of the user account, for which the subscription is active, otherwise allocation to the user account is not possible.
 
@@ -141,11 +141,11 @@ c. Should LOVOO terminate the user account on the basis of reasons for which the
 
 ### b. Conduct of the user and User Content, granting rights of use
 
-(1). The user undertakes to conduct himself/herself on the LOVOO platform in line with our Content and Conduct Policy, available at [https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite](https://www.lovoo.com/legal/content). Any behavior that is **racist, offensive, discriminatory, harassing, defamatory, sexual, pornographic, glorifies violence or is otherwise unlawful** is prohibited.
+(1). The user undertakes to conduct himself/herself on the LOVOO platform in line with our Content and Conduct Policy, available at [Content Guidelines and Code of Conduct](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite). Any behavior that is **racist, offensive, discriminatory, harassing, defamatory, sexual, pornographic, glorifies violence or is otherwise unlawful** is prohibited.
 
 (2). The user grants LOVOO free, non-exclusive, transferable, sub-licensable rights, unrestricted in terms of time, space and content, (hereinafter referred to as “Right of Use”) to all content (e.g. images, texts, comments, Live Video content) generated, transmitted, saved or published by him/her on the LOVOO platform (hereinafter referred to as “User Content”) in order to use and exploit User Content with the aim of commercial marketing.
 
-(3). The user is solely responsible for his/her User Content. The user is required to ensure that his/her User Content is not **racist, offensive, discriminatory, harassing, defamatory, sexual, pornographic, glorifies violence or is otherwise unlawful**. This obligation is substantiated by the Content and Conduct Policy, available at [https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite). LOVOO is entitled, however not required, to delete or terminate User Content that infringes these regulations and to temporarily block the user account of the responsible user or terminate the contractual relationship.
+(3). The user is solely responsible for his/her User Content. The user is required to ensure that his/her User Content is not **racist, offensive, discriminatory, harassing, defamatory, sexual, pornographic, glorifies violence or is otherwise unlawful**. This obligation is substantiated by the Content and Conduct Policy, available at [Content Guidelines and Code of Conduct](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite). LOVOO is entitled, however not required, to delete or terminate User Content that infringes these regulations and to temporarily block the user account of the responsible user or terminate the contractual relationship.
 
 (4). The right of use includes the right of use for commercial and non-commercial use, including all currently unknown forms of use which will be known in the future. In particular, the granted right includes the right to reproduce, distribute and exhibit, the right to disclose in public, including the right of recital, performance and presentation, the right to make publicly accessible, the right to stream, the right to reproduce through an image or sound carrier as well as the right to make publicly accessible (particularly via the Internet) and disclose as well as all rights of the database provider pursuant to Section 87 b of the German Copyright Act, including the right to reproduce, distribute or disclose in public and, in particular, the right to enter in database systems. The granting of rights particularly includes the unrestricted right to make content created by the user, particularly videos, graphics and texts, publicly accessible on the website of LOVOO or in search machines and on social media and to use it for advertising measures of any kind, as well as the right to edit and modify. Should the content be used outside of the apps of LOVOO GmbH or the LOVOO platform, the user has the right to be named as the author, at which his/her profile name stored in his/her user account is used with reference to the LOVOO platform. In the event of use in the apps of LOVOO GmbH or on the LOVOO platform, the user shall be named as the author in the usual manner for the platform.
 
@@ -184,9 +184,9 @@ The user shall not send any private messages that are **racist, offensive, discr
 10\. Sanctions for infringement of the Terms of Use by the user and contractual penalty
 ---------------------------------------------------------------------------------------
 
-a. LOVOO can irreversibly remove User Content that infringes the \[[https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite\]](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite%5D)(Content Guidelines and Code of Conduct). There is no entitlement to recovery of the information erased by LOVOO. LOVOO can report User Content that infringes criminal law to law enforcement agencies.
+a. LOVOO can irreversibly remove User Content that infringes the [Content Guidelines and Code of Conduct](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite). There is no entitlement to recovery of the information erased by LOVOO. LOVOO can report User Content that infringes criminal law to law enforcement agencies.
 
-b. Should the user infringe these contractual terms or the \[[https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite\]](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite%5D)(Content Guidelines and Code of Conduct), LOVOO can, depending on the severity of the infringement,
+b. Should the user infringe these contractual terms or the [Content Guidelines and Code of Conduct](https://sites.google.com/lovoo.com/contentpolicy-lovoo/startseite), LOVOO can, depending on the severity of the infringement,
 
 (1) issue the user with a warning, (2) temporarily block individual features of the LOVOO platform for the user or the user account of the user, (3) permanently block features of the LOVOO platform for the user, (4) permanently block the user account of the user or (5) terminate the user account extraordinarily and ban the user from re-registering. Warning and blocking act as a written warning.
 
@@ -255,13 +255,15 @@ Withdrawal
 
 The following right of withdrawal for consumers applies to use of LOVOO within the framework of paid subscriptions as well as the purchase of credits:
 
-1.  Withdrawal policy **_Right of withdrawal_** You have the right to withdraw from this contract within fourteen days without specifying reasons. The withdrawal period is fourteen days starting from the date of contract conclusion. To assert your right of withdrawal, you must inform us (LOVOO GmbH, Prager Str. 10, 01069 Dresden, Germany, email: [support@lovoo.com](mailto:support@lovoo.com)) by means of a clear statement (e.g. a letter sent by post, fax or email) on your decision to withdraw from this contract. To do this, you can use the enclosed template withdrawal form, however, this form is not mandatory. To comply with the withdrawal period, it is sufficient for you to send the notification regarding assertion of the right of withdrawal before the withdrawal period expires.
+### 1\. Withdrawal policy **_Right of withdrawal_**
+
+You have the right to withdraw from this contract within fourteen days without specifying reasons. The withdrawal period is fourteen days starting from the date of contract conclusion. To assert your right of withdrawal, you must inform us (LOVOO GmbH, Prager Str. 10, 01069 Dresden, Germany, email: [support@lovoo.com](mailto:support@lovoo.com)) by means of a clear statement (e.g. a letter sent by post, fax or email) on your decision to withdraw from this contract. To do this, you can use the enclosed template withdrawal form, however, this form is not mandatory. To comply with the withdrawal period, it is sufficient for you to send the notification regarding assertion of the right of withdrawal before the withdrawal period expires.
 
 **Consequences of withdrawal**
 
 Should you withdraw from this contract, we are required to reimburse you for all payments that we have received from you, including the delivery costs (with the exception of additional costs that have been incurred as a result of you selecting a type of delivery other than the inexpensive standard delivery offered by us), without undue delay and within fourteen days of the date on which the notification of your withdrawal from the contract is received by us. For this reimbursement we use the same payment method that you used for the original transaction, unless otherwise expressly agreed with you; you will not be charged for this reimbursement under any circumstances. Should you request that the services start during the withdrawal period, you must pay us a reasonable sum that is equal to the amount of the services already rendered by the time at which you notify us of the assertion of the right of withdrawal with respect to this contract in relation to the entire spectrum of services set out in the contract.
 
-2.  Withdrawal form template
+### 2\. Withdrawal form template
 
 Should you wish to withdraw from the contract, please complete this form and send it back to us. To: LOVOO GmbH, Prager Str. 10, 01069, Germany; email: [support@lovoo.com](mailto:support@lovoo.com)
 
