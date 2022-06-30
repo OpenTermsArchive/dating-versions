@@ -1,4 +1,4 @@
-[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1654162664707)
+[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1656577249892)
 
 Privacy Policy for the Use of LOVOO
 ===================================
