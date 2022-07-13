@@ -1,4 +1,4 @@
-[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_06_21.pdf)
+[Print or download as PDF file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2022_07_13.pdf)
 
 ### eharmony - United Kingdom
 
@@ -6,7 +6,7 @@
 
   
 
-Version: 21 June 2022
+Version: 13 July 2022
 
   
 
@@ -279,7 +279,7 @@ eharmony processes the personal data of its users for the following purposes and
 *   Facilitation of the conclusion of a contract, incl. invoicing;
 *   Sending emails and/or push messages regarding matches or other contractually relevant messages.
 
-(The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).*   For so-called A/B testing. (The legal basis is Parship’s legitimate interest in improving the user-friendliness and enhancing the attractiveness of our website.)
+(The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).*   For so-called A/B testing. (The legal basis is eharmony’s legitimate interest in improving the user-friendliness and enhancing the attractiveness of our website.)
 *   To provide a login via the eharmony platform, Facebook login or Apple login. (The legal basis of processing is contractual necessity.)
 *   For the prevention of and defence against abuse. eharmony automatically collects, processes and uses personal data and geodata we collect during your registration and the completion of the eharmony compatibility quiz and/or your eharmony profile, to check for any evidence of the misuse of the platform. This information is stored in a database and compared against empirical values and information. If our automated processing activities suggest that our Service has been misused, an eharmony employee will review the relevant rating and underlying clues, as well as the information in your profile (including any wording and photos you have provided) to confirm whether this is the case. In addition, Customer care representatives perform profile checks to check members’ profiles that have been reported by other members through the function “suspicious profile?” or as having breached our General Terms and Conditions. Furthermore, as mentioned above, if you have provided your mobile phone number, eharmony may use this information to carry out an identity check (SMS verification),(i.e. to check that you are who you say you are). (The legal basis for these activities is the legitimate interests of eharmony and our eharmony members, to ensure that the eharmony Service is not used in a way that is in breach of our General Terms and Conditions and/or the law. In doing so, we also comply with our legal obligation regarding data security to guarantee system security and to detect and trace unauthorised access attempts or accesses.)
 *   For automated price determination reasons. In principle, we do not use fully automated individual decision-making in accordance with Article 22 GDPR, but we do process some of your data automatically in order to offer you suitable products. The following data is used for this purpose: age, income, registration device (app or website ). (The legal basis for these activities is contractual necessity as well as our legitimate interest in contacting our users through targeted and individual communications.)
@@ -367,9 +367,9 @@ Eharmony uses the GeoIP2 Precision City geolocation service from MaxMind, Inc, W
 
 **iovation**
 
-In order to protect the Parship platform and Parship users from fraud and abuse, Parship employs the abuse prevention service provided by iovation Inc. 555 SW Oak Street #300, Portland, OR 97204, USA. iovation checks your IP address, date and time of access, referrer URL and browser information when you access the Parship platform in order to determine the probability of fraudulent behaviour. All personal data received by iovation is pseudonymised, encrypted and subject to principles of data minimisation.
+In order to protect the eharmony platform and eharmony users from fraud and abuse, we employ the abuse prevention service provided by iovation Inc. 555 SW Oak Street #300, Portland, OR 97204, USA. iovation checks your IP address, date and time of access, referrer URL and browser information when you access the platform in order to determine the probability of fraudulent behaviour. All personal data received by iovation is pseudonymised, encrypted and subject to principles of data minimisation.
 
-We have concluded an agreement with iovation as independent controllers on the basis of the EU standard contractual clauses (Module 1).
+eharmony’s service provider, PE Digital GmbH, has concluded an agreement with iovation as independent controllers on the basis of the EU standard contractual clauses (Module 1).
 
 You can find out more about iovation [here](https://www.transunion.com/privacy/iovation).
 
@@ -379,7 +379,7 @@ We store your data for as long as is necessary for the provision of our Service 
 
 Data that is subject to a mandatory retention period is blocked from deletion until the end of that period.
 
-For Basic Members: You can choose to remove the data in your profile at any time. You can also erase your profile data yourself (when you have completed the compatibility quiz) by starting the deletion process in the “Profile Settings” area of your eharmony account. If you are a web or iOS user, you can also erase your profile data yourself (when you have completed the compatibility test) by starting the deletion process in the “Profile Settings” area of your Parship account. Otherwise, eharmony automatically erases personal profile data of Basic members who are inactive for 24 months.
+For Basic Members: You can choose to remove the data in your profile at any time. You can also erase your profile data yourself (when you have completed the compatibility quiz) by starting the deletion process in the “Profile Settings” area of your eharmony account. If you are a web or iOS user, you can also erase your profile data yourself (when you have completed the compatibility test) by starting the deletion process in the “Profile Settings” area of your eharmony account. Otherwise, eharmony automatically erases personal profile data of Basic members who are inactive for 24 months.
 
 For Premium Members: Your personal data will be stored for the duration of our contractual relationship. However, we will erase your data following your request as long as there is no legal storage obligation that applies to that information. If your data is subject to a mandatory storage period, we will ensure that this information is isolated and stored until the expiry of the retention period. Once your Premium Membership is over, if you do not ask us to erase your data before your Premium subscription comes to an end, your Premium Membership will be converted into a Basic Membership. In this case, the description above relating to the retention period of Basic members’ data will apply.
 
