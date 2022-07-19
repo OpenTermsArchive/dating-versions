@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-##### Last Updated: January 25, 2022
+##### Last Updated: July 19, 2022
 
 These Terms of Service (this “Agreement”) is between you and Coffee Meets Bagel, Inc. (“Coffee Meets Bagel” “we,” “us,” or “our”). By using our website, located at http://www.coffeemeetsbagel.com (“Website”), our mobile application available on Android and iOS devices (each, our “App”), and/or other services we provide (collectively, the “Services”) you agree to be bound by this Agreement. If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
 
@@ -11,7 +11,7 @@ While all of these will be discussed in more detail below, we want to make a few
 
 *   You must be at least 18 to use the Services.
 *   You may only create an Account for your actual self and must be truthful in what you put in it.
-*   We do not routinely conduct background checks or verify the identity of our Users. But we may do so as part of our fraud detection and prevention process.
+*   We do not routinely conduct background checks or verify the identity of our Users. But we may do so as part of our fraud detection and prevention process. Methods to verify identity include, but are not limited to, self photographs (“selfies”) with identifying characteristics, and government or military issued identification cards.
 *   We do not guarantee anything about the Services, including the actions of our Users. We do not guarantee matches, the frequency of your matches, that you will be compatible with those you match with, or that the people you match with are safe people to meet. You must exercise your own diligence and caution in using the Services and communicating with its Users.
 *   You have a right in some states to cancel this Agreement within 3 business days of registering for a premium account and receive a refund of any payments to us if you do so. Please see Section 20for more details.
 *   Lastly, by using the Services, you are agreeing (with limited exception) to resolve any dispute between you and us through binding, individual arbitration, rather than in court. Please review Section 19below for details, including the procedure for opting out of arbitration.
