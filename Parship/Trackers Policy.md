@@ -128,7 +128,7 @@ Si vous modifiez vos paramètres de cookies, certains cookies seront bloqués. I
 
 Vous trouverez sur notre [CMP](#uc-info-modal-show) un aperçu complet des cookies utilisés sur notre site web. Nous y avons mentionné le nom des différents cookies, ainsi que leur finalité, les données traitées, l’organisme responsable du traitement et d’autres informations importantes.
 
-Vous trouverez de plus amples informations et de l’aide sur les mécanismes de suivi sur internet à l'adresse www.YourOnlineChoices.com.
+Vous trouverez de plus amples informations et de l’aide sur les mécanismes de suivi sur internet à l'adresse [www.YourOnlineChoices.com](http://www.youronlinechoices.com/).
 
   
 
