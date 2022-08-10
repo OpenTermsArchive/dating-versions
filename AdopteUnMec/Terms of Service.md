@@ -3,7 +3,7 @@ C.G.U
 
 ### Conditions générales d'utilisation web
 
-à jour du 04/02/2022
+à jour du 09/08/2022
 
 Conditions générales d'utilisation
 ----------------------------------
@@ -12,7 +12,7 @@ Conditions générales d'utilisation
 
 ### ACCEPTATION DES CONDITIONS GÉNÉRALES D'UTILISATION
 
-Avant toute utilisation des services du site internet accessible à l’adresse www.adopte.app (ci-après désigné par le « Site »), vous vous engagez à lire et à accepter sans réserve les présentes conditions générales d'utilisation (ci-après les « **CGU** »), lesquelles sont susceptibles d’être mises à jour conformément à l’article 10 ci-dessous.
+Avant toute utilisation des services du site internet accessible à l’adresse [www.adopte.app](http://www.adopte.app/) (ci-après désigné par le « Site »), vous vous engagez à lire et à accepter sans réserve les présentes conditions générales d'utilisation (ci-après les « **CGU** »), lesquelles sont susceptibles d’être mises à jour conformément à l’article 10 ci-dessous.
 
 Ces règles ont été édictées dans le respect de la législation afin de préserver les libertés des Utilisateurs et d'assurer un service internet de qualité.
 
@@ -30,9 +30,11 @@ Si vous n’acceptez ou n’êtes pas d’accord avec l’intégralité du co
 
 **Compte Utilisateur** : correspond à l’espace personnel de chaque Utilisateur sur le Site. Les Utilisateurs y accèdent via un mot de passe et un identifiant qui leur sont strictement personnels et confidentiels. Le Compte d’Utilisateur permet à l'Utilisateur de disposer d'une identité au sein du réseau social virtuel du Site et d'interagir avec les autres Utilisateurs sur le Site.
 
-**Services** : désignent les fonctionnalités payantes ou gratuites accessibles aux Utilisateurs du Site via un appareil mobile ou un ordinateur, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. Les services payants sont décrits à l’article 4 des présentes CGU.
+**Magic Boost** : désigne la fonctionnalité payante permettant aux Utilisateurs de mettre en avant leur profil et d'obtenir plus de visibilité sur le Site.  
 
-**Utilisateur** : Internaute ayant adhéré aux présentes CGU. On distingue les « Utilisateurs masculins » (Hommes) des « Utilisatrices » (Femmes), « l'(les) Utilisateur(s) » désignant communément l'un ou l'autre.
+**Services** : désignent les fonctionnalités payantes ou gratuites accessibles aux Utilisateurs du Site via un appareil mobile ou un ordinateur, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. Les services payants sont décrits à l’article 4 des présentes CGU.  
+
+**Utilisateur** : Internaute ayant adhéré aux présentes CGU. On distingue les « Utilisateurs masculins » (Hommes) des « Utilisatrices » (Femmes), « l'(les) Utilisateur(s) » désignant communément l'un ou l'autre.  
 
 ### ARTICLE 2 : INSCRIPTION ET CONDITIONS D’ACCÈS AUX SERVICES DU SITE
 
@@ -115,7 +117,17 @@ Les effets de la suppression de compte sont précisés à l’article 9.4 ci-
 
 ### ARTICLE 4 : SERVICES ET ABONNEMENTS
 
-#### 4.1 Les Abonnements
+#### 4.1 Magic Boost
+
+Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés seulement par les Utilisateurs ayant souscrit un Abonnement. À l’expiration de la durée de validité de l’Abonnement, la possession de Magic Boost ne donne pas accès aux Services. 
+
+Les Magic Boost sont vendus à l'unité et par lots. Le nombre de Magic Boost accordés et les prix sont indiqués dans la Boutique. Les Magic Boost sont utilisables sans restriction de durée ni de quantité par jour, toutefois l’Utilisateur ne peut pas activer deux Magic Boost en même temps. L'absence de photo sur le profil prive l'Utilisateur de l'usage de ce service.
+
+Les Magic Boost sont payables selon les modalités de paiement précisées à l’article 4.4 « Modalités de paiement » des présentes.
+
+Les Magic Boost ne font pas l’objet d’une reconduction. L'acquisition du Magic Boost est un achat d'exécution immédiate. À ce titre l'Utilisateur renonce expressément à exercer son droit de rétractation conformément aux dispositions de l'article L.228-28 1° du Code de la consommation.
+
+#### 4.2 Les Abonnements
 
 Les Utilisateurs du Site peuvent également accéder aux Services dans le cadre de la souscription d’un Abonnement, utilisable via l’Application et le Site, dont les prix et modalités de fonctionnement sont indiqués dans la Boutique.
 
@@ -127,13 +139,13 @@ Dans le cas où l’Utilisateur disposerait au même temps des Charmes gratuit
 
 L’Utilisateur reconnait qu’en cas d’utilisation des Charmes obtenus de manière payante, adopte procédera à l'exécution immédiate de la prestation et à ce titre l’Utilisateur renonce expressément à exercer son droit de rétractation conformément aux dispositions de l'article L.221-28 1° du code de la consommation.
 
-#### 4.2 Modalité de paiement
+#### 4.3 Modalités de paiement
 
 L’Utilisateur peut procéder au paiement des Services acquis sur le Site par carte bancaire (ci-après CB), par prélèvement bancaire ou par l’intermédiaire des services de la société PAYPAL.
 
 Les coordonnées bancaires des Utilisateurs sont collectées par nos prestataires en matière de paiement, les sociétés PAYBOX, HIPAY, PAYPAL, SIPS et nos partenaires bancaires : la Société Générale, Banque Palatine et la Banque Postale . Un algorithme de chiffrement permet de garantir la sécurité des données bancaires en générant notamment deux clefs lors de la première saisie des données de la carte par l'Utilisateur. Une clef est conservée par le prestataire en matière de paiement et l'autre par adopte. Cette solution est certifiée PCI DSS par VISA et MASTERCARD (norme de sécurité internationale pour assurer la confidentialité et l'intégrité des données des porteurs de cartes). L’Utilisateur accepte expressément que ses données bancaires soient conservées de manière sécurisée, notamment pour le paiement de toutes les échéances dues au titre de l’Abonnement souscrit. L’Utilisateur peut modifier ses coordonnées bancaires en se rendant sur sa rubrique « Mon compte».
 
-#### 4.3 Upgrade et mise à niveau des Abonnements
+#### 4.4 Upgrade et mise à niveau des Abonnements
 
 En cas d’épuisement du nombre de Charmes mis à sa disposition, l’Utilisateur peut :
 
@@ -165,7 +177,7 @@ Par conséquent, au titre du nouvel Abonnement, l'Utilisateur paiera au total la
 
 Les prix et dates ci-dessus sont non contractuels et donnés à simple titre d’exemple. Les conditions et modalités de nos Abonnements sont disponibles dans la Boutique.
 
-#### 4.4 Renouvellement automatique
+#### 4.5 Renouvellement automatique
 
 A son expiration, l'Abonnement en cours est renouvelé pour une durée équivalente à celle initialement souscrite par l’Utilisateur. L’Utilisateur peut s’opposer à cette reconduction en le notifiant au Site par courriel à l’adresse : paiement@adopte.app au plus tard 24 heures avant la date d’expiration de l’Abonnement en cours.
 
@@ -185,7 +197,7 @@ Les dispositions du présent article s'appliquent sans préjudice de celles qu
 
 "Lorsque le professionnel n'a pas procédé au remboursement dans les conditions prévues à l'article L. 215-1, les sommes dues sont productives d'intérêts au taux légal."
 
-#### 4.5 Droit de rétractation
+#### 4.6 Droit de rétractation
 
 Conformément à l'article L. 221-18 du Code de la consommation, toute souscription à un Abonnement pourra être remboursée sans pénalité sur simple demande non motivée dans un délai de 14 jours à compter de ladite souscription par l'envoi d'un courriel adressé à remboursement@adopte.app avec, en pièce jointe, la facture d’achat reçue de nos services que l'utilisateur reçoit sur sa messagerie personnelle. Il ne sera procédé qu'à un seul remboursement par Utilisateur (personne physique). adopte se réserve le droit de demander des informations complémentaires si nécessaire.
 
@@ -193,9 +205,9 @@ A réception de l'ensemble de ces documents, l'Utilisateur sera remboursé de 
 
 Il est rappelé qu’en application des dispositions de l'article Article L.221-28 du Code de la Consommation, l'Utilisateur ne pourra plus exercer son droit de rétractation après utilisation des Services (payants et/ou gratuits).
 
-#### 4.6 OPÉRATIONS SPECIALES
+#### 4.7 OPÉRATIONS SPECIALES
 
-#### 4.6.1 Parrainage
+#### 4.7.1 Parrainage
 
 adopte souhaite encourager l’inscription de nouveaux Utilisateurs et Utilisatrices, notamment par l’organisation d’opérations de « parrainage ». Ces opérations sont ponctuelles et uniquement valables pendant la durée indiquée sur le Site. Dans le cadre de ces opérations, les Utilisateurs sont invités, sous réserve d’avoir préalablement obtenu l’accord du tiers, à communiquer au Site, sur la page dédiée à cet effet, les adresses mails d’autres personnes physiques non abonnées aux Services et domiciliées en France, au Luxembourg, en Belgique et en Suisse. Ces personnes (ci-après désignées par le ou les « Ami(s) ») recevront une invitation pour s’inscrire sur adopte Si l’Ami crée un Compte d’Utilisateur sur le Site, en confirmant son adresse mail via le lien qui lui sera transmis, et qu’il utilise les Services du Site dans les sept (7) jours suivant son inscription, le délai de 7 jours courant 24 heures après le jour d'inscription au Site, l’Utilisateur, auteur de l’invitation, se verra alors attribuer des Charmes dans les conditions suivantes :
 
@@ -211,7 +223,7 @@ Les Utilisateurs et Utilisatrices s’interdisent de créer et/ou d’utiliser 
 
 Il est précisé qu’à chaque adresse mail renseignée doit correspondre une personne physique différente. Les adresses IP des Utilisateurs et les adresses IP des Amis doivent nécessairement être différentes. De même, les adresses IP des Amis doivent toutes être différentes les unes des autres. En cas de similitude entre les adresses IP, la fourniture de Charmes ne sera pas effectuée.
 
-#### 4.6.2 Promotions et concours
+#### 4.7.2 Promotions et concours
 
 adopte peut éventuellement proposer des offres spéciales pour une durée limitée dont les conditions et modalités seront disponibles dans la Boutique.
 
@@ -221,7 +233,7 @@ Les termes et conditions de ces promotions et/ou concours seront communiqués a
 
 Les offres de réduction sur les prix des Abonnements ne sont pas reconductibles. Elles ne sont valables qu'une fois par utilisateur et uniquement au titre de la première échéance de paiement. En cas de renouvellement de l'Abonnement, le tarif normal de l'Abonnement sera prélevé.
 
-#### 4.6.3 Offre Étudiant
+#### 4.7.3 Offre Étudiant
 
 L’Offre Étudiant est réservée aux étudiants, pour une nouvelle inscription sur adopte, non cumulable avec une autre offre ou promotion. Lorsque cette Offre est proposée, ses conditions et modalités sont indiquées dans la Boutique.
 
@@ -327,14 +339,13 @@ L’Utilisateur déclare et garantit avoir tous les droits, le pouvoir et l’a
 
 ### ARTICLE 9 : SANCTIONS, SUSPENSION D’ACCÈS AU COMPTE ET RÉSILIATION
 
-#### 9.1 Points Boulet/Points Fake et Badges
+#### 9.1 Signaler ou bloquer un Compte
 
-Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur doit le signaler au plus tôt en sélectionnant les fiches desdits Utilisateurs ou la rubrique « Contact » afin de cliquer sur les mentions « Signaler comme Fake » ou « Ce mec est un boulet ! ». En adhérant aux présentes CGU, l'Utilisateur reconnait que l'attribution de tels points relève d'un système de modération communautaire humoristique qui ne saurait à ce titre, caractériser une injure à son encontre.  
-Tout Utilisateur obtenant trop de points « boulet » ou de points « fake » pourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. adopte adresse un avertissement par courriel à chaque Utilisateur ayant obtenu un nombre de points « boulet » ou points « fake » positif, l'informant que son Abonnement peut être résilié de plein droit et automatiquement. Les avertissements seront au nombre de 3, le troisième étant suivi de la clôture de son Compte Utilisateur sans que celui-ci puisse prétendre à un remboursement ou à une indemnisation de son préjudice.  
-Les points « boulet » ou « fake » de l'Utilisateur ne sont jamais remis à zéro. Les points sont conservés durant toute la durée de vie du Compte Utilisateur, même si celui-ci aura été désactivé puis réactivé.  
-Tout abus dans l'usage de ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
+Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur peut le signaler à travers la rubrique “Contact” ou directement depuis le profil ou la conversation avec l’Utilisateur concerné, via l’onglet “Signaler”. L’Utilisateur sera invité à préciser le motif de son signalement (contenu inapproprié, profil fake/frauduleux, insulte ou discours haineux, etc.). Tout Utilisateur ayant fait l’objet d’un ou plusieurs signalements pourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. Adopte, à sa discrétion, pourra résilier de plein droit et automatiquement l’Abonnement d’un Compte Utilisateur signalé conformément à l’article 9.3 des présentes. Tout abus dans l'usage de ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
 
-Les Badges sont quant à eux attribués à l’ensemble des Utilisateurs selon leur activité sur le Site et relèvent d'un système de gratification communautaire humoristique, qui ne saurait en aucun cas, caractériser une injure.
+L’Utilisateur a également la faculté de bloquer tout Utilisateur dont il considère que le comportement est inapproprié, depuis le profil ou la conversation de l’Utilisateur concerné.
+
+Le signalement ou blocage d’un autre Utilisateur est anonyme et définitif. À ce titre, aucun type de communication avec l’Utilisateur concerné ne sera plus possible, et ce dernier ne pourra plus accéder au profil de l’Utilisateur à l’initiative du signalement ou blocage.
 
 #### 9.2 Suspension d'accès au Compte
 
@@ -377,7 +388,7 @@ Les présentes CGU sont soumises au droit français, la langue d'interprétat
 Si une ou plusieurs stipulations des présentes CGU étai(en)t déclarée(s) nulle(s) en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autre stipulations garderont toute leur force et leur portée sous réserve que les présentes CGU ne soient pas dénaturées, et que cela n'entraîne pas un déséquilibre significatif des obligations à la charges des parties.  
 L'absence d'action d’adopte ou ses partenaires s'agissant d'un manquement qu'il soit de votre fait ou de celui d'autres personnes ne saurait constituer une renonciation au droit d'agir s'agissant de manquements similaires ou ultérieurs aux présentes Conditions.
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr.](http://www.mediateurfevad.fr./) Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
 
 L’Utilisateur peut également présenter ses réclamations sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l’adresse suivante : https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&lng=FR. La Commission Européenne se chargera de transmettre votre réclamation aux médiateurs compétents.
 
@@ -396,7 +407,7 @@ Les présentes CGU sont applicables aux Applications sauf modalités différente
 
 ### Conditions générales d'utilisation Android
 
-à jour du 04/02/2022
+à jour du 09/08/2022
 
 Conditions générales d'utilisation
 ----------------------------------
@@ -428,13 +439,19 @@ Si vous n’acceptez ou n’êtes pas d’accord avec l’intégralité du co
 
 **Compte Utilisateur :** correspond à l’espace personnel de chaque Utilisateur sur le Réseau. Les Utilisateurs y accèdent via un mot de passe et un identifiant qui leur sont strictement personnels et confidentiels. Le Compte d’Utilisateur permet à l'Utilisateur de disposer d'une identité au sein du réseau social virtuel de l’Application et d'interagir avec les autres Utilisateurs sur l’Application.
 
+**Magic Boost** : désigne la fonctionnalité payante permettant aux Utilisateurs de mettre en avant leur profil et d'obtenir plus de visibilité sur l'Application.  
+
 **Packs :** désignent les Charmes supplémentaires, vendus par lots dans la Boutique (exemple : lot de 60, 120 Charmes…), qu’un Utilisateur peut acheter pour augmenter son stock de Charmes. Les Packs sont utilisables à tout moment sans restriction de durée. Toutefois aucun Pack ne peut être acquis sans souscription préalable d'un Abonnement ou acquisition d’un Pass.
 
 **Pass :** désigne le droit d’accès aux Services du Site et à l’Application pour une durée limitée et inférieure à un mois. La durée et le nombre de Charmes accordés dans le cadre d’un Pass sont indiqués dans la Boutique à l’achat.
 
+**Pass à vie** : désigne la fonctionnalité payante permettant à l’Utilisateur d’accéder aux Services de l'Application pendant toute la durée de leur Compte Utilisateur.  
+
 **Services :** désignent les fonctionnalités payantes ou gratuites accessibles aux Utilisateurs de l’Application via un appareil mobile, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. Les services payants sont décrits à l’article 4 des présentes CGU.
 
-**Site :** Site internet accessible à l’adresse www.adopte.app.
+**Site :** Site internet accessible à l’adresse [www.adopte.app.](http://www.adopte.app./)
+
+**Swipe** : correspond à la fonctionnalité gratuite permettant aux Utilisateurs de solliciter ou d'autoriser une demande de prise de contact en faisant glisser les profils à droite, ou de refuser la prise de contact en faisant glisser les profils à gauche.  
 
 **Utilisateur :** Internaute ayant adhéré aux présentes CGU. On distingue les « Utilisateurs masculins » (Hommes) des « Utilisatrices » (Femmes), « l'(les) Utilisateur(s) » désignant communément l'un ou l'autre.
 
@@ -547,9 +564,17 @@ Les Charmes non utilisés ne sont pas reportés au crédit du jour suivant.
 
 Les Pass sont payables selon les modalités de paiement prévues et imposées par Google Play. Les paiements sont sécurisés conformément à la législation en vigueur. Google Play est seul responsable des modalités de paiement et plus généralement du processus de paiement et ce conformément aux conditions imposées par Google Play. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services de Google Play.
 
+**4.2 Pass à Vie**
+
+Lorsqu’il est disponible, le Pass à Vie permet auxUtilisateurs d’accéder aux Services de l’Application pendant toute la durée de vie de leur Compte Utilisateur. Le prix, les modalités de fonctionnement et le nombre de Charmes accordés, sont indiqués dans la Boutique.
+
+Les Charmes non utilisés au cours d’un mois, ne sont pas reportés le mois suivant.
+
+Dans le cas où l’Utilisateur disposerait en même temps de Charmes gratuits et de Charmes payants, l’imputation des Charmes se fera d’abord sur ceux acquis à titre onéreux.
+
   
 
-**4.2 Les Abonnements**
+**4.3 Les Abonnements**
 
 Les Utilisateurs de l’Application peuvent également accéder aux Services dans le cadre de la souscription d’un Abonnement, utilisable via l’Application et le Site, dont les prix et modalités sont indiqués dans la Boutique.
 
@@ -563,17 +588,21 @@ Il est rappelé que l’Utilisateur ne peut pas cumuler un Pass et un Abonnemen
 
   
 
-**4.3 Les Packs**
+**4.4 Les Packs**
 
 Les Utilisateurs ayant préalablement souscrit un Pass ou un Abonnement et souhaitant augmenter leur réserve de Charmes, peuvent acheter des Packs dont le nombre de Charmes accordés et le prix sont indiqués dans la Boutique.
 
 Les Packs sont utilisables sans restriction de durée. Les Charmes du Pack se cumulent avec les Charmes du Pass ou de l’Abonnement. Toutefois à l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Charmes du Pack ne donne pas accès aux Services.
 
-**4.4 Modalité de paiement**
+**4.5 Magic Boost**
 
-Les Packs sont payables selon les modalités de paiement prévues et imposées par Google Play. Les paiements sont sécurisés conformément à la législation en vigueur. Google Play est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par Google Play. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services de Google Play.
+Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés seulement par les Utilisateurs ayant souscrit un Abonnement ou un Pass. À l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Magic Boost ne donne pas accès aux Services.  
 
-**4.5 Durée**
+**4.6 Modalités de paiement**
+
+Les Packs, le Pass à Vie et les Magic Boost sont payables selon les modalités de paiement prévues et imposées par Google Play. Les paiements sont sécurisés conformément à la législation en vigueur. Google Play est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par Google Play. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services de Google Play.
+
+**4.7 Durée**
 
 La durée des Pass est de :
 
@@ -587,11 +616,13 @@ La durée des Abonnements est de :
 
 6 mois pour l'Abonnement 6 mois ;
 
-Les Packs sont utilisables sans restriction de durée.
+Le Pass à vie reste actif pendant la durée de vie du Compte Utilisateur.  
+
+Les Packs et les Magic Boost sont utilisables sans restriction de durée.
 
 Le Pass 7 jours facturé 9,99 euros TTC n'est disponible que pour les Utilisateurs inscrits avant le 9 janvier 2019 et, ayant souscrit à l'offre au moins une fois au cours de la vie de leur compte d'Utilisateur.
 
-**4.6 Renouvellement automatique**
+**4.8 Renouvellement automatique**
 
 L'Abonnement se reconduit tacitement dans tous ses termes et conditions par l'arrivée du terme pour une nouvelle durée déterminée à savoir :
 
@@ -603,17 +634,19 @@ L'Abonnement se reconduit tacitement dans tous ses termes et conditions par l'ar
 
 La tacite reconduction peut être dénoncée expressément par l’Utilisateur depuis son smartphone Android au plus tard dans les 24 heures précédant l'arrivée de l'échéance de l'Abonnement suivant la procédure imposée par Google Play et par les CGU Google Play. L’Utilisateur déclare avoir pris connaissance desdites conditions et les accepter. L'Abonnement ne sera pas reconduit par la tacite reconduction judiciaire.
 
-Les Pass ainsi que les Packs ne font pas l’objet d’une reconduction.
+Les Pass ainsi que les Packs, le Pass à Vie et les Magic Boost ne font pas l’objet d’une reconduction.
 
-**4.7 Droit de rétractation**
+  
+
+**4.9 Droit de rétractation**
 
 Conformément aux conditions générales imposées par Google Play et à l'article L121-18 du Code de la consommation, il est rappelé que :
 
-Tout achat d’un Pass, d’un Pack ou souscription d'un Abonnement est définitif une fois que l’achat a été validé dans les conditions légales et que le téléchargement a commencé. L’achat de Charmes n’ouvre pas droit à un délai de rétractation sauf dispositions contraires proposées par Google Play.
+Tout achat d’un Pass, d’un Pass à Vie, d’un Pack, d'un Magic Boost ou souscription d'un Abonnement est définitif une fois que l’achat a été validé dans les conditions légales et que le téléchargement a commencé. L’achat de Charmes n’ouvre pas droit à un délai de rétractation sauf dispositions contraires proposées par Google Play.
 
-Tout achat d'un Abonnement ou d’un Pass fait immédiatement bénéficier son Utilisateur d’un référencement de sa fiche qui devient aussitôt accessible auprès des Utilisatrices via le Site et l’Application. A ce titre, il s’agit de la fourniture de service(s) dont l’exécution commence avec l’accord du consommateur avant la fin du délai de sept jours francs. La souscription d'un Abonnement, d’un Pass ou d’un Pack ne donne pas droit à un délai de rétractation, contrairement aux dispositions des CGU du site.
+Tout achat d'un Abonnement, d'un Pass ou d’un Pass à Vie fait immédiatement bénéficier son Utilisateur d’un référencement de sa fiche qui devient aussitôt accessible auprès des Utilisatrices via le Site et l’Application. A ce titre, il s’agit de la fourniture de service(s) dont l’exécution commence avec l’accord du consommateur avant la fin du délai de sept jours francs. La souscription d'un Abonnement, d’un Pass, d'un Pass à Vie, d'un Magic Boost ou d’un Pack ne donne pas droit à un délai de rétractation, contrairement aux dispositions des CGU du site.
 
-**4.8 Promotions et concours**
+**4.10 Promotions et concours**
 
 adopte peut éventuellement proposer des offres spéciales pour une durée limitée dont les conditions et modalités seront disponibles dans la Boutique.
 
@@ -623,7 +656,7 @@ Les termes et conditions de ces promotions et/ou concours seront communiqués a
 
 Les offres de réduction sur les prix des Abonnements ne sont pas reconductibles. En cas de renouvellement de l’Abonnement, le tarif normal de l'Abonnement sera prélevé. Les offres de réduction ne sont valables qu’au titre de la première échéance de paiement et ne sont valables qu'une fois par utilisateur tel qu'il est identifié par la plateforme Google.
 
-**4.9 Offre Étudiant**
+**4.11 Offre Étudiant**
 
 L’Offre Étudiant est réservée aux étudiants, pour une nouvelle inscription sur adopte, non cumulable avec une autre offre ou promotion. Lorsque cette Offre est proposée, ses conditions et modalités sont indiquées dans la Boutique.
 
@@ -737,11 +770,13 @@ L’Utilisateur déclare et garantit avoir tous les droits, le pouvoir et l’a
 
 **ARTICLE 9 : SANCTIONS, SUSPENSION D’ACCÈS AU COMPTE ET RÉSILIATION**
 
-**9.1 Points Boulet/Points Fake et Badges**
+**9.1 Signaler ou bloquer un Compte**
 
-Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur doit le signaler au plus tôt en sélectionnant les fiches desdits Utilisateurs ou la rubrique « Contact » afin de cliquer sur les mentions « Signaler comme Fake » ou « Ce mec est un boulet ! ». En adhérant aux présentes CGU, l'Utilisateur reconnait que l'attribution de tels points relève d'un système de modération communautaire humoristique qui ne saurait à ce titre, caractériser une injure à son encontre. Tout Utilisateur obtenant trop de points « boulet » ou de points « fake » pourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. adopte adresse un avertissement par courriel à chaque Utilisateur ayant obtenu un nombre de points « boulet » ou points « fake » positif, l'informant que son Abonnement peut être résilié de plein droit et automatiquement. Les avertissements seront au nombre de 3, le troisième étant suivi de la clôture de son Compte Utilisateur sans que celui-ci puisse prétendre à un remboursement ou à une indemnisation de son préjudice. Les points « boulet » ou « fake » de l'Utilisateur ne sont jamais remis à zéro. Les points sont conservés durant toute la durée de vie du Compte Utilisateur, même si celui-ci aura été désactivé puis réactivé. Tout abus dans l'usage ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
+Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur peut le signaler à travers la rubrique “Contact” ou directement depuis le profil ou la conversation avec l’Utilisateur concerné, via l’onglet “Signaler”. L’Utilisateur sera invité à préciser le motif de son signalement (contenu inapproprié, profil fake/frauduleux, insulte ou discours haineux, etc.). Tout Utilisateur ayant fait l’objet d’un ou plusieurs signalements pourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. Adopte, à sa discrétion, pourra résilier de plein droit et automatiquement l’Abonnement d’un Compte Utilisateur signalé conformément à l’article 9.3 des présentes. Tout abus dans l'usage de ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
 
-Les Badges sont quant à eux attribués à l’ensemble des Utilisateurs selon leur activité sur l’Application et relèvent d'un système de gratification communautaire humoristique, qui ne saurait en aucun cas, caractériser une injure.
+L’Utilisateur a également la faculté de bloquer tout Utilisateur dont il considère que le comportement est inapproprié, depuis le profil ou la conversation de l’Utilisateur concerné.
+
+Le signalement ou blocage d’un autre Utilisateur est anonyme et définitif. À ce titre, aucun type de communication avec l’Utilisateur concerné ne sera plus possible, et ce dernier ne pourra plus accéder au profil de l’Utilisateur à l’initiative du signalement ou blocage.
 
 **9.2 Suspension d'accès au Compte**
 
@@ -796,7 +831,7 @@ Si une ou plusieurs stipulations des présentes CGU étai(en)t déclarée(s)
 
 L'absence d'action d’adopte ou ses partenaires s'agissant d'un manquement qu'il soit de votre fait ou de celui d'autres personnes ne saurait constituer une renonciation au droit d'agir s'agissant de manquements similaires ou ultérieurs aux présentes Conditions.
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr.](http://www.mediateurfevad.fr./) Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
 
 L’Utilisateur peut également présenter ses réclamations sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l’adresse suivante : https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&lng=FR. La Commission Européenne se chargera de transmettre votre réclamation aux médiateurs compétents.
 
@@ -808,7 +843,7 @@ Les demandes de réquisitions judiciaires peuvent être adressées à l'adresse 
 
 ### Conditions générales d'utilisation Iphone
 
-à jour du 04/02/2022
+à jour du 09/08/2022
 
 Conditions générales d'utilisation
 ----------------------------------
@@ -840,13 +875,19 @@ Si vous n’acceptez ou n’êtes pas d’accord avec l’intégralité du co
 
 **Compte Utilisateur :** correspond à l’espace personnel de chaque Utilisateur sur le Réseau. Les Utilisateurs y accèdent via un mot de passe et un identifiant qui leur sont strictement personnels et confidentiels. Le Compte d’Utilisateur permet à l'Utilisateur de disposer d'une identité au sein du réseau social virtuel de l’Application et d'interagir avec les autres Utilisateurs sur l’Application.
 
+**Magic Boost :** désigne la fonctionnalité payante permettant aux Utilisateurs de mettre en avant leur profil et d'obtenir plus de visibilité sur l'Application.
+
 **Packs :** désignent les Charmes supplémentaires, vendus par lots dans la Boutique (exemple : lot de 60, 120 Charmes…), qu’un Utilisateur peut acheter pour augmenter son stock de Charmes. Les Packs sont utilisables à tout moment sans restriction de durée. Toutefois aucun Pack ne peut être acquis sans souscription préalable d'un Abonnement ou acquisition d’un Pass.
 
 **Pass :** désigne le droit d’accès aux Services du Site et à l’Application pour une durée limitée et inférieure à un mois. La durée et le nombre de Charmes accordés dans le cadre d’un Pass sont indiqués dans la Boutique à l’achat.
 
+**Pass à vie :** désigne la fonctionnalité payante permettant à l’Utilisateur d’accéder aux Services de l'Application pendant toute la durée de leur Compte Utilisateur.  
+
 **Services :** désignent les fonctionnalités payantes ou gratuites accessibles aux Utilisateurs de l’Application via un appareil mobile, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. Les services payants sont décrits à l’article 4 des présentes CGU.
 
-**Site :** Site internet accessible à l’adresse www.adopte.app.
+**Site :** Site internet accessible à l’adresse [www.adopte.app.](http://www.adopte.app./)
+
+**Swipe :** correspond à la fonctionnalité gratuite permettant aux Utilisateurs de solliciter ou d'autoriser une demande de prise de contact en faisant glisser les profils à droite, ou de refuser la prise de contact en faisant glisser les profils à gauche.
 
 **Utilisateur :** Internaute ayant adhéré aux présentes CGU. On distingue les « Utilisateurs masculins » (Hommes) des « Utilisatrices » (Femmes), « l'(les) Utilisateur(s) » désignant communément l'un ou l'autre.
 
@@ -955,9 +996,15 @@ Les Pass sont payables selon les modalités de paiement prévues et imposées
 
 App. Store est seul responsable des modalités de paiement et plus généralement du processus de paiement et ce conformément aux conditions imposées par App. Store. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services d’App. Store.
 
-  
+**4.2 Pass à vie**
 
-**4.2 Les Abonnements**
+Lorsqu’il est disponible, le Pass à Vie permet auxUtilisateurs d’accéder aux Services de l’Application pendant toute la durée de vie de leur Compte Utilisateur. Le prix, les modalités de fonctionnement et le nombre de Charmes accordés, sont indiqués dans la Boutique.
+
+Les Charmes non utilisés au cours d’un mois, ne sont pas reportés le mois suivant.
+
+Dans le cas où l’Utilisateur disposerait en même temps de Charmes gratuits et de Charmes payants, l’imputation des Charmes se fera d’abord sur ceux acquis à titre onéreux.
+
+**4.3 Les Abonnements**
 
 Les Utilisateurs de l’Application peuvent également accéder aux Services dans le cadre de la souscription d’un Abonnement, utilisable via l’Application et le Site, dont les prix et modalités sont indiqués dans la Boutique.
 
@@ -971,19 +1018,23 @@ App. Store est seul responsable des modalités de paiement et plus générale
 
 Il est rappelé que l’Utilisateur ne peut pas cumuler un Pass et un Abonnement. En effet, en cas de souscription d’un Abonnement, l’Utilisateur ne pourra pas, avant résiliation de ce dernier, acquérir un Pass et inversement, il ne pourra pas souscrire un Abonnement via l’Application avant l’expiration de son Pass.
 
-  
-
-**4.3 Les Packs**
+**4.4 Les Packs**
 
 Les Utilisateurs ayant préalablement souscrit un Pass ou un Abonnement et souhaitant augmenter leur réserve de Charmes, peuvent acheter des Packs dont le nombre de Charmes accordés et le prix sont indiqués dans la Boutique.
 
 Les Packs sont utilisables sans restriction de durée. Les Charmes du Pack se cumulent avec les Charmes du Pass ou de l’Abonnement. Toutefois à l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Charmes du Pack ne donne pas accès aux Services.
 
-**4.4 Modalité de paiement**
+**4.5 Magic Boost**
 
-Les Packs sont payables selon les modalités de paiement prévues et imposées par App. Store. Les paiements sont sécurisés conformément à la législation en vigueur. App. Store est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par App. Store. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services d’App. Store.
+Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés seulement par les Utilisateurs ayant souscrit un Abonnement ou un Pass. À l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Magic Boost ne donne pas accès aux Services. 
 
-**4.5 Durée**
+Les Magic Boost sont vendus à l'unité et par lots. Le nombre de Magic Boost accordés et les prix sont indiqués dans la Boutique. Les Magic Boost sont utilisables sans restriction de durée ni de quantité par jour, toutefois l’Utilisateur ne peut pas activer deux Magic Boost en même temps. L'absence de photo sur le profil prive l'Utilisateur de l'usage de ce service.
+
+**4.6 Modalités de paiement**
+
+Les Packs, le Pass à Vie et les Magic Boost sont payables selon les modalités de paiement prévues et imposées par App. Store. Les paiements sont sécurisés conformément à la législation en vigueur. App. Store est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par App. Store. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services d’App. Store.
+
+**4.7 Durée**
 
 La durée des Pass est de :
 
@@ -997,11 +1048,13 @@ La durée des Abonnements est de :
 
 6 mois pour l'Abonnement 6 mois ;
 
-Les Packs sont utilisables sans restriction de durée.
+Le Pass à Vie reste actif pendant la durée de vie du Compte Utilisateur.  
+
+Les Packs et les Magic Boost sont utilisables sans restriction de durée.
 
 Le Pass 7 jours facturé 9,99 euros TTC n'est disponible que pour les Utilisateurs inscrits avant le 9 janvier 2019 et, ayant souscrit à l'offre au moins une fois au cours de la vie de leur compte d'Utilisateur.
 
-**4.6 Renouvellement automatique**
+**4.8 Renouvellement automatique**
 
 L'Abonnement se reconduit tacitement dans tous ses termes et conditions par l'arrivée du terme pour une nouvelle durée déterminée à savoir :
 
@@ -1013,19 +1066,17 @@ L'Abonnement se reconduit tacitement dans tous ses termes et conditions par l'ar
 
 La tacite reconduction peut être dénoncée expressément par l’Utilisateur depuis son iPhone au plus tard dans les 24 heures précédant l'arrivée de l'échéance de l'Abonnement suivant la procédure imposée par l’App. Store et par les CGU iTunes. L’Utilisateur déclare avoir pris connaissance desdites conditions et les accepter. L'Abonnement ne sera pas reconduit par la tacite reconduction judiciaire.
 
-Les Pass ainsi que les Packs ne font pas l’objet d’une reconduction.
+Les Pass ainsi que les Packs, le Pass à Vie et les Magic Boost ne font pas l’objet d’une reconduction.
 
-**4.7 Droit de rétractation**
+**4.9 Droit de rétractation**
 
 Conformément aux conditions générales imposées par App. Store et à l'article L121-18 du Code de la consommation, il est rappelé que :
 
-Tout achat d’un Pass, d’un Pack ou souscription d’un Abonnement est définitif une fois que l’achat a été validé dans les conditions légales et que le téléchargement a commencé. L’achat de Charmes n’ouvre pas droit à un délai de rétractation sauf dispositions contraires proposées par App Store.
+Tout achat d’un Pass, d’un Pass à Vie, d’un Pack, d'un Magic Boost ou souscription d’un Abonnement est définitif une fois que l’achat a été validé dans les conditions légales et que le téléchargement a commencé. L’achat de Charmes n’ouvre pas droit à un délai de rétractation sauf dispositions contraires proposées par App Store.
 
-Tout achat d’un Abonnement ou d’un Pass fait immédiatement bénéficier son Utilisateur d’un référencement de sa fiche qui devient aussitôt accessible auprès des Utilisatrices via le Site et l’Application. A ce titre, il s’agit de la fourniture de service(s) dont l’exécution commence avec l’accord du consommateur avant la fin du délai de sept jours francs. La souscription d’un Abonnement ou d’un Pass ne donne pas droit à un délai de rétractation, contrairement aux dispositions des CGU du site.
+Tout achat d’un Abonnement, d’un Pass ou d’un Pass à Vie fait immédiatement bénéficier son Utilisateur d’un référencement de sa fiche qui devient aussitôt accessible auprès des Utilisatrices via le Site et l’Application. A ce titre, il s’agit de la fourniture de service(s) dont l’exécution commence avec l’accord du consommateur avant la fin du délai de sept jours francs. La souscription d’un Abonnement, d’un Pass, d’un Pass à Vie, d’un Magic Boost ou d’un Pack ne donne pas droit à un délai de rétractation, contrairement aux dispositions des CGU du site.
 
-  
-
-**4.8 Promotions et concours**
+**4.10 Promotions et concours**
 
 adopte peut éventuellement proposer des offres spéciales pour une durée limitée dont les conditions et modalités seront disponibles dans la Boutique.
 
@@ -1035,7 +1086,7 @@ Les termes et conditions de ces promotions et/ou concours seront communiqués a
 
 Les offres de réduction sur les prix des Abonnements ne sont pas reconductibles. En cas de renouvellement de l’Abonnement, le tarif normal de l'Abonnement sera prélevé. Les offres de réduction ne sont valables qu’au titre de la première échéance de paiement et ne sont valables qu'une fois par utilisateur tel qu'il est identifié par la plateforme Apple.
 
-**4.9 Offre Étudiant**
+**4.11 Offre Étudiant**
 
 L’Offre Étudiant est réservée aux étudiants, pour une nouvelle inscription sur adopte, non cumulable avec une autre offre ou promotion. Lorsque cette Offre est proposée, ses conditions et modalités sont indiquées dans la Boutique.
 
@@ -1150,11 +1201,13 @@ L’Utilisateur déclare et garantit avoir tous les droits, le pouvoir et l’a
 
 **ARTICLE 9 : SANCTIONS, SUSPENSION D’ACCÈS AU COMPTE ET RÉSILIATION**
 
-**9.1 Points Boulet/Points Fake et Badges**
+**9.1 Signaler ou bloquer un Compte** 
 
-Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur doit le signaler au plus tôt en sélectionnant les fiches desdits Utilisateurs ou la rubrique « Contact » afin de cliquer sur les mentions « Signaler comme Fake » ou « Ce mec est un boulet ! ». En adhérant aux présentes CGU, l'Utilisateur reconnait que l'attribution de tels points relève d'un système de modération communautaire humoristique qui ne saurait à ce titre, caractériser une injure à son encontre. Tout Utilisateur obtenant trop de points « boulet » ou de points « fake » pourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. adopte adresse un avertissement par courriel à chaque Utilisateur ayant obtenu un nombre de points « boulet » ou points « fake » positif, l'informant que son Abonnement peut être résilié de plein droit et automatiquement. Les avertissements seront au nombre de 3, le troisième étant suivi de la clôture de son Compte Utilisateur sans que celui-ci puisse prétendre à un remboursement ou à une indemnisation de son préjudice. Les points « boulet » ou « fake » de l'Utilisateur ne sont jamais remis à zéro. Les points sont conservés durant toute la durée de vie du Compte Utilisateur, même si celui-ci aura été désactivé puis réactivé. Tout abus dans l'usage ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
+Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur peut le signaler à travers la rubrique “Contact” oudirectement depuis le profil ou la conversation avec l’Utilisateur concerné, via l’onglet “Signaler”. L’Utilisateur sera invité à préciser le motif de son signalement (contenu inapproprié, profil fake/frauduleux, insulte ou discours haineux, etc.). Tout Utilisateur ayant fait l’objet d’un ou plusieurs signalementspourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. Adopte, à sa discrétion, pourra résilier de plein droit et automatiquement l’Abonnement d’un Compte Utilisateur signalé conformément à l’article 9.3 des présentes. Tout abus dans l'usage de ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
 
-Les Badges sont quant à eux attribués à l’ensemble des Utilisateurs selon leur activité sur l’Application et relèvent d'un système de gratification communautaire humoristique, qui ne saurait en aucun cas, caractériser une injure.
+L’Utilisateur a également la faculté de bloquer tout Utilisateur dont il considère que le comportement est inapproprié, depuis le profil ou la conversation de l’Utilisateur concerné.
+
+Le signalement ou blocage d’un autre Utilisateur est anonyme et définitif. À ce titre, aucun type de communication avec l’Utilisateur concerné ne sera plus possible, et ce dernier ne pourra plus accéder au profil de l’Utilisateur à l’initiative du signalement ou blocage.
 
 **9.2 Suspension d'accès au Compte**
 
@@ -1209,7 +1262,7 @@ Si une ou plusieurs stipulations des présentes CGU étai(en)t déclarée(s)
 
 L'absence d'action d’adopte ou ses partenaires s'agissant d'un manquement qu'il soit de votre fait ou de celui d'autres personnes ne saurait constituer une renonciation au droit d'agir s'agissant de manquements similaires ou ultérieurs aux présentes Conditions.
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, GAAG adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr.](http://www.mediateurfevad.fr./) Après démarche préalable écrite des consommateurs vis-à-vis de GAAG, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici : https://www.mediateurfevad.fr/index.php/espace-consommateur/
 
 L’Utilisateur peut également présenter ses réclamations sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l’adresse suivante : https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&lng=FR. La Commission Européenne se chargera de transmettre votre réclamation aux médiateurs compétents.
 
