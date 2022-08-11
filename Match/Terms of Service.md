@@ -13,7 +13,7 @@ Unless reserved to a certain category of users as may be specifically required u
 
 1.  **Acceptance of Terms of Use**
 
-By creating an account on our Services, you agree to be bound by our (i) Terms of Use, (ii) [Safety Tips](https://uk.match.com/pages/misc/charter/), and (iii) [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), and that you have read and acknowledge our (iv) [Privacy Policy](https://uk.match.com/pages/misc/privacy/) and (v) [Cookie Policy](https://uk.match.com/pages/misc/cookie/), together with any additional or special terms we may notify you of at the time when you use or buy certain Services, all of which are incorporated in these Terms of Use. If you do not agree to be bound by our Terms of Use, you must stop using our Services.
+By creating an account on our Services, you agree to be bound by our (i) Terms of Use, (ii) [Safety Tips](https://uk.match.com/safety/), and (iii) [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), and that you have read and acknowledge our (iv) [Privacy Policy](https://uk.match.com/pages/misc/privacy/) and (v) [Cookie Policy](https://uk.match.com/pages/misc/cookie/), together with any additional or special terms we may notify you of at the time when you use or buy certain Services, all of which are incorporated in these Terms of Use. If you do not agree to be bound by our Terms of Use, you must stop using our Services.
 
 2.  **Services Eligibility**
 
@@ -21,7 +21,7 @@ You can only use our Services under the following conditions. You represent and 
 
 *   You are over 18 and can enter into a legally binding contract with us.
 *   You meet the conditions for registration stated on the Services.
-*   You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/pages/misc/charter/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
+*   You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/safety/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
 *   You will provide correct, accurate and true information that is not misleading. In particular, you must be truthful and honest when completing your profile and in your interactions with other users and with us.
 *   You acknowledge and agree that the Services’ purpose is to enable single individuals to connect on a personal, non-commercial and non-financial basis, with the primary goal of forming committed relationships as a couple. You must abide by and be respectful of the Services’ purpose at all times.
 *   You are not currently registered on a Sex Offender Register.
@@ -193,7 +193,7 @@ We do not exercise any control over Third-Party Platforms to which you may be re
 
 *   **Safety**
 
-By using the Services, you agree to take reasonable precautions when you interact with other users, particularly if you decide to communicate off the Services or meet in person. In addition, you agree to review our [Safety Tips](https://uk.match.com/pages/misc/charter/) before you start using the Services and to follow them at all times when using our Services and interacting with other users. If you post and/or disclose to other users any confidential or sensitive information, such as personal information (surname, postal address, email, telephone number…) or financial information (e.g., credit card or bank account information), then you do so entirely at your own risk.
+By using the Services, you agree to take reasonable precautions when you interact with other users, particularly if you decide to communicate off the Services or meet in person. In addition, you agree to review our [Safety Tips](https://uk.match.com/safety/) before you start using the Services and to follow them at all times when using our Services and interacting with other users. If you post and/or disclose to other users any confidential or sensitive information, such as personal information (surname, postal address, email, telephone number…) or financial information (e.g., credit card or bank account information), then you do so entirely at your own risk.
 
 *   **General liability**
 
