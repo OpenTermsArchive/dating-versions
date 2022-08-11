@@ -72,7 +72,7 @@ If you do encounter anyone who makes you feel uncomfortable or who isn’t stick
 *   In the early stages, keep all your interactions on the site. You’re both much safer that way.
 *   Don’t pressure people into giving your personal information. Remember they don’t know you, and it might make them feel uncomfortable. Get to know them first: they’ll share when they’re ready.
 
-For our complete list of tips about how to stay safe online, [click here](https://uk.match.com/p/dating-advice/)
+For our complete list of tips about how to stay safe online, [click here](https://uk.match.com/safety/)
 
 ### Being genuine
 
