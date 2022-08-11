@@ -11,25 +11,25 @@ We, as well as other business entities controlled by, controlling, or under comm
 
 Unless reserved to a certain category of users as may be specifically required upon registration (for example, when available, our services catered for users over 50 years only), our Services are open to every adult above 18 years, provided that they respect the criteria of eligibility statement below. If you are under 18, you are not authorized to access the Services and must immediately stop using them.
 
-1.  **Acceptance of Terms of Use**
+1. **Acceptance of Terms of Use**
 
 By creating an account on our Services, you agree to be bound by our (i) Terms of Use, (ii) [Safety Tips](https://uk.match.com/safety/), and (iii) [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), and that you have read and acknowledge our (iv) [Privacy Policy](https://uk.match.com/pages/misc/privacy/) and (v) [Cookie Policy](https://uk.match.com/pages/misc/cookie/), together with any additional or special terms we may notify you of at the time when you use or buy certain Services, all of which are incorporated in these Terms of Use. If you do not agree to be bound by our Terms of Use, you must stop using our Services.
 
-2.  **Services Eligibility**
+2. **Services Eligibility**
 
 You can only use our Services under the following conditions. You represent and warrant at all times that:
 
-*   You are over 18 and can enter into a legally binding contract with us.
-*   You meet the conditions for registration stated on the Services.
-*   You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/safety/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
-*   You will provide correct, accurate and true information that is not misleading. In particular, you must be truthful and honest when completing your profile and in your interactions with other users and with us.
-*   You acknowledge and agree that the Services’ purpose is to enable single individuals to connect on a personal, non-commercial and non-financial basis, with the primary goal of forming committed relationships as a couple. You must abide by and be respectful of the Services’ purpose at all times.
-*   You are not currently registered on a Sex Offender Register.
-*   You have never been convicted of an unlawful act involving fraud, a sexual offence, violence (including domestic violence), harassment, terrorism or a hate crime.
+* You are over 18 and can enter into a legally binding contract with us.
+* You meet the conditions for registration stated on the Services.
+* You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/safety/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
+* You will provide correct, accurate and true information that is not misleading. In particular, you must be truthful and honest when completing your profile and in your interactions with other users and with us.
+* You acknowledge and agree that the Services’ purpose is to enable single individuals to connect on a personal, non-commercial and non-financial basis, with the primary goal of forming committed relationships as a couple. You must abide by and be respectful of the Services’ purpose at all times.
+* You are not currently registered on a Sex Offender Register.
+* You have never been convicted of an unlawful act involving fraud, a sexual offence, violence (including domestic violence), harassment, terrorism or a hate crime.
 
 We reserve the right to decline, suspend or terminate your access or membership at any time if you do not meet any of these conditions.
 
-3.  **Registration**
+3. **Registration**
 
 Registration to our Services is free. You must not create more than one account.
 
@@ -43,31 +43,31 @@ For more details on the information we collect from you and how we use it, pleas
 
 You are responsible for maintaining the confidentiality of the login credentials you use to sign up for our Services, and you are solely responsible for all activities that occur under those credentials. If you think someone has gained access to your account, please contact us immediately at the address mentioned in the ‘Requests and Claims’ section below.
 
-4.  **Rules of Conduct**
+4. **Rules of Conduct**
 
 The quality of interactions expected by both us and other users of the Services implies observing a certain level of ethical conduct in your expression and behaviour, respecting users and our Customer Care representatives as well as the laws and regulations in force. To meet this standard for quality, individual responsibility and ethics, we allow any user to report any content (photography, text, video, etc.), behaviour or comments made by a user that appears to be in violation of our Terms of Use, Safety Tips, Community Guidelines, third-party rights and the laws and regulations in force. As a result, by using the Services, you acknowledge and accept that the data you provide, as well as your behaviour or comments may be subject to acts of moderation and/or control by us in accordance with our moderation policies.
 
 As a user, you must abide by the following rules of conduct at all times and agree that you will not:
 
-*   violate our [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), as updated from time to time;
-*   post any of your personal contact details or disseminate another person’s personal information (e-mail address, postal address, telephone number, etc.) in any manner whatsoever (in a Profile description, in a photo, etc.);
-*   post any content that violates or infringes anyone’s rights, including rights of publicity, private life, copyright, trademark or other intellectual property or contract right;
-*   impersonate any person or entity;
-*   solicit passwords for any purpose or solicit personal identifying information for commercial or unlawful purposes from other users;
-*   spam, solicit money from or defraud any user;
-*   mass send messages;
-*   post any content that is hate speech, threatening, sexually explicit or pornographic; incites violence; or contains nudity or graphic or gratuitous violence;
-*   post any content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-*   insult, bully, “stalk,” intimidate, assault, harass, mistreat or defame any person;
-*   use the Services for any harmful or nefarious purpose;
-*   use the Services in order to damage us or our Group;
-*   use the Services for any purpose that is illegal or prohibited by these Terms of Use;
+* violate our [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), as updated from time to time;
+* post any of your personal contact details or disseminate another person’s personal information (e-mail address, postal address, telephone number, etc.) in any manner whatsoever (in a Profile description, in a photo, etc.);
+* post any content that violates or infringes anyone’s rights, including rights of publicity, private life, copyright, trademark or other intellectual property or contract right;
+* impersonate any person or entity;
+* solicit passwords for any purpose or solicit personal identifying information for commercial or unlawful purposes from other users;
+* spam, solicit money from or defraud any user;
+* mass send messages;
+* post any content that is hate speech, threatening, sexually explicit or pornographic; incites violence; or contains nudity or graphic or gratuitous violence;
+* post any content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
+* insult, bully, “stalk,” intimidate, assault, harass, mistreat or defame any person;
+* use the Services for any harmful or nefarious purpose;
+* use the Services in order to damage us or our Group;
+* use the Services for any purpose that is illegal or prohibited by these Terms of Use;
 
-*   use the Services in order to promote or to facilitate personal relationships of a transactional nature and/or services of a sexual nature and/or non-consensual sexual acts;
-*   use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or other automatic device, method, process to access, retrieve, index, “data mine”, or in any way reproduce or circumvent the navigational structure or presentation of the Services or its contents;
-*   use another user’s account, share an account with another user, or maintain more than one account;
+* use the Services in order to promote or to facilitate personal relationships of a transactional nature and/or services of a sexual nature and/or non-consensual sexual acts;
+* use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or other automatic device, method, process to access, retrieve, index, “data mine”, or in any way reproduce or circumvent the navigational structure or presentation of the Services or its contents;
+* use another user’s account, share an account with another user, or maintain more than one account;
 
-*   create another account if we or our Group have already terminated your account, unless you have our permission.
+* create another account if we or our Group have already terminated your account, unless you have our permission.
 
 Your breach of any of these rules of conduct constitutes a serious material breach of your contractual obligations under these Terms of Use.
 
@@ -75,7 +75,7 @@ We reserve the right to suspend or terminate your account without notice and wit
 
 This account closure will take effect without prejudice to any damages and interest which may be claimed by us from you as restitution for the losses incurred by us as a result of any breach of these Terms of Use.
 
-5.  **Services**
+5. **Services**
 
 **5.1 Free features**
 
@@ -99,7 +99,7 @@ We may from time to time offer profile badges, distinctions or similar items for
 
 We make no representations or warranties regarding the holder of a badge, distinction or similar item, as they are generally earned based on that user’s self-declaration, which we cannot verify.
 
-*   **Procedure and conditions for Purchases**
+* **Procedure and conditions for Purchases**
 
 **6.1 General**
 
@@ -133,9 +133,9 @@ If you purchased a Paid Service via the App Store/Google Play that you wish to c
 
 The Services may contain advertisements and promotions offered over any third-party platforms and external resources such as third-party websites or mobile applications, social networks, etc. (“Third-Party Platforms”). We are not responsible for the availability (or lack of availability) of such Third-Party Platforms. If you choose to interact with Third-Party Platforms made available through our Services, their terms will govern their relationship with you. We are not responsible or liable for Third-Party Platform’s terms or actions.
 
-*   **Your termination of Subscription – Profile suspension – Account closure**
+* **Your termination of Subscription – Profile suspension – Account closure**
 
-*   **Subscription termination (auto-renewal cancellation)**
+* **Subscription termination (auto-renewal cancellation)**
 
 The automatic renewal of a Subscription can be stopped from 24 hours after Purchase and until at least 48 hours before the Subscription is due to renew. We will retain all funds charged to your Payment Method until the end of the then-current Subscription term.
 
@@ -157,7 +157,7 @@ You may at any time close your account on the Services by following the instruct
 
 Upon closing your account, you will receive a confirmation email.
 
-*   **Intellectual Property**
+* **Intellectual Property**
 
 **8.1 Content we disseminate on the Services**
 
@@ -171,7 +171,7 @@ You are prohibited, among other actions, from copying, reproducing, downloading,
 
 By having an account and using the Services, and for so long as you have an account with us, you grant us a worldwide licence to use the intellectual property rights arising from the content provided by you (information, images, descriptions, search criteria, recordings, etc.) in connection with your use of the Services, including without limitation your profile and interactions with other users. This licence specifically includes the right for us to reproduce, represent, broadcast, modify, adapt (in order to comply with the graphic charter of the Services and/or to make it compatible with its technical functionalities or the formats supported by the relevant media), translate, digitise, use for the purposes of the Services and/or sub-license the content provided by you on all or parts of the Services, in our emails and notifications to other users or any other communications related to the Services, subject to applicable law.
 
-*   **Warranties, Liability and Indemnity**
+* **Warranties, Liability and Indemnity**
 
 **9.1 Our obligations in relation to your use of the Services**
 
@@ -191,11 +191,11 @@ The operation of the Services may be interrupted temporarily due to maintenance,
 
 We do not exercise any control over Third-Party Platforms to which you may be redirected to from our Services from time to time. We exclude all liability for the content of Third-Party Platforms nor any advertisements, products, features, services or any other elements available on or arising from your use of such Third-Party Platforms. The use of Third-Party Platforms is governed by their own terms and conditions.
 
-*   **Safety**
+* **Safety**
 
 By using the Services, you agree to take reasonable precautions when you interact with other users, particularly if you decide to communicate off the Services or meet in person. In addition, you agree to review our [Safety Tips](https://uk.match.com/safety/) before you start using the Services and to follow them at all times when using our Services and interacting with other users. If you post and/or disclose to other users any confidential or sensitive information, such as personal information (surname, postal address, email, telephone number…) or financial information (e.g., credit card or bank account information), then you do so entirely at your own risk.
 
-*   **General liability**
+* **General liability**
 
 Subject to applicable law, we are only responsible for direct damage caused by us if we fail to provide the Services in compliance with these Terms of Use and applicable laws and regulations. We may not be held liable for any damages incurred by a user in the event those are caused solely by the latter or if we are not in breach of these Terms of Use and/or our statutory obligations. We do not exclude or limit in any way our liability to users where it would be unlawful to do so.
 
@@ -203,37 +203,37 @@ We are not liable for business losses. We only supply the Services for domestic 
 
 In the event we or the Group are held liable on the basis of your breach of any of your legal or contractual obligations under these Terms of Use, you will indemnify and hold us and/or the Group harmless against any damages, expenses or orders issued against it resulting from or arising in connection with such breach.
 
-12.  **Personal Data**
+12. **Personal Data**
 
 Your personal data is processed in accordance with our [Privacy Policy](https://uk.match.com/pages/misc/privacy/).
 
-13.  **Changes to the Terms of Use and the Services**
+13. **Changes to the Terms of Use and the Services**
 
 We may update and modify at any time the content and/or features of any of the Services, and these Terms of Use. This means we may add new product features or enhancements from time to time as well as remove or change some features.
 
 You should regularly check for the most recent version of the Terms of Use. If the changes include material changes to your rights or obligations, we will endeavour to notify you in advance of the changes to our Terms of Use by reasonable means. However, if such changes materially impact a product or service that you have paid for on the Services, we will endeavour to continue to deliver that service to you on the same (prior) Terms of Use until the end of the current term of the Purchase. If you then continue to use that Purchase in any subsequent renewal period or make a new Purchase, then the revised Terms of Use will apply from that point onwards and you will be deemed to have agreed to the revised Terms of Use.
 
-14.  **Notifications and Services messages**
+14. **Notifications and Services messages**
 
 By using the Services, you consent to us providing you with important notices about your account or the Services. These notices can be shared directly on the Services, via app notifications or through other means associated with your account, like email. Please review your Settings to control the kind of messages you receive from us. You acknowledge and agree that we will have no liability associated with or arising from your failure to maintain accurate contact or other information, including, but not limited to, your failure to receive critical information and notifications.
 
-15.  **Enforceability**
+15. **Enforceability**
 
 If one or more provisions in the Terms of Use are held to be unenforceable under applicable laws or regulations or as a result of a final decision by a competent court or authority, the other provisions will remain in full force and effect, to the extent permitted by law, regulation or applicable court decisions.
 
-16.  **Assignment**
+16. **Assignment**
 
 All of our rights and obligations under these Terms of Use are freely assignable by us in connection with a merger, acquisition, business sale or transfer of assets, or by operation of law or otherwise; provided however that we will endeavour to ensure your rights and obligations remain unaffected by such operation.
 
-17.  **Requests and Claims**
+17. **Requests and Claims**
 
 For every request or claim regarding your use of the Services, you may consult our [Help page](https://uk.match.com/faq/). If you need further help, you may contact our Customer Care team by email:
 
-*   For Match: [customercare@help.match.co.uk](mailto:customercare@help.match.co.uk)
-*   For Affiny: [customercare@help.affiny.co.uk](mailto:customercare@help.affiny.co.uk)
-*   For Ourtime: [customercare@help.ourtime.co.uk](mailto:customercare@help.ourtime.co.uk)
+* For Match: [customercare@help.match.co.uk](mailto:customercare@help.match.co.uk)
+* For Affiny: [customercare@help.affiny.co.uk](mailto:customercare@help.affiny.co.uk)
+* For Ourtime: [customercare@help.ourtime.co.uk](mailto:customercare@help.ourtime.co.uk)
 
-18.  **Applicable law – Disputes**
+18. **Applicable law – Disputes**
 
 These Terms of Use are governed, interpreted and applied in accordance with the laws of England, subject to mandatory consumer laws in force in your country of residence.
 
@@ -241,6 +241,6 @@ In accordance with the rules applicable to mediation, prior to any request for m
 
 In the event that an amicable solution cannot be reached regarding a dispute relating to the Terms of Use, the competent authorities will be the courts of your country of residence located in one of the member States of the European Economic Area, the United Kingdom or Switzerland.
 
-19.  **About us**
+19. **About us**
 
 The Services provided by Match to Members and Subscribers pursuant to these Terms of Use are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose registered address is at C/O Skadden 40 Bank Street, Canary Wharf, London, E14 5DS. The Websites are hosted on the Group’s servers.
