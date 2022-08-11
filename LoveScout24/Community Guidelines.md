@@ -70,7 +70,7 @@ Wenn Sie sich durch eine Person unwohl fühlen oder sich jemand nicht an unsere 
 *   Interagieren Sie am Anfang nur auf unserer Plattform mit einer Person. So sind Sie beide sehr viel sicherer.
 *   Drängen Sie niemanden dazu, Ihnen persönliche Informationen oder Kontaktdaten mitzuteilen. Denken Sie daran: Die andere Person kennt Sie nicht und fühlt sich dabei vielleicht unwohl. Lernen Sie die andere Person zuerst kennen. Sobald sie bereit dafür ist, wird sie Ihnen mehr über sich erzählen.
 
-Unsere vollständige Liste mit Tipps für Ihre Sicherheit finden Sie [hier](https://www.lovescout24.de/pages/misc/advice).
+Unsere vollständige Liste mit Tipps für Ihre Sicherheit finden Sie [hier](https://www.lovescout24.de/safety/).
 
 ### Aufrichtig sein
 
