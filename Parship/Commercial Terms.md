@@ -48,7 +48,7 @@ Chaque semaine, des milliers de nouveaux membres s’inscrivent sur Parship. Dé
 
 #### Effectuez la vérification d’identité ID-Check
 
-Si vous le souhaitez, vous pouvez procéder à une vérification de votre profil via votre téléphone mobile. Votre profil sera agrémenté du « bouclier ID-Check » attestant qu’il s’agit d’un profil vérifié. Ce service est gratuit, que vous soyez membre Premium ou non.
+Si vous le souhaitez, vous pouvez procéder à une vérification de votre profil via votre téléphone mobile. Votre profil sera agrémenté du “bouclier ID-Check” attestant qu’il s’agit d’un profil vérifié. Ce service est gratuit, que vous soyez membre Premium ou non.
 
 Actuellement, vous pouvez faire votre choix parmi trois formules d’abonnement :
 -------------------------------------------------------------------------------
