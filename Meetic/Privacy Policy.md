@@ -284,7 +284,7 @@ Si vous avez des questions concernant cette politique de confidentialité, vous 
 
 **Par la poste :**
 
-Agent de protection des données
+Délégué à la protection des données
 
 Meetic S.A.S.  
 MEETIC  
