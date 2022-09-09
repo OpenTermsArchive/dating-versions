@@ -77,15 +77,15 @@ Your Privacy Rights
 
 In accordance with applicable law, you may have the right to:
 
-*   Access Personal Information about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; or (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (aka the right of data portability);
+* Access Personal Information about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; or (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (aka the right of data portability);
 
-*   Request Correction of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
+* Request Correction of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
 
-*   Request Deletion of your personal information;
+* Request Deletion of your personal information;
 
-*   Request Restriction of or Object to our processing of your personal information; and
+* Request Restriction of or Object to our processing of your personal information; and
 
-*   Withdraw Your Consent to our processing of your personal information.
+* Withdraw Your Consent to our processing of your personal information.
 
 If you would like to exercise any of these rights, please contact us as set forth below. We will process such requests in accordance with applicable laws.
 
@@ -124,15 +124,15 @@ Sensory data
 |     |     |     |
 | --- | --- | --- |
 | Category of Personal Information Collected by Coffee Meets Bagel | Categories of Third Parties Personal Information is Disclosed to for a Business Purpose |
-| Identifiers | *   Other users<br>*   Service providers<br>*   Advertising partners |
-| Personal information categories listed in Cal. Civ. Code § 1798.80(e) | *   Other users<br>*   Service providers |
-| Protected classification characteristics under California or federal law | *   Other users<br>*   Service providers |
-| Commercial information | *   Other users<br>*   Service providers<br>*   Advertising partners |     |
-| Internet or other electronic network activity | *   Service providers<br>*   Advertising partners |
-| Geolocation data | *   Service providers |
-| *   Other users<br>*   Service providers |     |
-| Professional or employment<br><br>*   related information | *   Other users<br>*   Service providers |
-| Inferences drawn from other personal information to create a profile about a consumer | *   Service providers<br>*   Advertising partners |
+| Identifiers | * Other users<br>* Service providers<br>* Advertising partners |
+| Personal information categories listed in Cal. Civ. Code § 1798.80(e) | * Other users<br>* Service providers |
+| Protected classification characteristics under California or federal law | * Other users<br>* Service providers |
+| Commercial information | * Other users<br>* Service providers<br>* Advertising partners |     |
+| Internet or other electronic network activity | * Service providers<br>* Advertising partners |
+| Geolocation data | * Service providers |
+| * Other users<br>* Service providers |     |
+| Professional or employment<br><br>* related information | * Other users<br>* Service providers |
+| Inferences drawn from other personal information to create a profile about a consumer | * Service providers<br>* Advertising partners |
 
 The categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above.
 
