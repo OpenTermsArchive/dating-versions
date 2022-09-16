@@ -58,12 +58,12 @@ Veuillez noter que les réglages du site web et l’app sont indépendants.
 
 Vous pouvez également paramétrer l’utilisation de cookies directement sur votre navigateur web. La configuration de chaque navigateur est différente. Elle est décrite dans le menu d'aide de votre navigateur. Pour faciliter votre recherche, vous trouverez ci-dessous des liens d’accès direct pour chacun des principaux navigateurs utilisés :
 
-*   [Microsoft Internet Explorer](https://windows.microsoft.com/fr-fr/windows-vista/block-or-allow-cookies)
-*   [Microsoft Edge](https://privacy.microsoft.com/fr-fr/windows-10-microsoft-edge-and-privacy)
-*   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en)
-*   [Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=fr_FR)
-*   [Firefox](https://support.mozilla.org/fr/kb/activer-desactiver-cookies-preferences#w_comment-modifier-les-paramaetres-des-cookiesa)
-*   [Opéra](http://help.opera.com/Windows/10.20/fr/cookies.html)
+* [Microsoft Internet Explorer](https://windows.microsoft.com/fr-fr/windows-vista/block-or-allow-cookies)
+* [Microsoft Edge](https://privacy.microsoft.com/fr-fr/windows-10-microsoft-edge-and-privacy)
+* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en)
+* [Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=fr_FR)
+* [Firefox](https://support.mozilla.org/fr/kb/activer-desactiver-cookies-preferences#w_comment-modifier-les-paramaetres-des-cookiesa)
+* [Opéra](http://help.opera.com/Windows/10.20/fr/cookies.html)
 
 Veuillez noter que certains traceurs ne seraient pas affectés par les réglages via votre navigateur web.
 
@@ -73,19 +73,19 @@ Nous vous rappelons qu’un refus de cookies, même partiel, pourrait affecter v
 
 **Cookies de fonctionnement et de personnalisation :**
 
-*   **[Facebook Login](https://developers.facebook.com/docs/facebook-login/)**  
+* **[Facebook Login](https://developers.facebook.com/docs/facebook-login/)**  
     **Plateforme :** Web et App  
     **Prestataire :** Facebook  
     **Politique de confidentialité :** https://www.facebook.com/about/privacy  
     **Finalité :** Inscription et session.
   
-*   **[Apple ID](https://support.apple.com/fr-fr/HT210318)**  
+* **[Apple ID](https://support.apple.com/fr-fr/HT210318)**  
     **Plateforme :** App (iOS)  
     **Prestataire :** Apple  
     **Politique de confidentialité :** [https://www.apple.com/legal/privacy/fr-ww/](https://www.apple.com/legal/privacy/fr-ww/)  
     **Finalité :** Inscription et session.
   
-*   **[ReCaptcha](https://www.google.com/recaptcha/about/)**  
+* **[ReCaptcha](https://www.google.com/recaptcha/about/)**  
     **Plateforme :** Web  
     **Prestataire:** Google  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)  
@@ -93,13 +93,13 @@ Nous vous rappelons qu’un refus de cookies, même partiel, pourrait affecter v
 
 **Cookies Analytiques :**
 
-*   **[Google Analytics](https://marketingplatform.google.com/about/analytics/)**  
+* **[Google Analytics](https://marketingplatform.google.com/about/analytics/)**  
     **Plateforme :** Web  
     **Prestataire :** Google  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)  
     **Finalité :** Mesures de performance et statistiques d’utilisation.
   
-*   **[Firebase](https://firebase.google.com/)**  
+* **[Firebase](https://firebase.google.com/)**  
     **Plateforme :** App  
     **Prestataire :** Google  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)  
@@ -107,13 +107,13 @@ Nous vous rappelons qu’un refus de cookies, même partiel, pourrait affecter v
 
 **Cookies de conversion :**
 
-*   **[Facebook](https://facebook.com/)**  
+* **[Facebook](https://facebook.com/)**  
     **Plateforme :** Web et App  
     **Prestataire :** Facebook  
     **Politique de confidentialité :** [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)  
     **Finalité :** Mesurer l'impact de nos campagnes marketing.
   
-*   **[Adjust](https://adjust.com/)**  
+* **[Adjust](https://adjust.com/)**  
     **Plateforme :** App  
     **Prestataire :** Adjust  
     **Politique de confidentialité :** [https://www.adjust.com/terms/privacy-policy/](https://www.adjust.com/terms/privacy-policy/)  
@@ -121,36 +121,36 @@ Nous vous rappelons qu’un refus de cookies, même partiel, pourrait affecter v
 
 **Cookies de contenus tiers :**
 
-*   **[Youtube](https://www.youtube.com/)**  
+* **[Youtube](https://www.youtube.com/)**  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)
   
-*   **[Spotify](https://www.spotify.com/)**  
+* **[Spotify](https://www.spotify.com/)**  
     **Politique de confidentialité :** [https://www.spotify.com/fr/legal/privacy-policy/](https://www.spotify.com/fr/legal/privacy-policy/)
   
-*   **[Instagram](https://www.instagram.com/)**  
+* **[Instagram](https://www.instagram.com/)**  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)
   
-*   **[Giphy](https://www.giphy.com/)**  
+* **[Giphy](https://www.giphy.com/)**  
     **Politique de confidentialité :** [https://support.giphy.com/hc/en-us/articles/360032872931](https://support.giphy.com/hc/en-us/articles/360032872931)
 
 **Nos partenaires pour nos annonces en ligne :**
 
-*   **[Google Ads](https://ads.google.com/)**  
+* **[Google Ads](https://ads.google.com/)**  
     **Politique de confidentialité :** [https://policies.google.com/privacy](https://policies.google.com/privacy)
   
-*   **[Facebook](https://facebook.com/)**  
+* **[Facebook](https://facebook.com/)**  
     **Politique de confidentialité :** [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)
   
-*   **[Ad4Screen](https://www.ad4screen.com/)**  
+* **[Ad4Screen](https://www.ad4screen.com/)**  
     **Politique de confidentialité :** https://www.ad4screen.com/mentions-legales/
   
-*   **[Apple Search Ads](https://searchads.apple.com/fr/)**  
+* **[Apple Search Ads](https://searchads.apple.com/fr/)**  
     **Politique de confidentialité :** [https://www.apple.com/fr/legal/privacy/](https://www.apple.com/fr/legal/privacy/)
   
-*   **[Tiktok](https://www.tiktok.com/)**  
+* **[Tiktok](https://www.tiktok.com/)**  
     **Politique de confidentialité :** [https://www.tiktok.com/legal/privacy-policy](https://www.tiktok.com/legal/privacy-policy)
   
-*   **[Snapchat](https://snap.com//)**  
+* **[Snapchat](https://snap.com//)**  
     **Politique de confidentialité :** [https://snap.com/fr-FR/privacy/privacy-center](https://snap.com/fr-FR/privacy/privacy-center)
 
 Modifier ses préférences
