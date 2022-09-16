@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated February 23, 2022._
+_Last updated September 16, 2022._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
@@ -18,10 +18,11 @@ We receive or collect various personal data when you install and use the Service
    
 **Your Location  
 **When you create an account, we require you to share your location with us through the App. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID.  
-   
+ 
+
 **Your Posts  
-**If you post a personal or missed connection, we will display it in the App for 30 days. Do not post any personal data that you do not want other users to see. Posts expire after 30 days. Once a post expires, it will not be shown to other users of the App. You can view your expired posts in your profile, and you can choose to delete expired posts from your profile.  
-   
+**When you make a post on Lex, we may retain the post as necessary under applicable law. Posts may contain personal data. You can view your posts and you can choose to delete them from your profile.
+
 **Your Messages  
 **When you send a message to other users of the App, we may retain the message as necessary under applicable law. Messages may contain personal data.  
    
