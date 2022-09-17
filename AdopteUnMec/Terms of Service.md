@@ -50,12 +50,12 @@ Les Services proposés sur le Site ne relèvent pas des activités de conseil
 
 Pour s’inscrire, il convient :
 
-*   D'être âgé d'au moins 18 ans ;
-*   D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
-*   De ne pas avoir été privé de ses droits civiques ;
-*   D'avoir lu et accepté les présentes CGU ;
-*   D'avoir rempli les champs obligatoires du formulaire d'inscription ;
-*   De ne pas avoir eu son Compte Utilisateur résilié plus de deux fois pour manquement aux présentes CGU ou aux lois en vigueur.
+* D'être âgé d'au moins 18 ans ;
+* D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
+* De ne pas avoir été privé de ses droits civiques ;
+* D'avoir lu et accepté les présentes CGU ;
+* D'avoir rempli les champs obligatoires du formulaire d'inscription ;
+* De ne pas avoir eu son Compte Utilisateur résilié plus de deux fois pour manquement aux présentes CGU ou aux lois en vigueur.
 
 L'Utilisateur garantit la sincérité et la véracité des informations communiquées, et s'engage à les tenir régulièrement à jour en y accédant par son Compte Utilisateur.
 
@@ -71,8 +71,8 @@ L'Utilisateur fournit obligatoirement certaines informations comme indiqué dans
 
 Afin de pouvoir utiliser la fonctionnalité « Charme » l’Utilisateur masculin devra communiquer :
 
-*   Une photo de couverture,
-*   Les Coordonnées bancaires en cas d’achat sur le Site
+* Une photo de couverture,
+* Les Coordonnées bancaires en cas d’achat sur le Site
 
 Lorsque les conditions nécessaires à l'inscription sont remplies par l'Utilisateur, celui-ci se voit attribuer, à titre personnel, un Compte d’Utilisateur sur lequel figure notamment sa fiche de profil ainsi qu'un compte de messagerie, à partir duquel il peut interagir avec les autres Utilisateurs.
 
@@ -102,8 +102,8 @@ L'Utilisateur peut désactiver son profil via son Compte Utilisateur s'il ne so
 
 Lors de la Désactivation du Compte Utilisateur :
 
-*   le Profil de l'Utilisateur ne sera plus affiché sur le Site. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
-*   en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres du Site.
+* le Profil de l'Utilisateur ne sera plus affiché sur le Site. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
+* en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres du Site.
 
 En cas de réactivation du Compte d’Utilisateur, les données conservées lui seront réaffectées. La désactivation ne supprime pas le Compte de l’Utilisateur ni ne libère l’Utilisateur de ses obligations.
 
@@ -149,8 +149,8 @@ Les coordonnées bancaires des Utilisateurs sont collectées par nos prestatai
 
 En cas d’épuisement du nombre de Charmes mis à sa disposition, l’Utilisateur peut :
 
-*   acheter des Charmes supplémentaires selon les prix et modalités de fonctionnement sont indiqués dans la Boutique,
-*   opter pour un Abonnement mieux adapté à ses besoins avec un nombre plus important de Charmes : il s’agit de la procédure d’Upgrade.
+* acheter des Charmes supplémentaires selon les prix et modalités de fonctionnement sont indiqués dans la Boutique,
+* opter pour un Abonnement mieux adapté à ses besoins avec un nombre plus important de Charmes : il s’agit de la procédure d’Upgrade.
 
 Les Charmes supplémentaires ne sont pas remboursables.
 
@@ -211,9 +211,9 @@ Il est rappelé qu’en application des dispositions de l'article Article L.221
 
 adopte souhaite encourager l’inscription de nouveaux Utilisateurs et Utilisatrices, notamment par l’organisation d’opérations de « parrainage ». Ces opérations sont ponctuelles et uniquement valables pendant la durée indiquée sur le Site. Dans le cadre de ces opérations, les Utilisateurs sont invités, sous réserve d’avoir préalablement obtenu l’accord du tiers, à communiquer au Site, sur la page dédiée à cet effet, les adresses mails d’autres personnes physiques non abonnées aux Services et domiciliées en France, au Luxembourg, en Belgique et en Suisse. Ces personnes (ci-après désignées par le ou les « Ami(s) ») recevront une invitation pour s’inscrire sur adopte Si l’Ami crée un Compte d’Utilisateur sur le Site, en confirmant son adresse mail via le lien qui lui sera transmis, et qu’il utilise les Services du Site dans les sept (7) jours suivant son inscription, le délai de 7 jours courant 24 heures après le jour d'inscription au Site, l’Utilisateur, auteur de l’invitation, se verra alors attribuer des Charmes dans les conditions suivantes :
 
-*   Pour 10 Amis confirmés : l’Utilisateur bénéficiera de 5 Charmes par jour
-*   Pour 20 Amis confirmés : l’Utilisateur bénéficiera de 10 Charmes par jour
-*   Pour 30 Amis confirmés : l’Utilisateur bénéficiera de 15 Charmes par jour
+* Pour 10 Amis confirmés : l’Utilisateur bénéficiera de 5 Charmes par jour
+* Pour 20 Amis confirmés : l’Utilisateur bénéficiera de 10 Charmes par jour
+* Pour 30 Amis confirmés : l’Utilisateur bénéficiera de 15 Charmes par jour
 
 Les Charmes offerts sont accordés pendant toute la durée du compte d’Utilisateur et sont utilisables dans les conditions définies à l’article 3.1 des présentes CGU.
 
@@ -259,24 +259,24 @@ adopte concède aux Utilisateurs un droit d’accès et d’usage des Services
 
 Lors de la souscription aux services et dans le cadre de l’utilisation du Site l’Utilisateur s'engage à :
 
-*   Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
-*   Ne pas émettre de fausses déclarations;
-*   Respecter les droits de propriété intellectuelle ou industrielle;
-*   Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
-*   Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
-*   Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
-*   Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
-*   Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) du site (la crédibilité du Site reposant sur la réalité des échanges) ;
-*   Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du compte ou la résiliation du contrat.
-*   Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
-*   Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
-*   S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
-*   Demeurer courtois et correct envers les autres Utilisateurs ;
-*   Ne pas porter atteinte aux Services ou au Site ;
-*   Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site ;
-*   Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
-*   S'abstenir de toute utilisation commerciale ou publicitaire du Site ;
-*   Ne pas organiser de manifestation, réunion collective de ses membres au moyen du Site et des Services mis à leur disposition.
+* Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
+* Ne pas émettre de fausses déclarations;
+* Respecter les droits de propriété intellectuelle ou industrielle;
+* Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
+* Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
+* Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
+* Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
+* Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) du site (la crédibilité du Site reposant sur la réalité des échanges) ;
+* Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du compte ou la résiliation du contrat.
+* Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
+* Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
+* S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
+* Demeurer courtois et correct envers les autres Utilisateurs ;
+* Ne pas porter atteinte aux Services ou au Site ;
+* Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site ;
+* Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
+* S'abstenir de toute utilisation commerciale ou publicitaire du Site ;
+* Ne pas organiser de manifestation, réunion collective de ses membres au moyen du Site et des Services mis à leur disposition.
 
 L’utilisateur ne peut céder aucun droit ni aucune obligation dans le cadre du présent Contrat sans le consentement écrit préalable d‘adopte.
 
@@ -294,9 +294,9 @@ adopte s'engage à fournir aux Utilisateurs un service en ligne conforme aux rè
 
 La Configuration exigée pour bénéficier des Services du Site est :
 
-*   Activation de Javascript,
-*   Acceptation des cookies,
-*   Acceptation de l'affichage des fenêtres pop-up
+* Activation de Javascript,
+* Acceptation des cookies,
+* Acceptation de l'affichage des fenêtres pop-up
 
 Il est recommandé de télécharger la version la plus récente du navigateur Internet afin de profiter au mieux d'adopte.com.
 
@@ -354,9 +354,9 @@ En cas de suspension de l’accès au Compte, l’Utilisateur reste tenu de ses
 En cas de poursuite de la violation ou en l’absence de communication des justificatifs demandés par adopte, la suspension pourra être reconduite sur une nouvelle durée d'un mois dans une limite de trois mois maximum. Si un Compte est suspendu plus de 3 fois, adopte pourra le supprimer définitivement. Dans ce cas, aucun remboursement ne sera effectué.  
 adopte n'a pas pour obligation de vérifier la réalité de la prétendue identité de ses Utilisateurs et ne dispose pas des moyens techniques et/ou légaux le lui permettant. Néanmoins, en cas de doute sur la réalité des informations divulguées par l'Utilisateur (et notamment sur l'âge), ou en cas de dénonciation par un tiers ou par un autre Utilisateur d'éléments laissant présumer l'existence d'une usurpation d'identité ou l'existence d'informations fictives délivrées par l'Utilisateur quant à son identité, adopte se réserve le droit de :
 
-*   suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
-*   demander une preuve d'identité valide à l'Utilisateur mis en cause,
-*   bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
+* suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
+* demander une preuve d'identité valide à l'Utilisateur mis en cause,
+* bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
 
 En cas de non-communication du justificatif susmentionné dans les 8 jours suivant la demande, ou en cas d'usurpation d'identité avérée ou d'informations fictives pouvant porter préjudice à des Utilisateurs ou des tiers, l'Utilisateur sera considéré comme contrevenant aux CGU et son Compte pourra être résilié dans les conditions prévues à l'article 9.3
 
@@ -402,8 +402,8 @@ Les demandes de réquisitions judiciaires peuvent être adressées à l'adresse 
 
 Les présentes CGU sont applicables aux Applications sauf modalités différentes décrites aux conditions particulières accessibles via les liens suivants :
 
-*   [nos CGU pour Android](https://www.adopteunmec.com/cgvu/index/android)
-*   [nos CGU iPhone, iPad, et iPod touch](https://www.adopteunmec.com/cgvu/index/iphone)
+* [nos CGU pour Android](https://www.adopteunmec.com/cgvu/index/android)
+* [nos CGU iPhone, iPad, et iPod touch](https://www.adopteunmec.com/cgvu/index/iphone)
 
 ### Conditions générales d'utilisation Android
 
@@ -481,12 +481,12 @@ Les intéressés et les Utilisateurs peuvent télécharger gratuitement l’
 
 Pour s’inscrire, il est impératif :
 
-*   D'être âgé d'au moins 18 ans ;
-*   D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
-*   De ne pas avoir été privé de ses droits civiques ;
-*   D'avoir lu et accepté les présentes CGU ;
-*   D'avoir rempli les champs obligatoires du formulaire d'inscription ;
-*   De ne pas avoir eu son Compte d’Utilisateur résilié plus de deux fois pour manquement aux CGU ou aux lois en vigueur.
+* D'être âgé d'au moins 18 ans ;
+* D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
+* De ne pas avoir été privé de ses droits civiques ;
+* D'avoir lu et accepté les présentes CGU ;
+* D'avoir rempli les champs obligatoires du formulaire d'inscription ;
+* De ne pas avoir eu son Compte d’Utilisateur résilié plus de deux fois pour manquement aux CGU ou aux lois en vigueur.
 
 L'Utilisateur garantit la sincérité et la véracité des informations communiquées, et s'engage à les tenir régulièrement à jour en y accédant par son Compte Utilisateur.
 
@@ -504,8 +504,8 @@ L'Utilisateur fournit obligatoirement certaines informations comme indiqué dans
 
 Afin de pouvoir utiliser la fonctionnalité « Charme » l’Utilisateur masculin devra communiquer :
 
-*   Une photo de couverture,
-*   Les Coordonnées bancaires en cas d’achat sur l’Application,
+* Une photo de couverture,
+* Les Coordonnées bancaires en cas d’achat sur l’Application,
 
 Lorsque les conditions nécessaires à l'inscription sont remplies par l'Utilisateur, celui-ci se voit attribuer, à titre personnel, un Compte d’Utilisateur sur lequel figure notamment sa fiche de profil ainsi qu'un compte de messagerie, à partir duquel il peut interagir avec les autres Utilisateurs.
 
@@ -537,8 +537,8 @@ L'Utilisateur peut désactiver son profil via son Compte Utilisateur s'il ne so
 
 Lors de la Désactivation du Compte Utilisateur :
 
-*   le Profil de l'Utilisateur ne sera plus affiché sur l’Application. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
-*   en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres de l’Application.
+* le Profil de l'Utilisateur ne sera plus affiché sur l’Application. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
+* en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres de l’Application.
 
 En cas de réactivation du Compte d’Utilisateur, les données conservées lui seront réaffectées. La désactivation ne supprime pas le Compte de l’Utilisateur ni ne libère l’Utilisateur de ses obligations.
 
@@ -600,7 +600,7 @@ Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés s
 
 **4.6 Modalités de paiement**
 
-Les Packs, le Pass à Vie et les Magic Boost sont payables selon les modalités de paiement prévues et imposées par Google Play. Les paiements sont sécurisés conformément à la législation en vigueur. Google Play est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par Google Play. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services de Google Play.
+Les Packs, le Pass à Vie et les Magic Boost sont payables selon les modalités de paiement prévues et imposées par Google Play. Les paiements sont sécurisés conformément à la législation en vigueur. Google Play est seul responsable des modalités de paiement et plus généralement du paiement dans le processus duquel adopte n'a pas vocation à intervenir conformément aux conditions imposées par Google Play. Toute demande de remboursement ou demande ayant trait aux paiements, doit être adressée aux services de Google Play.
 
 **4.7 Durée**
 
@@ -682,23 +682,23 @@ adopte concède aux Utilisateurs un droit d’accès et d’usage des Services
 
 Lors de la souscription aux services et dans le cadre de l’utilisation de l’Application l’Utilisateur s'engage à :
 
-*   Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
-*   Ne pas émettre de fausses déclarations;
-*   Respecter les droits de propriété intellectuelle ou industrielle;
-*   Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
-*   Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
-*   Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
-*   Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
-*   Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) de l’Application (la crédibilité de l’Application reposant sur la réalité des échanges) ;
-*   Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
-*   Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
-*   S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
-*   Demeurer courtois et correct envers les autres Utilisateurs ;
-*   Ne pas porter atteinte aux Services ou au Site ;
-*   Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site et/ou l’Application ;
-*   Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
-*   S'abstenir de toute utilisation commerciale ou publicitaire de l’Application ;
-*   Ne pas organiser de manifestation, réunion collective de ses membres au moyen de l’Application et des Services mis à leur disposition.
+* Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
+* Ne pas émettre de fausses déclarations;
+* Respecter les droits de propriété intellectuelle ou industrielle;
+* Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
+* Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
+* Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
+* Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
+* Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) de l’Application (la crédibilité de l’Application reposant sur la réalité des échanges) ;
+* Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
+* Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
+* S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
+* Demeurer courtois et correct envers les autres Utilisateurs ;
+* Ne pas porter atteinte aux Services ou au Site ;
+* Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site et/ou l’Application ;
+* Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
+* S'abstenir de toute utilisation commerciale ou publicitaire de l’Application ;
+* Ne pas organiser de manifestation, réunion collective de ses membres au moyen de l’Application et des Services mis à leur disposition.
 
 L’utilisateur ne peut céder aucun droit ni aucune obligation dans le cadre du présent Contrat sans le consentement écrit préalable d‘adopte.
 
@@ -788,9 +788,9 @@ En cas de poursuite de la violation ou en l’absence de communication des justi
 
 adopte n'a pas pour obligation de vérifier la réalité de la prétendue identité de ses Utilisateurs et ne dispose pas des moyens techniques et/ou légaux le lui permettant. Néanmoins, en cas de doute sur la réalité des informations divulguées par l'Utilisateur (et notamment sur l'âge), ou en cas de dénonciation par un tiers ou par un autre Utilisateur d'éléments laissant présumer l'existence d'une usurpation d'identité ou l'existence d'informations fictives délivrées par l'Utilisateur quant à son identité, adopte se réserve le droit de :
 
-*   suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
-*   demander une photocopie d'une pièce d'identité officielle et valide à l'Utilisateur mis en cause,
-*   bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
+* suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
+* demander une photocopie d'une pièce d'identité officielle et valide à l'Utilisateur mis en cause,
+* bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
 
 En cas de non-communication du justificatif susmentionné dans les 8 jours suivant la demande, ou en cas d'usurpation d'identité avérée ou d'informations fictives pouvant porter préjudice à des Utilisateurs ou des tiers, l'Utilisateur sera considéré comme contrevenant aux CGU et son Compte pourra être résilié dans les conditions prévues à l'article 9.3
 
@@ -875,19 +875,19 @@ Si vous n’acceptez ou n’êtes pas d’accord avec l’intégralité du co
 
 **Compte Utilisateur :** correspond à l’espace personnel de chaque Utilisateur sur le Réseau. Les Utilisateurs y accèdent via un mot de passe et un identifiant qui leur sont strictement personnels et confidentiels. Le Compte d’Utilisateur permet à l'Utilisateur de disposer d'une identité au sein du réseau social virtuel de l’Application et d'interagir avec les autres Utilisateurs sur l’Application.
 
-**Magic Boost :** désigne la fonctionnalité payante permettant aux Utilisateurs de mettre en avant leur profil et d'obtenir plus de visibilité sur l'Application.
+**Magic Boost :** désigne la fonctionnalité payante permettant aux Utilisateurs de mettre en avant leur profil et d'obtenir plus de visibilité sur l'Application.
 
 **Packs :** désignent les Charmes supplémentaires, vendus par lots dans la Boutique (exemple : lot de 60, 120 Charmes…), qu’un Utilisateur peut acheter pour augmenter son stock de Charmes. Les Packs sont utilisables à tout moment sans restriction de durée. Toutefois aucun Pack ne peut être acquis sans souscription préalable d'un Abonnement ou acquisition d’un Pass.
 
 **Pass :** désigne le droit d’accès aux Services du Site et à l’Application pour une durée limitée et inférieure à un mois. La durée et le nombre de Charmes accordés dans le cadre d’un Pass sont indiqués dans la Boutique à l’achat.
 
-**Pass à vie :** désigne la fonctionnalité payante permettant à l’Utilisateur d’accéder aux Services de l'Application pendant toute la durée de leur Compte Utilisateur.  
+**Pass à vie :** désigne la fonctionnalité payante permettant à l’Utilisateur d’accéder aux Services de l'Application pendant toute la durée de leur Compte Utilisateur.  
 
 **Services :** désignent les fonctionnalités payantes ou gratuites accessibles aux Utilisateurs de l’Application via un appareil mobile, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. Les services payants sont décrits à l’article 4 des présentes CGU.
 
 **Site :** Site internet accessible à l’adresse [www.adopte.app.](http://www.adopte.app./)
 
-**Swipe :** correspond à la fonctionnalité gratuite permettant aux Utilisateurs de solliciter ou d'autoriser une demande de prise de contact en faisant glisser les profils à droite, ou de refuser la prise de contact en faisant glisser les profils à gauche.
+**Swipe :** correspond à la fonctionnalité gratuite permettant aux Utilisateurs de solliciter ou d'autoriser une demande de prise de contact en faisant glisser les profils à droite, ou de refuser la prise de contact en faisant glisser les profils à gauche.
 
 **Utilisateur :** Internaute ayant adhéré aux présentes CGU. On distingue les « Utilisateurs masculins » (Hommes) des « Utilisatrices » (Femmes), « l'(les) Utilisateur(s) » désignant communément l'un ou l'autre.
 
@@ -911,12 +911,12 @@ Les intéressés et les Utilisateurs peuvent télécharger gratuitement l’
 
 Pour s’inscrire, il est impératif :
 
-*   D'être âgé d'au moins 18 ans ;
-*   D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
-*   De ne pas avoir été privé de ses droits civiques ;
-*   D'avoir lu et accepté les présentes CGU ;
-*   D'avoir rempli les champs obligatoires du formulaire d'inscription ;
-*   De ne pas avoir eu son Compte Utilisateur résilié plus de deux fois pour manquement aux présentes CGU ou aux lois en vigueur.
+* D'être âgé d'au moins 18 ans ;
+* D'être domicilié, de résider, ou d'être seulement situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
+* De ne pas avoir été privé de ses droits civiques ;
+* D'avoir lu et accepté les présentes CGU ;
+* D'avoir rempli les champs obligatoires du formulaire d'inscription ;
+* De ne pas avoir eu son Compte Utilisateur résilié plus de deux fois pour manquement aux présentes CGU ou aux lois en vigueur.
 
 L'Utilisateur garantit la sincérité et la véracité des informations communiquées, et s'engage à les tenir régulièrement à jour en y accédant par son Compte Utilisateur.
 
@@ -932,8 +932,8 @@ L'Utilisateur fournit obligatoirement certaines informations comme indiqué dans
 
 Afin de pouvoir utiliser la fonctionnalité « Charme » l’Utilisateur masculin devra communiquer :
 
-*   Une photo de couverture,
-*   Les Coordonnées bancaires en cas d’achat sur l’Application,
+* Une photo de couverture,
+* Les Coordonnées bancaires en cas d’achat sur l’Application,
 
 Lorsque les conditions nécessaires à l'inscription sont remplies par l'Utilisateur, celui-ci se voit attribuer, à titre personnel, un Compte d’Utilisateur sur lequel figure notamment sa fiche de profil ainsi qu'un compte de messagerie, à partir duquel il peut interagir avec les autres Utilisateurs.
 
@@ -967,8 +967,8 @@ L'Utilisateur peut désactiver son profil via son Compte Utilisateur s'il ne so
 
 Lors de la Désactivation du Compte Utilisateur :
 
-*   le Profil de l'Utilisateur ne sera plus affiché sur l’Application. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
-*   en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres de l’Application.
+* le Profil de l'Utilisateur ne sera plus affiché sur l’Application. La page affichera la mention « ce membre a quitté adopte » pour les Utilisatrices et « ce membre a été adopté » pour les Utilisateurs masculins ;
+* en se reconnectant à l’aide de ses identifiants, l’Utilisateur réactive son Compte Utilisateur. En l'absence de reconnexion au compte celui-ci reste désactivé et ne permet pas à l'Utilisateur d'interagir avec les autres membres de l’Application.
 
 En cas de réactivation du Compte d’Utilisateur, les données conservées lui seront réaffectées. La désactivation ne supprime pas le Compte de l’Utilisateur ni ne libère l’Utilisateur de ses obligations.
 
@@ -1026,7 +1026,7 @@ Les Packs sont utilisables sans restriction de durée. Les Charmes du Pack se c
 
 **4.5 Magic Boost**
 
-Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés seulement par les Utilisateurs ayant souscrit un Abonnement ou un Pass. À l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Magic Boost ne donne pas accès aux Services. 
+Lorsque les Magic Boost sont disponibles, ils peuvent être acquis et activés seulement par les Utilisateurs ayant souscrit un Abonnement ou un Pass. À l’expiration de la durée de validité de l’Abonnement et/ou du Pass, la possession de Magic Boost ne donne pas accès aux Services. 
 
 Les Magic Boost sont vendus à l'unité et par lots. Le nombre de Magic Boost accordés et les prix sont indiqués dans la Boutique. Les Magic Boost sont utilisables sans restriction de durée ni de quantité par jour, toutefois l’Utilisateur ne peut pas activer deux Magic Boost en même temps. L'absence de photo sur le profil prive l'Utilisateur de l'usage de ce service.
 
@@ -1112,24 +1112,24 @@ adopte concède aux Utilisateurs un droit d’accès et d’usage des Services
 
 Lors de la souscription aux services et dans le cadre de l’utilisation de l’Application l’Utilisateur s'engage à :
 
-*   Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
-*   Ne pas émettre de fausses déclarations;
-*   Respecter les droits de propriété intellectuelle ou industrielle;
-*   Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
-*   Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
-*   Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
-*   Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
-*   Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) de l’Application (la crédibilité de l’Application reposant sur la réalité des échanges) ;
-*   Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du compte ou la résiliation du contrat.
-*   Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
-*   Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
-*   S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
-*   Demeurer courtois et correct envers les autres Utilisateurs ;
-*   Ne pas porter atteinte aux Services ou au Site ;
-*   Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site et/ou l’Application ;
-*   Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
-*   S'abstenir de toute utilisation commerciale ou publicitaire de l’Application ;
-*   Ne pas organiser de manifestation, réunion collective de ses membres au moyen de l’Application et des Services mis à leur disposition.
+* Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
+* Ne pas émettre de fausses déclarations;
+* Respecter les droits de propriété intellectuelle ou industrielle;
+* Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au compte ou de résiliation pour faute grave ;
+* Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
+* Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
+* Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres Utilisateurs d'accéder aux Services de leur Compte Utilisateur ;
+* Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres Utilisateurs (Utilisatrices) de l’Application (la crédibilité de l’Application reposant sur la réalité des échanges) ;
+* Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du compte ou la résiliation du contrat.
+* Respecter la confidentialité des correspondances et la vie privée des autres Utilisateurs;
+* Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
+* S'abstenir envers les autres Utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
+* Demeurer courtois et correct envers les autres Utilisateurs ;
+* Ne pas porter atteinte aux Services ou au Site ;
+* Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur le Site et/ou l’Application ;
+* Ne pas détourner les utilisateurs de ce Site vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
+* S'abstenir de toute utilisation commerciale ou publicitaire de l’Application ;
+* Ne pas organiser de manifestation, réunion collective de ses membres au moyen de l’Application et des Services mis à leur disposition.
 
 L’utilisateur ne peut céder aucun droit ni aucune obligation dans le cadre du présent Contrat sans le consentement écrit préalable d‘adopte.
 
@@ -1201,7 +1201,7 @@ L’Utilisateur déclare et garantit avoir tous les droits, le pouvoir et l’a
 
 **ARTICLE 9 : SANCTIONS, SUSPENSION D’ACCÈS AU COMPTE ET RÉSILIATION**
 
-**9.1 Signaler ou bloquer un Compte** 
+**9.1 Signaler ou bloquer un Compte** 
 
 Tout Utilisateur importuné ou témoin du non-respect des présentes CGU par un autre Utilisateur peut le signaler à travers la rubrique “Contact” oudirectement depuis le profil ou la conversation avec l’Utilisateur concerné, via l’onglet “Signaler”. L’Utilisateur sera invité à préciser le motif de son signalement (contenu inapproprié, profil fake/frauduleux, insulte ou discours haineux, etc.). Tout Utilisateur ayant fait l’objet d’un ou plusieurs signalementspourra être exclu dans les conditions prévues à l'article 9.2 des Conditions d'Utilisation. Adopte, à sa discrétion, pourra résilier de plein droit et automatiquement l’Abonnement d’un Compte Utilisateur signalé conformément à l’article 9.3 des présentes. Tout abus dans l'usage de ce système de modération communautaire sera considéré comme une violation des présentes CGU pouvant donner lieu à une suspension d'accès au Compte Utilisateur ou à la résiliation définitive de l'Abonnement ainsi qu'à des poursuites judiciaires et à l'indemnisation des victimes d'un tel comportement, sans préjudice des dommages et intérêts pouvant être réclamés par adopte.
 
@@ -1219,9 +1219,9 @@ En cas de poursuite de la violation ou en l’absence de communication des justi
 
 adopte n'a pas pour obligation de vérifier la réalité de la prétendue identité de ses Utilisateurs et ne dispose pas des moyens techniques et/ou légaux le lui permettant. Néanmoins, en cas de doute sur la réalité des informations divulguées par l'Utilisateur (et notamment sur l'âge), ou en cas de dénonciation par un tiers ou par un autre Utilisateur d'éléments laissant présumer l'existence d'une usurpation d'identité ou l'existence d'informations fictives délivrées par l'Utilisateur quant à son identité, adopte se réserve le droit de :
 
-*   suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
-*   demander une photocopie d'une pièce d'identité officielle et valide à l'Utilisateur mis en cause,
-*   bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
+* suspendre l'accès au Compte Utilisateur afin d'effectuer les vérifications nécessaires ;
+* demander une photocopie d'une pièce d'identité officielle et valide à l'Utilisateur mis en cause,
+* bannir l’adresse IP ayant servi soit à la création ou à l’accès au Compte d’Utilisateur litigieux.
 
 En cas de non-communication du justificatif susmentionné dans les 8 jours suivant la demande, ou en cas d'usurpation d'identité avérée ou d'informations fictives pouvant porter préjudice à des Utilisateurs ou des tiers, l'Utilisateur sera considéré comme contrevenant aux CGU et son Compte pourra être résilié dans les conditions prévues à l'article 9.3
 
