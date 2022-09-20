@@ -102,7 +102,7 @@ Les informations personnelles que nous recueillons sont nécessaires pour l’ac
 Vous trouverez ci-dessous un résumé des finalités de traitements des données que nous recueillons :
 
 |     |     |
-| --- | --- |  
+| --- | --- | 
 | **Finalité** | **Fondement légal** |
 | Accès et administration de votre compte, y compris la modification de votre profil. | Exécution du contrat d’utilisation d’Adopte, et/ou votre consentement (E.g. pour le traitement de données sensibles). |
 | Utilisation des fonctionnalités payantes ou gratuites accessibles aux Utilisateurs d’Adopte, et ayant pour objet de favoriser les rencontres virtuelles entre personnes physiques à des fins personnelles, de loisirs et non commerciales. | Exécution du contrat d’utilisation d’Adopte et/ou votre consentement |
@@ -130,10 +130,10 @@ Les collaborateurs de GAAG peuvent avoir accès à vos informations, y compris v
 
 Nous travaillons également avec des Prestataires, dans l'Union Européenne et/ou en dehors de celle-ci (Espace Économique Européen, Amérique du Nord, Afrique du Nord-Ouest), et notamment dans les catégories suivantes :
 
-*   Fonctionnalités via des plateformes tierces : Certaines fonctionnalités de notre plateforme sont assurées par de tiers et peuvent entraîner un transfert de données.
-*   Services de paiement et gestion d'abonnements : Nous travaillons avec des services de paiement certifiés sur le marché afin de vous garantir la sécurité des paiements sur notre plateforme. Les achats effectués via nos applications mobiles sont gérés par l’opérateur de la Boutique d’applications mobiles qui correspond.
-*   Services de modération et de service clients : Nous avons de partenaires qui développent et opèrent des solutions techniques et technologiques afin d'assurer nos engagements vers notre communauté.
-*   Mesures de performance, d'audience et solutions d'analyse : Nous utilisons plusieurs solutions pour mesurer les performances de notre site et nos applications, l'impact de nos campagnes de communication et de promotion, et en général, les comportements sur notre plateforme, afin d'améliorer nos services.
+* Fonctionnalités via des plateformes tierces : Certaines fonctionnalités de notre plateforme sont assurées par de tiers et peuvent entraîner un transfert de données.
+* Services de paiement et gestion d'abonnements : Nous travaillons avec des services de paiement certifiés sur le marché afin de vous garantir la sécurité des paiements sur notre plateforme. Les achats effectués via nos applications mobiles sont gérés par l’opérateur de la Boutique d’applications mobiles qui correspond.
+* Services de modération et de service clients : Nous avons de partenaires qui développent et opèrent des solutions techniques et technologiques afin d'assurer nos engagements vers notre communauté.
+* Mesures de performance, d'audience et solutions d'analyse : Nous utilisons plusieurs solutions pour mesurer les performances de notre site et nos applications, l'impact de nos campagnes de communication et de promotion, et en général, les comportements sur notre plateforme, afin d'améliorer nos services.
 
 Ce traitement est effectué dans le cadre de la réglementation applicable, et notamment selon les principes de finalité, de proportionnalité, de pertinence, de limitation de conservation, de sécurité et de confidentialité.
 
@@ -177,8 +177,8 @@ Nous prenons des mesures suffisantes pour garantir les droits et libertés de no
 
 Vous pouvez exercer librement les droits listés ci-après soit :
 
-*   directement en accédant à votre compte sur Adopte,
-*   et/ou en nous contactant à l'adresse suivante : support@adopte.app.
+* directement en accédant à votre compte sur Adopte,
+* et/ou en nous contactant à l'adresse suivante : support@adopte.app.
 
 **9.1.** Vous pouvez demander une copie de vos données personnelles (« droit d’accès »). Vous pouvez également demander une copie de ces données dans un fichier destiné à être transmis à un autre responsable du traitement (« droit à la portabilité »).
 
