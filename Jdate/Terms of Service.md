@@ -365,19 +365,19 @@ Certain virtual products and services (“Virtual Goods”) and virtual currency
 
 If you have any questions about these VGC Terms of Use, you may contact us by writing to us at: Jdate Customer Care – Spark Networks, Inc., Attn: Virtual Goods Terms, 10808 S River Front Parkway Suite 398 South Jordan, UT 84095.
 
-1.  **PURCHASES**
+1. **PURCHASES**
 
 To purchase any of our virtual products or services, you must be a registered user of our Services and comply with these VGC Terms of Use (including the Company Terms of Use). You acknowledge that you are responsible for maintaining the security of, and restricting access to, your account and password, and you agree to accept responsibility for all purchases and other activities that occur under your account. We reserve the right to refuse or cancel orders or terminate accounts at any time in our sole discretion.
 
-2.  **PAYMENT**
+2. **PAYMENT**
 
 By submitting an order for our Virtual Goods or Coins through our Services, you authorize the Company, or its designated payment processors, to charge the account you specify for the purchase amount. All prices we show on our Services are subject to change without notice. When you provide your payment information, including any credit card number, to us or our designated payment processors, you authorize us or our designated payment processors to store payment information and other related information.
 
-3.  **TAXES**
+3. **TAXES**
 
 You will be responsible for any applicable sales or use taxes, duties, or other governmental taxes or fees payable in connection with your purchase of Virtual Goods or Coins. If you do not pay such sales or other tax or fees on a transaction, you will be responsible for such taxes or fees in the event that they are later determined to be payable on such purchases, and we reserve the right to collect such taxes or other fees from you at any time.
 
-4.  **COINS**
+4. **COINS**
 
 In our sole discretion, we may offer you the opportunity to obtain and redeem Coins for use with our Services. We may charge fees for the right to use Coins, or we may distribute the Coins without charge, each in our sole discretion. When you redeem Coins, we will redeem Coins that you have purchased before redeeming Coins that you have obtained on a promotional basis, or otherwise without charge. We have no obligation to continue offering any feature or function through the Services, including any feature or function that enables the use or redemption of Coins.
 
@@ -393,7 +393,7 @@ We may limit your use of the Coins service by applying limits to: the number of 
 
 If we post Coins to your account for an activity that is subsequently voided or canceled or that involves a returned item, then we will remove those Coins from your account. You must ensure that we properly post your Coins to your Coins account. If you believe that you have validly acquired Coins that we have not posted to your Coins account, you must contact us within one hundred twenty (120) days after the date you claimed to have acquired those Coins. We may require reasonable documentation to support your claim.
 
-5.  **VIRTUAL GOODS**
+5. **VIRTUAL GOODS**
 
 In our sole discretion, we may offer you the opportunity to redeem Coins for access to certain Virtual Goods through our Services. As part of these Services, and subject to the [Company Terms of Use](#TermsofUse) and these VGC Terms of Use, we grant you a limited, non-transferable, revocable license to use the Virtual Goods through our Services and send them to other users for use through the Services. Regardless of the use of the terms “purchase,” “buy,” “sell,” “order” or the like on our Services or in these VGC Terms of Use, you do not own any Virtual Goods and acknowledge that the Virtual Goods are a service of the Company and that you have only a license to use the Virtual Goods in accordance with these VGC Terms of Use. All use of the Virtual Goods is for personal, non-commercial use only. We will use commercially reasonable efforts to make Virtual Goods you have purchased available for use within a reasonable period of time after purchase. If you violate the [Company Terms of Use](#TermsofUse) or deactivate your Company account, our offering of Virtual Goods, and your license to any Virtual Goods, may also be cancelled, without any right to compensation for you.
 
@@ -401,24 +401,24 @@ The existence of a particular Virtual Good available for redemption with Coins i
 
 The length of time you or your recipients may have access to Virtual Goods you purchase will be determined by us in our sole discretion. The images and other content included as part of Virtual Goods is part of our Proprietary Materials (as defined in the [Company Terms of Use](#TermsofUse)) and is subject to all terms and conditions regarding such Proprietary Materials as set forth in the [Company Terms of Use](#TermsofUse). In addition, any message or other content that you may include with Virtual Goods must comply with all terms and conditions regarding content as set forth in the [Company Terms of Use](#TermsofUse). Without limiting any of the foregoing, neither you nor any potential recipient of a Virtual Good may reproduce, distribute, transfer, modify or otherwise use Virtual Goods in any manner other than as expressly authorized by the Company.
 
-6.  **ERRORS**
+6. **ERRORS**
 
 While we attempt to be as accurate as possible and eliminate errors associated with our Services, we do not warrant that any product, service or description, photograph, pricing or other information is accurate, complete, reliable, current or error-free. In the event of an error, whether on our Services, in an order confirmation, in processing an order, delivering a Virtual Good or Coins or otherwise, we reserve the right to correct such error and revise your order accordingly if necessary (including charging the correct price) or to cancel the order and provide you with a merchandise or service credit (including issuing, at our option, Coins as described above), with a value at least equal to the amount charged to you. We reserve the right to determine and modify from time to time the exact nature of any such merchandise or service credit, including conversion into one or more different types of merchandise or service credits. Your sole remedy in the event of such error is to cancel your order and obtain a credit as set forth above. To request a credit, contact us at [https://support.jdate.com/hc/en-us/requests/new](https://support.jdate.com/hc/en-us/requests/new). You release us from all liability and claims of loss resulting from any error that you do not report to us within 120 days after the error first occurs. If you do not tell us within this time, we will not be required to correct the error.
 
-7.  **DISCLAIMERS**
+7. **DISCLAIMERS**
 
 ALL PRODUCTS AND SERVICES MADE AVAILABLE THROUGH THE OUR SERVICES, INCLUDING COINS AND VIRTUAL GOODS, ARE PROVIDED “AS-IS” AND THE COMPANY, ON BEHALF OF ITSELF AND ITS LICENSORS AND SUPPLIERS, DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. WE CANNOT GUARANTEE AND DO NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF PRODUCTS OR SERVICES. WE DO NOT REPRESENT OR WARRANT THAT PRODUCTS, SERVICES OR ANY PART THEREOF, ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT PRODUCTS OR SERVICES THAT ARE DOWNLOADED THROUGH OUR SERVICES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THEREFORE, YOU SHOULD EXERCISE CAUTION IN THE USE AND DOWNLOADING OF ANY SUCH CONTENT OR MATERIALS AND USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES.
 
 Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by us.
 
-8.  **LIMITATION ON LIABILITY**
+8. **LIMITATION ON LIABILITY**
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE COMPANY OR ITS DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS AND SUPPLIERS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOST PROFITS OR LOST DATA ARISING FROM YOUR PURCHASE OR USE OF ANY VIRTUAL GOODS OR COINS, OR OTHER PRODUCTS OR SERVICES, INCLUDING VIRTUAL GOODS, EVEN IF THE COMPANY IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE COMPANY’S AND ITS LICENSORS’ AND SUPPLIERS’ TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THIS AGREEMENT, WHETHER IN CONTRACT OR TORT OR OTHERWISE, SHALL NOT EXCEED THE AMOUNTS YOU PAID FOR THE PRODUCTS OR SERVICES AND SHALL IN NO EVENT EXCEED $100. SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
 
-9.  **INDEMNITY**
+9. **INDEMNITY**
 
 You agree to indemnify and hold the Company, its subsidiaries and affiliates, and each of their directors, officers, managers, agents, contractors, partners and employees harmless from any loss, liability, claim, damages, costs, expenses or demand, including reasonable attorney’s fees, due to or arising out of your purchase or use of any Virtual Goods or Coins, or other products or services made available through Services, any termination or suspension of your account or right to use Virtual Goods or Coins or any violation of these VGC Terms of Use, the [Company Terms of Use](#TermsofUse), of any law or the rights of any third party.
 
-10.  **MISCELLANEOUS**
+10. **MISCELLANEOUS**
 
 These VGC Terms of Use constitute the entire agreement between you and the Company regarding the subject matter set forth herein, and supersede all prior and contemporaneous agreements regarding the same. If any provision of these VGC Terms of Use is held illegal, void, invalid or unenforceable, such provision will be changed and interpreted to accomplish the objectives of the provision to the greatest extent possible under any applicable law and the remaining provisions will continue in full force and effect. The failure of the Company to exercise or enforce any right or provision in these VGC Terms of Use shall not operate as a waiver of such right or provision. Other than any affiliate of the Company, there are no third-party beneficiaries to these VGC Terms of Use and no third party who is not a party to this agreement shall have any right to enforce any term of these VGC Terms of Use. In the event of a conflict between these VGC Terms of Use and the [Company Terms of Use](#TermsofUse) with respect to the terms of conditions of the Coins or any Virtual Good, these VGC Terms of Use shall be controlling.
