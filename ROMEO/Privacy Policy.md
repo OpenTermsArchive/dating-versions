@@ -5,36 +5,36 @@ Updated 6 April 2021.
 
 Your privacy and the protection of your personal data is of great importance to ROMEO B.V. (hereinafter: ROMEO). During the processing of your personal data both offline and online, via the ROMEO website ([www.romeo.com](http://www.romeo.com/)) and the ROMEO app, ROMEO works in accordance with the requirements for the processing of personal data as laid down in the European privacy legislation (General Data Protection Regulation). This means ROMEO:
 
-*   **Clearly specifies the purposes** before ROMEO processes personal data, by using this privacy and cookie statement
-*   **Limits the collection of personal data** to only the personal data needed for legitimate purposes
-*   First **asks for explicit permission** to process your personal data in cases where your permission is required
-*   Takes **appropriate security measures** to protect your personal data and ROMEO demands the same from parties who process personal data on behalf of ROMEO
-*   **Respects your right** to access, correct or delete your personal data held by ROMEO
+* **Clearly specifies the purposes** before ROMEO processes personal data, by using this privacy and cookie statement
+* **Limits the collection of personal data** to only the personal data needed for legitimate purposes
+* First **asks for explicit permission** to process your personal data in cases where your permission is required
+* Takes **appropriate security measures** to protect your personal data and ROMEO demands the same from parties who process personal data on behalf of ROMEO
+* **Respects your right** to access, correct or delete your personal data held by ROMEO
 
 ### For what purposes does ROMEO use your personal data?
 
 ROMEO processes your personal data for the following purposes:
 
-*   To create an account and a profile
-*   To find friends, dates and relationships, and participate in the ROMEO online community, when logged in
-*   To upgrade to a PLUS subscription
-*   To identify and prevent fraud
-*   To contact you, when you ask us to, or to provide you with support
-*   To send notifications
-*   To send (personalized) messages within your account
-*   To send automated service e-mails
-*   To handle job applications
+* To create an account and a profile
+* To find friends, dates and relationships, and participate in the ROMEO online community, when logged in
+* To upgrade to a PLUS subscription
+* To identify and prevent fraud
+* To contact you, when you ask us to, or to provide you with support
+* To send notifications
+* To send (personalized) messages within your account
+* To send automated service e-mails
+* To handle job applications
 
 ### What kind of personal data is processed ROMEO?
 
 For the purposes mentioned above ROMEO may process the following (not limited) categories of personal data:
 
-*   Account data (such as e-mail address and password)
-*   Profile data (such as (profile) name, date of birth, location, sexual orientation and physical stats)
-*   Media data (such as profile picture, your comments and tags)
-*   Interaction data (such as travel destination, club membership(s), content of messages and profile visits)
-*   Device data (such as IP address of last login, app/browser version and default language)
-*   Other data (such as timestamp of last access of specific features, PLUS status and user’s currency)
+* Account data (such as e-mail address and password)
+* Profile data (such as (profile) name, date of birth, location, sexual orientation and physical stats)
+* Media data (such as profile picture, your comments and tags)
+* Interaction data (such as travel destination, club membership(s), content of messages and profile visits)
+* Device data (such as IP address of last login, app/browser version and default language)
+* Other data (such as timestamp of last access of specific features, PLUS status and user’s currency)
 
 ROMEO needs this personal data in order to provide you with its services and to perform the contract that is concluded between you and ROMEO to this end. ROMEO will only send you notifications with your permission. When you do not wish to receive notifications, you can always revoke your consent by changing the settings in your account. Moreover, ROMEO has a legitimate interest in identifying and preventing fraud and sending you automated service e-mails.
 
@@ -46,10 +46,10 @@ When you use the services by ROMEO, ROMEO will process special categories of per
 
 In general ROMEO stores your personal data until your account is deleted. You can delete your account yourself at anytime. In case you haven’t logged into your account for 12 months, ROMEO will delete your account for you. After your account has been deleted, your personal data will remain in a back-up for another 28 days. After these 28 days, your personal data is deleted permanently, except for the following personal data:
 
-*   Direct interaction with other users (e.g. messages) will be deleted 24 hours after the deletion of your account. However, be aware that your message(s) to another user will stay visible for the user who received a message from you, and actively saved it in his account, until he deletes the message(s) (or his account) himself;
-*   IP and email addresses are retained for an additional 6 months (to provide support, for analytical reasons and to support a legal process or request by law enforcement authorities);
-*   Personal data used to identify and prevent fraud on our platform is stored until ROMEO is sure you are not misusing its services;
-*   In case you have had contact with ROMEO’s customer support: this data will be stored up to 6 months after your last contact with ROMEO. This way ROMEO can support you in case you have any following questions or needs for support and train the customer service of ROMEO;
+* Direct interaction with other users (e.g. messages) will be deleted 24 hours after the deletion of your account. However, be aware that your message(s) to another user will stay visible for the user who received a message from you, and actively saved it in his account, until he deletes the message(s) (or his account) himself;
+* IP and email addresses are retained for an additional 6 months (to provide support, for analytical reasons and to support a legal process or request by law enforcement authorities);
+* Personal data used to identify and prevent fraud on our platform is stored until ROMEO is sure you are not misusing its services;
+* In case you have had contact with ROMEO’s customer support: this data will be stored up to 6 months after your last contact with ROMEO. This way ROMEO can support you in case you have any following questions or needs for support and train the customer service of ROMEO;
 
 In addition personal data processed by us to handle your job application will be stored for a maximum of 6 weeks after the position has been filled, and with your consent for a further year. This enables us to contact you in the event the position becomes vacant again or to offer you a job in the future.
 
@@ -67,19 +67,19 @@ ROMEO uses the reCAPTCHA service of Google Inc. (Google) to protect the ROMEO we
 
 ROMEO only shares your data with third parties when this is allowed by current legislation. It may happen that ROMEO provides your personal data to third parties, because:
 
-*   ROMEO has engaged them to process certain data;
-*   it is necessary to carry out the agreement with you;
-*   you give permission for this;
-*   ROMEO has a legitimate interest in this;
-*   ROMEO is legally obliged to do so (e.g. if the police demand this in case of a suspicion of a crime).
+* ROMEO has engaged them to process certain data;
+* it is necessary to carry out the agreement with you;
+* you give permission for this;
+* ROMEO has a legitimate interest in this;
+* ROMEO is legally obliged to do so (e.g. if the police demand this in case of a suspicion of a crime).
 
 The parties that process personal data in ROMEO’s or your assignment:
 
-*   IT suppliers and service providers
-*   Cookie service providers
-*   Payment service providers
-*   Hosting service provider
-*   ROMEO’s sister company HUNQZ B.V.
+* IT suppliers and service providers
+* Cookie service providers
+* Payment service providers
+* Hosting service provider
+* ROMEO’s sister company HUNQZ B.V.
 
 In order to provide this service, ROMEO may provide your personal data to parties established outside the European Economic Area (EEA).
 
@@ -87,10 +87,10 @@ In order to provide this service, ROMEO may provide your personal data to partie
 
 On the ROMEO website social media buttons are used, which redirect you to the social media platforms. This gives you the option to follow ROMEO and share content on this social media platform. The buttons are active because of bits of code that come from the social media platforms. If you want to know what the social media platforms do with your personal data, please read the relevant privacy statement:
 
-*   [Facebook (privacy statement)](https://www.facebook.com/policy.php)
-*   [Twitter (privacy statement)](https://twitter.com/en/privacy)
-*   [YouTube (privacy statement)](https://policies.google.com/privacy?hl=en-US)
-*   [Instagram (privacy statement)](https://help.instagram.com/155833707900388)
+* [Facebook (privacy statement)](https://www.facebook.com/policy.php)
+* [Twitter (privacy statement)](https://twitter.com/en/privacy)
+* [YouTube (privacy statement)](https://policies.google.com/privacy?hl=en-US)
+* [Instagram (privacy statement)](https://help.instagram.com/155833707900388)
 
 ### Cookies and similar techniques
 
@@ -98,14 +98,14 @@ ROMEO and third parties use cookies on the ROMEO website and similar techniques 
 
 ROMEO uses cookies for the following purposes:
 
-*   To enable you to use the ROMEO website and ROMEO app (functional cookies)
-*   To generate overall statistics and gain insights in the use of the ROMEO website by the public in order to improve and optimize the ROMEO website and services (analytical cookies)
-*   To show personalized advertisements on the ROMEO app; ROMEO does not use marketing cookies on the website.
+* To enable you to use the ROMEO website and ROMEO app (functional cookies)
+* To generate overall statistics and gain insights in the use of the ROMEO website by the public in order to improve and optimize the ROMEO website and services (analytical cookies)
+* To show personalized advertisements on the ROMEO app; ROMEO does not use marketing cookies on the website.
 
 These cookies collect the following data from you:
 
-*   Device data (such as IP-address, cookie ID and refferer-URL)
-*   Interaction data (such as click behaviour)
+* Device data (such as IP-address, cookie ID and refferer-URL)
+* Interaction data (such as click behaviour)
 
 When you visit the ROMEO app for the first time, ROMEO will ask for your explicit consent to tailor ads for you.
 
@@ -129,13 +129,13 @@ ROMEO takes appropriate technical and organizational security measures with rega
 
 You can always contact ROMEO if you have any questions regarding the privacy and cookie statement. Besides that, you have to the following rights regarding your personal data:
 
-*   **Right of** **access**: you have the right to see what kind of personal data ROMEO processed about you;
-*   **Right of** **rectification**: you have the right to rectify any personal data ROMEO has processed about you, if this personal data is (partially) wrong;
-*   **Right to object**: you have the right to object against the processing of your personal data by ROMEO, or against direct marketing;
-*   **Right to be** **forgotten:** you can file a request with ROMEO to remove any personal data ROMEO has processed of you;
-*   **Right to** **data portability**: if technically possible, you have the right to ask ROMEO to transfer your processed personal data to a third party;
-*   **Right to** **restriction** **of processing**: you can file a request with ROMEO to (temporarily) restrict the processing of your personal data.
-*   **Right to revoke your** **consent**, when ROMEO processes your data based on your consent.
+* **Right of** **access**: you have the right to see what kind of personal data ROMEO processed about you;
+* **Right of** **rectification**: you have the right to rectify any personal data ROMEO has processed about you, if this personal data is (partially) wrong;
+* **Right to object**: you have the right to object against the processing of your personal data by ROMEO, or against direct marketing;
+* **Right to be** **forgotten:** you can file a request with ROMEO to remove any personal data ROMEO has processed of you;
+* **Right to** **data portability**: if technically possible, you have the right to ask ROMEO to transfer your processed personal data to a third party;
+* **Right to** **restriction** **of processing**: you can file a request with ROMEO to (temporarily) restrict the processing of your personal data.
+* **Right to revoke your** **consent**, when ROMEO processes your data based on your consent.
 
 You may send a request by sending an e-mail to [legal@planetromeo.com](mailto:legal@planetromeo.com). To prevent abuse, ROMEO may ask you to provide proper proof of your identity. If you want to inspect personal data linked to a cookie, you should include a copy of the relevant cookie with your request, which you can find in your browser settings.
 
