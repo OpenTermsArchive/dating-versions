@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated September 16, 2022._
+_Last updated September 19, 2022._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
@@ -17,8 +17,7 @@ We receive or collect various personal data when you install and use the Service
 **To use the App, you must create an account. When you create an account, we require you to provide your mobile phone number or your Instagram handle. Once you create an account, we require you to provide your first name, email address, and preferred pronoun(s), as well as to select a username and password. You can also choose to link your App account with your Instagram account. You may also have the option to upload an image to your App account, and may need to allow the App to access the camera and/or photo album on the your phone to do so. Any image you upload will be visible to other users of the App, and as such must comply with this Policy and our Terms of Use.  
    
 **Your Location  
-**When you create an account, we require you to share your location with us through the App. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID.  
- 
+**When you create an account, we ask you to share your location with us through the App in order to use all features. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID. It is possible to opt out of sharing your location at sign up, but app functionality is limited. Read more [here](https://help.thisislex.app/article/87-do-i-have-to-share-my-location).  
 
 **Your Posts  
 **When you make a post on Lex, we may retain the post as necessary under applicable law. Posts may contain personal data. You can view your posts and you can choose to delete them from your profile.
