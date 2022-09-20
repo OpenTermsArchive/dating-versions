@@ -69,10 +69,10 @@ When we process personal data, this means that we collect, store, use this data,
 
 LOVOO will only collect and process your personal data in the following cases:
 
-*   If you visit our website and are not a user.
-*   If you contact us directly.
-*   If you install the LOVOO app.
-*   If you register on LOVOO or subscribe to LOVOO and then use LOVOO.
+* If you visit our website and are not a user.
+* If you contact us directly.
+* If you install the LOVOO app.
+* If you register on LOVOO or subscribe to LOVOO and then use LOVOO.
 
 You provide your personal data on a voluntary basis when entering into a contractual relationship with LOVOO or as part of an existing contractual relationship with LOVOO. However, you are required to provide special categories of personal data (e.g. the gender you are interested in, which is data relating to sexual orientation), as well as to answer questions about your LOVOO profile, in order to register on LOVOO. You must make your profile information visible to other LOVOO users in order to use the LOVOO service.
 
@@ -92,13 +92,13 @@ LOVOO must process the personal data described below that you (also referred to 
 
 When registering, which is initially free of charge, the user is asked to provide a minimum amount of data that are required to complete the registration process. This data includes:
 
-*   Username (pseudonym)
-*   City
-*   Date of birth
-*   Gender and gender you are interested in (the gender you are interested in indicates sexual orientation and is therefore a special category of personal data)
-*   Profile picture
-*   Email address
-*   Password selected by the user
+* Username (pseudonym)
+* City
+* Date of birth
+* Gender and gender you are interested in (the gender you are interested in indicates sexual orientation and is therefore a special category of personal data)
+* Profile picture
+* Email address
+* Password selected by the user
 
 **Voluntary Information**
 
@@ -164,9 +164,9 @@ Please bear the following in mind with regard to communication with our Customer
 
 If you communicate with our Customer Care Team
 
-1.  using the contact form, the transmission will be encrypted; our response to your request is encrypted during transport where your mail provider supports Transport Layer Security (TLS) transport encryption;
-2.  via email, the transmission of emails will be encrypted during transport where your mail provider supports Transport Layer Security (TLS) transport encryption.
-3.  via our chat bot Lou, the transmission of chat messages will be encrypted during transport where your device supports Transport Layer Security (TLS) transport encryption.
+1. using the contact form, the transmission will be encrypted; our response to your request is encrypted during transport where your mail provider supports Transport Layer Security (TLS) transport encryption;
+2. via email, the transmission of emails will be encrypted during transport where your mail provider supports Transport Layer Security (TLS) transport encryption.
+3. via our chat bot Lou, the transmission of chat messages will be encrypted during transport where your device supports Transport Layer Security (TLS) transport encryption.
 
 If you would like to communicate via email using content encryption, we kindly ask that you contact LOVOO by post instead. Our address is available under [Contact](#_Toc100588501).
 
@@ -194,17 +194,17 @@ If your mobile device supports this, we will send you push notifications when yo
 
 Unless otherwise indicated in the following, usage data pertaining to those visiting the website – even if they are not LOVOO users – is transmitted by the respective Internet browser and saved in protocol files, which are known as server log files, each time the LOVOO website is accessed This data includes:
 
-*   Information about the browser type and the Internet service provider of the user and the operating system in use (e.g. Windows 7, Apple OS).
-*   IP address (Internet protocol address) of the visiting computer, tablet or smartphone (the IP address is also checked against a geodatabase and the origin or country, state and city of the user(s) is determined.) In this context, LOVOO uses services including MaxMind (see explanations on this below)
-*   Name of the accessed page
-*   Date and time of request
-*   Referrer URL (origin URL) the user used to access the retrieved page
-*   Transferred data quantity
-*   Status report on whether the retrieval was successful
-*   Session identification number (session ID)
-*   If required, session participant pseudonym
-*   Username (profile ID) on the LOVOO platform (only of LOVOO users)
-*   Used screen resolution
+* Information about the browser type and the Internet service provider of the user and the operating system in use (e.g. Windows 7, Apple OS).
+* IP address (Internet protocol address) of the visiting computer, tablet or smartphone (the IP address is also checked against a geodatabase and the origin or country, state and city of the user(s) is determined.) In this context, LOVOO uses services including MaxMind (see explanations on this below)
+* Name of the accessed page
+* Date and time of request
+* Referrer URL (origin URL) the user used to access the retrieved page
+* Transferred data quantity
+* Status report on whether the retrieval was successful
+* Session identification number (session ID)
+* If required, session participant pseudonym
+* Username (profile ID) on the LOVOO platform (only of LOVOO users)
+* Used screen resolution
 
 The login records also store the user ID on the LOVOO platform each time LOVOO users log in to LOVOO.
 
@@ -218,18 +218,18 @@ Each time the LOVOO app is accessed by the end device of the user(s), LOVOO auto
 
 Each time the LOVOO app is accessed, usage data pertaining to the relevant LOVOO user is transferred and stored. This data includes:
 
-*   The operating system and, if applicable, browser type used
-*   Current language settings of the smartphone
-*   Information about the Internet service provider of the user
-*   IP address (Internet protocol address) of the accessing computer
-*   Device ID (e.g. UDID, IDFV) for the identification of your device(s) to ensure secure authentication
-*   Sensor data (if you use an Android end device)
-*   Device-specific information (e.g. manufacturer, device model)
-*   Username on the LOVOO platform (only of LOVOO users)
-*   Name of the accessed page and, if applicable, origin page
-*   Date and time of request
-*   Transferred data quantity
-*   Status report on whether the retrieval was successful
+* The operating system and, if applicable, browser type used
+* Current language settings of the smartphone
+* Information about the Internet service provider of the user
+* IP address (Internet protocol address) of the accessing computer
+* Device ID (e.g. UDID, IDFV) for the identification of your device(s) to ensure secure authentication
+* Sensor data (if you use an Android end device)
+* Device-specific information (e.g. manufacturer, device model)
+* Username on the LOVOO platform (only of LOVOO users)
+* Name of the accessed page and, if applicable, origin page
+* Date and time of request
+* Transferred data quantity
+* Status report on whether the retrieval was successful
 
 In addition to the aforementioned data, tracking technologies or pseudonymous IDs (such as your advertising ID (e.g. Apple's IDFA (identifier for advertisers) and Google's advertising ID) may be retrieved from your end device while or after you use the LOVOO app. Detailed information on this is available in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies).
 
@@ -237,11 +237,11 @@ In addition to the aforementioned data, tracking technologies or pseudonymous ID
 
 The following usage data is stored in the login records each time LOVOO users log in:
 
-*   Date and time of login
-*   Username on the LOVOO platform (email address)
-*   Password or transfer of single sign-on login data
-*   IP address (Internet protocol address)
-*   Device ID (e.g. UDID) for the identification of your device(s) to ensure secure authentication
+* Date and time of login
+* Username on the LOVOO platform (email address)
+* Password or transfer of single sign-on login data
+* IP address (Internet protocol address)
+* Device ID (e.g. UDID) for the identification of your device(s) to ensure secure authentication
 
 In addition to the aforementioned data, pseudonymous IDs (such as user ID and ad ID) may be stored on your end device while or after you use the LOVOO app. Detailed information on this is available in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies).
 
@@ -254,39 +254,39 @@ If you, a LOVOO user, use the setting options for the area search, the location 
 
 LOVOO processes the personal data of its users for the following purposes and in accordance with the legal bases listed below. If the data processing is conducted on the legal basis of a legitimate interest, we also explain our legitimate interest in data processing in the following:
 
-*   Providing the LOVOO platform and rendering the services that are described in our [General Terms and Conditions](https://www.lovoo.com/legal/toc). This specifically includes:
+* Providing the LOVOO platform and rendering the services that are described in our [General Terms and Conditions](https://www.lovoo.com/legal/toc). This specifically includes:
     
-    *   Providing our website to non-registered users;
-    *   Providing and use of our website and app for registered LOVOO users;
-    *   Providing the option of making contact and answering requests via the platform;
-    *   Facilitating the conclusion of a contract, including invoicing;
-    *   Sending emails and/or push notifications with matches or other messages related to the contract.
+    * Providing our website to non-registered users;
+    * Providing and use of our website and app for registered LOVOO users;
+    * Providing the option of making contact and answering requests via the platform;
+    * Facilitating the conclusion of a contract, including invoicing;
+    * Sending emails and/or push notifications with matches or other messages related to the contract.
 
 (The legal basis of processing is the fulfillment of the contract with you. In some cases, the legal basis is also your consent. The legal basis is also our legal obligation as well as the legitimate interest in providing customer service and improving the customer experience)
 
-*   Providing a login via the LOVOO platform or the Facebook login. (The legal basis of processing is the fulfillment of our contract.)
-*   Preventing and fighting misuse (particularly to prevent and combat fake profiles, scamming, unlawful acts and spam, as well as ensuring the integrity and stability of the LOVOO platform). LOVOO collects, processes, and uses personal data and geodata, which are collected during your registration and completion of the LOVOO profile, for an automated check as to whether there are indications or data pointing to misuse of LOVOO. The data is stored in a database and checked against empirical values. If automated processing reveals suspected misuse, a LOVOO employee will review the assessment and the underlying indications, and subsequently any free text information and the saved profile photos. LOVOO also provides its users with a feature called "Report profile" and checks profiles through members of the Customer Care Team in the event that other users report breaches of contract. What is more, LOVOO users can voluntarily verify themselves or are requested to do so by our Customer Care Team in justified cases (e.g. doubts about identity, suspicion of spam). If verification is successful, the profile is marked as "verified" and this is visible to other LOVOO users. Further information on verification is available [here](https://support.lovoo.com/hc/en-us/articles/209530749-Step-5-Get-verified-). Where required, users are requested to identify themselves via our service provider IDnow. Further information on this is available [here](https://support.lovoo.com/hc/en-us/sections/360003700779-FAQ-Taxes?article=360016083559). (The legal basis is the legitimate interest of LOVOO and LOVOO users that the LOVOO service is not misused for acts of third parties that are in breach of contract and/or unlawful. We also have a legitimate interest in protecting our own systems to secure LOVOO's IT and ultimately to protect the personal data of LOVOO's users).
-*   For automated pricing. On principle, we do not use fully automated decision-making pursuant to Article 22 of the GDPR; we only process your data in a partially automated manner with the aim of offering you
+* Providing a login via the LOVOO platform or the Facebook login. (The legal basis of processing is the fulfillment of our contract.)
+* Preventing and fighting misuse (particularly to prevent and combat fake profiles, scamming, unlawful acts and spam, as well as ensuring the integrity and stability of the LOVOO platform). LOVOO collects, processes, and uses personal data and geodata, which are collected during your registration and completion of the LOVOO profile, for an automated check as to whether there are indications or data pointing to misuse of LOVOO. The data is stored in a database and checked against empirical values. If automated processing reveals suspected misuse, a LOVOO employee will review the assessment and the underlying indications, and subsequently any free text information and the saved profile photos. LOVOO also provides its users with a feature called "Report profile" and checks profiles through members of the Customer Care Team in the event that other users report breaches of contract. What is more, LOVOO users can voluntarily verify themselves or are requested to do so by our Customer Care Team in justified cases (e.g. doubts about identity, suspicion of spam). If verification is successful, the profile is marked as "verified" and this is visible to other LOVOO users. Further information on verification is available [here](https://support.lovoo.com/hc/en-us/articles/209530749-Step-5-Get-verified-). Where required, users are requested to identify themselves via our service provider IDnow. Further information on this is available [here](https://support.lovoo.com/hc/en-us/sections/360003700779-FAQ-Taxes?article=360016083559). (The legal basis is the legitimate interest of LOVOO and LOVOO users that the LOVOO service is not misused for acts of third parties that are in breach of contract and/or unlawful. We also have a legitimate interest in protecting our own systems to secure LOVOO's IT and ultimately to protect the personal data of LOVOO's users).
+* For automated pricing. On principle, we do not use fully automated decision-making pursuant to Article 22 of the GDPR; we only process your data in a partially automated manner with the aim of offering you
 
 suitable product offers. The following data is used for this purpose: Country, registration device (app or website/iOS or Android). (The legal basis is the fulfillment of the contractual relationship and our legitimate interest in addressing our users in a targeted and individual manner.)
 
-*   For the protection and defense of our rights and the fulfillment of legal obligations. (The legal basis is our legitimate interest in asserting and defending our rights.)
-*   For personal/direct advertising by means of promotional emails and/or push notifications, surveys and individualized guides (only products from LOVOO GmbH). (The legal basis is the legitimate interest of LOVOO GmbH in marketing its products directly as well as Section 7 Paragraph 3 of the German Unfair Competition Act (UWG). In some cases, the legal basis is also your consent.)
-*   For compliance with statutory retention obligations and other legal or statutory obligations and provisions (for example with regard to tax audits, official or court orders to provide information and other orders). (The legal basis is the fulfillment of our legal obligations.)
-*   For other communication purposes related to requests. (The legal basis may be a pre-contractual legal relationship or a legal obligation.)
-*   We occasionally use your data for A/B testing purposes. We use this A/B testing to analyze user behavior on our website and the LOVOO app. We show you modified content with a profile allocation on our website or the LOVOO app. This enables us to make our offering on our website and the LOVOO app even more attractive and user-friendly. Allocation criteria will be deleted immediately following the analysis to improve LOVOO's offering. The legal basis is the legitimate interest. Our legitimate interest here is improving the user-friendliness and attractiveness of our website and LOVOO app.
+* For the protection and defense of our rights and the fulfillment of legal obligations. (The legal basis is our legitimate interest in asserting and defending our rights.)
+* For personal/direct advertising by means of promotional emails and/or push notifications, surveys and individualized guides (only products from LOVOO GmbH). (The legal basis is the legitimate interest of LOVOO GmbH in marketing its products directly as well as Section 7 Paragraph 3 of the German Unfair Competition Act (UWG). In some cases, the legal basis is also your consent.)
+* For compliance with statutory retention obligations and other legal or statutory obligations and provisions (for example with regard to tax audits, official or court orders to provide information and other orders). (The legal basis is the fulfillment of our legal obligations.)
+* For other communication purposes related to requests. (The legal basis may be a pre-contractual legal relationship or a legal obligation.)
+* We occasionally use your data for A/B testing purposes. We use this A/B testing to analyze user behavior on our website and the LOVOO app. We show you modified content with a profile allocation on our website or the LOVOO app. This enables us to make our offering on our website and the LOVOO app even more attractive and user-friendly. Allocation criteria will be deleted immediately following the analysis to improve LOVOO's offering. The legal basis is the legitimate interest. Our legitimate interest here is improving the user-friendliness and attractiveness of our website and LOVOO app.
 
 Information on processing purposes and the legal basis of the processing of personal data using cookies and other tracking technologies when LOVOO is used is available in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies).
 
 **Legal Basis for the Processing of Personal Data**
 ===================================================
 
-*   If we obtain the consent of the data subject for the processing of personal data, Article 6 Paragraph 1 Clause 1 a) of the EU General Data Protection Regulation (GDPR) will serve as the legal basis.
-*   If we process special categories of data pursuant to Article 9 Paragraph 1 of the GDPR, Article 9 Paragraph 2 a) of the GDPR – your consent – and Article 9 Paragraph 2 e) of the GDPR will serve as the legal basis, provided that you have publicly disclosed your sexual orientation (e.g. in your profile text or in a live video).
-*   Article 6 Paragraph 1 Clause 1 b) of the GDPR serves as the legal basis for the processing of personal data that is required to fulfill LOVOO's contractual relationship. This also applies to processing operations required to perform pre-contractual measures.
-*   Article 6 Paragraph 1 Clause 1 c) of the GDPR serves as the legal basis for the processing of personal data for the fulfillment of a legal obligation.
-*   If processing is required to protect a legitimate interest of LOVOO or a third party, such as its users, and if the interests, fundamental rights, and freedoms of the data subject do not override the former interest, Article 6 Paragraph 1 Clause 1 f) of the GDPR will serve as the legal basis for processing.
-*   The legal basis for the processing of personal data required for self-promotion (free use and subscriptions) is Article 6 Paragraph 1 Clause 1 f) of the GDPR as well as Section 7 Paragraph 3 of the German Unfair Competition Act (UWG).
+* If we obtain the consent of the data subject for the processing of personal data, Article 6 Paragraph 1 Clause 1 a) of the EU General Data Protection Regulation (GDPR) will serve as the legal basis.
+* If we process special categories of data pursuant to Article 9 Paragraph 1 of the GDPR, Article 9 Paragraph 2 a) of the GDPR – your consent – and Article 9 Paragraph 2 e) of the GDPR will serve as the legal basis, provided that you have publicly disclosed your sexual orientation (e.g. in your profile text or in a live video).
+* Article 6 Paragraph 1 Clause 1 b) of the GDPR serves as the legal basis for the processing of personal data that is required to fulfill LOVOO's contractual relationship. This also applies to processing operations required to perform pre-contractual measures.
+* Article 6 Paragraph 1 Clause 1 c) of the GDPR serves as the legal basis for the processing of personal data for the fulfillment of a legal obligation.
+* If processing is required to protect a legitimate interest of LOVOO or a third party, such as its users, and if the interests, fundamental rights, and freedoms of the data subject do not override the former interest, Article 6 Paragraph 1 Clause 1 f) of the GDPR will serve as the legal basis for processing.
+* The legal basis for the processing of personal data required for self-promotion (free use and subscriptions) is Article 6 Paragraph 1 Clause 1 f) of the GDPR as well as Section 7 Paragraph 3 of the German Unfair Competition Act (UWG).
 
 If the legal basis is your consent, you are entitled to revoke your consent at any time without this affecting the lawfulness of the processing performed on the basis of the consent up to the time of revocation. If the legal basis is the legitimate interest, you are also entitled in principle to object to the processing of personal data pertaining to you at any time for reasons resulting from your particular situation. Article 21 of the GDPR applies in this respect.
 
@@ -297,12 +297,12 @@ As a rule, LOVOO will only disclose your personal data to third parties if this 
 
 The following personal data may also be transferred to third parties:
 
-*   to service providers, provided that the data is required to execute a data processing agreement with us;
-*   where required, to providers of marketing tracking technologies and analysis tools (more information on this is available in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies));
-*   if we are required to do so by law or by enforceable official or court order in individual cases;
-*   in relation to legal disputes (with courts or our lawyers), debt collection cases or economic or operational audits (with economic/operational auditors);
-*   to the competent investigative authorities with regard to possible criminal acts;
-*   in the event of sale of the business (with respect to the acquirer).
+* to service providers, provided that the data is required to execute a data processing agreement with us;
+* where required, to providers of marketing tracking technologies and analysis tools (more information on this is available in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies));
+* if we are required to do so by law or by enforceable official or court order in individual cases;
+* in relation to legal disputes (with courts or our lawyers), debt collection cases or economic or operational audits (with economic/operational auditors);
+* to the competent investigative authorities with regard to possible criminal acts;
+* in the event of sale of the business (with respect to the acquirer).
 
 If data may be transferred to other third parties on a regular basis, this will be explained in this Privacy Policy or in our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies). In the event of a transfer based on consent, the explanation may also be provided when consent is obtained.
 
@@ -329,11 +329,11 @@ You are entitled to request from us an overview of the specific recipients (proc
 
 LOVOO adopts various security measures, such as state-of-the-art encryption and authentication tools, to protect the security, integrity, and availability of its users' personal data. These measures are specified below:
 
-*   Strict criteria for the right to access your data
-*   Secure transmission using TLS encryption
-*   Storage of confidential data in encrypted format,
-*   Firewall protection of IT systems to protect against unauthorized access,
-*   Permanent monitoring of access to IT systems to identify and prevent misuse of personal data
+* Strict criteria for the right to access your data
+* Secure transmission using TLS encryption
+* Storage of confidential data in encrypted format,
+* Firewall protection of IT systems to protect against unauthorized access,
+* Permanent monitoring of access to IT systems to identify and prevent misuse of personal data
 
 LOVOO also contracts service providers from the USA in this context. These service providers are specified below:
 
@@ -408,12 +408,12 @@ If you would like to assert a right to information, please refer to the details 
 
 Provided that the legal requirements are met, you may demand that we immediately erase your personal data. This is particularly the case where
 
-*   your personal data is no longer needed for the purposes for which it was collected;
-*   the legal basis for the processing was exclusively your consent and you have revoked this;
-*   you have objected to the processing for commercial purposes ("objection to advertising");
-*   you have objected to processing in accordance with the legal basis of balancing interests on personal grounds and we cannot demonstrate that there are overriding legitimate grounds for processing;
-*   your personal data has been unlawfully processed; or
-*   your personal data must be erased in order to comply with legal requirements.
+* your personal data is no longer needed for the purposes for which it was collected;
+* the legal basis for the processing was exclusively your consent and you have revoked this;
+* you have objected to the processing for commercial purposes ("objection to advertising");
+* you have objected to processing in accordance with the legal basis of balancing interests on personal grounds and we cannot demonstrate that there are overriding legitimate grounds for processing;
+* your personal data has been unlawfully processed; or
+* your personal data must be erased in order to comply with legal requirements.
 
 Please not that your right to erasure is subject to limitations. For example, we must or may not erase any data that we are still required to retain due to legal retention periods. Data that we need to assert, exercise or defend legal claims are also exempt from your right of erasure.
 
@@ -423,10 +423,10 @@ You may also erase the data in your profile yourself. To do this, log in to your
 
 Provided that the legal requirements are met, you may demand that we restrict processing. This is particularly the case where
 
-*   you dispute the accuracy of your personal data, and then for as long as we have had the opportunity to verify the accuracy;
-*   the processing is not lawful and you request restriction of use instead of erasure (see the previous section for this);
-*   we no longer need your data for the purposes of processing, however you need it to assert, exercise, or defend your legal claims;
-*   you have raised an objection on personal grounds, and then for as long as it takes to determine whether your interests prevail.
+* you dispute the accuracy of your personal data, and then for as long as we have had the opportunity to verify the accuracy;
+* the processing is not lawful and you request restriction of use instead of erasure (see the previous section for this);
+* we no longer need your data for the purposes of processing, however you need it to assert, exercise, or defend your legal claims;
+* you have raised an objection on personal grounds, and then for as long as it takes to determine whether your interests prevail.
 
 Alternatively, you can use the settings options in your profile to rectify the data you provided during registration or to object to advertising. Some of the data collected about you can only be modified with the help of the Customer Care Team.
 
