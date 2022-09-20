@@ -151,25 +151,25 @@ Your profile ID and service password are assigned to you when you register to ou
 
 7.8 By registering for a eharmony account, you agree and represent that you will not misuse the Service and comply with our conduct requirements. In particular, you will not use the Service:  
 
-*   to distribute any immoral, obscene, pornographic or radical political content or photos;
+* to distribute any immoral, obscene, pornographic or radical political content or photos;
   
-*   to distribute any defamatory, offensive or otherwise illegal content or information;
+* to distribute any defamatory, offensive or otherwise illegal content or information;
   
-*   to threaten or harass other members, or to infringe any third party rights (including personal rights);
+* to threaten or harass other members, or to infringe any third party rights (including personal rights);
   
-*   to upload any data which contains a virus (such as infected software); or to upload data which contains a software or other content which is protected by copyright, unless you own the rights in that content or have otherwise obtained the necessary consents;
+* to upload any data which contains a virus (such as infected software); or to upload data which contains a software or other content which is protected by copyright, unless you own the rights in that content or have otherwise obtained the necessary consents;
   
-*   in such a manner that your use will adversely affect the availability of offers to other members;
+* in such a manner that your use will adversely affect the availability of offers to other members;
   
-*   to intercept any e-mails / messages or to attempt to intercept them;
+* to intercept any e-mails / messages or to attempt to intercept them;
   
-*   to send any e-mails / messages to members or use the video chat feature for any purpose other than to communicate, and in particular you will not use the Service to promote or to offer goods or services to other members except where this is expressly permitted by eharmony;
+* to send any e-mails / messages to members or use the video chat feature for any purpose other than to communicate, and in particular you will not use the Service to promote or to offer goods or services to other members except where this is expressly permitted by eharmony;
   
-*   to send any chain letters;
+* to send any chain letters;
   
-*   to send any messages that serve a commercial purpose; and/or
+* to send any messages that serve a commercial purpose; and/or
   
-*   to provide in your personal description and free-of-charge contact requests any names, addresses, phone or fax numbers, e-mail addresses, etc. if this information is not explicitly requested.
+* to provide in your personal description and free-of-charge contact requests any names, addresses, phone or fax numbers, e-mail addresses, etc. if this information is not explicitly requested.
   
 
 7.9 If you do not comply with the conduct requirements explained in this Clause 7, or if you fail to materially comply with any other of the Subscription Terms, we may take the following actions: we may ask you to stop your non-compliant activities (or otherwise send you a warning that your activities do not comply with our conduct requirements); we may delete any content which you have submitted via the Service in breach of any of our conduct requirements; we may suspend the provision of the Service to you (in whole or in part) until the issue is resolved (for example, while we investigate your activities); or (if it is clear to us that you are seriously misusing the Service) we may terminate the provision of the Service to you. If we decide to terminate your subscription because you have misused the Service, we will refund to you any payment that you have already made to us for any unused portion of the Premium Membership that we have not provided. However, we may still also deduct from this refund or charge you a reasonable amount as compensation for any costs we incur as a result of your non-compliance with these terms. If you have purchased your Premium Membership through Apple / Google, any refund will be made in accordance with Apple's / Google’s own terms as further described in Clause 2.4.
@@ -304,19 +304,19 @@ eharmony's subsidiaries and group companies are third party beneficiaries of the
 
 14.2 With respect to the relationship between eharmony and Apple, the responsibility for our app is allocated as follows:  
 
-*   These General Terms and Conditions of Use are between you and eharmony. These General Terms and Conditions of Use are not between you and Apple.
+* These General Terms and Conditions of Use are between you and eharmony. These General Terms and Conditions of Use are not between you and Apple.
   
-*   eharmony, not Apple, is solely responsible for our app and its content. Our responsibilities and liabilities to you are explained in the other sections of these General Terms and Conditions of Use.
+* eharmony, not Apple, is solely responsible for our app and its content. Our responsibilities and liabilities to you are explained in the other sections of these General Terms and Conditions of Use.
   
-*   Apple has no obligation to provide any maintenance or support services for our app.
+* Apple has no obligation to provide any maintenance or support services for our app.
   
-*   eharmony, not Apple, is responsible for any product warranties in relation to our app.
+* eharmony, not Apple, is responsible for any product warranties in relation to our app.
   
-*   If our app does not conform to any applicable warranty, you may notify Apple, and - if you have paid a purchase price for your Premium Membership - Apple will refund you that purchase price. Apple has no other warranty obligation in respect of our app. Any other claim that you might have in relation to our app is our sole responsibility (and not Apple's) and will be determined in accordance with applicable law and these General Terms and Conditions of Use.
+* If our app does not conform to any applicable warranty, you may notify Apple, and - if you have paid a purchase price for your Premium Membership - Apple will refund you that purchase price. Apple has no other warranty obligation in respect of our app. Any other claim that you might have in relation to our app is our sole responsibility (and not Apple's) and will be determined in accordance with applicable law and these General Terms and Conditions of Use.
   
-*   eharmony, not Apple, is responsible for addressing any claim by you or a third party relating to our app, or your use or possession of our app. This includes: (i) product liability claims; (ii) any claim that our app does not comply with any applicable legal or regulatory requirement; and (iii) any claims arising under consumer protection, privacy or similar laws.
+* eharmony, not Apple, is responsible for addressing any claim by you or a third party relating to our app, or your use or possession of our app. This includes: (i) product liability claims; (ii) any claim that our app does not comply with any applicable legal or regulatory requirement; and (iii) any claims arising under consumer protection, privacy or similar laws.
   
-*   If a third party claims that our app, or your use or possession of our app, infringes that third party’s intellectual property rights, we, not Apple, will be solely responsible for the investigation, defence, settlement, and/or discharge of any such claim.
+* If a third party claims that our app, or your use or possession of our app, infringes that third party’s intellectual property rights, we, not Apple, will be solely responsible for the investigation, defence, settlement, and/or discharge of any such claim.
   
 
   
@@ -351,11 +351,11 @@ eharmony's subsidiaries and group companies are third party beneficiaries of the
 
 15.2 With respect to the relationship between eharmony and Google, the responsibility for our app is allocated as follows:  
 
-*   These General Terms and Conditions of Use are between you and eharmony. These General Terms and Conditions of Use are not between you and Google.
+* These General Terms and Conditions of Use are between you and eharmony. These General Terms and Conditions of Use are not between you and Google.
   
-*   eharmony, not Google, is solely responsible for our app, its content and our Service. Our responsibilities and liabilities to you are explained in the other sections of these General Terms and Conditions of Use. Google has no obligation or liability to you with respect to our app or these General Terms and Conditions of Use.
+* eharmony, not Google, is solely responsible for our app, its content and our Service. Our responsibilities and liabilities to you are explained in the other sections of these General Terms and Conditions of Use. Google has no obligation or liability to you with respect to our app or these General Terms and Conditions of Use.
   
-*   You should contact us, not Google, if you have any problems when using our app, or if you want to let us know about any errors or performance issues with our app.
+* You should contact us, not Google, if you have any problems when using our app, or if you want to let us know about any errors or performance issues with our app.
   
 
 15.3 If you have downloaded our app from GooglePlay, you must also use our app in accordance with the current Android Market Terms of Service available [here](https://www.google.com/intl/en_gb/mobile/android/market-tos.html).
