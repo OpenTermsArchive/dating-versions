@@ -1,9 +1,8 @@
-[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1663586146484)
+[Display as PDF to print and save](https://webassets.lovoo.com/privacy_en.pdf?1663656528910)
 
-Privacy Policy for the Use of LOVOO
-===================================
+**Privacy Policy for the Use of LOVOO**
 
-**Effective: March 18, 2022**
+Effective: March 18, 2022
 
 Thank you for using LOVOO. Read on to find out what personal data LOVOO collects, how we handle this data, and the choices you have as a user. The following Privacy Policy is applicable to the LOVOO website and the LOVOO mobile application ("website," "app," or "online offering").
 
