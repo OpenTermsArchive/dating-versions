@@ -41,13 +41,13 @@ We participate in interest-based advertising and use third party advertising com
 
 We display targeted advertising to you through social media platforms, such as Facebook, Twitter, Instagram, LinkedIn and other social media forums. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our services while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. We may share a unique identifier, such as a user ID or hashed email address, with these platform providers or they may collect information from our website visitors through a first-party pixel, in order to direct targeted advertising to you or to a custom audience on the social media platform. These advertisements are governed by the privacy policies of those social media companies that provide them. If you do not want to receive targeted ads on your social networks, you may be able to adjust your advertising preferences through your settings on those networks. You may learn more about advertising preferences by clicking on the links provided below. Please note that these links are provided for your convenience only and we do not control the content or features that may be available on these third party services.
 
-*   *   **Facebook.** To learn more about your advertising preferences on Facebook Companies, click [here](https://www.facebook.com/help/109378269482053).
-    *   **Twitter.** To learn more about privacy controls for personalized ads on Twitter, click [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads).
-    *   **LinkedIn.** To learn more about advertising preferences on LinkedIn, click [here](https://www.linkedin.com/psettings/advertising).
+* * **Facebook.** To learn more about your advertising preferences on Facebook Companies, click [here](https://www.facebook.com/help/109378269482053).
+    * **Twitter.** To learn more about privacy controls for personalized ads on Twitter, click [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads).
+    * **LinkedIn.** To learn more about advertising preferences on LinkedIn, click [here](https://www.linkedin.com/psettings/advertising).
 
 **Third Party Partners**. The following is a sample of the third-party service partners we work with to provide advertising services. We will strive to update this list if or when we work with new partners which offer you choices about the collection of your information, but as partners change and new technologies become available, this list is likely to change over time and may not always reflect our current partners.
 
-*   Google Analytics and Advertising. We use Google Analytics to recognize you and link the devices you use when you visit our websites or services on your browser or mobile device, log in to your account on our services, or otherwise engage with us. We share a unique identifier, like a user ID or hashed email address, with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google’s site “How Google uses data when you use our partners’ sites or apps” located at www.google.com/policies/privacy/partners/. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+* Google Analytics and Advertising. We use Google Analytics to recognize you and link the devices you use when you visit our websites or services on your browser or mobile device, log in to your account on our services, or otherwise engage with us. We share a unique identifier, like a user ID or hashed email address, with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google’s site “How Google uses data when you use our partners’ sites or apps” located at www.google.com/policies/privacy/partners/. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 
 We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at [https://google.com/ads/preferences](https://google.com/ads/preferences%20), or by visiting NAI’s online resources at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
@@ -113,14 +113,14 @@ This section applies to you if you are a resident of the state of California. Ca
 
 **Sources of personal information**. We collect personal information about you from one or more of the following categories of sources:
 
-*   Directly from you
-*   Indirectly from you
-*   Our business partners and affiliates (including service providers)
-*   Third parties you direct to share information with us, such as third-party social networks
-*   Social network services
-*   Company Group
-*   Your browser or device
-*   Generated or derived from other personal information
+* Directly from you
+* Indirectly from you
+* Our business partners and affiliates (including service providers)
+* Third parties you direct to share information with us, such as third-party social networks
+* Social network services
+* Company Group
+* Your browser or device
+* Generated or derived from other personal information
 
 **_Please note_**_:_In addition to the categories of sources identified above, we may collect information from publicly available sources and other third-party information providers in order to supplement the information we have otherwise collected.
 
@@ -138,15 +138,15 @@ However, as is common practice among companies that operate online, we permit th
 
 **Your Rights and Choices****.** As a California resident, you may be able to request to exercise the following rights:
 
-*   **The Right to Know** any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity:
-    *   The specific pieces of personal information we have collected about you;
-    *   The categories of personal information we have collected about you;
-    *   The categories of sources of the personal information;
-    *   The categories of personal information that we have disclosed to third parties for a business purpose, and the categories of recipients to whom this information was disclosed;
-    *   The categories of personal information we have sold and the categories of third parties to whom the information was sold; and
-    *   The business or commercial purposes for collecting or selling the personal information.
-*   **The Right to Request Deletion** of personal information we have collected from you, subject to certain exceptions.
-*   **The Right to Opt Out of Personal Information Sales** to third parties.
+* **The Right to Know** any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity:
+    * The specific pieces of personal information we have collected about you;
+    * The categories of personal information we have collected about you;
+    * The categories of sources of the personal information;
+    * The categories of personal information that we have disclosed to third parties for a business purpose, and the categories of recipients to whom this information was disclosed;
+    * The categories of personal information we have sold and the categories of third parties to whom the information was sold; and
+    * The business or commercial purposes for collecting or selling the personal information.
+* **The Right to Request Deletion** of personal information we have collected from you, subject to certain exceptions.
+* **The Right to Opt Out of Personal Information Sales** to third parties.
 
 You also have the right to be free of discrimination for exercising these rights. However, please note that if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our Services or engage with you in the same manner.
 
@@ -154,13 +154,13 @@ You also have the right to be free of discrimination for exercising these rights
 
 To exercise your California Consumer Rights, please submit a request by:
 
-*   Emailing [support@spark.com](mailto:support@spark.com) with the subject line “California Rights Request” and the specific Brand(s) to which you are making a request, or
+* Emailing [support@spark.com](mailto:support@spark.com) with the subject line “California Rights Request” and the specific Brand(s) to which you are making a request, or
 
-*   Filling out our California Consumer Rights Request Form for the specific Brand to which you wish to make a request under the “Contact Us” tab available at the links below:
-    *   Adventist Singles: [https://support.adventistsinglesconnection.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/m1PaCW6qVZILNY7rtOR99p?domain=support.adventistsinglesconnection.com)
-    *   ChristianMingle: [https://support.christianmingle.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/8RiKCPNQLPI1JmYzH6oeVA?domain=support.christianmingle.com).
-    *   Jdate: [https://support.jdate.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/XfYRCOY8KOfLEXV1trnXgf?domain=support.jdate.com)
-    *   LDS Singles: [https://support.ldssingles.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/xlnECVOQRYtnzKrqiEVb3B?domain=support.ldssingles.com)
+* Filling out our California Consumer Rights Request Form for the specific Brand to which you wish to make a request under the “Contact Us” tab available at the links below:
+    * Adventist Singles: [https://support.adventistsinglesconnection.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/m1PaCW6qVZILNY7rtOR99p?domain=support.adventistsinglesconnection.com)
+    * ChristianMingle: [https://support.christianmingle.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/8RiKCPNQLPI1JmYzH6oeVA?domain=support.christianmingle.com).
+    * Jdate: [https://support.jdate.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/XfYRCOY8KOfLEXV1trnXgf?domain=support.jdate.com)
+    * LDS Singles: [https://support.ldssingles.com/hc/en-us/requests/new](https://protect-us.mimecast.com/s/xlnECVOQRYtnzKrqiEVb3B?domain=support.ldssingles.com)
 
 When submitting a request, please describe your relationship with us and your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
