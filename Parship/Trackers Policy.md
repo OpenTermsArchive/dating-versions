@@ -8,8 +8,8 @@ Dernière mise à jour: 21.06.2022
 
 Vous pouvez à tout moment consulter et ajuster vos paramètres concernant le traitement de vos données personnelles en relation avec les cookies et autres technologies de suivi ou révoquer le consentement accordé. Pour ce faire, veuillez procéder comme suit:
 
-*   **Si vous utilisez notre site web**, veuillez vous rendre sur notre plate-forme de gestion du consentement (« CMP ») en cliquant [ici](#uc-first-modal-show).
-*   **Si vous utilisez notre application**, veuillez vous rendre en **haut** de cette page et cliquer sur « Paramètres de suivi ».
+* **Si vous utilisez notre site web**, veuillez vous rendre sur notre plate-forme de gestion du consentement (« CMP ») en cliquant [ici](#uc-first-modal-show).
+* **Si vous utilisez notre application**, veuillez vous rendre en **haut** de cette page et cliquer sur « Paramètres de suivi ».
 
 De plus amples informations sont disponibles ci-dessous dans la rubrique [« Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies? »](#pp23) ou dans la rubrique [« Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi? »](#pp06).
 
@@ -23,22 +23,22 @@ Sauf indication contraire dans ces Informations sur les cookies et les technolog
 
 **Table des matières**
 
-*   [Aperçu de la gestion des cookies et des technologies de suivi ou de la révocation du consentement accordé](#pp00)
+* [Aperçu de la gestion des cookies et des technologies de suivi ou de la révocation du consentement accordé](#pp00)
 
-*   [Cookies et autres technologies de suivi lors de l’utilisation du site Web de Parship](#pp01)
+* [Cookies et autres technologies de suivi lors de l’utilisation du site Web de Parship](#pp01)
 
-*   [Quelles catégories de cookies utilise Parship?](#pp02)
-*   [Base juridique pour le traitement de données à caractère personnel et l’acccès à votre terminal en rapport avec les « cookies »](#pp03)
-*   [Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies?](#pp23)
-*   [Aperçu des cookies utilisés par Parship](#pp04)
-*   [Annexe: Notes techniques sur les cookies](#pp12)
+* [Quelles catégories de cookies utilise Parship?](#pp02)
+* [Base juridique pour le traitement de données à caractère personnel et l’acccès à votre terminal en rapport avec les « cookies »](#pp03)
+* [Comment gérer ou empêcher l’utilisation de cookies ou supprimer les cookies?](#pp23)
+* [Aperçu des cookies utilisés par Parship](#pp04)
+* [Annexe: Notes techniques sur les cookies](#pp12)
 
-*   [Technologies de suivi lors de l’utilisation l’application Parship](#pp24)
+* [Technologies de suivi lors de l’utilisation l’application Parship](#pp24)
 
-*   [Quelles catégories de technologies de suivi utilise Parship?](#pp05)
-*   [Base juridique pour le traitement de données à caractère personnel ainsi que pour l’accès à votre terminal en relation avec les technologies de suivi (comme l’identifiant de l’application our « App Identifier ») dans le cadre d’une utilisation de l’application Parship](#pp08)
-*   [Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi?](#pp06)
-*   [Aperçu des technologies de suivi utilisées par Parship](#pp07)
+* [Quelles catégories de technologies de suivi utilise Parship?](#pp05)
+* [Base juridique pour le traitement de données à caractère personnel ainsi que pour l’accès à votre terminal en relation avec les technologies de suivi (comme l’identifiant de l’application our « App Identifier ») dans le cadre d’une utilisation de l’application Parship](#pp08)
+* [Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi?](#pp06)
+* [Aperçu des technologies de suivi utilisées par Parship](#pp07)
 
 Cookies et autres technologies de suivi lors de l’utilisation du site Web de Parship
 
@@ -64,12 +64,12 @@ Certains cookies sont indispensables au bon fonctionnement du site web de Parshi
 
 C'est le cas par exemple des
 
-*   cookies permettant l’identification ou l’authentification de nos utilisateurs, et cookies en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
-*   cookies visant à assurer la sécurité des systèmes informatiques de Parship
-*   cookies destinés à prévenir les abus,
-*   cookies qui enregistrent temporairement certaines données de  
+* cookies permettant l’identification ou l’authentification de nos utilisateurs, et cookies en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
+* cookies visant à assurer la sécurité des systèmes informatiques de Parship
+* cookies destinés à prévenir les abus,
+* cookies qui enregistrent temporairement certaines données de  
     l'utilisateur ;
-*   cookies qui enregistrent certaines préférences de l’utilisateur
+* cookies qui enregistrent certaines préférences de l’utilisateur
 
   
 
@@ -103,10 +103,10 @@ Si vous n'acceptez pas l'utilisation de cookies publicitaires, ou si vous les d�
 
 **Base juridique pour le traitement de données à caractère personnel et l’acccès à votre terminal en rapport avec les « cookies »**
 
-*   Dans la mesure où nous obtenons le consentement de la personne concernée pour le traitement des données à caractère personnel, l'article 6, paragraphe 1, première phrase, point a) du règlement général de l’UE sur la protection des données (RGPD) constitue la base juridique.
-*   Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
-*   Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
-*   Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
+* Dans la mesure où nous obtenons le consentement de la personne concernée pour le traitement des données à caractère personnel, l'article 6, paragraphe 1, première phrase, point a) du règlement général de l’UE sur la protection des données (RGPD) constitue la base juridique.
+* Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
+* Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
+* Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
 
 Dans la mesure où votre consentement constitue la base juridique, vous avez le droit de retirer votre consentement à tout moment sans que la licéité du traitement effectué sur la base de ce consentement jusqu'à votre [retrait](#pp21) en soit affectée. Si l’intérêt légitime est la base juridique, vous avez également le droit, en principe, de vous opposer à tout moment au traitement des données à caractère personnel vous concernant pour des raisons liées à votre situation particulière. L'article 21 du RGPD s'applique à cet égard.
 
@@ -170,11 +170,11 @@ Ces cookies assurent des fonctions sans lesquelles vous ne pourriez pas profiter
 
 Cette catégorie comprend par exemple :
 
-*   les technologies de suivi permettant l’identification ou l’authentification de nos utilisateurs, et technologies de suivi en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
-*   les technologies de suivi visant à assurer la sécurité des systèmes informatiques de Parship
-*   les technologies de suivi destinées à prévenir les abus,
-*   les technologies de suivi qui enregistrent temporairement certaines données de l'utilisateur ;
-*   les technologies de suivi qui enregistrent certaines préférences de l’utilisateur
+* les technologies de suivi permettant l’identification ou l’authentification de nos utilisateurs, et technologies de suivi en relation avec un processus d'authentification sécurisé (Secure Authentication Process) ;
+* les technologies de suivi visant à assurer la sécurité des systèmes informatiques de Parship
+* les technologies de suivi destinées à prévenir les abus,
+* les technologies de suivi qui enregistrent temporairement certaines données de l'utilisateur ;
+* les technologies de suivi qui enregistrent certaines préférences de l’utilisateur
 
   
 
@@ -224,10 +224,10 @@ Vous pouvez à tout moment refuser le traitement de données en relation avec le
 
 **Base juridique pour le traitement de données à caractère personnel ainsi que pour l’accès à votre terminal en relation avec les technologies de suivi (comme l’identifiant de l’application our « App Identifier ») dans le cadre d’une utilisation de l’application Parship**
 
-*   Nous recueillons le consentement de la personne concernée pour le traitement des données à caractère personnel via des technologies de suivi qui ne sont pas nécessaires. Dans ce cas, l'article 6, paragraphe 1, première phrase, point a) du RGPD constitue la base juridique.
-*   Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
-*   Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
-*   Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
+* Nous recueillons le consentement de la personne concernée pour le traitement des données à caractère personnel via des technologies de suivi qui ne sont pas nécessaires. Dans ce cas, l'article 6, paragraphe 1, première phrase, point a) du RGPD constitue la base juridique.
+* Dans le cadre du traitement des données personnelles nécessaires à l'exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l'article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s'applique également aux traitements qui sont nécessaires à l'exécution de mesures précontractuelles.
+* Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l'article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
+* Pour le traitement supplémentaire des données de cookies, d’identifiants d’appareils ou d'autres données à caractère personnel sur votre terminal, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
 
 Dans la mesure où votre consentement constitue la base juridique, vous avez le droit de retirer votre consentement à tout moment sans que la licéité du traitement effectué sur la base de ce consentement en soit affectée jusqu'à votre [retrait](#pp06). Si l’intérêt légitime est la base juridique, vous avez également le droit, en principe, de vous opposer à tout moment au traitement des données à caractère personnel vous concernant pour des raisons liées à votre situation particulière. L'article 21 du RGPD s'applique à cet égard.
 
