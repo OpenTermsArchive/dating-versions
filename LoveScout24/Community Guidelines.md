@@ -32,9 +32,9 @@ Seien Sie nicht unhöflich oder unfreundlich. Belästigen, bedrängen, diffamier
 
 ### Tipps
 
-*   Achten Sie darauf, was Sie sagen, vor allem am Anfang. Etwas, das Sie für einen Scherz halten, könnte von jemand anderem sehr persönlich genommen werden.
-*   Wenn Sie Tipps dafür brauchen, jemanden kennenzulernen, fragen Sie einfach unseren virtuellen Dating-Coach (wo verfügbar).
-*   Niemand findet Drohungen, Hassreden, Rassismus oder Intoleranz attraktiv! Drohungen und ähnliches Verhalten sind illegal und wir nehmen es sehr ernst, wenn uns solche Vorfälle gemeldet werden. Je nach Schweregrad kann dies dazu führen, dass Ihr Konto eine Verwarnung erhält oder gesperrt wird.
+* Achten Sie darauf, was Sie sagen, vor allem am Anfang. Etwas, das Sie für einen Scherz halten, könnte von jemand anderem sehr persönlich genommen werden.
+* Wenn Sie Tipps dafür brauchen, jemanden kennenzulernen, fragen Sie einfach unseren virtuellen Dating-Coach (wo verfügbar).
+* Niemand findet Drohungen, Hassreden, Rassismus oder Intoleranz attraktiv! Drohungen und ähnliches Verhalten sind illegal und wir nehmen es sehr ernst, wenn uns solche Vorfälle gemeldet werden. Je nach Schweregrad kann dies dazu führen, dass Ihr Konto eine Verwarnung erhält oder gesperrt wird.
 
 ### Respektvoll sein
 
@@ -48,13 +48,13 @@ Wir akzeptieren auch keine Nachrichten oder Inhalte, die illegale Aktivitäten d
 
 ### Tipps
 
-*   Fragen Sie niemals nach privaten Informationen oder teilen sie anderen mit.
-*   Es kann zwar Spaß machen, erotische Fotos zu versenden oder über sexuelle Vorlieben und Phantasien zu sprechen, doch nicht gleich zu Beginn eines neuen Kontakts. Lassen Sie die Dinge sich erst entwickeln.
-*   Es ist niemals akzeptabel, Nacktdarstellungen oder sexuell explizite oder pornografische Inhalte auf LoveScout24 hochzuladen.
-*   Vermeiden Sie es, zusammenhanglos Fotos von sich im Bikini oder oberkörperfrei zu veröffentlichen. (Es ist in Ordnung, wenn Sie auf einem Strandfoto einen Bikini tragen, doch in Ihrem Schlafzimmer macht es einen seltsamen Eindruck.)
-*   KEINE Fotos von Gewalt, Drogenkonsum oder kriminellen Aktivitäten: Davon ist niemand beeindruckt.
-*   Respektieren Sie die Privatsphäre und Sicherheit Ihrer Kinder. Fotos, die Minderjährige zeigen (auch in Begleitung Erwachsener), werden entfernt.
-*   LoveScout24 ist nicht der richtige Ort, um Ihr Unternehmen, Ihre Band oder Ihre Kunst zu bewerben oder etwas zu verkaufen. Wer Spam veröffentlicht, wird gesperrt.
+* Fragen Sie niemals nach privaten Informationen oder teilen sie anderen mit.
+* Es kann zwar Spaß machen, erotische Fotos zu versenden oder über sexuelle Vorlieben und Phantasien zu sprechen, doch nicht gleich zu Beginn eines neuen Kontakts. Lassen Sie die Dinge sich erst entwickeln.
+* Es ist niemals akzeptabel, Nacktdarstellungen oder sexuell explizite oder pornografische Inhalte auf LoveScout24 hochzuladen.
+* Vermeiden Sie es, zusammenhanglos Fotos von sich im Bikini oder oberkörperfrei zu veröffentlichen. (Es ist in Ordnung, wenn Sie auf einem Strandfoto einen Bikini tragen, doch in Ihrem Schlafzimmer macht es einen seltsamen Eindruck.)
+* KEINE Fotos von Gewalt, Drogenkonsum oder kriminellen Aktivitäten: Davon ist niemand beeindruckt.
+* Respektieren Sie die Privatsphäre und Sicherheit Ihrer Kinder. Fotos, die Minderjährige zeigen (auch in Begleitung Erwachsener), werden entfernt.
+* LoveScout24 ist nicht der richtige Ort, um Ihr Unternehmen, Ihre Band oder Ihre Kunst zu bewerben oder etwas zu verkaufen. Wer Spam veröffentlicht, wird gesperrt.
 
 ### Sicher sein
 
@@ -67,8 +67,8 @@ Wenn Sie sich durch eine Person unwohl fühlen oder sich jemand nicht an unsere 
 
 ### Tipps
 
-*   Interagieren Sie am Anfang nur auf unserer Plattform mit einer Person. So sind Sie beide sehr viel sicherer.
-*   Drängen Sie niemanden dazu, Ihnen persönliche Informationen oder Kontaktdaten mitzuteilen. Denken Sie daran: Die andere Person kennt Sie nicht und fühlt sich dabei vielleicht unwohl. Lernen Sie die andere Person zuerst kennen. Sobald sie bereit dafür ist, wird sie Ihnen mehr über sich erzählen.
+* Interagieren Sie am Anfang nur auf unserer Plattform mit einer Person. So sind Sie beide sehr viel sicherer.
+* Drängen Sie niemanden dazu, Ihnen persönliche Informationen oder Kontaktdaten mitzuteilen. Denken Sie daran: Die andere Person kennt Sie nicht und fühlt sich dabei vielleicht unwohl. Lernen Sie die andere Person zuerst kennen. Sobald sie bereit dafür ist, wird sie Ihnen mehr über sich erzählen.
 
 Unsere vollständige Liste mit Tipps für Ihre Sicherheit finden Sie [hier](https://www.lovescout24.de/safety/).
 
@@ -80,9 +80,9 @@ Bewerben Sie keine externen Links, Websites oder kommerziellen Inhalte in Ihrem 
 
 ### Tipps
 
-*   Achten Sie darauf, dass alle Angaben in Ihrem Profil der Wahrheit entsprechen, einschließlich Ihres Alters und Ihrer Größe. Es zeugt von mangelndem Respekt, wenn Sie nicht von Anfang an ehrlich sind, und widerspricht unseren Nutzungsbedingungen.
-*   Veröffentlichen Sie nur Fotos von sich selbst, auf denen Ihr Gesicht deutlich zu erkennen ist. Nutzen Sie keine Gruppenfotos, da andere Personen sonst nicht wissen, welches Gesicht Ihres ist.
-*   Vermeiden Sie die Nutzung von Memes oder Filtern, die Ihr Gesicht verfälschen oder verbergen. Die anderen Singles wollen wissen, wie Sie aussehen!
+* Achten Sie darauf, dass alle Angaben in Ihrem Profil der Wahrheit entsprechen, einschließlich Ihres Alters und Ihrer Größe. Es zeugt von mangelndem Respekt, wenn Sie nicht von Anfang an ehrlich sind, und widerspricht unseren Nutzungsbedingungen.
+* Veröffentlichen Sie nur Fotos von sich selbst, auf denen Ihr Gesicht deutlich zu erkennen ist. Nutzen Sie keine Gruppenfotos, da andere Personen sonst nicht wissen, welches Gesicht Ihres ist.
+* Vermeiden Sie die Nutzung von Memes oder Filtern, die Ihr Gesicht verfälschen oder verbergen. Die anderen Singles wollen wissen, wie Sie aussehen!
 
 ### Seien Sie Sie selbst, online und im echten Leben
 
@@ -98,13 +98,13 @@ Diese Nachrichten können durch ihren sich wiederholenden Charakter und den Gebr
 
 Um gegen dieses Verhalten vorzugehen, sollten Sie folgende Regeln beherzigen:
 
-*   **Regel 1. Warten Sie ab** und lassen Sie die andere Person entscheiden, ob sie Ihnen antworten möchte oder nicht.
-*   **Regel 2.** Einmal oder zweimal um eine Antwort zu bitten ist in Ordnung, **dreimal ist zu viel.**
-*   **Regel 3. Respektieren Sie Ihr Gegenüber:** Verwenden Sie keine beleidigenden oder verunglimpfenden Wörter und schicken Sie nicht unaufgefordert unangemessene Fotos.
+* **Regel 1. Warten Sie ab** und lassen Sie die andere Person entscheiden, ob sie Ihnen antworten möchte oder nicht.
+* **Regel 2.** Einmal oder zweimal um eine Antwort zu bitten ist in Ordnung, **dreimal ist zu viel.**
+* **Regel 3. Respektieren Sie Ihr Gegenüber:** Verwenden Sie keine beleidigenden oder verunglimpfenden Wörter und schicken Sie nicht unaufgefordert unangemessene Fotos.
 
 Wenn Sie aufdringliche Nachrichten erhalten, mit denen Sie sich unwohl fühlen, können Sie folgendes tun, um die Situation schnellstmöglich zu beenden:
 
-*   **Melden Sie ein Profil** direkt vom Nachrichteneingang aus, um unser Moderations- und Sicherheitsteam zu verständigen. Jede Meldung wird schnellstmöglich bearbeitet: von der Zusendung Ihrer Warnung bis zur dauerhaften Löschung des Profils.
-*   **Blockieren Sie ein Profil**, damit diese Person Sie nicht mehr kontaktieren kann.
+* **Melden Sie ein Profil** direkt vom Nachrichteneingang aus, um unser Moderations- und Sicherheitsteam zu verständigen. Jede Meldung wird schnellstmöglich bearbeitet: von der Zusendung Ihrer Warnung bis zur dauerhaften Löschung des Profils.
+* **Blockieren Sie ein Profil**, damit diese Person Sie nicht mehr kontaktieren kann.
 
 **Unser virtueller Coach Lara hilft bei der Prävention und Aufdeckung von Cyber-Mobbing**: Sie greift ein, wenn zu viele Nachrichten an dieselbe Person gesendet werden, ohne dass eine Antwort erfolgt. Lara hilft Ihnen, diese Situation zu lösen.
