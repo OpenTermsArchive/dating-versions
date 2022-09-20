@@ -33,9 +33,9 @@ Don’t be rude. Don’t be mean. Don’t bully, intimidate, defame, harass or s
 
 ### Tips
 
-*   Be careful what you say, especially at first. Something you might think is just a joke may be taken very personally by someone else.
-*   If you need tips on how to get to know someone, just ask our virtual dating coach (where available).
-*   Nobody finds threats, hate speech, racism or bigotry attractive, they’re illegal and we take reports of such things very seriously. Depending on the severity, they may lead to your account being warned or banned.
+* Be careful what you say, especially at first. Something you might think is just a joke may be taken very personally by someone else.
+* If you need tips on how to get to know someone, just ask our virtual dating coach (where available).
+* Nobody finds threats, hate speech, racism or bigotry attractive, they’re illegal and we take reports of such things very seriously. Depending on the severity, they may lead to your account being warned or banned.
 
 ### Being respectful
 
@@ -49,13 +49,13 @@ We also do not accept messages or content depicting illegal activity or promotin
 
 ### Tips
 
-*   Never ask for or share private information.
-*   Sending sexy photos, or talking about kinks or fantasies can be fun, but not right at the start of a relationship. Let things develop first.
-*   It’s never OK to upload nudity, sexually explicit or pornographic content to Match.
-*   Avoid out of context shirtless or bikini photos (it’s OK to wear a bikini in a photo taken on the beach, but in your bedroom it just looks weird).
-*   NO images of violence, drug use or criminal activity: nobody’s impressed.
-*   Please respect your children’s privacy and safety. Photos showing minors, even with an accompanying adult will be removed.
-*   Match is not the place to advertise your business, your band, your artwork or that old fridge you’re selling. Spammers will be banned.
+* Never ask for or share private information.
+* Sending sexy photos, or talking about kinks or fantasies can be fun, but not right at the start of a relationship. Let things develop first.
+* It’s never OK to upload nudity, sexually explicit or pornographic content to Match.
+* Avoid out of context shirtless or bikini photos (it’s OK to wear a bikini in a photo taken on the beach, but in your bedroom it just looks weird).
+* NO images of violence, drug use or criminal activity: nobody’s impressed.
+* Please respect your children’s privacy and safety. Photos showing minors, even with an accompanying adult will be removed.
+* Match is not the place to advertise your business, your band, your artwork or that old fridge you’re selling. Spammers will be banned.
 
 ### Being safe
 
@@ -69,8 +69,8 @@ If you do encounter anyone who makes you feel uncomfortable or who isn’t stick
 
 ### Tips
 
-*   In the early stages, keep all your interactions on the site. You’re both much safer that way.
-*   Don’t pressure people into giving your personal information. Remember they don’t know you, and it might make them feel uncomfortable. Get to know them first: they’ll share when they’re ready.
+* In the early stages, keep all your interactions on the site. You’re both much safer that way.
+* Don’t pressure people into giving your personal information. Remember they don’t know you, and it might make them feel uncomfortable. Get to know them first: they’ll share when they’re ready.
 
 For our complete list of tips about how to stay safe online, [click here](https://uk.match.com/safety/)
 
@@ -82,9 +82,9 @@ Don’t promote external links, sites, pages or any commercial messages in your 
 
 ### Tips
 
-*   Make sure all the information on your profile is true, including your age and height. It’s disrespectful not to be honest from the start, and it breaks our terms and conditions.
-*   Only include pictures of yourself, and show your face clearly. Don’t include group photos: people won’t know which face is yours.
-*   Avoid using memes or heavy filters that distort or hide your face. People want to know what you look like!
+* Make sure all the information on your profile is true, including your age and height. It’s disrespectful not to be honest from the start, and it breaks our terms and conditions.
+* Only include pictures of yourself, and show your face clearly. Don’t include group photos: people won’t know which face is yours.
+* Avoid using memes or heavy filters that distort or hide your face. People want to know what you look like!
 
 ### Behave yourself, online and in real life
 
@@ -100,13 +100,13 @@ These messages can undermine people’s happiness, dignity and mental health thr
 
 In order to fight against this type of behaviour, here are the rules you should follow:
 
-*   **Rule 1. Wait** for the other person to respond, or not if they choose.
-*   **Rule 2**. Replying once is fine, twice is fine, **three times is too much.**
-*   **Rule 3. Respect** the other person: don’t use insulting or denigrating words or send unsolicited inappropriate photos.
+* **Rule 1. Wait** for the other person to respond, or not if they choose.
+* **Rule 2**. Replying once is fine, twice is fine, **three times is too much.**
+* **Rule 3. Respect** the other person: don’t use insulting or denigrating words or send unsolicited inappropriate photos.
 
 If you receive pushy messages which make you feel uncomfortable, here’s how to alert us so it stops immediately:
 
-*   **Report a profile** direct from your mailbox to alert our moderation and safety team. Every report is dealt with as quickly as possible: from sending a warning to permanent deletion of the profile.
-*   **Block a profile** so that person can no longer contact you.
+* **Report a profile** direct from your mailbox to alert our moderation and safety team. Every report is dealt with as quickly as possible: from sending a warning to permanent deletion of the profile.
+* **Block a profile** so that person can no longer contact you.
 
 **Lara, our virtual coach, helps with the prevention and detection of cyberbullying.** She will intervene if too many messages are sent to the same person without response. Lara will help you put an end to this situation.
