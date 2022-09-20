@@ -84,13 +84,13 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 3.5 Dans le cadre de campagnes de promotion, Parship permet également aux membres de tester gratuitement l'abonnement Premium. Cet abonnement Premium gratuit prend fin dans les délais définis sans qu'il soit nécessaire de le résilier. Il est suivi d’un abonnement basic gratuit.  
 Parship se réserve le droit de modifier les services proposés par ses soins pour des raisons valables et sans facturer de frais supplémentaires aux membres Parship, ou bien d’offrir des services différents,
 
-*   dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
-*   dans la mesure où Parship se conforme ainsi à une décision de justice ou une décision des autorités prise à son encontre ;
-*   dans la mesure où la modification est nécessaire afin de remédier à des failles de sécurité existantes ;
-*   à un nouvel environnement technique ou à un nombre accru d’utilisateurs pour les adapter ;
-*   lorsque cela est nécessaire pour des raisons opérationnelles importantes ;
-*   pour maintenir la conformité contractuelle du service, notamment pour répondre aux exigences actuelles du marché concernant les services du même type ; ou
-*   si la modification est de nature purement technique ou procédurale sans effet significatif sur l’utilisateur, comme c’est notamment le cas des changements purement graphiques et des petites modifications de l’agencement des fonctionnalités.
+* dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
+* dans la mesure où Parship se conforme ainsi à une décision de justice ou une décision des autorités prise à son encontre ;
+* dans la mesure où la modification est nécessaire afin de remédier à des failles de sécurité existantes ;
+* à un nouvel environnement technique ou à un nombre accru d’utilisateurs pour les adapter ;
+* lorsque cela est nécessaire pour des raisons opérationnelles importantes ;
+* pour maintenir la conformité contractuelle du service, notamment pour répondre aux exigences actuelles du marché concernant les services du même type ; ou
+* si la modification est de nature purement technique ou procédurale sans effet significatif sur l’utilisateur, comme c’est notamment le cas des changements purement graphiques et des petites modifications de l’agencement des fonctionnalités.
 
 Vous trouverez des informations sur les adaptations et les améliorations de l'expérience produit Parship dans nos [mises à jour de produits](https://www.parship.fr/updates/).
 
@@ -206,19 +206,19 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
 7.8 De plus, chaque client s’engage à ne pas utiliser le service abusivement, notamment à ne pas :
 
-*   diffuser de données ou photos à caractère illicite, obscène, pornographique ou politiquement radical;
-*   diffuser de matériel diffamatoire, choquant ou illicite, ni des informations de cette nature via le service;
-*   menacer ou importuner d'autres personnes, ni violer les droits des tiers (y compris les droits de la personne) ;
-*   télécharger sur le site des données contenant un virus (logiciel infecté), ou contenant un logiciel ou tout autre matériel protégé par un droit d’auteur à moins que le client n’en détienne les droits ou les accords nécessaires ;
-*   utiliser le service de quelque manière que ce soit qui affecterait la disponibilité des offres pour d'autres clients ;
-*   intercepter des e-mails ou des messages et/ou tenter de les intercepter ;
-*   envoyer d’e-mails ou de messages (y compris par chat vidéo) à d’autres clients à d’autres fins que communiquer et notamment pour proposer ou faire de la publicité de marchandises ou de prestations de services à d'autres clients ;
-*   envoyer d’e-mails ou de messages (y compris par chat vidéo) à d’autres clients à une fréquence déraisonnablement élevée ou importune, et à ne pas envoyer un message initial à un nombre déraisonnablement élevé de clients à intervalles rapprochés ; Parship se réserve à cet égard le droit de fixer certaines limites par les moyens techniques nécessaires pour garantir la sécurité et le sérieux de la plate-forme ;
-*   envoyer de messages « copier-coller » ou de chaînes de lettres ;
-*   envoyer de messages à des fins commerciales ;
-*   franchir la distance qui s’impose dans les entrées de profil, messages initiaux et demandes de contact, et par conséquent à ne pas communiquer de coordonnées telles que le nom, l’adresse, le numéro de téléphone ou de fax, l’adresse e-mail, etc. ;
-*   utiliser de filtres qui altèrent l'aspect naturel ;
-*   formuler de messages initiaux ou demandes de contact déraisonnablement courts ou longs ; Parship se réserve à cet égard le droit d’utiliser les moyens techniques nécessaires afin de définir la longueur minimum et maximum des messages.
+* diffuser de données ou photos à caractère illicite, obscène, pornographique ou politiquement radical;
+* diffuser de matériel diffamatoire, choquant ou illicite, ni des informations de cette nature via le service;
+* menacer ou importuner d'autres personnes, ni violer les droits des tiers (y compris les droits de la personne) ;
+* télécharger sur le site des données contenant un virus (logiciel infecté), ou contenant un logiciel ou tout autre matériel protégé par un droit d’auteur à moins que le client n’en détienne les droits ou les accords nécessaires ;
+* utiliser le service de quelque manière que ce soit qui affecterait la disponibilité des offres pour d'autres clients ;
+* intercepter des e-mails ou des messages et/ou tenter de les intercepter ;
+* envoyer d’e-mails ou de messages (y compris par chat vidéo) à d’autres clients à d’autres fins que communiquer et notamment pour proposer ou faire de la publicité de marchandises ou de prestations de services à d'autres clients ;
+* envoyer d’e-mails ou de messages (y compris par chat vidéo) à d’autres clients à une fréquence déraisonnablement élevée ou importune, et à ne pas envoyer un message initial à un nombre déraisonnablement élevé de clients à intervalles rapprochés ; Parship se réserve à cet égard le droit de fixer certaines limites par les moyens techniques nécessaires pour garantir la sécurité et le sérieux de la plate-forme ;
+* envoyer de messages « copier-coller » ou de chaînes de lettres ;
+* envoyer de messages à des fins commerciales ;
+* franchir la distance qui s’impose dans les entrées de profil, messages initiaux et demandes de contact, et par conséquent à ne pas communiquer de coordonnées telles que le nom, l’adresse, le numéro de téléphone ou de fax, l’adresse e-mail, etc. ;
+* utiliser de filtres qui altèrent l'aspect naturel ;
+* formuler de messages initiaux ou demandes de contact déraisonnablement courts ou longs ; Parship se réserve à cet égard le droit d’utiliser les moyens techniques nécessaires afin de définir la longueur minimum et maximum des messages.
 
   
 
