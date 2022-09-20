@@ -17,7 +17,7 @@ Cookies are small text files that are sent to or accessed from your web browser 
 
 _First-party and third-party cookies_
 
-There are first-party cookies and third-party cookies. First-party cookies are placed on your device directly by us. For example, we use first-party cookies to adapt our website to your browser’s language preferences and to better understand your use of our website. Third-party cookies are placed on your device by our partners and service providers. You can learn more about these partners and service providers in our website’s and in-app consent management tools. For details on these tools, see _“How can you control cookies?”_ below.
+There are first-party cookies and third-party cookies. First-party cookies are placed on your device directly by us. For example, we use first-party cookies to adapt our website to your browser’s language preferences and to better understand your use of our website. Third-party cookies are placed on your device by our partners and service providers. You can learn more about these partners and service providers in our website’s and in-app consent management tools. For details on these tools, see _“How can you control cookies?”_ below.
 
 _Session and persistent cookies_
 
