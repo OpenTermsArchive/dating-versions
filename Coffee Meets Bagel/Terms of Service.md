@@ -148,7 +148,7 @@ Coffee Meets Bagel
 Attn: Cancellations  
 391 Grove St.  
 San Francisco, CA 94107  
-(in addition, California and Ohio users may email us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)etsbagel.com).
+(in addition, California and Ohio users may email us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)).
 
 Please include your Coffee Meets Bagel email address in any correspondence or your refund may be delayed. If you cancel, Coffee Meets Bagel will return, within ten days of the date on which you give notice of cancellation, any payments you have made. If you send or deliver the notice to cancel your subscription agreement within such three day period, we will refund the full amount of your subscription.
 
