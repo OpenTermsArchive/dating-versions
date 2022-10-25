@@ -64,7 +64,7 @@ Although we’re not obligated to monitor access to or use of the Services or to
 
 #####  7. Feedback
 
-We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by emailing us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection#removed)or via the functionality of the Services. You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
+We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by emailing us at [con\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection#removed)or via the functionality of the Services. You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
 
 ##### 8\. One-Time Payments and Subscriptions
 
