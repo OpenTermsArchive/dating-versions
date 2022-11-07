@@ -31,5 +31,5 @@ Deliver this Notice, with all items completed, to Coffee Meets Bagel’s Designa
 Copyright Agent  
 c/o Coffee Meets Bagel, Inc.
 
-391 Grove Street, San Francisco, CA 94102 [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)  
+391 Grove Street, San Francisco, CA 94102 [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)gel.com  
 (415) 439-3770
