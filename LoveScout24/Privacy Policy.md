@@ -194,7 +194,7 @@ Vor der Beauftragung von Dienstleistern oder der Zusammenarbeit mit Partnern wer
 
 * **_An unsere verbundenen Unternehmen_**
 
-LOVESCOUT24 ist Teil der [Unternehmensgruppe Match Group](d:/Dokumente/Mandate%20Schlotzhauer%20(HD)/FriendScout24/0655-17%20Allg%20datenschutzrechtliche%20Beratung/Datenschutzerkl%C3%A4rung/NOLINKYET).
+LOVESCOUT24 ist Teil der [Unternehmensgruppe Match Group](http://mtch.com/).
 
 Wir geben Ihre Informationen, wie nachfolgend angegeben, für begrenzte Zwecke an verbundene Unternehmen weiter:
 
