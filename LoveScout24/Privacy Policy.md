@@ -164,7 +164,7 @@ Der Hauptgrund für die Nutzung Ihrer Informationen ist die Bereitstellung und V
 * Einhaltung der gesetzlichen Anforderungen
 * Unterstützung der Strafverfolgungsbehörden
 
-Weitere Informationen dazu, wie wir Ihre personenbezogenen Daten mittels Profiling und automatisierter Entscheidungsfindung verarbeiten, finden Sie in unseren [FAQ](https://www.lovescout24.de/faq/auf-welchen-services-ist-mein-profil-sichtbar/).
+Weitere Informationen dazu, wie wir Ihre personenbezogenen Daten mittels Profiling und automatisierter Entscheidungsfindung verarbeiten, finden Sie in unseren [FAQ](https://www.lovescout24.de/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
 Die Verarbeitung Ihrer Informationen entsprechend dieser Datenschutzrichtlinie beruht auf den folgenden Rechtsgrundlagen:
 
