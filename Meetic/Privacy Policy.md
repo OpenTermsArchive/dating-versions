@@ -162,7 +162,7 @@ La principale raison pour laquelle nous utilisons vos informations est de fourni
 * Se conformer aux exigences légales
 * Aider les forces de l’ordre
 
-Pour de plus amples informations sur la manière dont nous traitons les informations personnelles via le profilage et la prise de décision automatisée, veuillez consulter notre [FAQ](https://www.meetic.fr/faq/?question=84457-est-ce-meetic-recours-profilage-prise-decision-individuelle-automatisee).
+Pour de plus amples informations sur la manière dont nous traitons les informations personnelles via le profilage et la prise de décision automatisée, veuillez consulter notre [FAQ](https://www.meetic.fr/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
 Pour traiter vos informations comme décrit dans la présente politique de confidentialité, nous nous appuyons sur les bases légales suivantes :
 
