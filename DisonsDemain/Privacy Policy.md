@@ -127,7 +127,6 @@ La principale raison pour laquelle nous utilisons vos informations est de fourni
 
 * Créer et gérer votre compte
 * Vous fournir un service client et répondre à vos demandes
-
 * Compléter vos transactions
 * Communiquer avec vous au sujet de nos services
 
@@ -162,7 +161,7 @@ La principale raison pour laquelle nous utilisons vos informations est de fourni
 * Se conformer aux exigences légales
 * Aider les forces de l’ordre
 
-Pour de plus amples informations sur la manière dont nous traitons les informations personnelles via le profilage et la prise de décision automatisée, veuillez consulter notre [FAQ](https://www.disonsdemain.fr/faq/est-ce-que-disons-demain-a-recours-au-profilage-et-a-la-prise-de-decision-individuelle-automatisee/).
+Pour de plus amples informations sur la manière dont nous traitons les informations personnelles via le profilage et la prise de décision automatisée, veuillez consulter notre [FAQ](https://www.disonsdemain.fr/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
 Pour traiter vos informations comme décrit dans la présente politique de confidentialité, nous nous appuyons sur les bases légales suivantes :
 
