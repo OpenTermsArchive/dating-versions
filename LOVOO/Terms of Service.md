@@ -52,9 +52,9 @@ By registering on LOVOO, e.g. on [http://www.LOVOO.com](http://www.lovoo.com/) (
         
         (4). If LOVOO learns of any failures or malfunctions of the platform, LOVOO will attempt to remedy these as quickly as possible within regular working hours in Germany (Monday to Friday 09:00 am to 06:00 pm). If an outage or significant malfunction cannot be corrected within 48 hours, LOVOO will notify users by email, stating the estimated duration of the outage or malfunction.
         
-        (5.) To be able to use the LOVOO platform to the full extent, the User must use the latest technologies or facilitate the use of these on his/her device, the latest (browser) technologies or facilitate the use of these on his/her computer (e.g. activation of JavaScript, cookies, pop-ups ) and an up-to-date Android or iOS version. Should older or not generally customary versions or technologies be used, it may be the case that the User may only use the platform services to a limited extent.
+        (5). To be able to use the LOVOO platform to the full extent, the User must use the latest technologies or facilitate the use of these on his/her device, the latest (browser) technologies or facilitate the use of these on his/her computer (e.g. activation of JavaScript, cookies, pop-ups ) and an up-to-date Android or iOS version. Should older or not generally customary versions or technologies be used, it may be the case that the User may only use the platform services to a limited extent.
         
-        (6.) If LOVOO offers updates to LOVOO, the User is strongly recommended to implement them as soon as possible. It is the User's responsibility to install such updates within a reasonable period of time. If the User fails to do so, even though LOVOO has advised the User of the availability of the update and the consequences of failure to install it, LOVOO shall not be liable for any product defects resulting from failure to install the update. If the User is unable to carry out the installation properly on the basis of the information provided to him, he is obliged to inform LOVOO of this immediately.
+        (6). If LOVOO offers updates to LOVOO, the User is strongly recommended to implement them as soon as possible. It is the User's responsibility to install such updates within a reasonable period of time. If the User fails to do so, even though LOVOO has advised the User of the availability of the update and the consequences of failure to install it, LOVOO shall not be liable for any product defects resulting from failure to install the update. If the User is unable to carry out the installation properly on the basis of the information provided to him, he is obliged to inform LOVOO of this immediately.
         
 4. **Fee-based features**
     
@@ -217,7 +217,11 @@ By registering on LOVOO, e.g. on [http://www.LOVOO.com](http://www.lovoo.com/) (
     
 12. **Liability on the part of LOVOO**
     
-    1. Irrespective of the legal grounds, LOVOO is only liable where damages (1). have been caused by culpable breach of one of the cardinal duties or essential duties in a way that jeopardizes the attainment of the contractual purpose or (2). can be attributed to gross negligence or willful intent on the part of LOVOO.
+    1. Irrespective of the legal grounds, LOVOO is only liable where damages
+        
+        (1). have been caused by culpable breach of one of the cardinal duties or essential duties in a way that jeopardizes the attainment of the contractual purpose or
+        
+        (2). can be attributed to gross negligence or willful intent on the part of LOVOO.
         
         If, pursuant to the paragraph above, LOVOO GmbH is liable for the breach of an essential contractual obligation in the absence of gross negligence or willful intent, the liability is limited to the extent of damage that LOVOO typically had to expect at the time of contract conclusion based on the circumstances known to it at that time. This also applies in the same way to damages caused by the gross negligence or intent of employees of the representatives of LOVOO, who are not its managing directors or executives. Liability for consequential damages, particularly for loss of profit or compensation for third-party damages, is excluded, unless LOVOO is guilty of willful intent or gross negligence.
         
