@@ -1,7 +1,7 @@
 CGU
 ---
 
-[Imprimer et enregistrer en format pdf](https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Terms_and_Conditions_2022_06_30.pdf)
+[Imprimer et enregistrer en format pdf](https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_TCs_2022_11_29.pdf)
 
 ### Conditions Générales d'Utilisation de Parship en France
 
@@ -13,27 +13,43 @@ CGU
 
 Personne n'aime lire les petits caractères - néanmoins, nous vous demandons de jeter également un coup d'œil à nos CGU en vigueur. Merci beaucoup.
 
-Dernière mise à jour : 30.06.2022
+Dernière mise à jour : 29.11.2022
 
 Les présentes Conditions générales régissent la relation contractuelle payante ou non payante entre Parship (le contractant est PE Digital GmbH, Speersort 10, 20095 Hambourg, Allemagne) et ses clients, que vous accédiez à Parship via le site web ou les applications mobiles.
 
-Veuillez noter que des règles différentes peuvent s'appliquer pour les relations contractuelles établies par l’intermédiaire de fournisseurs tiers tels que Apple ou Google Play. En outre, certaines fonctionnalités sont proposées exclusivement via le site web. Vous trouverez les informations correspondantes dans les clauses respectives.
+Le [Community Guidelines](https://fr.parship.ch/communityguidelines/) fait également partie intégrante de nos conditions générales de vente et s’applique donc en complément.
 
-L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolus). L’utilisation du service à des fins commerciales est également interdite.
+Veuillez noter que des règles différentes peuvent s'appliquer pour les relations contractuelles établies par l’intermédiaire de fournisseurs tiers tels que Apple ou Google Play. Certaines fonctions sont également exclusivement disponibles sur le site Internet ou les applications mobiles. Vous trouverez des précisions à ce sujet dans les clauses s’y rapportant.L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolus). L’utilisation du service à des fins commerciales est également interdite.
+
+**CGU**
+
+* [1\. Objet du contrat](#tc01)
+* [2\. Accès / conclusion du contrat](#tc02)
+* [3\. Services gratuits et payants](#tc03)
+* [4\. Politique de protection des données, sécurité lors de l’utilisation, messages indésirables non sollicités](#tc04)
+* [5\. Résiliation / Renouvellement](#tc05)
+* [6\. Responsabilité de Parship](#tc06)
+* [7\. Responsabilité et devoirs du client](#tc07)
+* [8\. Communication](#tc08)
+* [9\. Droits d'usage et droits d'auteur](#tc09)
+* [10\. Droit applicable, règlement alternatif des litiges](#tc10)
+* [11\. Droit de rétractation](#tc11)
+* [12\. Divers](#tc12)
+* [Modèle de formulaire de rétractation](#widerruf)
 
 ### 1\. Objet du contrat
 
   
 
-1.1 Parship offre à ses clients pendant la durée du contrat l’accès à une base de données en ligne leur permettant une prise de contact (ci-après dénommé « Service Parship »). Le Service Parship est disponible exclusivement via des applications mobiles pour les appareils iOS et Android ou via le site web, et comprend tant des services gratuits que des services payants.
+1.1 Parship offre à ses clients pendant la durée du contrat l’accès à une base de données en ligne leur permettant une prise de contact (ci-après dénommé « Service Parship »). Parship est un réseau social qui offre à ses clients la possibilité de se présenter avec leurs propres et d'interagir avec d'autres clients. Le Service Parship est disponible exclusivement via des applications mobiles pour les appareils iOS et Android ou via le site web, et comprend tant des services gratuits que des services payants.
 
   
 
-1.2 La base de données en ligne fournie par Parship contient ce que l’on appelle des profils, qui sont remplis avec les propres contenus (également appelés « données ») par les clients inscrits. Des informations détaillées concernant les données ainsi collectées et la manière dont elles sont visibles des autres clients sont également disponibles dans la Politique de protection des données (cf. article 4.1).
+1.2 La base de données en ligne fournie par Parship contient ce que l’on appelle des profils, qui sont remplis avec les propres contenus (également appelés « données ») par les clients inscrits. Des informations détaillées concernant les données ainsi collectées et la manière dont elles sont visibles des autres clients sont également disponibles [dans la Politique de protection des données](https://www.parship.fr/privacypolicy/) (cf. article 4.1).
 
 1.3 Parship propose son service dans les pays indiqués sur le site web et permet une recherche et une prise de contact à l'échelle nationale et internationale dans chacun de ces pays sur la base des critères de recherche fournis par Parship. Le profil respectif du client est visible avec ses données dans tous les pays Parship, quelle que soit la version nationale du site web ou de l'application à partir de laquelle le client s'est inscrit.
 
-1.4 L’objet du contrat avec Parship n’est explicitement pas le courtage matrimonial ni la mise en relation en vue d’un mariage. Parship est un réseau social qui offre à ses clients la possibilité de se présenter avec leurs propres contenus et d'interagir avec d'autres clients.
+1.4 L’objet du contrat avec Parship n’est explicitement pas le courtage matrimonial ni la mise en relation en vue d’un mariage.
 
 ### 2\. Accès / conclusion du contrat
 
@@ -51,7 +67,7 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 
   
 
-2.4 Après avoir répondu au questionnaire de Parship et fourni ses informations personnelles, le client se voit proposer divers services payants par Parship. Il s’agit notamment de « l’abonnement Premium » Dans le cadre de l’abonnement Basic, des crédits permettant de débloquer des profils individuels sont fournis gratuitement ou moyennant paiement, dans la mesure où cette fonctionnalité est disponible. Avant de conclure un tel rapport contractuel, le client est à nouveau informé du contenu du service payant respectif, de son prix ainsi que des conditions de paiement. En cliquant sur le bouton « Achetez » le client confirme son intention de conclure un contrat ayant pour objet les services payants choisis par ses soins. Le rapport contractuel qui en découle est établi avec l’envoi de l’email de confirmation de commande de Parship.
+2.4 Après avoir répondu au questionnaire de Parship et fourni ses informations personnelles, le client se voit proposer divers services payants par Parship. L’« abonnement Premium » en fait partie. Le client a le choix entre différentes durées initiales au cours du processus de commande, par exemple 12 ou 24 mois. Dans certains pays, Parship propose en outre l’acquisition de biens virtuels pour étendre les droits d’utilisation, en particulier dans le cadre de l’abonnement Basic (par exemple des clés de déverrouillage de profils correspondants décrites au point 3). Avant de conclure un tel rapport contractuel, le client est à nouveau informé du contenu du service payant respectif, de son prix ainsi que des conditions de paiement. En cliquant sur le bouton « Achetez » le client confirme son intention de conclure un contrat ayant pour objet les services payants choisis par ses soins. Le rapport contractuel qui en découle est établi avec l’envoi de l’email de confirmation de commande de Parship. Le lien juridique résultant de la conclusion dudit contrat est établi dès que Parship confirme la commande par e-mail. Si la vérification du mode de paiement choisi lors de la commande échoue auprès du prestataire de services de paiement électronique, la commande n’est pas validée.
 
   
 
@@ -59,13 +75,13 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 
   
 
-2.6 Si le client choisit le prélèvement SEPA (dans la mesure où ce dernier est proposé) comme moyen de paiement pour les services payants, le prélèvement par Parship sera préalablement annoncé dans un échéancier de paiement disponible sur le profil du client. Dans certains cas particuliers, le montant débité peut différer du montant notifié dans la notification préalable au profit du client, dans la mesure où celui-ci a reçu des crédits ou si des transactions individuelles ont été annulées dans la période comprise entre la notification préalable et la date d'échéance.
+2.6 Si le client choisit le prélèvement SEPA (s’il est proposé) pour les services payants, Parship notifie le client du prélèvement initial dans l’e-mail de confirmation de commande. Pour l'abonnement Premium, le client est également informé des éventuels prélèvements suivants par un échéancier de paiement figurant dans son profil, dans « Gestion de votre profil > Abonnement ». L'indication se réfère au jour du premier prélèvement possible. Dans certains cas isolés, le montant prélevé peut différer du montant indiqué dans la notification préalable au profit du client, si le client a obtenu des crédits ou s'il a annulé des transactions entre l’envoi de la notification préalable et d'échéance.
 
 ### 3\. Services gratuits et payants
 
   
 
-3.1 L’inscription sur Parship est gratuite. Par la suite, le client répond à un questionnaire scientifique basé sur des critères psychologiques, le « questionnaire » Parship. Les résultats de ce test combinés à des données de comparaison statistiques permettent à Parship d’élaborer automatiquement un rapport de personnalité individualisé. Le profil personnalisé du client ainsi réalisé est intégré dans la base de données Parship. Le profil personnalisé du client est comparé de manière automatique avec ceux des autres clients Parship selon des données statistiques comparatives, lesquelles permettent de déterminer la comptabilité des caractéristiques personnelles de chaque client individuellement. Une version abrégée du rapport de personnalité du client est visible par tous les autres clients dans le profil du client afin d’accompagner le choix d’une prise de contact. Sur la base de ce procédé de comparaison automatisé, le client reçoit gratuitement dans son profil et par e-mail des propositions de partenaires dans la mesure où le client n'a pas désactivé cette fonctionnalité (envoi par e-mail) sur le site web. Les propositions de partenaires contiennent chacune une brève description du partenaire proposé (par exemple, profession ou prénom, âge, photo, niveau de compatibilité) ainsi qu'une mention indiquant si le client est « nouveau » sur Parship. Les membres Basic ont accès à un nombre de fonctionnalités limité. Ainsi, les membres Basic n'ont en principe accès qu'à une version floutée des photos des partenaires qui leur sont proposés. En outre, les membres Basic ne peuvent envoyer que certains types de messages, à condition que leur profil soit rempli à 50% au moins. La fonction d’envoi de messages à texte libre et la lecture de ces messages à texte libre est limitée pendant l’abonnement Basic. Par ailleurs, afin de protéger les membres et de garantir la qualité du service Parship, le nombre de messages est limité (cf. article 4.2). Les membres Basic qui disposent des crédits correspondants peuvent débloquer individuellement les profils de partenaires qui leur sont suggérés (la disponibilité de cette fonctionnalité dépend de la mise en œuvre dans les différents pays et peut être limitée par Parship dans le temps, dans certaines régions, et pour certaines personnes). S’il existe une option d’activation, le membre en sera informé dès qu’il voudra utiliser l’une des fonctions évoquées plus haut et qui sont limitées dans l’abonnement Basic. Ce sera par exemple le cas s’il essaie d’envoyer un message à texte libre. L’utilisation des fonctions activées doit alors être conforme aux consignes d’utilisation exposées à l’article 7 des présentes CGU. L’activation prend fin dès que le profil correspondant au partenaire suggéré n’est plus actif, et au plus tard 6 mois après. Les crédits sont liés et versés sur le compte du membre Basic correspondant. Ils ne peuvent être transférés sur l’abonnement Premium ou à d’autres membres. Il n’est pas possible de négocier, d’échanger en numéraire ou de compenser des créances Parship par des crédits. Les crédits achetés sont soumis aux règles générales de prescription légale. La durée de validité des crédits mis gratuitement à disposition peut être ramenée à 6 mois par Parship.
+3.1 L’inscription sur Parship est gratuite. Par la suite, le client répond à un questionnaire scientifique basé sur des critères psychologiques, le « questionnaire » Parship. Les résultats de ce test combinés à des données de comparaison statistiques permettent à Parship d’élaborer automatiquement un rapport de personnalité individualisé. Le profil personnalisé du client ainsi réalisé est intégré dans la base de données Parship. Le profil personnalisé du client est comparé de manière automatique avec ceux des autres clients Parship selon des données statistiques comparatives, lesquelles permettent de déterminer la comptabilité des caractéristiques personnelles de chaque client individuellement. Une version abrégée du rapport de personnalité du client est visible par tous les autres clients dans le profil du client afin d’accompagner le choix d’une prise de contact. Sur la base de ce procédé de comparaison automatisé, le client reçoit gratuitement dans son profil et par e-mail des propositions de partenaires dans la mesure où le client n'a pas désactivé cette fonctionnalité (envoi par e-mail) sur le site web. Les propositions de partenaires contiennent chacune une brève description du partenaire proposé (par exemple, profession ou prénom, âge, photo, niveau de compatibilité) ainsi qu'une mention indiquant si le client est « nouveau » sur Parship. Les membres Basic ont accès à un nombre de fonctionnalités limité. Ainsi, les membres Basic n'ont en principe accès qu'à une version floutée des photos des partenaires qui leur sont proposés. En outre, les membres Basic ne peuvent envoyer que certains types de messages, à condition que leur profil soit rempli à 50% au moins. La fonction d’envoi de messages à texte libre et la lecture de ces messages à texte libre est limitée pendant l’abonnement Basic. Par ailleurs, afin de protéger les membres et de garantir la qualité du service Parship, le nombre de messages est limité (cf. article 4.2).
 
   
 
@@ -77,12 +93,12 @@ L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolu
 
   
 
-3.4 Parship s’efforce de mettre à disposition un service opérationnel sans discontinuité, 24 heures sur 24, 7 jours sur 7, avec une disponibilité de 99,5% en moyenne sur l’année. De ceci sont exclues les périodes d’immobilisation dues à la maintenance et aux mises à jour ainsi que les périodes pendant lesquelles l’accès via internet ou le fournisseur d'application est impossible en raison de problèmes techniques extérieurs à la sphère d’influence de Parship (force majeure, faute d’une tierce personne, etc.). Afin de pouvoir utiliser toutes les fonctionnalités du service Parship, le client doit utiliser les technologies les plus récentes (en particulier en ce qui concerne le navigateur) ou permettre leur utilisation sur son ordinateur personnel ou smartphone (par exemple en ce qui concerne l’activation de Java Script, des cookies, des pop-ups). Dans le cas d’une utilisation de technologies obsolètes ou non courantes, il est possible que le client ne puisse utiliser le service Parship que de manière partielle. Lors de l’utilisation de l’application, il peut arriver que l’appareil mobile, le système d’exploitation utilisé, ou paramètres sélectionnés sur l’appareil empêchent certaines fonctionnalités de l’application de fonctionner (comme les notifications push, la recherche dans un périmètre donné…) Certaines fonctionnalités sont en outre uniquement proposées sur le site web (comme la « Vérification SMS »).
+3.4 L'acquisition de biens virtuels (par exemple de clés de déverrouillage de profils correspondants) est en outre payante. Les biens virtuels peuvent être utilisés pour différents services ou pour étendre les autorisations d'un profil personnel. Les clés de déverrouillage de profils correspondants permettent par exemple de débloquer les photos de profil et les communications illimitées de différents profils, conformément aux présentes conditions générales de vente. Parship se réserve le droit de limiter l’offre de biens virtuels sur le plan géographique, temporel et/ou individuel.
 
   
 
-3.5 Dans le cadre de campagnes de promotion, Parship permet également aux membres de tester gratuitement l'abonnement Premium. Cet abonnement Premium gratuit prend fin dans les délais définis sans qu'il soit nécessaire de le résilier. Il est suivi d’un abonnement basic gratuit.  
-Parship se réserve le droit de modifier les services proposés par ses soins pour des raisons valables et sans facturer de frais supplémentaires aux membres Parship, ou bien d’offrir des services différents,
+3.5 Dans le cadre de campagnes de promotion, Parship permet également aux membres de tester gratuitement l'abonnement Premium ou les biens virtuels. L’abonnement Premium gratuit prend fin dans les délais définis sans qu'il soit nécessaire de le résilier. Il est suivi d’un abonnement basic gratuit.  
+3.6 Parship se réserve le droit de modifier les services proposés par ses soins pour des raisons valables et sans facturer de frais supplémentaires aux membres Parship, ou bien d’offrir des services différents,
 
 * dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
 * dans la mesure où Parship se conforme ainsi à une décision de justice ou une décision des autorités prise à son encontre ;
@@ -102,19 +118,23 @@ Vous trouverez des informations sur les adaptations et les améliorations de l'e
 
   
 
-4.2 Parship s'efforce constamment de protéger ses clients contre le harcèlement tels que les attaques de pirates informatiques, le spam et les arnaques amoureuses. Dans ce cadre, Parship a développé de nombreux standards techniques et organisationnels afin de détecter les violations des consignes d’utilisation, et en particulier de ne pas acheminer les messages abusifs au sens de l’article 7.8 de ces CGU. À cet égard, Parship est également en droit d’utiliser les logiciels de filtrage ou de validation appropriés. Avant d'utiliser le service Parship, il incombe au client de se familiariser avec les [conseils en matière de sécurité](https://www.parship.fr/tour/securite/) et de suivre ces conseils ainsi que les règles d'utilisation figurant à l’article 7 des présentes CGU. Si l'équipe de sécurité (« Trust and Safety Team ») de Parship prend contact avec le client suite à un problème, celui-ci est tenu de de prendre immédiatement position. Les mesures recommandées doivent être sérieusement prises en considération et ne doivent être écartées qu'en cas de motif important. Le client est également tenu de transmettre à Parship les contenus ou comportements problématiques via la fonctionnalité « Signaler ce profil ».
+4.2 En utilisant le service Parship, les clients mettent leurs données personnelles à la disposition de Parship. Cette mise à disposition s’effectue en contrepartie de l’utilisation, dans la mesure où les clients utilisent Parship gratuitement. En d’autres termes, les clients utilisent Parship gratuitement et, en contrepartie, leurs données peuvent être traitées dans les limites de la politique de protection des données. Cette réciprocité ne doit pas empêcher le client d'exercer ses droits en matière de protection des données. Les clients ont plus particulièrement le droit de retirer tout consentement et/ou de s'opposer au traitement de leurs données aux termes de l’article 21 du règlement (UE) 2016/679. Toutefois, si la révocation des consentements et/ou l'opposition au traitement rend la poursuite de la relation contractuelle inacceptable, compte tenu de l'étendue du traitement des données encore autorisé et après avoir mis en balance les intérêts des deux parties, Parship peut résilier l'abonnement Basic sans préavis. Les éventuelles créances de Parship restent inchangées, même si le client exige des services payants dont la fourniture est impossible du fait de son exercice des droits à la protection des données. Tout remboursement est exclu.
 
-4.3 Parship n’est pas tenu d’acheminer les messages dès lors que ceux-ci sont soupçonnés de contrevenir aux consignes d’utilisation mentionnées à l’article 7.8 et de présenter par conséquent un caractère abusif. Il n’y a notamment aucune obligation à acheminer les messages publicitaires non sollicités ou soupçonnés de l’être. Les messages indésirables qualifiés de « spams » sont considérés comme étant des e-mails publicitaires non sollicités. Le client a la possibilité de "supprimer" à des contacts. Le profil qui a pris congé est supprimé de la liste de contacts et les messages échangés sont effacés. Une nouvelle prise de contact n'est alors plus possible.
+  
+
+4.3 Parship s'efforce constamment de protéger ses clients contre le harcèlement tels que les attaques de pirates informatiques, le spam et les arnaques amoureuses. Dans ce cadre, Parship a développé de nombreux standards techniques et organisationnels afin de détecter les violations des consignes d’utilisation, et en particulier de ne pas acheminer les messages abusifs au sens de l’article 7.8 de ces CGU. À cet égard, Parship est également en droit d’utiliser les logiciels de filtrage ou de validation appropriés. Avant d'utiliser le service Parship, il incombe au client de se familiariser avec les [conseils en matière de sécurité](https://www.parship.fr/tour/securite/) et de suivre ces conseils ainsi que les règles d'utilisation figurant à l’article 7 des présentes CGU. Si l'équipe de sécurité (« Trust and Safety Team ») de Parship prend contact avec le client suite à un problème, celui-ci est tenu de de prendre immédiatement position. Les mesures recommandées doivent être sérieusement prises en considération et ne doivent être écartées qu'en cas de motif important. Le client est également tenu de transmettre à Parship les contenus ou comportements problématiques via la fonctionnalité « Signaler ce profil ».
+
+4.4 Parship n’est pas tenu d’acheminer les messages dès lors que ceux-ci sont soupçonnés de contrevenir aux consignes d’utilisation mentionnées à l’article 7.8 et de présenter par conséquent un caractère abusif. Il n’y a notamment aucune obligation à acheminer les messages publicitaires non sollicités ou soupçonnés de l’être. Les messages indésirables qualifiés de « spams » sont considérés comme étant des e-mails publicitaires non sollicités. Le client a la possibilité de "supprimer" à des contacts. Le profil qui a pris congé est supprimé de la liste de contacts et les messages échangés sont effacés. Une nouvelle prise de contact n'est alors plus possible. De plus, Parship peut supprimer automatiquement les messages restants si ces derniers ont été envoyés par des profils ou à des profils qui sont identifiés comme spams ou comme des escroqueries amoureuses ou qui ont été supprimés par ailleurs.
 
 ### 5\. Résiliation / Renouvellement
 
   
 
-5.1 Le client a, à tout moment et avec effet immédiat, le droit de résilier le contrat concernant l’abonnement gratuit Basic. La résiliation de l’abonnement Basic s’effectue sur le site web en cliquant sur le lien « ici » dans la rubrique [« Mon profil » / « Mes données » / « Gestion de votre profil » / « Statut du profil »](https://www.parship.fr/settings/deleteprofile), et en confirmant cette opération par la saisie du mot de passe personnel.
+5.1 Le client a, à tout moment et avec effet immédiat, le droit de résilier le contrat concernant l’abonnement gratuit Basic. La résiliation de l’abonnement Basic s’effectue sur le site web en cliquant sur le lien « ici » dans la rubrique [« Mon profil » / « Mes données » / « Gestion de votre profil » / « Statut du profil »](https://www.parship.fr/settings/deleteprofile), et en confirmant cette opération par la saisie du mot de passe personnel.Pour tout abonnement Basic avec des biens virtuels activés (clés de déverrouillage de profils correspondants, par exemple), la résiliation revêt la forme écrite (e-mail envoyé au service clientèle à aide(at)parship.fr, par exemple) et ledit texte doit fournir l’adresse e-mail ou l’identifiant enregistrés chez Parship, ainsi que le mot de passe « service » afin d’être clairement affecté. Si le client supprime son abonnement Basic, tous les biens virtuels préalablement acquis (par exemple les clés de déverrouillage de profils correspondants) sont également supprimés. Les biens virtuels inutilisés ne sont pas remboursés. Les obligations de paiement établies demeurent inchangées sous réserve des règles de rétractation.
 
   
 
-5.2 Le délai de la résiliation ordinaire de l’abonnement payant Premium, suite à un achat via le site web, est communiqué dans les « clauses relatives au produit » qui sont acceptées par le client au cours du processus de commande sur le site internet. De plus et suite à l’achat d’un abonnement Premium, le client est informé de ce délai de résiliation dans la confirmation de commande envoyée par e-mail. La résiliation est valable uniquement si la demande de résiliation est effectuée par écrit (par voie postale, par fax ou par e-mail).
+5.2 Le délai de la résiliation ordinaire de l’abonnement Premium, suite à un achat via le site web, est communiqué dans les « clauses relatives au produit » qui sont acceptées par le client au cours du processus de commande sur le site internet. De plus et suite à l’achat d’un abonnement Premium, le client est informé de ce délai de résiliation dans la confirmation de commande envoyée par e-mail. La résiliation est valable uniquement si la demande de résiliation est effectuée par écrit (par voie postale, par fax ou par e-mail).
 
   
 
@@ -158,25 +178,27 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
   
 
-6.1 Parship ne saurait être tenue responsable de fausses indications dans les inscriptions et/ou dans les questionnaires des clients. Par conséquent, Parship n’assume aucune responsabilité concernant l’exactitude des résultats du test de personnalité, ainsi que des contenus de l'expertise de personnalité pour laquelle ils ont servi de base.
+6.1 Parship s’efforce de mettre à disposition un service opérationnel sans discontinuité, 24 heures sur 24, 7 jours sur 7, avec une disponibilité de 99,5% en moyenne sur l’année. De ceci sont exclues les périodes d’immobilisation dues à la maintenance et aux mises à jour ainsi que les périodes pendant lesquelles l’accès via internet ou le fournisseur d'application est impossible en raison de problèmes techniques extérieurs à la sphère d’influence de Parship (force majeure, faute d’une tierce personne, etc.).6.2 Seules certaines fonctions restent accessibles sur le site Internet ou l’application mobile. Il est plus spécifiquement impossible de paramétrer les notifications Push sur le site Internet en passant par l’application mobile. Il est notamment impossible de visualiser certaines informations (en particulier l'échéancier de paiement stipulé au point 2.6 et le mot de passe « service »), d’en modifier (principalement le mot de passe, le statut, les données personnelles et les notifications par e-mail) et d'utiliser certaines fonctions (comme la vérification par SMS) en passant par l’application mobile. Actuellement, la suppression du profil est possible uniquement sur le site Internet et sur l’application iOS. Elle est impossible sur l’application Android.
 
-  
+6.3 Pour utiliser le produit dans son intégralité, vous devez utiliser les technologies courantes les plus récentes (par exemple PDF Reader), les technologies de navigateur les plus récentes (par exemple JavaScript, cookies, pop-up) et une version à jour d’Android ou d’iOS, ou autoriser leur utilisation sur votre appareil. Si vous utilisez des versions ou des technologies plus anciennes ou non courantes, il est possible que vous puissiez utiliser le produit uniquement de manière limitée. L’installation de logiciels et d’applications usuels qui peuvent être acquis gratuitement auprès de prestataires tiers (par exemple PDF Reader) est également obligatoire pour utiliser le produit dans son intégralité.
 
-6.2 Parship fournit uniquement les services informatiques pour l’entremise automatique de contacts, pas leur réussite. Parship met uniquement à disposition le dispositif technique qui permet la prise de contact - aux conditions stipulées à l’article 3 -.
+6.4 Si nous vous proposons des mises à jour du produit, y compris des mises à jour de nos applications Android et iOS, nous vous recommandons fortement de les installer dans les meilleurs délais. Il relève de votre responsabilité d’installer de telles mises à jour dans un délai raisonnable. Si vous omettez d’installer une mise à jour alors que nous vous avons informé de sa disponibilité et des conséquences de sa non-installation, nous déclinerons toute responsabilité en cas de dysfonctionnement du produit résultant de la non-installation de la mise à jour. Si vous n’êtes pas en mesure d'installer la mise à jour correctement sur la base des informations mises à votre disposition, vous vous engagez à nous en informer sans délai.
 
-  
+6.5 Vous disposez d'un droit légal à garantie pendant la durée de tout abonnement Basic ou Premium et au cours des deux premières années suivant la mise à disposition de tout bien virtuel.
 
-6.3 En outre, Parship décline toute responsabilité en cas d’éventuelle utilisation abusive des informations. Il est possible que des clients, malgré l’interdiction, utilisent le service Parship de manière non autorisée ou illicite. Parship rejette toute responsabilité pour une telle utilisation. Parship décline également toute responsabilité en cas d’utilisation abusive par des tiers des indications et des informations que les clients ont divulguées eux-mêmes à ces tiers.
+6.6 Parship ne saurait être tenue responsable des fausses indications dans les inscriptions et/ou les questionnaires des clients. Par consequent, Parship n’assume aucune responsabilité concernant l'exactitude des résultats du test de personnalité ainsi que des contenus de l’expertise de personnalité pour laquelle ils ont servi de base.
 
-  
+6.7 Parship fournit uniquement les services informatiques pour l’entremise automatique de contacts, pas leur réussite. Parship met uniquement à disposition le dispositif technique qui permet la prise de contact - aux conditions stipulées à l’article 3 -.
 
-6.4 Parship ne garantit pas le bon fonctionnement à tout moment, ni l'utilisation et/ou l’accessibilité permanente du service. En particulier, Parship ne pourra être tenue responsable en cas de perturbation de la qualité d'accès au service en raison de cas de force majeure ou d'événements non imputables à Parship. De plus, Parship décline toute responsabilité en cas d’accès non autorisé par des tiers aux données personnelles des clients (par exemple en cas d’accès non autorisé à la base de données par des pirates informatiques).
+6.8 En outre, Parship décline toute responsabilité en cas d'éventuelle utilisation abusive des informations. Il est possible que des clients, malgré l’interdiction, utilisent le service Parship de manière non autorisée ou illicite. Parship rejette toute responsabilité pour une telle utilisation. Parship décline également toute responsabilité en cas d’utilisation abusive par des tiers des indications et des informations que les clients ont divulguées eux-mêmes à ces tiers.
+
+6.9 Parship ne garantit pas le bon fonctionnement à tout moment ou l'utilisabilité ou l'accessibilité ininterrompue du service. En particulier, Parship n'est pas responsable des perturbations de la qualité de l'accès au service en raison d'un cas de force majeure ou d'événements dont Parship n'est pas responsable. En outre, Parship n'est pas responsable de la prise de connaissance non autorisée par des tiers de données personnelles de clients (par exemple par un accès non autorisé de "hackers" à la base de données).
 
 ### 7\. Responsabilité et devoirs du client
 
   
 
-7.1 Le client est tenu de régler tous les paiements dus à Parship ou aux fournisseurs tiers (cf. article 2.5) dans les délais fixés. Si le paiement échelonné est proposé et que le client commet un défaut de paiement sur plus de deux paiements consécutifs, toutes les demandes de paiements restées en suspens jusqu’au au prochain terme de résiliation possible sont exigibles immédiatement. En cas de retard de paiement, Parship est en droit de suspendre temporairement l'accès au service Parship.
+7.1 Le client est tenu de régler tous les paiements dus à Parship ou aux fournisseurs tiers (cf. article 2.5) dans les délais fixés. En cas de retard de paiement, Parship est en droit de bloquer temporairement l'accès à la plateforme. Si le paiement échelonné est proposé et que le client commet un défaut de paiement sur plus de deux paiements consécutifs, toutes les demandes de paiements restées en suspens jusqu’au au prochain terme de résiliation possible sont exigibles immédiatement.
 
   
 
@@ -200,11 +222,11 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
   
 
-7.7 Le client est tenu de consulter les messages qui lui sont destinés ainsi que les données de son profil à intervalles réguliers et raisonnables et de les archiver au besoin sur son propre ordinateur ou sur d'autres médias de stockage. Parship est autorisée à supprimer sans avertissement les messages enregistrés sur le compte du client et restés sans réponse au bout de douze mois après leur envoi ou réception. Dans le cadre d'un abonnement gratuit toutes les données sont supprimées automatiquement au bout de vingt-quatre mois suivant la dernière connexion du client.
+7.7 Le client est tenu de consulter les messages qui lui sont destinés ainsi que les données de son profil à intervalles réguliers et raisonnables et de les archiver au besoin sur son propre ordinateur ou sur d'autres médias de stockage. Parship est autorisée à supprimer sans avertissement les messages enregistrés sur le compte du client au bout de leur envoi ou réception. Parship est autorisée à supprimer sans avertissement les messages enregistrés sur le compte du client et restés sans réponse au bout de douze mois après leur envoi ou réception. Dans le cadre d'un abonnement toutes les données sont supprimées automatiquement au bout de vingt-quatre mois suivant la dernière connexion du client.
 
   
 
-7.8 De plus, chaque client s’engage à ne pas utiliser le service abusivement, notamment à ne pas :
+7.8 De plus, tout client s'engage à respecter le [Community Guidelines](https://fr.parship.ch/communityguidelines/) et à ne pas utiliser le service de manière frauduleuse, en particulier:
 
 * diffuser de données ou photos à caractère illicite, obscène, pornographique ou politiquement radical;
 * diffuser de matériel diffamatoire, choquant ou illicite, ni des informations de cette nature via le service;
@@ -228,7 +250,9 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
   
 
-Parship est un service en ligne. En tant que tel, Parship communique avec ses clients par le biais du profil lorsque le client est connecté ou par e-mail (par exemple envoi des suggestions de partenaires, du rapport de personnalité, de la confirmation de contrat ou des factures / rappels de paiement). Les communications par fax et par voie postale sont possibles, à condition qu’il s’agisse de questions relatives à la conclusion du contrat, au paiement ou à la communication par courrier électronique chiffré. Pour la fourniture des principaux services (le service de rencontre en ligne) ainsi que la conclusion du contrat elle-même, la communication par fax et par voie postale est exclue.
+8.1 La communication sur la plateforme doit s’effectuer conformément aux présentes conditions générales de vente, en particulier des conditions relatives à la sécurité lors de l’utilisation de Parship (voir point 4) et du Community Guidelines. Il doit notamment respecter le principe de réciprocité applicable sur Parship. Si d'autres membres ne répondent pas à la communication d'un client, toute nouvelle prise de contact unilatérale est par principe exclue. Cette mesure s’applique, que les fonctions de communication du profil soient limitées ou non.
+
+8.2 Parship est un service en ligne. En tant que tel, Parship communique avec ses clients par le biais du profil lorsque le client est connecté ou par e-mail (par exemple envoi des suggestions de partenaires, du rapport de personnalité, de la confirmation de contrat ou des factures / rappels de paiement). Les communications par fax et par voie postale sont possibles, à condition qu’il s’agisse de questions relatives à la conclusion du contrat, au paiement ou à la communication par courrier électronique chiffré. Pour la fourniture des principaux services (le service de rencontre en ligne) ainsi que la conclusion du contrat elle-même, la communication par fax et par voie postale est exclue.
 
 Pour des raisons de nécessité d’authentification et de prévention d’abus quelconques, il est recommandé au client de fournir les informations suivantes dans les messages adressés à Parship :  
 (1.) L’adresse e-mail insérée dans le profil ou l’identifiant Parship (Chiffre), et  
@@ -240,7 +264,7 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
   
 
-Vis-à-vis du client, Parship est le seul détenteur des droits de reproduction, de diffusion, de traitement et de tous les droits d'auteur, ainsi que du droit de cession immatérielle et de la reproduction du site web Parship, y compris chacun des contenus qu’il comprend. L'utilisation de tous les programmes et des contenus, documents, marques et noms commerciaux qu’ils comprennent, est autorisée exclusivement aux fins spécifiées dans les présentes Conditions Générales.
+9.1 Vis-à-vis du client, Parship est le seul détenteur des droits de reproduction, de diffusion, de traitement et de tous les droits d'auteur, ainsi que du droit de cession immatérielle et de la reproduction du site web Parship, y compris chacun des contenus qu’il comprend. L'utilisation de tous les programmes et des contenus, documents, marques et noms commerciaux qu’ils comprennent, est autorisée exclusivement aux fins spécifiées dans les présentes Conditions Générales.
 
 ### 10\. Droit applicable, règlement alternatif des litiges
 
@@ -323,19 +347,9 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
   
 
-12.3 La langue du contrat est le français.
+La langue du contrat est le français.
 
   
-
-12.4 Le client peut télécharger les CGU actuelles gratuitement et à tout moment au format PDF.
-
-  
-
-12.5 Parship n’effectue aucun enregistrement automatique du texte contractuel dans le cadre de la conclusion du contrat. Par conséquent, le client est invité à enregistrer le texte contractuel respectif en vigueur au moment de la conclusion du contrat, accessible sur le site web de Parship, sur son disque dur ou à l’archiver d'une autre manière.
-
-  
-
-12.6 PE Digital GmbH, Speersort 10, D-20095 Hambourg, Allemagne, est responsable du contenu du service, celle-ci étant représentée par son gérant.
 
 ### Modèle de formulaire de rétractation
 
