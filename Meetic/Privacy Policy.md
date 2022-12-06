@@ -127,7 +127,6 @@ La principale raison pour laquelle nous utilisons vos informations est de fourni
 
 * Créer et gérer votre compte
 * Vous fournir un service client et répondre à vos demandes
-
 * Compléter vos transactions
 * Communiquer avec vous au sujet de nos services
 
