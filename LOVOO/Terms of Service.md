@@ -42,7 +42,21 @@ By registering on LOVOO, e.g. on [http://www.LOVOO.com](http://www.lovoo.com/) (
         
         LOVOO also offers the LOVOO Live Video feature in selected countries. This Live Video feature is subject to separate [Terms and Conditions for Live](https://lovoo.com/legal/toc-live).
         
-    3. Security, scope and availability
+    3. Nearby function
+        
+        (1) “Nearby” shows to a user profiles that match search criteria (age, gender, etc) and that are located in the same area with a user (based on distance preference and the user current location). The map shows a selection of recommended dating spots. These dating spots can be places, transportation services, accommodations, restaurants, tours, activities or experiences.
+        
+        (2) Owners and/or operators of the proposed dating spots are third parties (hereinafter: third-party), not LOVOO. LOVOO displaying information about dating spots does not in any way imply, suggest or constitute any association of LOVOO with such third-parties, or any affiliation between LOVOO and third-party suppliers.
+        
+        (3) The displayed information is based on publicly available sources like the official websites of the properties or Google Maps. This information may be outdated, inaccurate or incomplete. LOVOO is not responsible for the accuracy or completeness of this type of information.
+        
+        (4) If you visit a third-party venue or otherwise interact with such third-party, then in addition to this Agreement, third party terms and conditions use, privacy policy and any other rules or policies may apply. Your interactions with third-party are at your own risk. LOVOO has no liability with respect to the acts, omissions, errors, representations, warranties, breaches or negligence of any third-party or for any personal injuries, death, property damage or other damages or expenses resulting from your interactions with third-parties.
+        
+        (5) When you access information about third-party properties, you may encounter links to third party sites and/or apps or interact with third party content that LOVOO does not operate or control. In addition, such third-parties may charge a fee for use of certain content or services. Where LOVOO provides details of fees or charges for such third party content or services, such information is provided for convenience and information purposes only. LOVOO is in no way responsible or liable for any such third party sites or apps.
+        
+        (6) If you decide to share or rate your experience with listed third-party properties via the nearby function, you understand that LOVOO may use this content free-of-charge for commercial purposes of its own or of third parties. In particular, you agree and understand that LOVOO may place advertising and promotions alongside, near, adjacent or otherwise in close proximity to your content provided by you and other users.
+        
+    4. Security, scope and availability
         
         (1). LOVOO is not obliged to transport messages if there is a suspicion that they violate these Terms or the Community Guidelines or are abusive in a similar manner. In particular, there is no obligation to transport messages that are unsolicited advertising messages or similarly suspicious. So-called spam messages shall be deemed to be unsolicited advertising messages. To that end, LOVOO offers the user a free spam filter for incoming private messages. LOVOO shall endeavor to filter spam messages, however, the user is not entitled to a certain success rate. To this end, chat messages on the platform are checked for suspected spam activity.
         
