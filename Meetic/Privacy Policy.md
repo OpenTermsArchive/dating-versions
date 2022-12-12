@@ -23,7 +23,7 @@ Bienvenue dans la politique de confidentialité de MEETIC. Merci de prendre le t
 
 Nous sommes conscients de la confiance que vous nous portez en nous partageant vos informations et nous avons l’intention de toujours conserver cette confiance. Cela commence par nous assurer que vous comprenez les informations que nous recueillons, les raisons pour lesquelles nous les recueillons, la manière dont elles sont utilisées et les choix qui s’offrent à vous concernant ces informations. La présente politique décrit nos pratiques en matière de confidentialité des données dans un langage simple, en limitant au minimum le jargon juridique et technique.
 
-Cette politique de confidentialité s’applique à partir de 29/04/2022.
+Cette politique de confidentialité s’applique à partir de 13/12/2022.
 
 La version précédente de cette politique de confidentialité, disponible [ici](https://www.meetic.fr/pages/misc/privacy_042022?styled=1), s’applique jusqu’à cette date.
 
@@ -109,7 +109,7 @@ Nous collectons des informations à partir de et sur le(s) appareil(s) que vous 
 
 * **Autres informations avec votre consentement**
 
-Si vous nous en donnez la permission, nous pouvons recueillir votre géolocalisation précise (latitude et longitude). La collecte de votre géolocalisation peut avoir lieu en arrière-plan, même lorsque vous n’utilisez pas nos services, si l’autorisation que vous nous avez donnée permet expressément cette collecte. Si vous vous n’acceptez pas que nous collections votre géolocalisation précise, nous ne le ferons pas. De la même façon, si vous y consentez, nous pouvons recueillir des photos et des vidéos (par exemple, si vous souhaitez publier une photo ou une vidéo ou utiliser des fonctionnalités de streaming sur nos services).
+Si vous nous en donnez la permission, nous pouvons recueillir votre géolocalisation précise (latitude et longitude). La collecte de votre géolocalisation peut avoir lieu en arrière-plan, même lorsque vous n’utilisez pas nos services, si l’autorisation que vous nous avez donnée permet expressément cette collecte. Si vous vous n’acceptez pas que nous collections votre géolocalisation précise, nous ne le ferons pas. De la même façon, si vous y consentez, nous pouvons recueillir des photos et des vidéos (par exemple, si vous souhaitez publier une photo ou une vidéo ou utiliser des fonctionnalités de streaming sur nos services). En outre, si vous choisissez de participer à notre fonctionnalité de vérification par selfie, nous recueillons vos données de géométrie faciale, qui peuvent être considérées comme des données biométriques dans certains pays, pour vérifier que c’est vraiment à vous que nous avons affaire. Vous pouvez en savoir plus sur la vérification par selfie et sur la façon dont nous traitons vos données de géométrie de visage [ici](https://www.meetic.fr/faq/?answer=0309_ProfileVerifiedPhoto).
 
 4\. COOKIES ET AUTRES TECHNOLOGIES SIMILAIRES DE COLLECTE DE DONNÉES
 --------------------------------------------------------------------
