@@ -160,4 +160,4 @@ We may update this Privacy Policy from time to time. If there are any material c
 
 How to Contact Us
 
-If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us by email at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection#removed) or by mail at Coffee Meets Bagel, Inc. 391 Grove St, San Francisco, CA.
+If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us by email at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection) or by mail at Coffee Meets Bagel, Inc. 391 Grove St, San Francisco, CA.
