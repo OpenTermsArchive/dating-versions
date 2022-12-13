@@ -133,4 +133,4 @@ This Cookie Policy (the “Policy”) is an integral part of the [Hily’s Terms
 7\. Reach Us Out
 ----------------
 
-7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection#removed).
+7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection).
