@@ -23,7 +23,7 @@ Willkommen bei den Datenschutzbestimmungen von LOVESCOUT24. Vielen Dank, dass Si
 
 Wir wissen es zu schätzen, dass Sie uns Ihre Informationen anvertrauen und werden dieses Vertrauen nicht enttäuschen. Der erste Schritt dazu ist, sicherzustellen, dass Sie verstehen, welche Informationen wir erheben, warum wir sie erheben, wie wir sie verwenden und welche Wahlmöglichkeiten Sie in Bezug auf Ihre Informationen haben. In dieser Richtlinie werden unsere Datenschutzmaßnahmen einfach und verständlich mit möglichst wenig rechtlichem und technischem Fachchinesisch beschrieben.
 
-Diese Datenschutzrichtlinie gilt ab 29/04/2022.
+Diese Datenschutzrichtlinie gilt ab 13/12/2022.
 
 Bis dahin gilt die vorherige Version dieser Datenschutzrichtlinie, welche [hier](https://www.lovescout24.de/pages/misc/privacy_042022?styled=1) verfügbar ist.
 
@@ -112,7 +112,7 @@ Wir erheben Informationen von und zu Ihrem/n Gerät(en), die Sie zum Zugriff auf
 
 * **Weitere Informationen mit Ihrer Zustimmung**
 
-Mit Ihrer Zustimmung erfassen wir Ihren genauen Standort (geografische Länge und Breite). Wenn die Zustimmung, die Sie uns erteilt haben, dies ausdrücklich zulässt, kann die Erfassung Ihres geografischen Standorts im Hintergrund erfolgen, auch wenn Sie die Dienste nicht nutzen. Wenn Sie die Erlaubnis zur Erfassung Ihres genauen Standorts verweigern, werden wir ihn nicht erfassen. Ebenso können wir mit Ihrer Zustimmung Fotos und Videos sammeln (wenn Sie beispielsweise ein Foto oder Video veröffentlichen oder Streamingfunktionen unserer Dienste nutzen möchten).
+Mit Ihrer Zustimmung erfassen wir Ihren genauen Standort (geografische Länge und Breite). Wenn die Zustimmung, die Sie uns erteilt haben, dies ausdrücklich zulässt, kann die Erfassung Ihres geografischen Standorts im Hintergrund erfolgen, auch wenn Sie die Dienste nicht nutzen. Wenn Sie die Erlaubnis zur Erfassung Ihres genauen Standorts verweigern, werden wir ihn nicht erfassen. Ebenso können wir mit Ihrer Zustimmung Fotos und Videos sammeln (wenn Sie beispielsweise ein Foto oder Video veröffentlichen oder Streamingfunktionen unserer Dienste nutzen möchten). Wenn Sie sich darüber hinaus für die Teilnahme an der Funktion ‚Selfie zur Identitätsverifizierung’ entschließen, erheben wir geometrische Gesichtsdaten, die in einigen Rechtsordnungen als biometrische Daten gelten könnten, um zu bestätigen, dass es sich wirklich um Sie handelt. Mehr über Selfie-Verifizierung und dazu, wie wir geometrische Gesichtsdaten verarbeiten, finden Sie [hier](https://www.lovescout24.de/faq/?answer=0309_ProfileVerifiedPhoto).
 
 4\. COOKIES UND ÄHNLICHE TECHNOLOGIEN ZUR DATENERHEBUNG
 -------------------------------------------------------
