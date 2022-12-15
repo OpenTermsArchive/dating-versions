@@ -279,7 +279,7 @@ Etant donné que nous sommes toujours à la recherche de moyens nouveaux et inno
 
 Si vous avez des questions concernant cette politique de confidentialité, vous disposez de différentes options ci-dessous :
 
-**En ligne :** [ici](mailto:privacy@meetic.fr?subject=Privacy%20Request)
+**En ligne :** [ici](https://www.meetic.fr/faq/#privacyRequest)
 
 **Par la poste :**
 
