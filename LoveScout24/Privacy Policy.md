@@ -282,7 +282,7 @@ Da wir immer auf der Suche nach neuen und innovativen Wegen sind, um Sie beim Au
 
 Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, stehen Ihnen unten verschiedene Optionen zur Verfügung:
 
-**Online**: [hier](mailto:privacy@lovescout24.de?subject=Privacy%20Request)
+**Online**: [hier](https://www.lovescout24.de/faq/#privacyRequest)
 
 **Per Post**:
 
