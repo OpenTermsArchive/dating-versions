@@ -75,7 +75,7 @@ For more information on how Google collects and processes data, visit [https://p
 
 If you have questions about this Cookie Policy, here’s how you can reach us:
 
-Online: [here](mailto:privacy@match.co.uk?subject=Privacy%20Request)
+Online: [here](https://uk.match.com/faq/#privacyRequest)
 
 By post:
 
