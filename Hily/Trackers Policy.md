@@ -99,13 +99,13 @@ This Cookie Policy (the “Policy”) is an integral part of the [Hily’s Terms
 
 * For the users of [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies);
     
-* For the users of [Firefox](https://support.mozilla.com/en-US/kb/Cookies);
+* For the users of [Firefox](http://support.mozilla.com/en-US/kb/Cookies);
     
 * For the users of [Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666);
     
 * For the users of [Opera](https://help.opera.com/en/latest/web-preferences/);
     
-* For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](https://support.apple.com/kb/HT1677); 
+* For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](http://support.apple.com/kb/HT1677); 
     
 * For the users of [Android](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DAndroid&hl=en).
     
@@ -133,4 +133,4 @@ This Cookie Policy (the “Policy”) is an integral part of the [Hily’s Terms
 7\. Reach Us Out
 ----------------
 
-7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [\[email protected\]](https://hily.com/cdn-cgi/l/email-protection).
+7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@hily.com](mailto:support@hily.com).
