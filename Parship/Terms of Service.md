@@ -17,7 +17,7 @@ Dernière mise à jour : 29.11.2022
 
 Les présentes Conditions générales régissent la relation contractuelle payante ou non payante entre Parship (le contractant est PE Digital GmbH, Speersort 10, 20095 Hambourg, Allemagne) et ses clients, que vous accédiez à Parship via le site web ou les applications mobiles.
 
-Le [Community Guidelines](https://fr.parship.ch/communityguidelines/) fait également partie intégrante de nos conditions générales de vente et s’applique donc en complément.
+Le [Community Guidelines](https://www.parship.fr/communityguidelines/) fait également partie intégrante de nos conditions générales de vente et s’applique donc en complément.
 
 Veuillez noter que des règles différentes peuvent s'appliquer pour les relations contractuelles établies par l’intermédiaire de fournisseurs tiers tels que Apple ou Google Play. Certaines fonctions sont également exclusivement disponibles sur le site Internet ou les applications mobiles. Vous trouverez des précisions à ce sujet dans les clauses s’y rapportant.L’utilisation de ce service est interdite aux mineurs (moins de 18 ans révolus). L’utilisation du service à des fins commerciales est également interdite.
 
@@ -226,7 +226,7 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
   
 
-7.8 De plus, tout client s'engage à respecter le [Community Guidelines](https://fr.parship.ch/communityguidelines/) et à ne pas utiliser le service de manière frauduleuse, en particulier:
+7.8 De plus, tout client s'engage à respecter le [Community Guidelines](https://www.parship.fr/communityguidelines/) et à ne pas utiliser le service de manière frauduleuse, en particulier:
 
 * diffuser de données ou photos à caractère illicite, obscène, pornographique ou politiquement radical;
 * diffuser de matériel diffamatoire, choquant ou illicite, ni des informations de cette nature via le service;
@@ -250,7 +250,7 @@ En vertu de l’article L. 241-3 du Code de la Consommation : « Lorsque le prof
 
   
 
-8.1 La communication sur la plateforme doit s’effectuer conformément aux présentes conditions générales de vente, en particulier des conditions relatives à la sécurité lors de l’utilisation de Parship (voir point 4) et du Community Guidelines. Il doit notamment respecter le principe de réciprocité applicable sur Parship. Si d'autres membres ne répondent pas à la communication d'un client, toute nouvelle prise de contact unilatérale est par principe exclue. Cette mesure s’applique, que les fonctions de communication du profil soient limitées ou non.
+8.1 La communication sur la plateforme doit s’effectuer conformément aux présentes conditions générales de vente, en particulier des conditions relatives à la sécurité lors de l’utilisation de Parship (voir point 4) et du [Community Guidelines](https://www.parship.fr/communityguidelines/). Il doit notamment respecter le principe de réciprocité applicable sur Parship. Si d'autres membres ne répondent pas à la communication d'un client, toute nouvelle prise de contact unilatérale est par principe exclue. Cette mesure s’applique, que les fonctions de communication du profil soient limitées ou non.
 
 8.2 Parship est un service en ligne. En tant que tel, Parship communique avec ses clients par le biais du profil lorsque le client est connecté ou par e-mail (par exemple envoi des suggestions de partenaires, du rapport de personnalité, de la confirmation de contrat ou des factures / rappels de paiement). Les communications par fax et par voie postale sont possibles, à condition qu’il s’agisse de questions relatives à la conclusion du contrat, au paiement ou à la communication par courrier électronique chiffré. Pour la fourniture des principaux services (le service de rencontre en ligne) ainsi que la conclusion du contrat elle-même, la communication par fax et par voie postale est exclue.
 
