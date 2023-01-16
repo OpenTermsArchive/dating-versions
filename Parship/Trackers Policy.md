@@ -218,7 +218,7 @@ La base juridique du traitement des données est votre consentement.
 
 Nous traitons vos données nous-mêmes, ou avec l'aide de sous-traitants conformément à l’Art. 28 RGPD ; ces sous-traitants traitant vos données sur la base de nos instructions et non pour leurs propres besoins.Dans certains cas, les entreprises sont conjointement responsables (« responsabilité conjointe ») avec nous du traitement des données conformément à l'art. 26 RGPD, à condition que nous traitions conjointement les données personnelles à des fins spécifiques et avec des moyens déterminés en commun. Dans d'autres cas, les entreprises traitent également les données personnelles sous leur propre responsabilité. Certaines de ces entreprises peuvent être situées dans des pays hors UE/EEE ou peuvent transférer des données vers des pays hors UE/EEE.
 
-**Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_Mechanismen_App.pdf) un aperçu et des informations plus détaillées sur les cookies « publicitaires » que nous utilisons, les entreprises avec lesquelles nous collaborons et la finalité du traitement.**
+**Vous trouverez [ici](https://www.parship.fr/static_cms/parship/static/Downloads/03_fr_Tracking_mechanism_App.pdf) un aperçu et des informations plus détaillées sur les cookies « publicitaires » que nous utilisons, les entreprises avec lesquelles nous collaborons et la finalité du traitement.**
 
 Vous pouvez à tout moment refuser le traitement de données en relation avec les technologies de suivi sur votre appareil. Pour savoir comment refuser le traitement, consultez la section [« Comment gérer ou empêcher l’utilisation de technologies de suivi ou supprimer les technologies de suivi ? »](#pp06).
 
