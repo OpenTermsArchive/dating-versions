@@ -238,8 +238,8 @@ Wir möchten, dass Sie die Kontrolle über Ihre Informationen behalten, weshalb 
 
 Wir möchten auch, dass Sie Ihre Datenschutzrechte kennen. Hier ein paar wesentliche Punkte zur Erinnerung:
 
-* Einsichtnahme Nach anwendbarem Datenschutzrecht haben Sie gegebenenfalls das Recht, die von uns gespeicherten personenbezogenen Daten einzusehen (je nach Rechtsraum wird dies als Zugriffsrecht, Recht auf Portabilität, Recht auf Information oder mit ähnlichen Begriffen bezeichnet). Sie können dieses Recht ausüben, indem Sie [hier](#_section13) eine entsprechende Anfrage stellen.
-* Aktualisierung Ihrer Informationen. Wenn Sie der Auffassung sind, dass die von uns über Sie gespeicherten Informationen nicht richtig sind oder wir nicht länger zur Verwendung der Informationen berechtigt sind, und Sie ihre Berichtigung oder Löschung beantragen oder der Verarbeitung widersprechen oder diese einschränken möchten, kontaktieren Sie uns bitte [hier](#_section13).
+* Einsichtnahme Nach anwendbarem Datenschutzrecht haben Sie gegebenenfalls das Recht, die von uns gespeicherten personenbezogenen Daten einzusehen (je nach Rechtsraum wird dies als Zugriffsrecht, Recht auf Portabilität, Recht auf Information oder mit ähnlichen Begriffen bezeichnet). Sie können dieses Recht ausüben, indem Sie [hier](https://www.lovescout24.de/faq/#privacyRequest) eine entsprechende Anfrage stellen.
+* Aktualisierung Ihrer Informationen. Wenn Sie der Auffassung sind, dass die von uns über Sie gespeicherten Informationen nicht richtig sind oder wir nicht länger zur Verwendung der Informationen berechtigt sind, und Sie ihre Berichtigung oder Löschung beantragen oder der Verarbeitung widersprechen oder diese einschränken möchten, kontaktieren Sie uns bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
 
 Zu Ihrem Schutz und zum Schutz all unserer Nutzer verlangen wir gegebenenfalls einen Identitätsnachweis, ehe wir Ihre obige Anfrage beantworten können.
 
