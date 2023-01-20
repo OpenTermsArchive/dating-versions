@@ -235,8 +235,8 @@ Nous voulons que vous ayez le contrôle de vos informations, c’est pourquoi no
 
 Nous voulons également que vous soyez conscient de vos droits en matière de protection de vos données. Voici quelques points clés à retenir :
 
-* Examen de vos informations. Les lois applicables en matière de protection de la vie privée peuvent vous donner le droit d’examiner les informations personnelles que nous conservons à votre sujet (selon la juridiction, cela peut être appelé droit d’accès, droit de portabilité, droit de savoir ou modifications de ces termes). Vous pouvez exercer ce droit en introduisant une telle demande [ici](#_section13).
-* Mise à jour de vos informations. Si vous pensez que les informations que nous détenons à votre sujet sont inexactes ou que nous ne sommes plus habilités à les utiliser et que vous souhaitez demander leur rectification, leur suppression, vous opposer à leur traitement ou le restreindre, veuillez nous contacter [ici](#_section13).
+* Consultation de vos informations. Les lois applicables en matière de protection de la vie privée peuvent vous donner le droit de consulter les informations personnelles que nous conservons à votre sujet (selon la juridiction, cela peut être appelé droit d’accès, droit de portabilité, droit d’information ou variations de ces termes). Vous pouvez exercer ce droit en effectuant une telle demande [ici](https://www.meetic.fr/faq/#privacyRequest).
+* Mise à jour de vos informations. Si vous pensez que les informations que nous détenons à votre sujet sont inexactes ou que nous ne sommes plus habilités à les utiliser et que vous souhaitez demander leur rectification, leur suppression, vous opposer à leur traitement ou le restreindre, veuillez nous contacter [ici](https://www.meetic.fr/faq/#privacyRequest).
 
 Pour votre protection et celle de tous nos utilisateurs, nous pouvons vous demander de fournir une preuve de votre identité avant de pouvoir répondre aux demandes ci-dessus.
 
