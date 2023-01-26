@@ -11,7 +11,7 @@ Please refer to our [Cookie and Tracking Policy](https://www.lovoo.com/legal/coo
 Contents
 ========
 
-[Contact / Data Controller](#_Toc100588501)
+[**Contact / Data Controller**](#_Toc100588501)
 
 [**Collection, Processing, and Use of Personal Data**](#_Toc100588502)
 
@@ -35,8 +35,8 @@ Contents
 
 [**Appendix: Technological Information**](#_Toc100588512)
 
-Contact / Data Controller
-=========================
+**Contact / Data Controller**
+=============================
 
 Unless otherwise specified in this Privacy Policy or our [Cookie and Tracking Policy](https://www.lovoo.com/legal/cookies), the data controller responsible for data processing is LOVOO GmbH (hereinafter "LOVOO," "we," or "us").
 
@@ -56,9 +56,11 @@ Speersort 10
 
 If you have any comments or suggestions regarding privacy, please do not hesitate to contact us or our Data Protection Officer.
 
-Our UK representative is:
+**Our UK representative is:**
 
 eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain
+
+#
 
 **Collection, Processing, and Use of Personal Data**
 ====================================================
@@ -261,12 +263,15 @@ LOVOO processes the personal data of its users for the following purposes and in
     * Providing the option of making contact and answering requests via the platform;
     * Facilitating the conclusion of a contract, including invoicing;
     * Sending emails and/or push notifications with matches or other messages related to the contract.
-
-(The legal basis of processing is the fulfillment of the contract with you. In some cases, the legal basis is also your consent. The legal basis is also our legal obligation as well as the legitimate interest in providing customer service and improving the customer experience)
-
+    
+    (The legal basis of processing is the fulfillment of the contract with you. In some cases, the legal basis is also your consent. The legal basis is also our legal obligation as well as the legitimate interest in providing customer service and improving the customer experience)
+    
 * Providing a login via the LOVOO platform or the Facebook login. (The legal basis of processing is the fulfillment of our contract.)
+    
 * Preventing and fighting misuse (particularly to prevent and combat fake profiles, scamming, unlawful acts and spam, as well as ensuring the integrity and stability of the LOVOO platform). LOVOO collects, processes, and uses personal data and geodata, which are collected during your registration and completion of the LOVOO profile, for an automated check as to whether there are indications or data pointing to misuse of LOVOO. The data is stored in a database and checked against empirical values. If automated processing reveals suspected misuse, a LOVOO employee will review the assessment and the underlying indications, and subsequently any free text information and the saved profile photos. LOVOO also provides its users with a feature called "Report profile" and checks profiles through members of the Customer Care Team in the event that other users report breaches of contract. What is more, LOVOO users can voluntarily verify themselves or are requested to do so by our Customer Care Team in justified cases (e.g. doubts about identity, suspicion of spam). If verification is successful, the profile is marked as "verified" and this is visible to other LOVOO users. Further information on verification is available [here](https://support.lovoo.com/hc/en-us/articles/209530749-Step-5-Get-verified-). Where required, users are requested to identify themselves via our service provider IDnow. Further information on this is available [here](https://support.lovoo.com/hc/en-us/sections/360003700779-FAQ-Taxes?article=360016083559). (The legal basis is the legitimate interest of LOVOO and LOVOO users that the LOVOO service is not misused for acts of third parties that are in breach of contract and/or unlawful. We also have a legitimate interest in protecting our own systems to secure LOVOO's IT and ultimately to protect the personal data of LOVOO's users).
+    
 * For automated pricing. On principle, we do not use fully automated decision-making pursuant to Article 22 of the GDPR; we only process your data in a partially automated manner with the aim of offering you
+    
 
 suitable product offers. The following data is used for this purpose: Country, registration device (app or website/iOS or Android). (The legal basis is the fulfillment of the contractual relationship and our legitimate interest in addressing our users in a targeted and individual manner.)
 
@@ -337,11 +342,11 @@ LOVOO adopts various security measures, such as state-of-the-art encryption and 
 
 LOVOO also contracts service providers from the USA in this context. These service providers are specified below:
 
-Max Mind, Inc., 14 Spring Street, Suite 3, Waltham, MA 02451, USA
+**Max Mind, Inc.**, 14 Spring Street, Suite 3, Waltham, MA 02451, USA
 
 LOVOO uses the geo-localization service provided by MaxMind, Inc. For this purpose, LOVOO stores a database locally/offline and checks IP addresses of the accessing end device against the geo-database for IT security reasons. There is **no** exchange of data with MaxMind. More information on MaxMind is available [here](https://www.maxmind.com/en/privacy-policy).
 
-Cloudflare Inc, 101 Townsend Street, San Francisco, CA 94107, USA
+**Cloudflare Inc**, 101 Townsend Street, San Francisco, CA 94107, USA
 
 We use a content delivery network (CDN) to secure this website and optimize loading times (SSL certificate). This CDN is a service provided by Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA. Registration and login requests are passed through Cloudflare's server and consolidated into statistics that cannot be disabled.
 
@@ -349,7 +354,7 @@ We have concluded a data processing agreement with Cloudfare on the basis of EU 
 
 Information on the data collected by Cloudfare is available [here](https://www.cloudflare.com/privacypolicy/).
 
-reCaptcha: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+**reCaptcha**: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
 
 We use the reCaptcha service provided by Google to help us identify whether the user is a human or an automated bot. This service helps to protect our website and app from bot attacks, misuse, and spam. Information (including your IP address) is transmitted to Google and processed there for this purpose.
 
@@ -357,13 +362,15 @@ We have concluded a data processing agreement with Google Ireland Limited.
 
 Information on data collected by Google reCaptcha is available [here](https://www.google.com/recaptcha/about/).
 
-Stripe, Inc., 510 Townsend Street, San Francisco, CA 94103, USA
+**Stripe, Inc.**, 510 Townsend Street, San Francisco, CA 94103, USA
 
 We use cookies or a host provided by Stripe Inc. on our website to combat fraud.
 
 Due to a third country transfer, we have concluded standard contractual clauses with this provider.
 
 More information on privacy is provided by Stripe [here](https://stripe.com/at/privacy).
+
+#
 
 **Duration of Storage; Retention Requirements**
 ===============================================
@@ -404,7 +411,7 @@ You have the right to request information from LOVOO as to whether we process pe
 
 If you would like to assert a right to information, please refer to the details provided in the [Contact](#_Toc100588501) section.
 
-### Your right to erasure
+### **Your right to erasure**
 
 Provided that the legal requirements are met, you may demand that we immediately erase your personal data. This is particularly the case where
 
@@ -419,7 +426,7 @@ Please not that your right to erasure is subject to limitations. For example, we
 
 You may also erase the data in your profile yourself. To do this, log in to your profile on the LOVOO platform and erase your profile under Settings – My Account – "Delete account." Alternatively, you can contact our Customer Care Team and request the erasure of your data. Please refer to the details provided in [Contact](#_Toc100588501) to do this. Please note that your data will initially only be blocked if there are retention requirements that prevent erasure.
 
-### Your Right to Restriction of Processing
+### **Your Right to Restriction of Processing**
 
 Provided that the legal requirements are met, you may demand that we restrict processing. This is particularly the case where
 
@@ -430,45 +437,45 @@ Provided that the legal requirements are met, you may demand that we restrict pr
 
 Alternatively, you can use the settings options in your profile to rectify the data you provided during registration or to object to advertising. Some of the data collected about you can only be modified with the help of the Customer Care Team.
 
-### Your Right to Data Portability
+### **Your Right to Data Portability**
 
 You have the right to receive personal data, which you provide to us to fulfill a contract or on the basis of consent, in a portable format. In this case, you may also request that we transfer this data directly to a third party, provided that this is technically feasible.
 
-### Your Right to Revoke Consent
+### **Your Right to Revoke Consent**
 
 If you have granted us consent to process your data, you may revoke this consent at any time with future effect. The lawfulness of the processing of your data until the time of revocation remains unaffected by this.
 
 You have provided us with data regarding your sexual orientation (gender and gender you are interested in). You may revoke this consent at any time with future effect. The lawfulness of the processing of your data until the time of revocation remains unaffected by this. From the time you object to the processing of your sexual orientation data, matches can no longer be made unless you consent again to the processing of your sexual orientation data, and LOVOO will no longer be able to provide its services as described in our [General Terms and Conditions](https://www.lovoo.com/legal/toc) as a result of your objection. To revoke your consent to the processing of your gender preference information, please email our Customer Care Team at [support@lovoo.com](mailto:support@lovoo.com) with "Objection to use sexual orientation data" in the subject line.
 
-### Your Right to Object to Direct Marketing
+### **Your Right to Object to Direct Marketing**
 
 **You may also object to the processing of your personal data for advertising purposes ("objection to advertising") at any time, provided that the data processing is conducted on the basis of legitimate interest. Please note that there may be an overlap between your revocation and the use of your data in the context of an ongoing campaign for organizational reasons.**
 
 **Alternatively, you can use the settings options in your profile to rectify the data you provided during registration or to object to advertising.**
 
-### Your Right to Object on Personal Grounds
+### **Your Right to Object on Personal Grounds**
 
 You have the right to object to data processing by us for reasons related to your particular situation, provided that it is done on the legal basis of legitimate interest. In compliance with legislation, we will then stop processing your data unless we can prove that there are compelling legitimate grounds to continue processing your data that override your rights.
 
-### Right to Lodge a Complaint With the Responsible Regulatory Authority
+### **Right to Lodge a Complaint With the Responsible Regulatory Authority**
 
 You have the right to lodge a complaint with a data protection authority. You may contact the data protection authority responsible for your place of residence, your federal state, or the data protection authority responsible for us.
 
 This is:
 
-The Saxon Commissioner for Data Protection and Freedom of Information
-
-Dr. Juliane Hundert
-
-Devrientstrasse 5
-
-01067 Dresden
-
-Phone: 0351/85471 101
-
-Fax: 0351/85471 109
-
-Email: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
+> The Saxon Commissioner for Data Protection and Freedom of Information
+> 
+> Dr. Juliane Hundert
+> 
+> Devrientstrasse 5
+> 
+> 01067 Dresden
+> 
+> Phone: 0351/85471 101
+> 
+> Fax: 0351/85471 109
+> 
+> Email: [saechsdsb@slt.sachsen.de](mailto:saechsdsb@slt.sachsen.de)
 
 If you are resident or habitually residing in the UK, you may also contact the competent data protection supervisory authority in the UK:
 
