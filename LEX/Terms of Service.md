@@ -1,13 +1,14 @@
 Terms of Use
 ============
 
-_Last updated November 12, 2021._
+_Last updated February 9, 2023._
 
 **Lex does not sell any of your data nor use it for advertising.  
 **  
 **ACCEPTANCE OF THE TERMS  
 **  
-The following terms of use, (these “ **Terms**”) are entered into by and between you and Personal Best, Inc. d/b/a Lex (“**Lex**,” “**Company**,” “**we**,” “**us**” or “**our**”). These Terms govern your access to and use of mobile application (the “**App**”), our website, [https://thisislex.app/](https://thisislex.app/) (the “Site”) along with any other products or services offered by us, whether through the Site or otherwise (collectively and together with the App and Site, the “**Services**”).  
+The following terms of use, (these “ **Terms**”) are entered into by and between you and Personal Best, Inc. d/b/a Lex (“**Lex**,” “**Company**,” “**we**,” “**us**” or “**our**”). These Terms govern your access to and use of mobile application (the “**App**”), our website, [https://www.lex.lgbt/](https://www.lex.lgbt/) (the “Site”) along with any other products or services offered by us, whether through the Site or otherwise (collectively and together with the App and Site, the “**Services**”).
+
   
 Please read these Terms carefully. By accessing, browsing or otherwise using the Services or by clicking to accept or agree to the Terms when this option is made available to you, you (1) acknowledge that you have read and understood these Terms, (2) represent and warrant that you meet all of our eligibility requirements for using the Services as described in these Terms, and (3) accept and agree to be bound by these Terms, including any other terms applicable to the Services that are incorporated herein by reference. If you are using the Services on behalf of an entity, you are agreeing to these Terms for that entity and are representing to us that you have the authority to bind that entity to these Terms (in which case “you” will refer to that entity). If you do not accept these Terms or do not satisfy the eligibility requirements set forth below, you may not access or use the Services.  
   
@@ -43,11 +44,11 @@ To access our Services, you are be required to register with the App and create 
   
 You should not share your Account information. You should not use another person’s Account or registration information for the Services without permission. Similarly, no one else should be able to use your Account without permission. You are solely responsible for keeping your Account and Account password secure and for any consequence resulting from your failure to do so. You should never publish, distribute, or post login information for your Account.  
   
-We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms. You can always delete your Account through the App or emailing us at support@thisislex.app.  
+We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms. You can always delete your Account through the App or emailing us at support@lex.lgbt.  
   
 **ELIGIBILITY; USER RESTRICTIONS**
 
-We only permit individuals who are at least 18 years old, or the age of majority in your province, territory or country, and who can form legally binding contracts with us to use the Services. If you are under the age of 18, or the applicable age of majority (a “Minor”), please do not attempt to access or use the Services. If you believe that a Minor may be using the Services, please contact us at \[ \].
+We only permit individuals who are at least 18 years old, or the age of majority in your province, territory or country, and who can form legally binding contracts with us to use the Services. If you are under the age of 18, or the applicable age of majority (a “Minor”), please do not attempt to access or use the Services. If you believe that a Minor may be using the Services, please contact us at support@lex.lgbt.
 
 You can only use or receive the Services to the extent the laws of your jurisdiction or the United States do not bar you from doing so. Please make sure these Terms are in compliance with all laws, rules and regulations that apply to you. You are solely responsible for ensuring compliance with the laws of your specific jurisdiction.
 
@@ -112,7 +113,7 @@ In particular, audio or video content from Lex not explicitly indicated as downl
   
 You may not access or use for any commercial purposes any part of the Site or any services or materials available through the Site. You acknowledge and agree that you do not acquire any ownership interest in the Services under these Terms, or any other rights thereto other than to use the Services in accordance with the license granted. Appropriate legal action may be taken for any illegal or unauthorized use of the Services.  
   
-To inquire about obtaining authorization to use the materials or content other than as permitted in these Terms, please contact us at [support@thisislex.app](mailto:mailto:support@thisislex.app)
+To inquire about obtaining authorization to use the materials or content other than as permitted in these Terms, please contact us at [support@lex.lgbt](mailto:mailto:support@lex.lgbt). 
 
 **DIGITAL MILLENNIUM COPYRIGHT ACT**
 
@@ -135,11 +136,11 @@ The notice must include the following information:
 
 If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send us a counter-notice.
 
-Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA, which can be found at [http://www.loc.gov/copyright/](http://www.loc.gov/copyright/). Notices and counter-notices with respect to the Site should be sent to [support@thisislex.app](mailto:mailto:support@thisislex.app). Please consult your legal advisor and see 17 U.S.C. § 512 before filing a notice or counter-notice as there are penalties for false claims under the DMCA
+Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA, which can be found at [http://www.loc.gov/copyright/](http://www.loc.gov/copyright/). Notices and counter-notices with respect to the Site should be sent to [support@lex.lgbt](mailto:mailto:support@lex.lgbt). Please consult your legal advisor and see 17 U.S.C. § 512 before filing a notice or counter-notice as there are penalties for false claims under the DMCA
 
 **AVAILABILITY OF THE SERVICES**
 
-Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be fault free. If a fault occurs in our Services, please report it to us at [support@thisislex.app](mailto:mailto:support@thisislex.app) and we will review your complaint and, where we determine it appropriate to do so, correct the fault. We will not be liable to you if the Services are unavailable from time to time.  
+Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be fault free. If a fault occurs in our Services, please report it to us at [support@lex.lgbt](mailto:mailto:support@lex.lgbt) and we will review your complaint and, where we determine it appropriate to do so, correct the fault. We will not be liable to you if the Services are unavailable from time to time.  
   
 Your access to the Services may be occasionally restricted to allow for repairs, maintenance or the introduction of new facilities or Services. We will restore the Services as soon as we reasonably can.
 
@@ -197,4 +198,4 @@ You release the Company and our successors from all losses, damages, rights, and
 **COMMENTS, CONCERNS AND COMPLAINTS  
 **
 
-All feedback, comments, requests for technical support and other communications relating to the Services should be directed to support@thisislex.app.
+All feedback, comments, requests for technical support and other communications relating to the Services should be directed to support@lex.lgbt.
