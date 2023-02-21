@@ -33,7 +33,6 @@ Seien Sie nicht unhöflich oder unfreundlich. Belästigen, bedrängen, diffamier
 ### Tipps
 
 * Achten Sie darauf, was Sie sagen, vor allem am Anfang. Etwas, das Sie für einen Scherz halten, könnte von jemand anderem sehr persönlich genommen werden.
-* Wenn Sie Tipps dafür brauchen, jemanden kennenzulernen, fragen Sie einfach unseren virtuellen Dating-Coach (wo verfügbar).
 * Niemand findet Drohungen, Hassreden, Rassismus oder Intoleranz attraktiv! Drohungen und ähnliches Verhalten sind illegal und wir nehmen es sehr ernst, wenn uns solche Vorfälle gemeldet werden. Je nach Schweregrad kann dies dazu führen, dass Ihr Konto eine Verwarnung erhält oder gesperrt wird.
 
 ### Respektvoll sein
@@ -106,5 +105,3 @@ Wenn Sie aufdringliche Nachrichten erhalten, mit denen Sie sich unwohl fühlen, 
 
 * **Melden Sie ein Profil** direkt vom Nachrichteneingang aus, um unser Moderations- und Sicherheitsteam zu verständigen. Jede Meldung wird schnellstmöglich bearbeitet: von der Zusendung Ihrer Warnung bis zur dauerhaften Löschung des Profils.
 * **Blockieren Sie ein Profil**, damit diese Person Sie nicht mehr kontaktieren kann.
-
-**Unser virtueller Coach Lara hilft bei der Prävention und Aufdeckung von Cyber-Mobbing**: Sie greift ein, wenn zu viele Nachrichten an dieselbe Person gesendet werden, ohne dass eine Antwort erfolgt. Lara hilft Ihnen, diese Situation zu lösen.
