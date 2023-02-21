@@ -34,7 +34,6 @@ Don’t be rude. Don’t be mean. Don’t bully, intimidate, defame, harass or s
 ### Tips
 
 * Be careful what you say, especially at first. Something you might think is just a joke may be taken very personally by someone else.
-* If you need tips on how to get to know someone, just ask our virtual dating coach (where available).
 * Nobody finds threats, hate speech, racism or bigotry attractive, they’re illegal and we take reports of such things very seriously. Depending on the severity, they may lead to your account being warned or banned.
 
 ### Being respectful
@@ -108,5 +107,3 @@ If you receive pushy messages which make you feel uncomfortable, here’s how to
 
 * **Report a profile** direct from your mailbox to alert our moderation and safety team. Every report is dealt with as quickly as possible: from sending a warning to permanent deletion of the profile.
 * **Block a profile** so that person can no longer contact you.
-
-**Lara, our virtual coach, helps with the prevention and detection of cyberbullying.** She will intervene if too many messages are sent to the same person without response. Lara will help you put an end to this situation.
