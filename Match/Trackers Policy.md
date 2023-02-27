@@ -83,10 +83,9 @@ Data Protection Officer
 
 Match.com International Limited  
 MATCH  
-WeWork Aviation House  
-2nd floor  
-125 Kingway  
-London WC2b 6NH  
+c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
+22 Bishopsgate  
+London, EC2N 4BQ  
 United Kingdom
 
 **Or, if you live in the European Union:**
