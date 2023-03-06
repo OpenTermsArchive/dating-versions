@@ -1,3 +1,10 @@
+![](/wp-content/uploads/sites/12/2021/05/preiseleistungen_16x5.jpg)
+
+**Aperçu des tarifs et prestations**
+====================================
+
+Quelles sont mes possibilités en tant que membre basic ? Quels sont les avantages de l’abonnement Premium Parship ? Le tableau ci-dessous vous offre un aperçu des prestations et fonctionnalités proposées par chaque formule d’abonnement.
+
 ### Fonctions
 
 ### Inscription gratuite
