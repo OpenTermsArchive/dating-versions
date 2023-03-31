@@ -243,4 +243,4 @@ In the event that an amicable solution cannot be reached regarding a dispute rel
 
 19. **About us**
 
-The Services provided by Match to Members and Subscribers pursuant to these Terms of Use are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose registered address is at C/O Skadden 40 Bank Street, Canary Wharf, London, E14 5DS. The Websites are hosted on the Group’s servers.
+The Services provided by Match to Members and Subscribers pursuant to these Terms of Use are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose registered address is at c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP, 22 Bishopsgate, London, EC2N 4BQ. The Websites are hosted on the Group’s servers.
