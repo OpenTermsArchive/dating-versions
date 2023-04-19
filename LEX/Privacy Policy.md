@@ -1,44 +1,62 @@
 Privacy Policy
 ==============
 
-_Last updated September 19, 2022._
+_Last updated April 18, 2023._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
-The Lex mobile application (the “App”) and website (the “Site” and collectively with the App, the “Services”) are provided by Personal Best, Inc. (“Personals”). We respect your privacy and have designed the Services with your privacy in mind. This Privacy Policy (the “Policy”) describes how we collect, use, and disclose personal information and what choices you have with respect to the information when you use our mobile application.  
-   
-We may update or amend this Policy in our sole discretion. If we make material changes to this Policy, post the changes on this page and indicate at the top of this page the date the policy was last revised. We will also notify you of any material changes either through a pop-up notice, email or through other reasonable means. Continued use of the Services after any such changes to the Policy have been made shall constitute your consent to such changes. You are responsible for regularly reviewing the most current version of the Policy, which is available in the Services. When we change this Policy, we will modify the “Last Updated” date above.  
+The Lex mobile application (the “App”) and website (the “Site” and collectively with the App, the “Services”) are provided by Personal Best, Inc. (“Personals”). We respect your privacy and have designed the Services with your privacy in mind. This Privacy Policy (the “Policy”) describes how we collect, use, and disclose personal information and what choices you have with respect to the information when you use our mobile application.  
+
+We may update or amend this Policy in our sole discretion. If we make material changes to this Policy, post the changes on this page and indicate at the top of this page the date the policy was last revised. We will also notify you of any material changes either through a pop-up notice, email or through other reasonable means. Continued use of the Services after any such changes to the Policy have been made shall constitute your consent to such changes. You are responsible for regularly reviewing the most current version of the Policy, which is available in the Services. When we change this Policy, we will modify the “Last Updated” date above.
+
   
-**INFORMATION WE COLLECT AND HOW WE COLLECT INFORMATION  
-**  
+
+**INFORMATION WE COLLECT AND HOW WE COLLECT INFORMATION**
+
 We receive or collect various personal data when you install and use the Services. This Policy sets out what personal data we may collect, how we process and protect that data and the lawful grounds for that processing. In most cases, the lawful ground will be that the processing: (i) is necessary for our legitimate interests in carrying out our business, including to grow and improve the Services, provided those interests are not outweighed by your rights and interests (“Legitimate Interests”), (ii) is necessary to perform a contract with you (“Contract”), or (iii) we have a legal obligation to carry out the processing (“Legal Obligation”). Where processing is based on your consent (“Consent”), we will identify the processing purposes and provide you with relevant information to make the processing fair and transparent.
 
-**Account Credentials  
-**To use the App, you must create an account. When you create an account, we require you to provide your mobile phone number or your Instagram handle. Once you create an account, we require you to provide your first name, email address, and preferred pronoun(s), as well as to select a username and password. You can also choose to link your App account with your Instagram account. You may also have the option to upload an image to your App account, and may need to allow the App to access the camera and/or photo album on the your phone to do so. Any image you upload will be visible to other users of the App, and as such must comply with this Policy and our Terms of Use.  
-   
-**Your Location  
-**When you create an account, we ask you to share your location with us through the App in order to use all features. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID. It is possible to opt out of sharing your location at sign up, but app functionality is limited. Read more [here](https://help.thisislex.app/article/87-do-i-have-to-share-my-location).  
+**Account Credentials**
 
-**Your Posts  
-**When you make a post on Lex, we may retain the post as necessary under applicable law. Posts may contain personal data. You can view your posts and you can choose to delete them from your profile.
+To use the App, you must create an account. When you create an account, we require you to provide your mobile phone number or your Instagram handle. Once you create an account, we require you to provide your first name, email address, and preferred pronoun(s), as well as to select a username and password. You can also choose to link your App account with your Instagram account. You may also have the option to upload an image to your App account, and may need to allow the App to access the camera and/or photo album on the your phone to do so. Any image you upload will be visible to other users of the App, and as such must comply with this Policy and our Terms of Use.  
 
-**Your Messages  
-**When you send a message to other users of the App, we may retain the message as necessary under applicable law. Messages may contain personal data.  
-   
-**Customer Support  
-**You may provide us with information related to your use of the App. For example, you may send us an email with information relating to the performance of the App or other issues.  
-   
-**Device and Connection Information  
-**When you install, access, or use the App, we collect information about your mobile device, such as hardware model, operating system information, IP address, mobile network information, and device identifiers. We collect device location information if you use our location features and for diagnostic and troubleshooting purposes such as if you are having trouble with the App’s location features.
+**Your Location**
 
-**Cookies**  
-Cookies are small text files that are stored on a user’s computer which collect and store information. We use cookies to keep you logged in to the App and to identify usage behavior to improve our services. For more information, please see the Cookies Information section below.  
-   
-**Usage Logs  
-**We collect service-related, diagnostic, and performance information. This may include information about your use of the App, log files, performance logs, and diagnostic reports.  
+When you create an account, we ask you to share your location with us through the App in order to use all features. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID. It is possible to opt out of sharing your location at sign up, but app functionality is limited. Read more [here](https://help.thisislex.app/article/87-do-i-have-to-share-my-location).  
+
+**Your Posts**
+
+When you make a post on Lex, we may retain the post as necessary under applicable law. Posts may contain personal data. You can view your posts and you can choose to delete them from your profile.
+
+**Your Messages**
+
+When you send a message to other users of the App, we may retain the message as necessary under applicable law. Messages may contain personal data.  
+
+**Customer Support**
+
+You may provide us with information related to your use of the App. For example, you may send us an email with information relating to the performance of the App or other issues.  
+
+**Device and Connection Information**
+
+When you install, access, or use the App, we collect information about your mobile device, such as hardware model, operating system information, IP address, mobile network information, and device identifiers. We collect device location information if you use our location features and for diagnostic and troubleshooting purposes such as if you are having trouble with the App’s location features.
+
+**Cookies**
+
+Cookies are small text files that are stored on a user’s computer which collect and store information. We use cookies to keep you logged in to the App and to identify usage behavior to improve our services. For more information, please see the Cookies Information section below.  
+
+**Usage Logs**
+
+We collect service-related, diagnostic, and performance information. This may include information about your use of the App, log files, performance logs, and diagnostic reports.
+
+**Financial Information**
+
+If you purchase our Services, you may be required to provide financial information, such as your credit
+
+card or bank account number, to a third-party payment processor. We do not collect or store such financial information and we are not responsible for the collection or storage of such information by third parties. We will, however, have access to certain information associated with your account should you purchase the Services, including the amount and date of the purchase.
+
   
-**HOW WE USE INFORMATION  
-**   
+
+**HOW WE USE INFORMATION**
+
 We use personal data that we collect in the following ways:
 
 * We use your username and/or Instagram handle identify you as a user in the App.
@@ -50,10 +68,10 @@ We use personal data that we collect in the following ways:
 
 We may use information that is aggregated or de-identified so that it is no longer reasonably associated with an identifiable natural person for any legitimate business purpose.
 
-**SHARING INFORMATION WITH THIRD PARTIES  
-**   
-We contract with certain third-party service providers in order to operate and provide features through the Services. We may also allow third parties to place and read their own cookies, web beacons, and other technologies to collect information through the Services and those service providers may need access to your information, including personal data, to perform fulfillment and other services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.  
-   
+**SHARING INFORMATION WITH THIRD PARTIES**
+
+We contract with certain third-party service providers in order to operate and provide features through the Services. We may also allow third parties to place and read their own cookies, web beacons, and other technologies to collect information through the Services and those service providers may need access to your information, including personal data, to perform fulfillment and other services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.  
+
 The information collected and stored by third parties remains subject to their policies and practices. We do not control these third parties’ tracking technologies or how they may be used.
 
 You can find information about these service providers’ privacy policies and practices at the following URLs: 
@@ -69,28 +87,35 @@ You can find information about these service providers’ privacy policies and p
 | [Instabug](https://instabug.com/privacy) | [https://instabug.com/privacy](https://instabug.com/privacy) |
 | [Cloudinary](https://cloudinary.com/privacy) | [https://cloudinary.com/privacy](https://cloudinary.com/privacy) |
 | [AWS](https://aws.amazon.com/privacy/) | [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/) |
+| [RevenueCat](https://www.revenuecat.com/privacy/) | [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/) |
 |     |     |
 
 We may share your information when legally required to do so, at the request of governmental authorities conducting an investigation or by applicable law, rule or regulation, to verify or enforce compliance with our terms of service and any other policies governing the Services, or to protect against misuse or unauthorized use of the Services. 
 
-We also may disclose information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users or other third parties. In the event of a merger, consolidation, or other corporate reorganization in which we participate or a sale of all or substantially all of our stock and/or assets, we may transfer your personal data to the successor entity or purchaser.  
-   
-**LINKS TO THIRD-PARTY CONTENT  
-**   
-We may provide links to websites, software, or services owned or operated by third parties (“Third-Party Content”). We are providing these links to you as a convenience, and we do not verify, make any representations, or take any responsibility for such Third-Party Content, including, without limitation, the truthfulness, accuracy, quality, or completeness of the content, products, services, or information provided therein. The Third-Party Content is subject to the Policy of the third party. Your dealings and communications through the Services with any party other than us are solely between you and such third party.  
-   
-We encourage you to be aware when you leave the Services to read the privacy policy of each and every website that collects personally identifiable information. This Policy applies solely to information collected by us.  
+We also may disclose information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users or other third parties. In the event of a merger, consolidation, or other corporate reorganization in which we participate or a sale of all or substantially all of our stock and/or assets, we may transfer your personal data to the successor entity or purchaser.  
+
   
-**DO NOT TRACK SIGNALS  
-**  
-Third parties may keep track of your browsing activities across third party websites. California Business & Professions Code Section 22575(b) provides that California residents are entitled to know we respond to “Do Not Track” browser signals. Certain web browsers enable users to activate a “Do Not Track” signal but we do not currently respond to the “Do Not Track” signal or other similar mechanisms.  
+
+**LINKS TO THIRD-PARTY CONTENT**
+
+We may provide links to websites, software, or services owned or operated by third parties (“Third-Party Content”). We are providing these links to you as a convenience, and we do not verify, make any representations, or take any responsibility for such Third-Party Content, including, without limitation, the truthfulness, accuracy, quality, or completeness of the content, products, services, or information provided therein. The Third-Party Content is subject to the Policy of the third party. Your dealings and communications through the Services with any party other than us are solely between you and such third party.   We encourage you to be aware when you leave the Services to read the privacy policy of each and every website that collects personally identifiable information. This Policy applies solely to information collected by us.
+
   
+
+**DO NOT TRACK SIGNALS**
+
+Third parties may keep track of your browsing activities across third party websites. California Business & Professions Code Section 22575(b) provides that California residents are entitled to know we respond to “Do Not Track” browser signals. Certain web browsers enable users to activate a “Do Not Track” signal but we do not currently respond to the “Do Not Track” signal or other similar mechanisms.
+
+  
+
 **ACCESSING AND CORRECTING YOUR INFORMATION**
 
-If you wish to access, update, correct or delete any personal data in our possession that you have previously submitted via the App, you may log into your account and make updates. If you wish to make changes not available through your account settings, please contact us at [support@thisislex.app](mailto:mailto:support@thisislex.app).
+If you wish to access, update, correct or delete any personal data in our possession that you have previously submitted via the App, you may log into your account and make updates. If you wish to make changes not available through your account settings, please contact us at [support@lex.lgbt](mailto:mailto:support@lex.lgbt).
 
-**EEA AND U.K. DATA SUBJECTS  
-**  
+  
+
+**EEA AND U.K. DATA SUBJECTS**
+
 The General Data Protection Regulation (EU) 2016/679 or "GDPR" gives certain rights to individuals in the European Union (“EU”), the European Economic Area member states (“EEA”), and Switzerland, in relation to their personal data. As available and except as limited under applicable law, the rights afforded to individuals are:
 
 * Right of Access - the right to be informed of and request access to the personal data we process about you;
@@ -134,28 +159,30 @@ To manage your cookies on the Site:
 **   
 The internet is a global environment. Your information may be transferred to and maintained on computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction through cross-border data transfers (e.g., to the United States of America and other jurisdictions). By using the Services and/or communicating electronically with us, you acknowledge and agree to our processing of your information in this manner, and agree to be bound by all applicable privacy laws. We use reasonable safeguards to permit data transfers to these other jurisdictions and may implement standard contractual clauses, where required, with other companies, binding them to protect the privacy and security of your data. 
 
-**SECURITY**  
-  
-We use a variety of physical, electronic, and procedural safeguards to protect your personal data. However, no method of electronic storage or method of transmission over the internet or phone lines is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee the protection of any information against unauthorized access, disclosure, alteration, or destruction, or that any information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Consequently, when you transmit your personal data to us, you do so at your own risk.  
-   
-If you create an account via the App, your account information will be password-protected. It is important for you to protect against unauthorized access to your username and password, as well as to your smartphone or other mobile device. We request that you not communicate any confidential or sensitive information to us through email, social media, or any other means.  
-   
-If we learn of a security system breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Services or providing personal data to us, you agree that we can communicate with you electronically regarding security and privacy issues related to the Services. We will endeavor to provide notice to you of any security systems breach and efforts to restore the integrity of the Services in accordance with applicable law. If you become aware of any breach of data security or have any other questions about the security of the Services, please contact us at [support@thisislex.app](mailto:mailto:support@thisislex.app).  
-   
-The security of personal data also depends in part on the security of the smartphone or mobile device you use to communicate with us, the security you use to protect usernames and passwords, and the security provided by your internet service provider or mobile carrier. We are not responsible for the security of your internet service provider or mobile carrier.
+**SECURITY**
 
-**NOTICE TO CALIFORNIA RESIDENTS  
-**  
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a calendar year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please send an email to [support@thisislex.app](mailto:mailto:support@thisislex.app).  
+We use a variety of physical, electronic, and procedural safeguards to protect your personal data. However, no method of electronic storage or method of transmission over the internet or phone lines is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee the protection of any information against unauthorized access, disclosure, alteration, or destruction, or that any information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Consequently, when you transmit your personal data to us, you do so at your own risk.   If you create an account via the App, your account information will be password-protected. It is important for you to protect against unauthorized access to your username and password, as well as to your smartphone or other mobile device. We request that you not communicate any confidential or sensitive information to us through email, social media, or any other means.   If we learn of a security system breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Services or providing personal data to us, you agree that we can communicate with you electronically regarding security and privacy issues related to the Services. We will endeavor to provide notice to you of any security systems breach and efforts to restore the integrity of the Services in accordance with applicable law. If you become aware of any breach of data security or have any other questions about the security of the Services, please contact us at [support@lex.lgbt](mailto:mailto:support@thisislex.app).   The security of personal data also depends in part on the security of the smartphone or mobile device you use to communicate with us, the security you use to protect usernames and passwords, and the security provided by your internet service provider or mobile carrier. We are not responsible for the security of your internet service provider or mobile carrier.
+
   
-**CHILDREN’S PRIVACY  
-**   
-The Services are intended only for users 18 years of age or older (or 21 years of age or older in places where 18 is not the age of majority). We do not knowingly collect personally identifiable information from anyone under the age of majority. If we learn that a minor has provided personal data, we will comply with the Children’s Online Privacy and Protection Act (“COPPA”) to delete the information.  
+
+**NOTICE TO CALIFORNIA RESIDENTS**
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a calendar year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please send an email to [support@lex.lgbt](mailto:mailto:support@thisislex.app).
+
   
-**GOVERNING LAW  
-**   
-This Policy is governed by the laws of the State of New York, without giving effect to any choice of law provision or rule. Any dispute arising in connection with this Policy must be filed in the state or federal courts located in New York.  
-   
-**QUESTIONS OR CONCERNS  
-**   
-For questions or concerns about this Policy, please email us at [support@thisislex.app](mailto:mailto:support@thisislex.app).
+
+**CHILDREN’S PRIVACY**
+
+The Services are intended only for users 18 years of age or older (or 21 years of age or older in places where 18 is not the age of majority). We do not knowingly collect personally identifiable information from anyone under the age of majority. If we learn that a minor has provided personal data, we will comply with the Children’s Online Privacy and Protection Act (“COPPA”) to delete the information.
+
+  
+
+**GOVERNING LAW**
+
+This Policy is governed by the laws of the State of New York, without giving effect to any choice of law provision or rule. Any dispute arising in connection with this Policy must be filed in the state or federal courts located in New York.  
+
+  
+
+**QUESTIONS OR CONCERNS**
+
+For questions or concerns about this Policy, please email us at [support@lex.lgbt](mailto:mailto:support@lex.lgbt).
