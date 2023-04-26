@@ -3,7 +3,7 @@
 HER Terms and Conditions
 ------------------------
 
- ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.png)
 
 Of course! Here’s the reformatted version of the section with the unnecessary all caps sentences changed to sentence case:
 
@@ -43,7 +43,7 @@ The key terms that you should consider in particular detail are Sections:
 
 If you do not agree with all of the provisions of these terms, do not access and/or use the Services.
 
- ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.png)
 
 Information about HER and contact details
 -----------------------------------------
@@ -77,7 +77,7 @@ Persons under 18 are prohibited from providing personal information on our Websi
 Acceptable Use
 --------------
 
- ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
+ ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.jpg)
 
 You are responsible for your use of the Services, and for any use of the Services made using your Account. Our goal is to create a positive experience in connection with our Services. To promote this goal, we prohibit certain kinds of conduct that may be harmful to other Users or to HER.
 
@@ -97,7 +97,7 @@ When you use the Services, you agree that you will not:
 • Use any means to scrape or crawl any Web pages or Content contained in the Websites or Apps (although HER may allow operators of public search engines to use spiders to index materials from the Websites for the sole purpose of creating publicly available searchable indices of the materials, and HER reserves the right to revoke these exceptions either generally or in specific cases);  
 • Attempt to circumvent any technological measure implemented by HER or any of HER’s providers or any other third party (including another User) to protect the Websites or Apps; to the extent permitted by applicable law, attempt to decipher, decompile, disassemble, or reverse engineer any of the software used to provide the Websites or Apps; or advocate, encourage, or assist any third party in doing any of the foregoing.
 
- ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
+ ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.jpg)
 
 License
 -------
@@ -107,7 +107,7 @@ Subject at all times to this Agreement, if you elect to download the App, the fo
 Payments, HER Premium Plans and Cancellation
 --------------------------------------------
 
- ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
+ ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.jpg)
 
 • HER Free Services. If you don’t choose to purchase HER Premium, you can simply use HER for free.
 
@@ -135,12 +135,12 @@ By providing HER with your payment and/or financial information, you agree that 
 
 You represent and warrant that you have the legal right to use any payment card(s), payment means or other financial information that you provide. You will also be responsible for paying any applicable taxes relating to payments that you make or that you receive.
 
- ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
+ ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.jpg)
 
 Ownership & Copyright
 ---------------------
 
- ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.png)
 
 The parties agree that all proprietary rights in the Services are and will remain the property of HER. This includes non-personally identifiable aggregate data collected by HER in connection with providing the Services, as well as usage statistics and traffic patterns, any and all rights, title and interest to which are hereby assigned to HER by you.
 
@@ -160,7 +160,7 @@ You agree not to interfere or take action that results in interference with or d
 
 • You acknowledge and agree that you are solely responsible for all of Your Materials that you make available through the Services. You represent and warrant that: (1) you either are the sole and exclusive owner of all of Your Materials that you make available through the Services or you have all rights, licenses, consents and releases that are necessary to grant to HER (or any other User as applicable) the rights in Your Materials
 
- ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.png)
 
 Disclaimer; Limitation of Liability and Indemnification
 -------------------------------------------------------
@@ -233,7 +233,7 @@ The Services are controlled by the dating app from its facilities in the United 
 Third Party Links & App Store
 -----------------------------
 
- ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.jpeg)
 
 ### Third-Party Links & Ads
 
@@ -263,7 +263,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 
 • Without limiting any other terms in this Agreement, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
 
- ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
+ ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.jpeg)
 
 Termination
 -----------
