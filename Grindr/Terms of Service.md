@@ -3,7 +3,7 @@
 
 Introduction
 
-Welcome to Grindr LLC’s (“Grindr”, “We”, “Us”, “Our”) mobile device software application (the “Grindr Software”), website, and any other mobile or web services or applications owned, controlled, or offered by Grindr now or in the future (collectively, the “Grindr Services”). For clarity, any reference herein to “Grindr Services” includes the “Grindr Software.” Users who access, download, use, purchase and/or subscribe to the Grindr Services (collectively or individually “You” or “Your” or “User” or “Users”) must do so under the following Terms and Conditions of Service (this “Agreement”).
+Welcome to Grindr LLC’s (“Grindr”, “We”, “Us”, “Our”) mobile device software and web application (the “Grindr Software”), website, and any other mobile or web services or applications owned, controlled, or offered by Grindr now or in the future (collectively, the “Grindr Services”). For clarity, any reference herein to “Grindr Services” includes the “Grindr Software.” Users who access, download, use, purchase and/or subscribe to the Grindr Services (collectively or individually “You” or “Your” or “User” or “Users”) must do so under the following Terms and Conditions of Service (this “Agreement”).
 
 This Agreement provides the rules for your use of the Grindr Services — designed to create a safe, authentic, and law-abiding community for our users.  By using the Grindr Services, you are agreeing to be bound by the terms of this Agreement, including our [Privacy Policy](https://www.grindr.com/privacy-policy/), so it is important that you read this agreement carefully before you create an account.  We may also update this Agreement from time to time, so please check back regularly for updates.  In addition, please note that, by using the Grindr Services, you agree that we may use your personal data as set forth in [Our Privacy Policy](https://www.grindr.com/privacy-policy/).
 
@@ -18,10 +18,10 @@ A notice to California subscribers: You may cancel your subscription and request
 We recommend that you save a copy of this Agreement for your records.  You may receive a copy of this Agreement by emailing Us at: , Subject: Terms of Service Agreement.
 
 1. **AGE RESTRICTIONS AND SAFETY**.
-    1. NO USE BY UNDERAGE PERSONS. The Grindr Services are intended ONLY for legal adults. NO PERSONS UNDER THE AGE OF EIGHTEEN (18) YEARS (OR TWENTY-ONE (21) YEARS IN PLACES WHERE EIGHTEEN (18) YEARS IS NOT THE AGE OF MAJORITY) SHOULD ATTEMPT, DIRECTLY OR INDIRECTLY, TO VIEW, DOWNLOAD, POSSESS, OR OTHERWISE USE THE GRINDR SERVICES.
-    2. YOU MUST BE A LEGAL ADULT. BY ACCEPTING THIS AGREEMENT, CREATING A USER ACCOUNT (AS DEFINED BELOW), AND ENTERING A DATE OF BIRTH FOR AGE VERIFICATION PURPOSES, YOU AFFIRMATIVELY REPRESENT AND WARRANT THAT:
-        * YOU ARE CURRENTLY EIGHTEEN (18) YEARS OF AGE OR OVER (OR TWENTY-ONE (21) YEARS IN PLACES WHERE EIGHTEEN (18) YEARS IS NOT THE AGE OF MAJORITY);
-        * YOU ARE CAPABLE OF LAWFULLY ENTERING INTO AND PERFORMING ALL THE OBLIGATIONS SET FORTH IN THIS AGREEMENT;
+    1. NO USE BY UNDERAGE PERSONS. The Grindr Services are intended ONLY for legal adults. NO PERSONS UNDER THE AGE OF EIGHTEEN (18) YEARS (OR THE AGE OF MAJORITY IN PLACES WHERE EIGHTEEN (18) YEARS IS NOT THE AGE OF MAJORITY) MAY ATTEMPT, DIRECTLY OR INDIRECTLY, TO VIEW, DOWNLOAD, POSSESS, OR OTHERWISE USE THE GRINDR SERVICES.
+    2. YOU MUST BE A LEGAL ADULT. BY ACCEPTING THIS AGREEMENT, CREATING A USER ACCOUNT (AS DEFINED BELOW), AND ENTERING A DATE OF BIRTH FOR AGE VERIFICATION PURPOSES, YOU AFFIRMATIVELY REPRESENT AND WARRANT THAT:
+        * YOU ARE CURRENTLY EIGHTEEN (18) YEARS OF AGE OR OVER (OR THE AGE OF MAJORITY IN PLACES WHERE EIGHTEEN (18) YEARS IS NOT THE AGE OF MAJORITY);
+        * YOU ARE CAPABLE OF LAWFULLY ENTERING INTO AND PERFORMING ALL THE OBLIGATIONS SET FORTH IN THIS AGREEMENT;
         * YOU ARE NOT LOCATED IN A COUNTRY THAT IS SUBJECT TO A U.S. GOVERNMENT EMBARGO, OR THAT HAS BEEN DESIGNATED BY THE U.S. GOVERNMENT AS A “TERRORIST SUPPORTING” COUNTRY; AND
         * YOU ARE NOT ON ANY LIST OF U.S. GOVERNMENT LIST OF PROHIBITED OR RESTRICTED LISTS.
 2. **SAFETY; YOUR INTERACTIONS WITH OTHER MEMBERS; NO CRIMINAL BACKGROUND OR IDENTITY VERIFICATION CHECKS**.  PLEASE NOTE THAT GRINDR DOES NOT CONTROL ANY OF THE THINGS OUR USERS SAY OR DO.  YOU ARE SOLELY RESPONSIBLE FOR YOUR USE OF THE GRINDR SERVICES AND YOUR INTERACTIONS WITH OTHER USERS (WHETHER ON OR OFF THE GRINDR SERVICES).  GRINDR MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT, IDENTITY, INTENTIONS, LEGITIMACY, OR VERACITY OF ANY USERS.
@@ -311,4 +311,4 @@ We recommend that you save a copy of this Agreement for your records.  You may
     5. Termination of account. Please note that Grindr reserves the right, in its sole discretion, to terminate the account or access of any user of the app, who is the subject of repeated infringement notifications.
     6. Changes. Grindr will inform its users of any modifications to these Terms by posting them on the website. If You have registered with Grindr, we will describe the modifications to these Terms in an email and will send to the email address associated with Your account.
 
-**Effective Date: The earlier of July 6, 2022, or user acceptance.**
+**Effective Date: The earlier of March 31, 2023, or user acceptance.**
