@@ -311,4 +311,4 @@ We recommend that you save a copy of this Agreement for your records.  You may
     5. Termination of account. Please note that Grindr reserves the right, in its sole discretion, to terminate the account or access of any user of the app, who is the subject of repeated infringement notifications.
     6. Changes. Grindr will inform its users of any modifications to these Terms by posting them on the website. If You have registered with Grindr, we will describe the modifications to these Terms in an email and will send to the email address associated with Your account.
 
-**Effective Date: The earlier of March 31, 2023, or user acceptance.**
+**Effective Date: The earlier of April 30, 2023, or user acceptance.**
