@@ -1,270 +1,268 @@
-Badoo’s Terms and Conditions of Use
-===================================
+Conditions d'utilisation de Badoo
+=================================
 
-If you live outside the United States, these Terms and Conditions apply to you. If you live in the United States, the Badoo Terms and Conditions available [here](https://badoo.com/en-us/terms/) apply to you.
+Si vous habitez en dehors des États-Unis, les présentes Conditions d'utilisation s'appliquent à vous. Si vous habitez aux États-Unis, les conditions générales de Badoo disponibles [ici](https://badoo.com/en-us/terms/) s'appliquent à vous.
 
-The Summary
------------
+Résumé
+------
 
-Hello. You should read these terms and conditions in full because they apply every time you visit Badoo and use any of its features. However, just in case you ever need a reminder of the main points, here’s a quick summary:
+Merci de bien vouloir lire attentivement l'intégralité des présentes Conditions générales d'utilisation car elles s'appliquent lors de chaque connexion au site Badoo et dès que vous y utilisez l’une de ses fonctionnalités. Voici un résumé des points essentiels abordés :
 
-1. If you are under the age of 18 then unfortunately you can’t use Badoo yet because it’s a meeting place for adults only.
-2. We’re not responsible for anything that you post or say while you are on Badoo and we don’t monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
-3. If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
-4. Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
-5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here](https://badoo.com/privacy/#cookies). You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+1. l’accès à Badoo est interdit aux personnes physiques de moins de 18 ans car c’est un réseau social réservé aux adultes.
+2. la société Badoo ne peut être tenue pour responsable de l’ensemble des publications ou déclarations faites sur le site. Nous ne surveillons pas le contenu publié sur le site. Toutefois, si nous remarquons ou si un utilisateur nous signale du contenu que nous jugeons inapproprié, nous nous réservons le droit de le supprimer.
+3. si vous publiez du contenu ne vous appartenant pas, sans l’aval de son propriétaire et que ce dernier s’y oppose (ou fait appel à un avocat), notre responsabilité ne saurait être engagée. Vous devez assumer l’entière responsabilité de ce que vous publiez.
+4. Veuillez également consulter notre charte de la communauté et nos conseils sur la sécurité pour de plus amples informations sur la protection de votre vie privée.
+5. Pour savoir comment Badoo utilise vos données personnelles, veuillez consulter notre [Politique de confidentialité](https://badoo.com/privacy/). Vous y trouverez des informations sur la manière dont nous traitons vos données personnelles et protégeons votre confidentialité lorsque vous utilisez Badoo. En utilisant Badoo, vous acceptez que nous utilisions de telles données conformément à notre Politique de confidentialité. Notre site web et nos applications utilisent également des cookies ou des technologies similaires. Pour en savoir plus sur ces derniers, cliquez [ici](https://badoo.com/privacy/#cookies). Vous avez toujours la possibilité de bloquer les cookies et autres stockages de données dans votre navigateur ou dans les paramètres de votre mobile, mais cela restreindrait votre accès à certaines fonctionnalités de Badoo.
 
-The full legal bit
-------------------
+Mentions légales complètes
+--------------------------
 
-Badoo is a social media website and app designed as a forum for meeting new people, a place to have discussions and to share photos, news and information. It is intended to be a fun place to visit and it is important to us (and for you) that it remains a safe and friendly environment so you agree that you will only use Badoo in a manner consistent with its purpose and which is in accordance with these terms and conditions, as well as the Badoo Community Guidelines and Safety Tips (the “**Terms**”). When we mention Badoo, we mean www.badoo.com, together with affiliated websites and applications.
+\>Le site et l'application Badoo sont un réseau social conçu comme un forum où vous pouvez rencontrer de nouvelles personnes, discuter et partager des photos, des nouvelles et des informations. Il est destiné à être un endroit sympathique à visiter et il est important pour nous (et pour vous) qu'il reste un environnement sûr et convivial.Vous acceptez donc de n'utiliser Badoo que d'une manière conforme à son objectif et conforme avec ces termes et conditions, ainsi que les directives de la communauté Badoo et les conseils de sécurité (les « **Conditions** »). Lorsque nous mentionnons Badoo, nous entendons www.badoo.com, ainsi que les sites Web et applications affiliés.
 
-The Terms constitute a binding legal agreement between you as user (“**you**”) and the Badoo Group (“we” or “us”). The Badoo Group includes, but is not limited to, Badoo Trading Limited (an English company whose registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS), Social Online Payments Limited (a company incorporated in Ireland under company number 496494) and Social Online Payments, Inc. (a company incorporated in Delaware under company number 5214252).
+Les Conditions constituent un accord juridique contraignant entre vous en tant qu'utilisateur (« **vous** ») et le groupe Badoo (« nous »). Le groupe Badoo comprend, mais sans s'y limiter, Badoo Trading Limited (une société anglaise dont le siège social est situé à The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS), Social Online Payments Limited (une société constituée en Irlande sous numéro d'entreprise 496494) et Social Online Payments, Inc. (une société constituée dans le Delaware sous le numéro d'entreprise 5214252).
 
-The Terms apply whenever you visit Badoo, whether or not you have chosen to register with us, so please read them carefully. By accessing, using, registering for or receiving services offered on Badoo you are accepting and agreeing to be bound by the Terms.
+Les conditions s'appliquent chaque fois que vous visitez Badoo, que vous ayez choisi ou non de vous inscrire, donc veuillez les lire attentivement. En accédant, en utilisant, en vous inscrivant ou en recevant des services proposés sur Badoo, vous acceptez et acceptez d'être lié par les Conditions.
 
-IF YOU DO NOT ACCEPT AND AGREE TO THE TERMS THEN YOU MUST NOT ACCESS OR USE THE APP OR SITE.
+SI VOUS N'ACCEPTEZ PAS ET N'ACCEPTEZ PAS LES CONDITIONS, VOUS NE DEVEZ PAS ACCÉDER OU UTILISER LES APP OU SITE.
 
-1\. Use of the app and site and rules relating to Content
----------------------------------------------------------
+1\. Utilisation du site et de l'application, et règles relatives au contenu
+---------------------------------------------------------------------------
 
-### Who can use Badoo?
+### Qui peut utiliser Badoo ?
 
-Badoo is a meeting place for adults. You may only use Badoo, including any of its features, or become a registered member if you are 18 years old or older (or the age of majority in the country in which you reside if that happens to be greater than 18).
+Badoo est un lieu de rencontre pour les adultes. Vous ne pouvez utiliser Badoo, y compris l'une de ses fonctionnalités, ou devenir membre enregistré que si vous avez (i) 18 ans ou plus et (ii) êtes légalement autorisé à utiliser Badoo par les lois de votre pays d'origine.
 
-You warrant that you have the right, authority and capacity to enter into and be bound by the Terms and that by using Badoo you will not be violating any law or regulation of the country in which you are resident. You are solely responsible for your compliance with all applicable local laws and regulations.
+Vous garantissez que : (i) vous avez le droit, l'autorité et la capacité d'être lié(e) par les Conditions, (ii) toutes les informations d'inscription que vous fournissez sont exactes et complètes, et (iii) qu'en utilisant Badoo vous ne violerez aucune loi ou réglementation du pays dans lequel vous résidez. Vous êtes l'unique responsable de votre conformité à toutes les lois et réglementations locales applicables.
 
-You further warrant that you have not been convicted of, nor are subject to any court order relating to assault, violence, sexual misconduct or harassment.
+Vous garantissez en outre que vous n’avez pas été condamné(e) ni soumis(e) à une décision judiciaire relative à des voies de fait, de la violence, de l’inconduite sexuelle ou du harcèlement.
 
-### What kind of content can I post or upload on Badoo?
+### Quel type de contenu puis-je publier sur Badoo ?
 
-You are able to post or upload all kinds of things on Badoo, including photographs, emails, messages and other content (“**Content**”).
+Vous pouvez publier toutes sortes de choses sur Badoo, notamment des photos, des messages et d’autres contenus («**Contenu**»).
 
-There are some rules about what is acceptable though, so when you are using Badoo you may not post, send or upload any Content which:
+Il y a tout de même des règles à respecter. C’est pourquoi, lors de l’utilisation de Badoo, vous vous engagez à ne pas publier ou envoyer de Contenu :
 
-1. contains expletives or language which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
-2. is obscene, pornographic or otherwise may offend human dignity;
-3. is abusive, insulting or threatening, or which promotes, depicts or encourages violence, self-harm, suicide, racism, sexism, hatred or bigotry;
-4. encourages any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offence;
-5. is defamatory;
-6. relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-7. involves the transmission of “junk” mail or “spam”;
-8. impersonates a person, company or brand with the intent to deceive or confuse others;
-9. contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal data whether from Badoo or otherwise;
-10. itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
-11. shows another person where such Content was created or distributed without that person’s knowledge, and without that person having been afforded an opportunity to refuse such creation or distribution; or
-12. contains images of children, even if you are also in the photo, or endangers minors.
+1. qui contienne des jurons ou qui soit écrit d'une façon qui pourrait être considérée comme injurieuse ou susceptible de harceler, contrarier, gêner, inquiéter ou ennuyer autrui ;
+2. obscène, pornographique ou susceptible de porter atteinte à la dignité humaine ;
+3. injurieux, insultant ou menaçant, promouvant, montrant ou encourageant la violence, l'infliction de blessures à soi-même, le suicide, ou encore incitant au racisme, au sexisme, à la haine ou au fanatisme ;
+4. encourageant toute activité illégale, y compris, mais sans s’y limiter, le terrorisme ou l’incitation à la haine raciale, ou dont la publication constitue une infraction pénale ;
+5. à caractère diffamatoire ;
+6. lié à des activités commerciales (y compris, mais sans s’y limiter, les ventes, les concours et la publicité, ainsi que les liens vers d'autres sites ou vers des numéros de téléphones surtaxés) ;
+7. impliquant la transmission de courrier indésirable ou non sollicité (spams)
+8. qui usurpe l'identité d'une personne, d'une entreprise ou d'une marque avec l'intention de tromper ou de dérouter les autres ;
+9. qui contienne des logiciels espions, des logiciels publicitaires, des virus, des fichiers corrompus, des vers ou d’autres codes malveillants conçus pour interrompre, endommager ou limiter le fonctionnement des logiciels, du matériel, des télécommunications, des réseau, des serveurs ou de tout autre équipement, ou qui contienne des chevaux de Troie ou tout autre matériel conçu pour endommager, modifier, intercepter ou exproprier des données ou des informations personnelles, qu'elles appartiennent à Badoo ou à un tiers ; et
+10. qui, par lui-même ou par sa publication, viole les droits d'un tiers (y compris, mais sans s’y limiter, les droits de propriété intellectuelle et le droit au respect de la vie privée) ; ou
+11. qui montre une autre personne sans que cette dernière n'ait consenti à sa distribution, sans qu'elle ne soit au courant, et sans qu'elle n'ait eu l'occasion de refuser une telle création ou distribution ; ou
+12. qui comprennent des images d'enfants, même si vous apparaissez vous-même sur la photo, ou qui mettent des mineurs en danger
 
-Please use your common sense when picking the Content that you choose to post on, upload or send via Badoo because you are solely responsible for, and bear all liability in relation to, such Content.
+Nous vous saurions gré de bien vouloir faire preuve de bon sens lors du choix du Contenu que vous publiez et envoyez sur Badoo, car vous en assumez l’entière responsabilité.
 
-We use a combination of automated systems and a team of moderators to monitor and review accounts and messages for content that indicates breaches of these Terms. If you repeatedly infringe our rules, you may be prevented from using Badoo and we may restrict your access to Badoo, disable your account or block you from further use of Badoo. We may remove any Content you submit to Badoo if we believe it violates the Terms or we are required to do so by applicable law.
+Nous utilisons une combinaison de systèmes automatisés et d'une équipe de modérateurs pour surveiller et examiner les comptes et les messages afin de détecter tout contenu indiquant des violations de ces Conditions. Si vous enfreignez ces règles de manière répétée, nous pourrions être amenés à restreindre votre accès à Badoo, à désactiver votre compte ou à vous bloquer de Badoo. Nous pourrons supprimer le Contenu que vous avez publié sur Badoo si nous jugeons qu'il enfreint nos Conditions, ou si la loi nous y oblige.
 
-### Are there any rules relating to personal data like my email address?
+### Y a-t-il des règles relatives aux données personnelles comme mon adresse e-mail ?
 
-You may not display any personal contact or banking information on your individual profile page (“**Profile**”) whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details, or place of work). If you do choose to reveal any personal data about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances. You are required to follow our [Guidelines and Safety Tips](https://badoo.com/guidelines/) when doing so.
+Vous n’êtes pas autorisé à communiquer d’informations personnelles ou bancaires (telles que les noms, adresses postales, numéros de téléphone, adresses e-mail, URL, informations de carte de débit/crédit ou autres coordonnées bancaires, ainsi que le lieu de travail) sur votre page de profil (« **Profil** »), qu'il s'agisse des vôtres ou de celle d’un tiers. Si vous choisissez de divulguer vos informations personnelles à d'autres utilisateurs, que ce soit par e-mail ou autrement, vous le faites à vos propres risques. Nous vous invitons à faire preuve de la même prudence que dans d’autres circonstances lorsque vous divulguez des informations vous concernant à des tiers en ligne. Nous vous invitons à prendre connaissance de nos [Conseils de sécurité](https://badoo.com/guidelines/).
 
-### What about other people’s personal data, can I use it?
+### Puis-je utiliser les données personnelles d’autres utilisateurs ?
 
-You may only use other Badoo users’ personal data to the extent that your use of it matches Badoo’s purpose of allowing people to meet one another. You may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Badoo reserves the right to terminate your account, or prevent access to its features if you misuse other users' information.
+Vous pouvez uniquement utiliser les informations personnelles d'autres utilisateurs de Badoo dans le but de faire de nouvelles connaissances. Il vous est strictement interdit d’utiliser les informations personnelles d’autres utilisateurs à des fins commerciales, pour leur envoyer des spams, les harceler ou les menacer. Badoo se réserve le droit de fermer votre compte, ou de limiter l'accès à ses fonctionnalités, en cas d’usage abusif des informations d’autres utilisateurs.
 
-### Who can see the Content that I put on Badoo?
+### Qui a accès au Contenu que je publie sur Badoo ?
 
-When you upload Content to Badoo it can be accessed and viewed by the general public. If you do not want such Content to be viewed by others, then you can opt to use the private folders and select the person to whom you wish to give access. If you still do not want such Content to be viewed by others, then you should not upload it to Badoo. We reserve the right (without obligation) at our sole discretion and without giving you notice, to remove or edit, limit or block access to any Content that you upload or submit to Badoo without any incurring liability to you. We have no obligation to display any Content that you submit to Badoo, nor to check the accuracy or truthfulness of any Content submitted to Badoo, nor to monitor your use or the use of other users of Badoo.
+Lorsque vous téléchargez du Contenu sur Badoo, tous les utilisateurs peuvent le consulter. Vous pouvez en limiter l’accès en choisissant d'utiliser les dossiers privés et en sélectionnant la ou les personnes autorisées à y accéder. Si vous ne voulez pas que votre Contenu soit accessible à d'autres utilisateurs, vous ne devez pas le publier sur Badoo. Si vous décidez de partager les résultats des votes (que ce soit les vôtres ou ceux d'autres utilisateurs) sur d'autres réseaux sociaux, les utilisateurs de ces réseaux sociaux pourront les voir. Vous pouvez désactiver le partage des résultats à tout moment dans vos paramètres. Pensez à consulter les Conditions générales de ces réseaux sociaux pour vous assurer que vous les acceptez. Nous nous réservons le droit, à notre entière discrétion, sans préavis et sans aucune responsabilité à votre égard, de supprimer ou modifier tout Contenu que vous téléchargez ou publiez sur Badoo, ou d’en limiter ou bloquer l'accès. Nous n'avons aucune obligation d’afficher le Contenu que vous soumettez à Badoo, ni de vérifier son exactitude ou sa véracité, ni de surveiller l’utilisation que vous en faites ou que d'autres utilisateurs de Badoo en font.
 
-### Anything else I need to know?
+### Autre chose ?
 
-When you use Badoo you agree to the Terms, and in return we grant you a limited, personal, non-exclusive and non-transferable licence to use and to upload Content and to use Badoo solely for your personal use. Apart from this licence, you have no other rights in the use of the site, app, or its Content or features, and you may not modify, edit, copy, reproduce, create derivative works of, reverse engineer, alter, enhance or in any way exploit any of the site or Content in any manner. If you breach any of the Terms, the above licence will terminate automatically and you must immediately destroy any downloaded or printed Content.
+En utilisant Badoo, vous en acceptez les Termes et Conditions. En contrepartie, nous vous garantissons une licence limitée, personnelle, non exclusive et non transférable pour utiliser et publier du Contenu seulement à but personnel. En dehors de la cette licence, vous ne bénéficiez d'aucun autre droit d'utiliser le site, l'application ou son Contenu et ses fonctionnalités. Vous ne pouvez pas modifier, copier, reproduire, créer des œuvres dérivées, inverser, altérer, améliorer ou exploiter le site ou son Contenu de quelque manière que ce soit. En cas de non-respect de ces Conditions, la licence susmentionnée sera automatiquement révoquée et vous devrez immédiatement détruire tout Contenu téléchargé ou imprimé.
 
-2\. Ownership of Content
+2\. Propriété du Contenu
 ------------------------
 
-### Once I have uploaded Content on Badoo, do I still own it?
+### Suis-je toujours propriétaire du Contenu une fois que je l’ai mis en ligne sur Badoo ?
 
-Yes (provided you are the rightful owner in the first place - please see our other rules regarding posting Content that doesn’t belong to you).
+Oui, à condition que vous en soyez le propriétaire légitime (merci de prendre connaissance de nos règles concernant la publication de Contenu qui ne vous appartient pas).
 
-Please note though that by posting, uploading or sending Content on Badoo you represent and warrant to us that:
+En publiant ou en envoyant du Contenu sur Badoo, vous déclarez et garantissez :
 
-1. you are either the exclusive author or owner of that Content and in all cases you agree that you waive any and all moral rights relating to that Content (including, without limitation, any rights to be identified as the author);
-2. you have been granted a licence that allows you to use, post or upload the Content; or
-3. you have obtained appropriate consent or authority to use, post or upload such Content.
+1. en être l'auteur ou le propriétaire exclusif, et en tous cas vous renoncez à tout droit moral en rapport avec le Contenu (ce qui inclut, sans s'y limiter, tous les droits d'identification en tant qu'auteur) ;
+2. détenir l'autorisation ou la licence appropriée pour utiliser ou publier le Contenu ;
+3. détenir le consentement ou l'autorité pour utiliser ou publier le Contenu ;
 
-Please note that by posting, uploading or sending Content on Badoo you represent and warrant to us that you have the right to do so, and automatically grant to us a non-exclusive, royalty free, perpetual, worldwide licence to use such Content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such Content, whether in whole or in part and in any format or medium currently known or developed in the future).
+En publiant du Contenu sur Badoo, vous nous garantissez avoir le droit de le faire, et vous nous accordez automatiquement une licence non exclusive, libre de droits, perpétuelle et internationale pour utiliser ce Contenu de quelque façon que ce soit (y compris, mais sans s’y limiter, via l'édition, la copie, la modification, l’adaptation, la traduction, le reformatage, la création d'œuvres dérivées, l'intégration dans d'autres œuvres, la publicité, la distribution et toute autre forme de mise à la disposition du public de ce Contenu, que ce soit en tout ou en partie et dans n'importe quel format ou sur n’importe quel support existant ou mis au point à l’avenir).
 
-We may assign and/or sub-license the above licence to our affiliates and successors without any further approval by you.
+Nous sommes autorisés à attribuer et/ou concéder en sous-licence la licence susmentionnée à nos affiliés et ayants droit, sans autre approbation de votre part.
 
-We have the right to disclose your identity to any third party who is claiming that any Content posted or uploaded by you to our app or site constitutes a violation of their intellectual property rights or of their right to privacy or any other law.
+Nous nous réservons le droit de divulguer votre identité à tout tiers déclarant que tout Contenu publié ou téléchargé par vous sur notre site ou notre application constitue une violation de ses droits de propriété intellectuelle, de son droit au respect de la vie privée ou de toute autre loi.
 
-### Who does the rest of the Content on Badoo belong to then?
+### À qui appartient le reste du Contenu publié sur Badoo ?
 
-Us! All text, graphics, user interfaces, trademarks, logos, sounds and artwork on Badoo are owned, controlled or licensed by us and are protected by copyright, trademark and other intellectual property law rights.
+Il appartient à Badoo. Le reste du Contenu, dont les textes, graphiques, interfaces utilisateur, marques, logos, sons et illustrations, ainsi que le logiciel et les bases de données de Badoo, sont détenus, contrôlés ou cédés sous licence par Badoo et nos fournisseurs, et sont protégés par les lois sur le droit d’auteur, les marques de commerce, les droits des bases de données et/ou les autres droits de propriété intellectuelle.
 
-### Can I use any of the Content that doesn’t belong to me?
+### Puis-je utiliser une partie du Contenu qui ne m’appartient pas ?
 
-Other than in relation to Content submitted by you to Badoo, you do not have any rights in relation to the Content on Badoo and you agree that you will not use any Content in any manner which may infringe ours or any third party’s rights. This means that you agree that you will not copy, modify, adapt, distribute, publish or sell all or any part of the Badoo site or the Content contained on it (other than the Content submitted by you) to anyone else.
+Vous disposez uniquement de droits sur le Contenu que vous soumettez à Badoo. Aucun droit sur le Contenu disponible sur Badoo ne vous est reconnu et vous vous engagez à ne pas l’utiliser de quelque manière que ce soit qui pourrait porter atteinte aux droits d'un tiers. Sans limiter la portée de ce qui précède, cela signifie que vous acceptez de ne pas copier, modifier, adapter, distribuer, publier ou vendre tout ou partie du site Badoo ou de son Contenu (autre que le Contenu que vous avez publié).
 
-3\. Paid for services
----------------------
-
-### What can I buy on Badoo?
-
-Badoo offers you the opportunity to pay for certain services offered on the site. Badoo’s premium services include various opportunities to find and meet additional people, to customise your profile and to boost your profile so more people find you. Badoo also offers the ability to play various games on the site. All of these premium services can be purchased after you register, and you may subscribe to the premium services for various lengths of time.
-
-Once you have paid for any premium services, you have the right to cancel and be reimbursed for all payments received within 14 days. If you wish to cancel please let us know via [Feedback Page](https://badoo.com/feedback/). Please note that if you choose to download any of the Content which forms part of any paid for service within the 14 day period, you may lose this right. After the 14 days have expired, the paid for services are non-refundable.
-
-You can change your Auto Top-up at anytime in your payment settings on your profile page. The pricing may vary due to a number of factors, such as (but not limited to) promotional offers, loyalty bonuses and other discounts.
-
-Paid for services are not available in sanctioned countries.
-
-### How do I renew my premium services with Badoo?
-
-Once you have requested a Badoo premium service, you authorise Badoo to charge your chosen payment method. If you want to cancel or change your payment method at any time, you can do either via the payment settings option under your profile or by contacting your mobile service provider. If your chosen payment method is via your mobile service provider, then please check with them about their payment terms, as their payment terms will govern how payments to Badoo are made as well as how such payments may be changed or cancelled. Your subscription to Badoo’s premium services will automatically renew until you decide to cancel, and if you have enabled the Auto Top-up feature, your account will automatically be topped up until you decide to disable this feature.
-
-### Can I transfer any of my paid for services to another Badoo user?
-
-If you elect to partake in any of the games, premium features or range of services designed to improve your Badoo user experience, you agree to use these services for yourself and not to transfer (for free or as a sale) to or purchase, or sell such services from other Badoo users. Badoo reserves the right not to honour any paid for services where you have attempted to transfer those services to another use or you have attempted to buy those services from another user. Badoo will only provide paid for services to you if you are the person to whom it was issued.
-
-### Do my credits last forever?
-
-No. We reserve the right to expire any unused credits expire 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
-
-Please refer to the Service Conditions on your ‘top-up’ page for further details relating to your payments.
-
-4\. Access to the app and site
-------------------------------
-
-### Do you guarantee that Badoo will be up and running at all times?
-
-Unfortunately we can’t guarantee that because sometimes we have to carry out maintenance to the app or site or they may be affected by a fault or circumstances which are outside our control, so Badoo is provided on an “as is” “as available” basis. No warranty is given about the quality, accuracy, functionality, availability or performance of Badoo and we reserve the right to suspend, withdraw, amend, modify or vary the service provided on Badoo without notice and without incurring any liability to you.
-
-### What about mobile access?
-
-You are responsible for making all the necessary arrangements to ensure you can access Badoo (including, but not limited to Internet provider and mobile internet provider fees and, any other charges associated with such access). We shall not be held responsible for any reduced functionality you may encounter as result of or in connection with accessing Badoo through mobile services or any similar service currently known or developed in the future.
-
-By accessing Badoo or agreeing to receive messages or notifications from Badoo through your mobile phone and/or any other connected media device, you accept that you may incur charges from your internet or mobile service provider. We shall not under any circumstances be liable for such charges.
-
-### I’m not registered and I can’t seem to access some Content or features on the app or site. Why is that?
-
-Non-registered users are able to access only that portion of Badoo that is publicly available. They will not have a Profile but may have limited ability to upload any Content. The extent of registered users’ access to Badoo will depend on certain criteria relating to their Profile being met. We may change or update the criteria from time to time without prior notice and at our discretion.
-
-5\. Termination of use by you
------------------------------
-
-### They say that you can have too much of a good thing... what do I do if I want to “unregister” myself from Badoo?
-
-If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
-
-Content that you have uploaded to Badoo, other than your Profile (such as comments or email messages), may still appear on Badoo following termination of your registration.
-
-6\. Abuse/Complaints
+3\. Services payants
 --------------------
 
-### Someone is not obeying the Terms, who do I tell?
+### Que puis-je acheter sur Badoo ?
 
-You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/feedback/), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
+Badoo vous propose sur son site un certain nombre de services payants. Les services premium de Badoo offrent différents moyens pour trouver et rencontrer plus de personnes, de personnaliser votre profil et d’augmenter votre popularité afin d’être plus visible sur le site. Divers jeux sont également proposés sur le site. Vous pouvez acheter tous ces services premium après votre inscription, et des abonnements de différentes durées sont disponibles.
 
-We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the European Commission’s online dispute resolution platform [here](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+Une fois que vous avez payé pour l’un des services premium, vous avez le droit d'annuler et d'être remboursé(e) pour tout paiement reçu dans les 14 jours précédents. Si vous désirez annuler, veuillez nous le faire savoir via notre page [Contact](https://badoo.com/feedback/). Si vous téléchargez du Contenu faisant partie d'un service payé dans la période de 14 jours, vous pourrez perdre ce droit. Passés 14 jours, tout service payé ne sera pas remboursable.
 
-### Are other users vetted?
+Vous pouvez désactiver la recharge automatique à tout moment, en vous rendant dans vos paramètres de facturation sur votre profil. Les prix peuvent varier en fonction d'un certain nombres de facteurs, y compris (mais sans s'y limiter) les offres promotionnelles, les récompenses de fidélité et les éventuelles promotions.
 
-NO. YOU UNDERSTAND THAT IN THE ORDINARY COURSE OF BADOO’S OPERATIONS, BADOO GROUP DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON ITS USERS OR OTHERWISE REGULARLY INQUIRE INTO THE BACKGROUNDS OF ITS USERS OR ATTEMPT TO VERIFY THE STATEMENTS OF ITS USERS. BADOO GROUP MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF ANY USERS OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS. BADOO GROUP RESERVES THE RIGHT TO CONDUCT ANY CRIMINAL BACKGROUND CHECK OR OTHER SCREENINGS (SUCH AS SEX OFFENDER REGISTER SEARCHES) AT ANY TIME AND TO USE AVAILABLE PUBLIC RECORDS FOR ANY PURPOSE.
+Les services payants ne sont pas disponibles dans les pays sanctionnés.
 
-We don’t control any of the things our users say or do. Though we set and enforce our Terms of Service and take steps to try to prevent misbehaviour in the Badoo community, **we do not owe you a duty to protect you from any type of harm caused by other users.** You are solely responsible for your interactions with other users of Badoo.
+### Comment puis-je renouveler mes services premium sur Badoo ?
 
-You agree to, and hereby do, to the maximum extent permissible under applicable law, release Badoo Group and its affiliates, and their respective officers, directors, employees, agents, representatives and successors from any claims, demands, losses, damages, rights, and actions of any kind, including personal injuries, death and property damage, that either directly or indirectly arises from your interactions with or conduct of other users of Badoo.
+Lorsque vous vous abonnez à un service premium de Badoo, vous autorisez Badoo à vous facturer en fonction du mode de paiement choisi. À tout moment, vous pouvez, si vous le souhaitez, annuler ou modifier votre mode de paiement, en vous rendant dans vos « Paramètres de facturation » sur votre profil ou en contactant votre opérateur de téléphonie mobile. Si vous avez opté pour le paiement par l'intermédiaire de votre fournisseur de téléphonie mobile, merci de prendre connaissance de ses conditions de paiement. En effet, ces conditions de paiement régissent les paiements auprès de Badoo, ainsi que la façon dont les paiements peuvent être modifiés ou annulés. Votre abonnement aux services premium de Badoo est automatiquement renouvelé jusqu'à ce que vous décidiez de l’arrêter. De plus, si vous avez activé la fonction de recharge automatique lors de l’achat de crédits, votre compte sera automatiquement rechargé jusqu'à ce que vous décidiez de désactiver cette fonctionnalité.
 
-7\. Privacy Policy
-------------------
+### Puis-je transférer les services que j'ai acheté à un autre utilisateur de Badoo ?
 
-### Do you have guidelines in place about what you can do with my personal data?
+Si vous choisissez de participer à l'un des jeux, services premium ou une gamme de services conçus pour améliorer votre expérience sur Badoo, vous vous engagez à utiliser vous-même ces services et à ne pas les transférer (à titre gratuit ou dans le cas d’une revente), et à ne pas acheter ou vendre de tels services auprès d'autres utilisateurs de Badoo. Badoo se réserve le droit d’annuler les services payants que vous tenteriez de transférer ou d’acheter à un autre utilisateur. Les services payants ne seront délivrés par Badoo qu’à qui de droit.
 
-We process information in accordance with our [Privacy Policy](https://badoo.com/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
+### Mes crédits sont-ils acquis pour une durée indéterminée ?
 
-8\. Links
+Non, nous nous réservons le droit de supprimer vos crédits inutilisés après 6 mois (excepté s’ils ont été achetés via iTunes). Si vous supprimez votre compte, ou si votre compte est résilié par nos services pour cause de non-respect des présentes Conditions, vos crédits seront perdus. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les supprimer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire à moins que nous y consentions par écrit.
+
+Pour plus d’informations relatives aux conditions de paiement, merci de consulter nos Conditions de service sur la page de recharge.
+
+4\. Accès au site et à l’application
+------------------------------------
+
+### Pouvez-vous garantir que Badoo soit opérationnel à tout moment ?
+
+Malheureusement, nous ne pouvons pas le garantir, car nous devons parfois réaliser la maintenance du site ou de l'application. Ils peuvent également être affectés par une panne ou des circonstances hors de notre contrôle. Badoo est fourni « en l’état ». Aucune garantie n'est donnée quant à la qualité, l'exactitude, la fonctionnalité, la disponibilité ou les performances de Badoo et nous nous réservons le droit de suspendre, retirer ou modifier les services fournis sans préavis et sans responsabilité envers vous.
+
+### Qu’en est-il de l’accès à partir d’un téléphone portable ?
+
+Si vous souhaitez accéder à Badoo depuis votre téléphone portable, vous devez prendre toutes les dispositions nécessaires (y compris, mais sans s’y limiter, payer les frais de votre fournisseur d’accès à Internet et de votre fournisseur de services mobiles, ainsi que les autres frais associés à cet accès). Nous ne saurions être tenus responsables des fonctionnalités réduites relevant de votre accès par le biais de services mobiles ou autres, existants ou mis au point à l’avenir.
+
+En accédant à Badoo ou en acceptant de recevoir des messages et des notifications de Badoo via votre téléphone portable et/ou tout autre appareil connecté, vous acceptez que vous risquez d’encourir des frais auprès de votre fournisseur d’accès à Internet ou de votre fournisseur de services mobiles. Nous ne saurions en aucun cas être tenus responsables de tels frais.
+
+### Je ne suis pas inscrit(e) et je n'arrive pas à accéder à une partie du Contenu ou fonctionnalités sur le site ou l'application. Pourquoi ?
+
+Les utilisateurs non inscrits sont en mesure d'accéder uniquement à certaines rubriques de Badoo, accessibles à tous. Ils ne disposent pas d’un profil mais peuvent bénéficier de la possibilité limitée de mettre de Contenu en ligne. L'étendue de l'accès des utilisateurs enregistrés sur Badoo dépend de certains critères relatifs à leur profil. Nous pouvons modifier ou mettre à jour ces critères à tout moment, sans préavis et à notre discrétion.
+
+5\. Résiliation du profil par l’utilisateur
+-------------------------------------------
+
+### Comment puis-je me désinscrire de Badoo ?
+
+À tout moment, vous pouvez résilier votre inscription en vous connectant à votre compte Badoo, en allant dans vos « Paramètres », et en cliquant sur « Supprimer mon profil ». Nous enregistrons vos informations de profil dans le cas où vous décideriez ultérieurement de rétablir votre compte. De nombreux utilisateurs désactivent leur compte temporairement et attendent de Badoo que nous conservions leurs informations jusqu’à la réactivation du compte. De ce fait, vous serez en mesure de rétablir votre compte et votre profil dans leur intégralité dans les 28 jours qui suivent leur désactivation. Une fois votre profil résilié, nous nous réservons le droit de supprimer tout Contenu connexe que vous avez publié ou mis en ligne sur Badoo. Pour plus d’informations, consultez notre [Politique de confidentialité](https://badoo.com/privacy/).
+
+Le Contenu, autre que votre profil, que vous avez mis en ligne sur Badoo (tel que des commentaires ou des e-mails) peut encore être disponible sur Badoo après la résiliation de votre inscription.
+
+6\. Abus et plaintes
+--------------------
+
+### Un utilisateur ne respecte pas les Conditions générales d’utilisation du site, que dois-je faire ?
+
+Vous pouvez signaler tout abus ou toute plainte relative à du Contenu publié sur Badoo en cliquant sur le lien [Contacter Badoo](https://badoo.com/feedback/). Il vous est également possible de signaler un utilisateur à partir de son profil en cliquant sur le lien « Signaler un abus ». Vous serez invité à préciser le motif de la plainte et à nous fournir toute information complémentaire qui vous semble pertinente.
+
+Nous faisons toujours de notre mieux pour résoudre le moindre problème que vous pourriez rencontrer en utilisant notre service. Cependant, si votre plainte ou litige n'était pas résolu(e), vous pouvez satisfaire les conditions requises pour utiliser la plateforme de résolution des litiges en ligne de la Commission européenne disponible [ici](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+
+### Les autres utilisateurs sont-ils contrôlés ?
+
+NON. VOUS COMPRENEZ QUE DANS LE COURS ORDINAIRE DES OPÉRATIONS DE BADOO, LE GROUPE BADOO NE FAIT PAS DE CONTRÔLE DES ANTÉCÉDENTS JUDICIAIRES SUR SES UTILISATEURS, OU AUTREMENT ENQUÊTE RÉGULIÈREMENT SUR LE PASSÉ DE SES UTILISATEURS, OU TENTE DE VÉRIFIER LES DÉCLARATIONS DE SES UTILISATEURS. LE GROUPE BADOO NE FAIT AUCUNE REPRÉSENTATION OU GARANTIE QUANT À LA CONDUITE DE TOUT UTILISATEUR OU À SA COMPATIBILITÉ AVEC TOUT UTILISATEUR ACTUEL OU FUTUR. LE GROUPE BADOO SE RÉSERVE LE DROIT DE RÉALISER TOUTE VÉRIFICATION DES ANTÉCÉDENTS JUDICIAIRES OU AUTRES VÉRIFICATIONS (TELS QUE LES RECHERCHES DANS LE REGISTRE DES DÉLINQUANTS SEXUELS) À TOUT MOMENT, ET D'UTILISER LES DOSSIERS PUBLICS DISPONIBLES À TOUT BUT.
+
+Nous n’exerçons aucun contrôle sur ce que fait ou dit un utilisateur. Mais nous avons établi et faisons respecter des Conditions d’utilisation et prenons des mesures qui visent à prévenir toute conduite condamnable, **nous n'avons aucune obligation à vous protéger de tout type de préjudice causé par un utilisateur.** Vous portez l’entière responsabilité de vos échanges avec les autres membres de Badoo.
+
+Vous acceptez, et par la présente, dans la mesure maximale permise par la loi applicable, de dégager le groupe Badoo et ses affiliés, ainsi que leurs dirigeants, administrateurs, employés, agents, représentants et successeurs respectifs de toute réclamation, demande, perte, dommage, droits et actions de toute nature, y compris les blessures, la mort et les dommages matériels, qui découlent directement ou indirectement de vos interactions avec ou de la conduite d'autres utilisateurs de Badoo.
+
+7\. Politique de Confidentialité
+--------------------------------
+
+### Avez-vous des lignes directrices sur ce que vous pouvez faire avec mes données personnelles ?
+
+Nous traitons les informations conformément à notre [Politique de confidentialité](https://badoo.com/privacy/) intégrée aux présentes Conditions Générales d'Utilisation. Veuillez lire les termes de notre [Politique de Confidentialité](https://badoo.com/privacy/) avant d'utiliser Badoo. En utilisant Badoo, vous acceptez un tel traitement et vous garantissez que toutes les données que vous fournissez sont vraies, correctes et exactes.
+
+8\. Liens
 ---------
 
-### Are the links on the app or site anything to do with Badoo?
+### Les liens sur le site ou l'application sont-ils liés à Badoo?
 
-Badoo may contain links to other sites, resources and purchase opportunities provided by third parties. These links are provided to you for your information only. If you access these links you may be directed to third party sites. These third party sites will have their own terms of use and privacy policies, which may differ from the Terms. The display of links to third party sites does not constitute an endorsement by us of any of the third party content information, sites, or resources provided.
+Badoo peut contenir des liens hypertextes vers d'autres sites web, des ressources et opportunités d'achat fournis par des tiers. Ces liens sont fournis à titre d’information uniquement. En cliquant sur ces liens, vous serez redirigé vers des sites externes. Ces sites auront leurs propres conditions d'utilisation et politique de confidentialité qui peuvent différer des nôtres. L'affichage de liens vers des sites externes ne signifie en aucun cas que nous approuvons les informations, sites web ou ressources fournis.
 
-Please note that we have no control over the contents of any third party sites or resources, and we accept no responsibility for them, including (but not limited to) the third party site’s compliance with any applicable laws or regulations.
+Dans la mesure où nous n’avons aucun contrôle sur le contenu de ces sites et ressources externes, nous nous dégageons de toute responsabilité les concernant, y compris, mais sans s’y limiter, en matière de conformité aux lois et réglementations en vigueur.
 
-9\. Disclaimer of warranties and limitation of liability
---------------------------------------------------------
+9\. Exclusion de garanties et limitation de responsabilité
+----------------------------------------------------------
 
-### I forgot the rules about conduct on here and now someone is threatening to sue me. Will your lawyers sort it out?
+### J'ai oublié les règles de conduite stipulées en utilisant votre site, et un utilisateur menace de me poursuivre. Vos avocats vont-ils prendre ma défense ?
 
-No. If you act in a way that upsets other users then you have to be responsible for the consequences. We expressly disclaim any and all responsibility and liability for your conduct or the conduct of any other user of Badoo, and expressly disclaim any liability for Content uploaded by you or by any other user.
+Non. Vous êtes l'unique responsable de vos agissements sur notre site envers les autres utilisateurs, et de leurs conséquences. Nous déclinons expressément toute responsabilité quant à votre comportement ou celui de tout autre utilisateur de Badoo, et quant au Contenu mis en ligne par vous ou par tout autre utilisateur.
 
-### My friend is a lawyer and says that you can’t exclude liability for everything...
+### Un ami avocat m’a dit que vous ne pouvez pas vous dégager de toute responsabilité dans tous les cas…
 
-Nothing in the Terms limits or excludes our liability for:
+Rien dans les Conditions générales ne limite ou n’exclut notre responsabilité :
 
-1. death or personal injury caused by our proven negligence;
-2. fraud or fraudulent misrepresentation; or
-3. any liability which cannot be limited or excluded by law.
+1. en cas de décès ou de blessures corporelles résultant de notre négligence avérée ; ou
+2. fraude ou représentation frauduleuse ; ou
+3. pour toute responsabilité qui ne peut pas être exclue ou limitée en vertu de la loi.
 
-To the fullest extent permitted by law, Badoo expressly excludes:
+Dans la mesure de ce qui est permis par la loi, Badoo exclut expressément :
 
-1. all conditions, representations, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
-2. any liability incurred by you arising from use of Badoo, its services or these Terms, including without limitation for any claims, charges, demands, damages, liabilities, losses or expenses of whatever nature and howsoever direct, indirect, incidental, special, exemplary, punitive or consequential damages (however arising including negligence), loss of use, loss of data, loss caused by a computer or electronic virus, loss of income or profit, loss of or damage to property, wasted management or office time, breach of contract or claims of third parties or other losses of any kind or character, even if Badoo has been advised of the possibility of such damages or losses, arising out of or in connection with the use of Badoo. This limitation on liability applies to, but is not limited to, the transmission of any disabling device or virus that may infect your equipment, failure or mechanical or electrical equipment or communication lines, telephone or other interconnect problems (e.g., you cannot access your internet service provider), unauthorised access, theft, bodily injury, property damage, operator errors, strikes or other labour problems or any act of god. in connection with Badoo including, without limitation, any liability for loss of revenue or income, loss of profits or contracts, loss of business, loss of anticipated savings, loss of goodwill, loss of data, wasted management or office time and any other loss or damage of any kind, however arising and whether caused by tort (including, but not limited to, negligence), breach of contract or otherwise, even if foreseeable whether arising directly or indirectly.
+1. toutes les déclarations, garanties et autres conditions qui pourraient être sous-entendues par la loi, la common law ou les règles d'équité ; et
+2. toute responsabilité encourue par vous, découlant de votre utilisation de Badoo, de ses services ou des présentes Conditions, y compris, mais sans s’y limiter, les réclamations, frais, demandes, dommages, responsabilités, pertes ou dépenses de quelque nature que ce soit et qu’ils entraînent des dommages directs, indirects, fortuits, exemplaires, spéciaux, ou punitifs (y compris de négligence), une perte d'utilisation, une perte de données, une perte causée par un virus informatique ou électronique, une perte de revenus ou de bénéfices, une perte ou des dégâts matériels, une perte de temps pour la direction ou les employés, une rupture de contrat ou des réclamations de tiers, ou d'autres pertes de quelque nature que ce soit, même si la société Badoo a été avisée de la possibilité de tels dommages ou pertes, causés, directement ou indirectement, par l'utilisation de Badoo. Cette limitation de responsabilité s'applique, mais ne se limite pas à la transmission de virus ou de systèmes qui pourraient infecter votre équipement, engendrer une panne de l'équipement mécanique ou électrique ou des lignes de communication, du téléphone ou d’autres problèmes d'interconnexion (tels que l’impossibilité d’accéder à votre fournisseur de services internet), l'accès non autorisé, le vol, les blessures corporelles (autres que celles causées par notre négligence), les dégâts matériels, les erreurs d'opérateur, les grèves ou d’autres problèmes de personnel ou toute catastrophe naturelle en relation avec Badoo, y compris, mais sans s’y limiter, toute responsabilité pour la perte de revenus, de bénéfices, de contrats, d'activité, d'économies anticipées, de biens incorporels, de données, de temps pour la direction ou les employés ou toute autre perte ou tous autres dommages de quelque nature que ce soit, qu’ils soient causés par un acte délictuel (y compris de négligence), la rupture d’un contrat ou une autre raison, même prévisible, et qui en découlent directement ou indirectement.
 
-Badoo’s total liability to you in respect of losses arising under or in connection with the Terms, whether in contract, tort (including negligence, breach of statutory duty, or otherwise) shall in no circumstances exceed £20.
+L'entière responsabilité de Badoo envers vous par rapport aux pertes dues ou en relation avec les Conditions, qu'il s'agisse d'un contrat, d'un tort (dont la négligence, une brèche dans le devoir statutaire ou autre) n'excèdera en aucune circonstance la somme de 20 £
 
-What about the reliability of Badoo and the information contained on it?
+En concernant la responsabilité de Badoo et des informations contenues ?
 
-Badoo has taken reasonable steps to ensure the currency, availability, correctness and completeness of the information contained on Badoo and provides that information on an "as is", "as available" basis. Badoo does not give or make any warranty or representation of any kind about the information contained on Badoo, whether express or implied. Use of Badoo and the materials available on it is at your sole risk. Badoo cannot be held responsible for any loss arising from the transmission, use of data, or inaccurate Content posted by users. You are responsible for taking all necessary precautions to ensure that any material you may obtain from Badoo is free of viruses or other harmful components. You accept that Badoo will not be provided uninterrupted or error free, that defects may not be corrected or that Badoo, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horses or any similar malicious software. Badoo is not responsible for any damage to your computer hardware, computer software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction. In the unlikely event that any defect is discovered within Badoo, we will use every effort to repair or fix the defect free of charge, without significant inconvenience to you, as soon as practicable.
+Badoo a pris des mesures raisonnables afin d'assurer la devise, la disponibilité, l'exactitude et l'intégralité des informations contenues sur Badoo, et fournit cette information « telles quelles », « selon la disponibilité ». Badoo n'accorde aucune garantie ni aucune représentation d'aucune sorte concernant les informations contenues dans Badoo, qu'elles soient explicites ou implicites. L'utilisation de Badoo et du matériel disponible se fait à vos propres risques. Badoo ne peut être tenu responsable de toute perte découlant de la transmission, de l'utilisation des données ou du contenu inexact affiché par les utilisateurs. Vous êtes responsable de prendre toutes les précautions nécessaires pour vous assurer que tout matériel obtenu auprès de Badoo est exempt de virus ou d'autres composants nuisibles. Vous acceptez que Badoo ne soit pas fourni sans interruption ou sans erreur, que les défauts peuvent ne pas être corrigés ou que Badoo, ou le serveur qui en assure la disponibilité, soit exempt de virus ou de bugs, de logiciels espions, de chevaux de Troie ou de tout logiciel malveillant similaire. Badoo n'est pas responsable des dommages à votre matériel informatique, logiciel informatique ou autre équipement ou technologie, y compris, mais sans limitation, les dommages causés par toute violation de la sécurité ou contre tout virus, bugs, falsifications, fraude, erreur, omission, interruption, défaut, retard du fonctionnement ou pendant la transmission, la panne informatique ou la panne de réseau ou tout autre dysfonctionnement technique. Dans le cas improbable où un défaut est découvert au sein de Badoo, nous ferons tout notre possible pour corriger gratuitement le problème, sans inconvénient important envers vous, et ce dès que possible.
 
-10\. Indemnity
---------------
-
-### I forgot the rules about conduct on here and now someone is threatening to sue YOU. What now?
-
-If we are sued as a result of your use of Badoo then we have the right to defend or settle the relevant claim as we see fit. If we ask, you will co-operate fully and reasonably as required by us in the defence of any relevant claim.
-
-You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitors’ fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of Badoo, the uploading or submission of Content to Badoo by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (“**Claim**”). Badoo retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
-
-11\. Miscellaneous
+10\. Dédommagement
 ------------------
 
-### What about all of those standard clauses that you see at the end of most contracts? They’re the best bit!
+### J'ai oublié les règles de conduite en utilisant votre site et un utilisateur menace de poursuivre Badoo. Que faire maintenant ?
 
-As you asked so nicely...
+Si nous sommes poursuivis en raison de votre utilisation de Badoo, nous avons le droit de défendre ou de régler la réclamation comme bon nous semble. Si nous vous en faisons la demande, vous coopérerez pleinement et raisonnablement afin de nous aider à assurer notre défense face à toute réclamation pertinente.
 
-The Terms and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be are governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Website Terms and Conditions, the English version shall prevail.
+Vous acceptez de dégager de toute responsabilité et de dédommager la société Badoo et ses dirigeants, administrateurs, employés, agents, représentants et concédants en cas de réclamations de tiers, de dommages (directs et/ou indirects), d’actions, de procédures, de demandes, de pertes, de responsabilités, de coûts et dépenses (y compris des honoraires d'avocat raisonnables) subis ou engagés par la société, en relation avec votre accès à Badoo et son utilisation, le téléchargement ou la publication de Contenu sur Badoo par vous, et votre conduite, si ceux-ci ne sont pas conformes aux présentes Conditions ou à toute loi ou réglementation en vigueur (« **Réclamation** »). Badoo se réserve le droit exclusif de régler, de proposer un compromis et de négocier une contrepartie financière pour toute réclamation ou cause d’action à son encontre, sans votre consentement préalable.
 
-We reserve the right to modify, amend or change the Terms at any time (a “**Change**”). If we do this then the Changes will be posted on this page and we will indicate the effective date of the updates at the bottom of the Terms. In certain circumstances, we may send an email to you notifying you of any Change. You should regularly check this page to take notice of any Changes.
+11\. Divers
+-----------
 
-If you do not accept any Change to the Terms, you should stop using Badoo immediately. Your continued use of Badoo following any Change constitutes your acceptance of the Change and you will be legally bound by the new updated Terms.
+### Autres clauses types relatives aux Conditions générales d’utilisation
 
-If, for any reason, any of the Terms are declared to be illegal, invalid or otherwise unenforceable by a court of a competent jurisdiction, then to the extent that term is illegal, invalid or unenforceable, it shall be severed and deleted from the Terms and the remainder of the Terms shall survive, remain in full force and effect and continue to be binding and enforceable.
+Les Conditions, ainsi que tout litige ou plainte en rapport avec elles (dont les litiges et plaintes non contractuelles), sont régies selon la loi anglaise. En cas de différence entre la version anglaise et la version traduite des Termes et Conditions, la version anglaise prévaut.
 
-The Terms set out the entire agreement and understanding between us and you in relation to your use of Badoo and supersedes all previous agreements, representations and arrangements between us (either oral or written). Nothing in this clause shall limit or exclude any liability for fraudulent misrepresentation.
+Nous nous réservons le droit de modifier ou de mettre à jour les présente Conditions à tout moment (une «**Modification**»). Dans ce cas, les Modifications seront publiées sur cette page et nous indiquerons la date d’entrée en vigueur de la mise à jour au bas des présentes Conditions. Dans certaines circonstances, nous vous enverrons un e-mail pour vous informer de Modifications. Nous vous conseillons de consulter régulièrement cette page afin de prendre connaissance de toute Modification.
 
-No failure or delay by us in exercising any right, power or privilege under the Terms shall operate as a waiver of such right or acceptance of any variation of the Terms and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
+En cas de désaccord avec une Modification apportée aux présentes Conditions, veuillez cesser d’utiliser Badoo immédiatement. Après toute Modification, la poursuite de l’utilisation de Badoo signifie que vous acceptez ce Changement et vous serez légalement lié aux nouvelles Conditions.
 
-Nothing in the Terms shall confer or purport to confer on any other third party, any benefit or the right to enforce any term of the Terms and the Contracts (Rights of Third Parties) Act 1999 which shall not apply to the Terms.
+Si, pour une raison quelconque, l'une des Conditions est déclarée illégale, non valide ou autrement inapplicable par un tribunal ou une juridiction compétente, elle sera supprimée et les autres Conditions demeureront en vigueur, de plein effet, obligatoires et applicables.
 
-About us
---------
+Les présentes Conditions constituent l’intégralité de l’accord et de l’entente entre nous et vous par rapport à votre utilisation de Badoo, et remplacent tous les accords, déclarations et arrangements antérieurs entre nous (oraux ou écrits). Aucun élément de la présente clause ne peut limiter ou exclure la responsabilité en cas de déclarations frauduleuses.
 
-www.badoo.com is an app and site owned and operated by Badoo Trading Limited.
+Aucun défaut ou retard de notre part dans l’exercice de tout droit, pouvoir ou privilège en vertu des présentes Conditions ne constituera une renonciation à ce droit ou l’acceptation d’une modification des Conditions. Par ailleurs, l’exercice ponctuel ou partiel par l’une des deux parties de tout droit, pouvoir ou privilège n’empêchera pas l’exercice ultérieur de ce droit ou l’exercice de tout autre droit, pouvoir ou privilège.
 
-We are registered in England under company number 07540255.
+Aucun élément des présentes Conditions ne confère ou ne vise à conférer à toute autre tierce partie tout avantage ou droit d'appliquer une quelconque condition parmi les présentes Conditions et le Contracts (Rights of Third Parties) Act 1999 ne s’applique pas aux présentes Conditions.
 
-Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS.
+À propos de nous
+----------------
 
-Effective date
---------------
+www.badoo.com est un site et une application détenus et exploités par Badoo Trading Limited
 
-The Terms were last updated on: 31st October 2022.
+Nous sommes enregistrés en Angleterre, sous le numéro d’immatriculation 07540255.
 
-### Badoo Supplemental Terms of Use – Badoo Live
+Notre siège social est situé à l'adresse The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS.
 
-Effective: 31st October 2022
+Entrée en vigueur
+-----------------
 
-1. These Supplemental Terms of Use supplement and are in addition to the Terms and Conditions of Use that you have already agreed to as a Badoo user, and apply only to your use of the Badoo Live service (the "Live Services"). In addition to these Supplemental Terms of Use, your use of the Live Services are governed by Badoo’s Terms and Conditions of Use (including, but not limited to, as a component of the services described in those terms), [Badoo’s Privacy Policy](https://badoo.com/privacy/), [Badoo’s Community Guidelines](https://badoo.com/guidelines/), and [TMG’s Terms of Service and Privacy Policy](https://terms.video.badoo-live.com/terms-of-service). We reserve the right to modify, amend, or change the Supplemental Terms of Use at any time.
-2. You understand and agree that the Live Services will be provided by The Meet Group, Inc., and that by accessing the Live Services you will be viewing content that may be provided by either a Badoo or Meet Group user (including a user of the Meet Group’s partner apps), and that your content may be viewed by either a Badoo or Meet Group user (including a user of the Meet Group’s partner apps).
-3. You understand and agree that the Meet Group, Inc. will act as the provider of the services and as the controller of any data or content that you provide or generate through the Live Services and, as such, except for the purchases made through Badoo, you understand and agree that Badoo will not be liable to you in any way, under any theory of liability, or for any amounts, and any such liability will be governed by [TMG’s Terms of Service and Privacy Policy](https://terms.video.badoo-live.com/terms-of-service).
-4. Because the Live Services are hosted separately, some of your settings in Badoo may not transfer over to the Live Services. For example, hiding your account in Badoo will not hide your account on the Live Services, and after hiding your account on Badoo you may continue to be displayed on leaderboards on the Live Services, or when you use the Live Services for viewing or streaming.
-5. From time to time, as part of the Live Services, you may have the opportunity to buy “Live Credits” (referred to as "Gems" on the Live Services). For the avoidance of doubt, Live Credits are "Virtual Currency" as described in [TMG’s Terms of Service and Privacy Policy](https://terms.video.badoo-live.com/terms-of-service). The Live Credits are usable only on the Live Services, and are not usable on the Badoo platform. Use of the Live Credits is expressly subject to the Virtual Currency and Gifts section of [TMG’s Terms of Service and Privacy Policy](https://terms.video.badoo-live.com/terms-of-service). ALL PURCHASES OF THE LIVE CREDITS ARE FINAL AND NON-REFUNDABLE.
-6. To the extent that you receive gifts as part of your use of the Live Services, the receipt of such gifts (including Diamonds) and the ability to cash out such gifts are governed exclusively by [TMG’s Terms of Service and Privacy Policy](https://terms.video.badoo-live.com/terms-of-service); for the avoidance of doubt, you agree to look solely to The Meet Group, Inc. to resolve any and all issues surrounding your receipt or cash out of any gifts received (including Diamonds).
+Dernière mise à jour des Conditions générales d’utilisation : 31 octobre 2021.
+
+### Conditions générales d’utilisation complémentaires de Badoo – Badoo Live
+
+Entrée en vigueur : 31 octobre 2022
+
+1. Ces Conditions d’utilisation complémentaires viennent s'ajouter aux Conditions Générales d'Utilisation auxquelles vous avez déjà souscrit en tant qu’utilisateur de Badoo. Celles-ci ne s’appliquent que dans la cadre du service Badoo Live (les "Services Live"). En plus de ces Conditions d’utilisation complémentaires, votre utilisation des Services Live est régie par les Conditions Générales d'Utilisation de Badoo (y compris, de façon non exhaustive, comme composant des services décrits dans les présentes conditions), la [Politique de Confidentialité de Badoo](https://badoo.com/privacy/), la [Charte de la communauté de Badoo](https://badoo.com/guidelines/), et les [Conditions d’utilisation et la Politique de Confidentialité de TMG](https://terms.video.badoo-live.com/terms-of-service). Nous nous réservons le droit de modifier, apporter des modifications ou de changer à tout moment les présentes Conditions d’utilisation complémentaires.
+2. Vous acceptez et donnez votre accord pour que les Services Live soient apportés par The Meet Group, Inc., et quand vous accédez aux Services Live, vous pourrez voir des contenus proposés soit par un utilisateur Badoo, soit par un utilisateur Meet Group (y compris un utilisateur des applications partenaires de Meet Group).
+3. Vous acceptez et donnez votre accord pour que Meet Group, Inc. agisse en tant que fournisseur des services et contrôleur de toute donnée ou tout contenu que vous fournissez ou générez via les Services Live et dans ce cas-là, à l’exception des achats effectués sur Badoo, vous comprenez et donnez votre accord pour que Badoo ne puisse nullement être tenu responsable, en vertu de quelque cas de responsabilité que ce soit, ni pour quelque montant que ce soit, et toute forme de responsabilité sera régie par les [Conditions d’utilisation et la Politique de Confidentialité de TMG](https://terms.video.badoo-live.com/terms-of-service).
+4. Dû au fait que les Services Live sont hébergés séparément, certains de vos paramètres sur Badoo ne pourront pas être transférés sur la plateforme des Services Live. Par exemple, cacher votre compte sur Badoo ne signifie pas qu'il sera caché sur les Services Live, et après avoir caché votre compte sur Badoo, votre profil pourra s'afficher sur les classements des Services Live ou encore quand vous utilisez les Services Live pour voir ou streamer une vidéo.
+5. Il vous sera possible occasionnellement, lorsque vous utilisez les Services Live, d'acheter des "Crédits Live" (du nom de "Bijou" sur la plateforme). Pour lever toute ambiguïté, ces Crédits Live représentent des "Devises virtuelles", comme indiqué dans les [Conditions d’utilisation et la Politique de Confidentialité de TMG](https://terms.video.badoo-live.com/terms-of-service). Les Crédits Live ne peuvent être utilisés que dans le cadre des Services Live et ne sont pas valables sur la plateforme Badoo. L’utilisation des Crédits Live est intégralement soumise aux rubriques Devises Virtuelles et Cadeaux des [Conditions d’utilisation et de la Politique de Confidentialité de TMG](https://terms.video.badoo-live.com/terms-of-service). TOUT ACHAT DE CRÉDITS LIVE EST IRRÉVERSIBLE ET NON-REMBOURSABLE.
+6. Dans le cas où vous recevez des cadeaux lors de votre utilisation des Services Live, la réception de ce type de cadeau (dont les Bijoux) ainsi que la possibilité de retirer des fonds grâce à ces cadeaux sont intégralement régies par les [Conditions d’utilisation et la Politique de Confidentialité de TMG](https://terms.video.badoo-live.com/terms-of-service); pour lever toute ambiguïté, vous acceptez de vous adresser uniquement au groupe The Meet Group, Inc. pour résoudre tout problème lié à la réception ou au retrait de fonds de tout cadeau reçu (dont les Bijoux).
