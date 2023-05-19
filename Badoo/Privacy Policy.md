@@ -1,343 +1,347 @@
-Badoo Privacy Policy
-====================
+Politique de confidentialité de Badoo
+=====================================
 
-Welcome to the Badoo Privacy Policy (“Policy”)! This explains how we collect, store, protect and share your information, and with whom we share it. We suggest you read this in conjunction with our [Terms and Conditions of Use](https://badoo.com/terms/).
+Bienvenue dans la Politique de confidentialité de Badoo (« Politique »). Elle vous explique comment nous collectons, stockons, protégeons et partageons vos informations, et avec qui nous les partageons. Nous vous suggérons de lire ceci conjointement avec nos [Conditions Générales d'Utilisation](https://badoo.com/terms/).
 
-Whilst you’re enjoying the Badoo mobile application (including the desktop version) (“App”), our websites and microsites (such as Badoo.com) or using our digital products and services (such as our competitions or surveys) (together, referred to in this Privacy Policy as our “Sites”), we collect some information about you. In addition, you may choose to use the App or Sites to share information with other Badoo members including your friends and contacts (“Users”). We may also need to share your information sometimes.
+Pendant que vous utilisez l'application Badoo (y compris la version de bureau) (« Application »), nos sites Web et microsites (tels que Badoo.com) ou utilisez nos produits et services numériques (tels que nos concours ou sondages) (ensemble, désignés dans la présente politique de confidentialité comme nos « Sites »), nous recueillons des informations vous concernant. De plus, vous pouvez choisir d'utiliser l'Application ou les Sites pour partager des informations avec d'autres membres de Badoo, y compris vos amis et contacts (« Utilisateurs »). Nous pouvons également parfois avoir besoin de partager vos informations.
 
-Badoo’s App and Sites are global, and your information will be sent to and used in the United States and the UK regardless of the country you reside in. This Policy explains how we protect your personal data when we transfer it overseas, so please read very carefully!
+L'application et les Sites Badoo sont internationaux. Vos informations seront envoyées et utilisées aux États-Unis et aux Royaume-Uni indépendamment de votre pays de résidence. Cette Politique détaille la manière dont nous protégeons vos données personnelles lorsque nous les transférons à l'étranger. Merci de la lire attentivement !
 
-Who we are
-----------
+Qui sommes-nous ?
+-----------------
 
-The following Badoo Group entities act as the data controllers of the personal information collected and processed through the Badoo App and Sites: Badoo Trading Limited and Bumble Trading LLC (referred to in this Policy as “we” and “us”).
+Les entités suivantes du groupe Badoo agissent en tant que contrôleurs des données personnelles collectées et traitées via l'application et les sites Badoo : Badoo Trading Limited et Bumble Trading LLC (appelés « Nous » dans la présente Politique).
 
-Badoo has designated a Data Protection Officer that can be reached by emailing DPO@corp.badoo.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS
+Badoo a désigné un responsable de la protection des données, qu'il est possible de contacter en envoyant un e-mail à DPO@corp.badoo.com ou par courrier postal à l'adresse suivante adresse : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
 
-1\. COLLECTION OF INFORMATION
------------------------------
-
-### Registration information
-
-When you download the App and create an account (“Account”), we may collect certain information (“Registration Information”) about you, such as:
-
-* Name;
-* Username;
-* Email address
-* Mobile number
-* Gender identity;
-* Date of birth;
-* Sexual preference;
-* Photographs;
-* Location, and
-* Login information for social media accounts that you connect to your Badoo Account (this could include, for example, your Facebook and Instagram accounts). For more information about this, see “Linking other accounts to Badoo” in section 7 below.
-
-You will also be required to create a password in connection with the registration of your Account. Once you register, you will be able to review and change this information at any time just by logging in to Badoo (other than your location, which, if you have given Badoo access to your location in your device settings, is automatically updated based on the location of your device) or contacting Badoo’s [Customer Support Team](https://badoo.com/feedback/). It is your responsibility to ensure that your account details are kept up to date. If your phone number changes, please ensure that you update this in your account.
-
-The information we collect helps to enhance the App and verify our Users (robots are not welcome!). Registration Information such as your sexual preference, name and username may be visible to other Users who view your profile page.
-
-For users who are California residents, the data we may collect falls within the following categories of “personal information,” as defined by the California Consumer Privacy Act (CCPA):
-
-* A. Identifiers, such as name and location;
-* B. Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
-* C. Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
-* D. Commercial information, such as transaction information and purchase history;
-* E. Biometric information, such as faceprint;
-* F. Internet or network activity information, such as browsing history and interactions with our Sites and App;
-* G. Geolocation data, such as mobile device location;
-* H. Audio, electronic, visual and similar information, such as photos and videos;
-* I. Professional or employment-related information, such as work history and prior employer;
-* J. Non-public education information; and
-* K. Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
-
-### Profile Information
-
-We recommend and encourage you (and all our members) to think carefully about the information you disclose about yourself. We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information which is open to abuse and misuse on your profile.
-
-When you post information about yourself or use the messaging function to communicate with other Users, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Badoo.
-
-### Profile Verification Information (Including Biometric Information)
-
-For safety and security and to ensure you have the best possible user experience, we may require Users to verify their accounts and might ask for your phone number and, in some instances, we might also ask that you carry out [photo verification](https://badoo.com/help/?section=265). We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cybercrime – they threaten the Badoo network and spoil things for everyone. This verification might be required by us for the prevention of fraud. You can also verify your photo on a voluntary basis (to add the blue “verified” badge to your profile).
-
-If you choose to verify your profile photo, we will scan each photo that you submit. The scan may include the use of facial recognition technology so that we can compare the photo you submit to your profile photo, to help ensure that you are who you say you are. We do not add the verification photos to your profile. We retain the scans so that we can verify you in the future and for our record-keeping purposes until we no longer need them for such purposes or for three years after your last interaction with us, whichever occurs first. After the applicable retention period expires, we take commercially reasonable steps to permanently and securely delete the scans from our systems.
-
-### Purchases Information
-
-If you decide to purchase any of our premium services, we will process your payment information and retain this securely for the prevention of fraud and for audit/tax purposes.
-
-Badoo uses automated decisions to prevent fraudulent payment transactions being processed as part of its anti-fraud procedures. In order to do this, our systems check payment transactions for behaviour that indicates breaches of our [Terms and Conditions of Use](https://badoo.com/terms/). If a transaction meets certain criteria that demonstrate that the Terms and Conditions of Use are likely to have been breached and the transaction is likely to be fraudulent, the relevant transaction may automatically be blocked. Where a transaction is blocked, the user will be notified that their transaction cannot be processed and affected Users can contact Badoo to contest the decision.
-
-Please note that if your account is blocked for any reason, any account(s) that you have on any other Badoo Group platforms/applications, such as Bumble, may also be blocked as part of our anti-spam and anti-fraud procedures.
-
-### Geolocation Information
-
-If you have given Badoo access to your location in your device settings, when you use your mobile, we will collect information about WiFi access points as well as other location information about your longitude and latitude and may save your device’s coordinates to offer certain features to you. This information helps us identify your physical location and we may use it to personalise the App and make it easier for you to interact with other Users, by enabling the general locality information to be displayed to Users seeing your profile and showing you the profiles of other Users who are near you.
-
-If you have given Badoo access to your location services, but wish to turn them off, you can do so by the following methods:
-
-1. iPhone app — settings, privacy, location services, Badoo
-2. Android — settings, location, Badoo, permissions, location
-
-### Device Information
-
-We may collect information about your device when you use the App including the unique device identifier, device model, and operating system, for a number of purposes, as set out here. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
-
-### Links
-
-We may keep track of how you interact with links available on Badoo, including third party services by redirecting clicks or through other means. We may share aggregate click statistics such as how many times a particular link was clicked on.
-
-### Honesty Club and other Contributions
-
-From time to time, we run surveys for research purposes and we may contact you to find out if you would like to take part. We may also contact you to find out if you would like to provide feedback, a testimonial or take part in marketing campaigns (for example, if you let us know that you have found a match on the App, we may contact you to ask if you would be happy to feature in advertising for Badoo). Such surveys and marketing campaigns are optional and more information will be provided at the point of contact. If you do not wish to be contacted to take part in a survey or marketing campaign, please contact our Customer Support Team via our [Feedback Page](http://badoo.com/feedback).
-
-### When you contact Customer Support
-
-If you contact our Customer Support team via [Feedback page](https://badoo.com/feedback/), we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you) for 6 years after deletion of your account.
-
-### Cookies and similar technologies
-
-When you visit our Sites or when you use our App, we may collect personal data from you automatically by using cookies or similar technologies. A cookie is a small file that can be placed on your device or browser that allows us to recognise and remember you. If you would like to find out more about cookies, including how we use them and what choices are available to you, please refer to our Cookie Policy.
-
-2\. USE OF YOUR INFORMATION
+1\. COLLECTE D'INFORMATIONS
 ---------------------------
 
-### Our Matching Algorithms
+### Informations d'inscription
 
-We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. Our matching algorithms use the following data about you to predict your compatibility with others and generate profile recommendations: the things you tell us about yourself in your profile; information about your activity in our apps; whether you are a photo verified user; and your device coordinates, which are necessary to understand your proximity to other members. The legal basis for processing profile and proximity information is that this is necessary for the provision of our contractual services to you pursuant to Article 6(1)(b) GDPR. Where we process information about your app activity, this is based on our legitimate interests pursuant to Article 6(1)(f) GDPR, and specifically our legitimate interest in generating more personalised and relevant recommendations for who you can match with in our App. Where you have included sensitive information in your profile, such as information about your beliefs, the processing of this information is based on your voluntary and explicit consent.
+Lorsque vous téléchargez l'Application et créez un compte (« Compte »), nous pouvons collecter certaines informations (« Informations d'inscription ») à votre sujet, dont les suivantes :
 
-Our main goal is to ensure your experience on Badoo is an enjoyable one and in order to deliver it to you, we may use your Registration and other information to:
+* Nom ;
+* Nom d'utilisateur ;
+* Adresse e-mail ;
+* Numéro de portable ;
+* Identité de genre ;
+* Date de naissance ;
+* Préférence sexuelle ;
+* Photographies ;
+* Emplacement ; et
+* Informations de connexion pour les comptes de réseaux sociaux que vous connectez à votre compte Badoo (cela peut inclure, par exemple, vos comptes Facebook et Instagram). Pour plus d'informations à ce sujet, voir « Lier d'autres comptes à Badoo » dans la section 7 ci-dessous.
 
-* offer you our services and features;
-* contact you with information about the App (e.g. updates and new features);
-* to personalise the App/Sites and the content we deliver to you;
-* conduct research and analytics about how you use and interact with the App/Sites;
-* test new technologies and processes designed to enhance and develop the App/Sites;
-* resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](https://badoo.com/terms/);
-* investigate fraud, protect our legal rights, and to enforce our [Terms and Conditions of Use](https://badoo.com/terms/);
-* to send you information about the promotions and offers we have available (e.g., specify the types of goods/services/offers to be provided via direct marketing) by direct marketing or other modes of communication - if you’ve signed up for our communications or otherwise told us it’s ok. We will not use your information in email direct marketing unless you give us your consent during the Account creating process or via Settings in the App (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
-* protect our Users and third parties from harm.
+Vous devrez également créer un mot de passe dans le cadre de la création de votre compte. Une fois inscrit(e), vous pourrez consulter et modifier ces informations à tout moment en vous connectant simplement à Badoo (sauf votre emplacement, qui, si vous avez donné à Badoo accès à votre emplacement dans les paramètres de votre appareil, est automatiquement mis à jour en fonction de l'emplacement de votre appareil) ou en contactant l'[équipe d'assistance client de Badoo](https://badoo.com/feedback/) Il est de votre responsabilité de vous assurer que les informations de votre compte sont à jour. Si votre numéro de téléphone change, assurez-vous de le mettre à jour dans votre compte.
 
-### Moderation Practices
+Les informations que nous collectons nous aident à améliorer l'application et à vérifier nos Utilisateurs (les robots ne sont pas les bienvenus). Les informations d'inscription telles que votre orientation sexuelle, votre nom et votre nom d'utilisateur peuvent être visibles par les autres Utilisateurs qui consultent votre page de profil.
 
-We use a combination of automated systems and a team of moderators to monitor and review accounts (including photos and any other information uploaded onto user profiles) and messages for content that indicates breaches of our Terms and Conditions of Use. If an account or message meets certain criteria that demonstrate that the [Terms and Conditions of Use](https://badoo.com/terms/) are likely to have been breached, the relevant account will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Badoo to contest the decision.
+Pour les utilisateurs qui résident en Californie, les données que nous pouvons collecter entrent dans les catégories d'informations personnelles suivantes, telles que définies par la California Consumer Privacy Act (CCPA) :
 
-**If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate or restrict access to your Account.**
+* A. Les identifiants, tels que le nom et l'emplacement
+* B. Les informations personnelles, telles que définies dans la loi californienne sur les dossiers des clients, telles que les coordonnées (y compris l'adresse e-mail et le numéro de téléphone) et les informations financières
+* C. Les caractéristiques des classifications protégées en vertu de la loi californienne ou fédérale (si vous choisissez de les fournir), telles que l'âge, l'identité de genre, l'état matrimonial, l'orientation sexuelle, le groupe ethnique, l'ascendance, l'origine nationale, la religion et les conditions médicales
+* D. Les informations commerciales, telles que les informations sur les transactions et l'historique des achats
+* E. Les informations biométriques, telles que l'empreinte faciale
+* F. Les informations sur les activités Internet ou réseau, telles que l'historique de navigation et les interactions avec nos sites et notre application
+* G. Les données de géolocalisation, telles que l'emplacement des appareils mobiles
+* H. Les informations audio, électroniques, visuelles et similaires, telles que photos et vidéos
+* I. Les informations professionnelles ou liées à l'emploi, telles que les antécédents professionnels et l'employeur précédent
+* J. Les informations non publiques sur l'éducation
+* K. Les inférences tirées de l'une des informations personnelles répertoriées ci-dessus pour créer un profil ou une description concernant, par exemple, les préférences et les caractéristiques d'un individu.
 
-### Lawful Basis
+### Informations du profil
 
-Under EU and UK data protection laws, we are required to tell you our lawful basis for using your data and we have set this out in the table below. Where the legal basis is consent, you can withdraw consent at any time. Where the legal basis is legitimate interests, you have a right to object to our use of your data. We explain in the relevant sections in this Policy how you can withdraw consent or opt-out of certain data uses (where applicable).
+Nous vous recommandons fortement (ainsi qu'à tous nos membres) de bien réfléchir aux informations vous concernant que vous partagez. Nous vous déconseillons d’inclure sur votre profil des adresses e-mail, des URL, des identifiants de messagerie instantanée, des numéros de téléphone, des noms complets ou des adresses, des numéros de carte de crédit, des numéros d’identité nationale, des renseignements de permis de conduire ou d'autres informations confidentielles qui pourraient être détournées et utilisées à mauvais escient.
 
-| Purpose for which data is used | Data | Source | Legal basis |
-| --- | --- | --- | --- |
-| To provide you with the Badoo social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
-| To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, including through profile verification, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos, interests, etc. (CCPA Categories B, C, H, I, J) | You provide this information to us | Contractual necessity and our legitimate interests – it is in our legitimate interests to facilitate networking opportunities in the Badoo app. For special category/sensitive personal data, we rely on your explicit consent. |
-| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification (CCPA Category B and H) | You provide this information to us | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
-| To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
-| To allow our Advertising Partners to serve targeted advertisements on our App and Sites (this includes rewarded video ads) | Advertising identifier associated with your device (Device ID), age, gender, and IP address (and your estimated locations based on your IP address) (CCPA Categories A, C and G) | We obtain age and gender from you, and Device ID and IP address from the device that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookie Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer (for example Apple devices using iOS 14.5) |
-| To serve advertisements to Users of our Sites/App on third party networks and measure the effectiveness of such ads | Data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with Badoo) IP address (and your estimated location based on your IP address) age, gender, Device ID (CCPA Categories A, C, G, F and K) | We obtain age and gender from you and we obtain other information from the device or browser that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookie Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer (for example Apple devices using iOS 14.5) |
-| To serve promo cards and advertisements on the App | Location, gender, age, and information that you have optionally provided us with via your profile (CCPA Categories A, C and G) | We obtain age, gender and profile information from you, and location data from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to target advertisements so that Users see relevant advertisements and to allow us to generate income from advertising revenue |
-| To send you marketing information about our events, offers and services | Name, email address, postal address, Instagram handle and mobile phone number (CCPA Categories A and B) | You provide this information to us | Consent or legitimate interests and in accordance with the laws applying to our marketing activities. We have a legitimate interest in promoting our business and products |
-| To contact you in order to run surveys for research purposes and to obtain feedback, and to find out if you want to take part in marketing campaigns | Email address and mobile phone number (CCPA Category B) | You provide this information to us | Legitimate interests – it is in our legitimate interests to carry out research so that we can further develop the app and improve the service |
-| To enable Users to create and enhance their Badoo profile and log into the app via third party accounts | Data from Facebook and other third party accounts (see section 7 of this policy for more details) (CCPA Categories A, B, C, and H) | We obtain this information from Facebook or the providers of any other accounts you use to log in or connect with your Badoo account | Legitimate interests – it is in our legitimate interests to facilitate access to our services |
-| To carry out research and analysis to help us improve the App and to test new technologies and processes designed to enhance and improve the App/Sites | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms, images and videos, registration details, profile information (CCPA Categories A, F and H) | You provide photos and videos to use. We obtain the log and usage information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to analyse the way in which Users are accessing and using our services and to test new technologies so that we can further develop the App, implement security measures and improve the service |
-| To respond to correspondence and queries that you submit to us, including social media queries | Email address, IP address, social media name, phone number (CCPA Categories B and F) | You provide your email address, social media name and phone number to us when you contact us and we obtain your IP address from the device that you use to contact us | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to Users and troubleshoot problems |
-| To investigate and block Users for reported infringements of our Terms and Conditions of Use | Name and user registration details, profile information, content of messages and photographs; usage and device data such as IP address and IP session information (CCPA Categories A, B, C, F and H) | You provide your registration details, profile information, messages and photographs to us. We obtain the other information from the device that you use to access the service. | Legitimate interests – it is in our legitimate interests to prevent unauthorised behaviour to maintain the safety and integrity of our services. |
-| To block payment transactions as part of our anti-fraud procedures | Name, IP address, email address, mobile number, cardholder name, payments received, type of payment, user ID, country (CCPA Categories, A, B, and D) | You provide your name, email address, phone number and card details to us. We obtain your IP address from the device that you use to contact us. We obtain your payment information from your interactions with our service | Legitimate interests – it is in our legitimate interests to prevent fraudulent transactions and to maintain the security of our services |
-| To enable video and audio call functions and the sending of images and video | Video and audio call usage data, images and video (CCPA Categories F and H) | We obtain this information from the device you use to access the service | Legitimate interests - it is in our legitimate interest to provide these functionalities as part of the services. |
-| To build a more accurate profile of you, which helps us with matches and to personalise the service | The apps installed on your device (Android only) (CCPA Categories F and K) | We obtain this information from the device that you use to access our service | Consent |
-| To defend legal claims, protect legal rights and to protect people from harm | This could include any information that is relevant to the issue | This information may be obtained directly from you, from your device or from third parties, depending on the information involved | Legitimate interests – it is in our legitimate interests to protect our legal rights, defend legal claims and to protect our Users and third parties from harm |
+Quand vous partagez des informations vous concernant ou utilisez le service de messagerie afin de communiquer avec d'autres Utilisateurs, la quantité d’informations personnelles que vous partagez est à vos propres risques. Veuillez vous référer à la Section 4 ci-dessous pour de plus amples informations sur ceux qui ont accès au contenu que vous publiez sur Badoo.
 
-3\. DISCLOSURE OF INFORMATION
------------------------------
+### Informations de vérification du profil (y compris les informations biométriques)
 
-Our policy is to not disclose your personal data, except in the limited circumstances described below:
+Pour des raisons de sécurité, et afin d’assurer la meilleure expérience utilisateur possible, nous pouvons demander à nos Uilisateurs de faire vérifier leur compte pour nous assurer qu’il ne s’agit pas de robots. Dans ce but, nous pouvons vous demander votre numéro de téléphone et, dans certains cas, nous pouvons également vous demander d'effectuer la [vérification par photo](https://badoo.com/help/?section=265). Nous cherchons également à éviter la création de faux comptes Badoo, qui peuvent être utilisés à des fins frauduleuses ou criminelles, car ce sont des menaces envers la communauté Badoo. Nous pouvons exiger cette vérification dans le cadre de la lutte contre la fraude. Vous pouvez également demander vous-même la vérification de votre photo (pour obtenir la coche bleue qui prouve que votre profil a été vérifié).
 
-| Circumstances where data may be disclosed | Disclosed data |
+Si vous choisissez de faire vérifier votre photo de profil, nous scannerons chaque photo que vous soumettez. Ce scan peut inclure l'utilisation d'une technologie de reconnaissance faciale afin que nous puissions comparer la photo que vous soumettez à votre photo de profil, pour nous aider à nous assurer que vous êtes bien la personne que vous prétendez être. Nous n'ajoutons pas les photos de vérification à votre profil. Nous conservons les scans afin de pouvoir vérifier votre profil à l'avenir et à des fins d'archivage jusqu'à ce que nous n'en ayons plus besoin à ces fins ou jusqu'à trois ans après votre dernière interaction avec nous, selon ce qui se produit en premier. Après l'expiration de la période de conservation applicable, nous prenons des mesures commercialement raisonnables pour supprimer définitivement et en toute sécurité les scans de nos systèmes.
+
+### Informations sur les achats
+
+Si vous décidez d'acheter l'un de nos services premium, nous traiterons vos informations de paiement et conserverons ces informations en toute sécurité pour lutter contre la fraude et à des fins d'audit / de fiscalité.
+
+Badoo utilise des décisions automatisées pour empêcher le traitement des transactions de paiement frauduleuses dans le cadre de ses procédures anti-fraude. Pour ce faire, nos systèmes vérifient les transactions de paiement afin de détecter tout comportement indiquant des violations de nos [Conditions d'utilisation](https://badoo.com/terms/). Si une transaction répond à certaines critères qui démontrent que les Conditions d'utilisation sont susceptibles d'avoir été enfreintes et que la transaction est susceptible d'être frauduleuse, la transaction concernée peut automatiquement être bloquée. Lorsqu'une transaction est bloquée, l'utilisateur est averti que sa transaction ne peut pas être effectuée. Les utilisateurs concernés peuvent contacter Badoo pour contester la décision.
+
+Veuillez noter que si votre compte est bloqué, tout compte que vous possédez sur d'autres plateformes/applications du groupe Badoo, comme Bumble, peut également être bloqué dans le cadre de nos procédures anti-spam et anti-fraude.
+
+### Informations sur la géolocalisation
+
+Si vous avez autorisé Badoo à accéder à votre position dans les paramètres de votre appareil, lorsque vous utilisez votre mobile, nous collecterons des informations sur les points d'accès WiFi, ainsi que d'autres informations de localisation sur votre longitude et latitude, et pouvons enregistrer les coordonnées de votre appareil pour vous offrir certaines fonctionnalités. Ces informations nous permettent d'identifier votre emplacement physique, et nous les utilisons pour personnaliser l'application et vous permettre d'interagir plus facilement avec d'autres Utilisateurs en affichant des informations générales sur votre emplacement sur votre profil et en vous montrant les profils d'autres Utilisateurs près de chez vous.
+
+Si après avoir activé les services de localisation, vous souhaitez les désactiver, vous pouvez procéder comme suit :
+
+1. Sur iPhone — paramètres, confidentialité, services de localisation, Badoo
+2. Sur Android — paramètres, applications, Badoo, permissions, emplacement
+
+### Informations sur l'appareil
+
+Nous pouvons collecter des informations sur votre appareil lorsque vous utilisez l'Application, y compris l'identifiant unique de l'appareil, le modèle de l'appareil et le système d'exploitation, à diverses fins, comme indiqué ici. De plus, si vous nous y autorisez, l'Application peut accéder au carnet d'adresses de votre appareil uniquement afin d'ajouter quelqu'un à vos contacts.
+
+### Liens
+
+Nous pouvons conserver un historique de vos interactions avec les liens disponibles sur Badoo, y compris les services tiers, par des liens qui redirigent l’utilisateur ou d’autres moyens. Nous pouvons partager des statistiques globales sur les clics, telles que le nombre de clics sur un lien particulier.
+
+### Honesty Club et autres contributions
+
+De temps en temps, nous effectuons des sondages à des fins de recherche et nous pouvons vous contacter pour savoir si vous souhaitez participer. Nous pouvons également vous contacter pour savoir si vous souhaitez donner votre avis, fournir un témoignage ou participer à des campagnes de marketing (par exemple, si vous nous faites savoir que vous avez trouvé un Match sur l'Appli, nous pouvons vous contacter pour vous demander si vous accepteriez de figurer dans des publicités pour Badoo). Ces enquêtes et campagnes de marketing sont facultatives et de plus amples informations seront fournies au point de contact. Si vous ne souhaitez pas être contacté(e) pour participer à une enquête ou à une campagne de marketing, veuillez contacter notre équipe d'aide via notre page [Contact](http://badoo.com/feedback).
+
+### Lorsque vous contactez le service d'aide
+
+Si vous contactez notre service d'aide via notre page [Contact](https://badoo.com/feedback/), nous recevrons votre adresse e-mail et sommes susceptibles d’obtenir votre adresse IP, ainsi que les informations que vous nous avez envoyées pour aider à la résolution de votre demande. Nous conserverons un historique de nos échanges avec vous, y compris toutes plaintes que vous nous adresserez à propos d’autres Utilisateurs (ou que d’autres Utilisateurs nous adresseront vous concernant) pendant les 6 années suivant la suppression de votre compte.
+
+### Cookies et technologies similaires
+
+Lorsque vous visitez nos sites ou lorsque vous utilisez notre Application, nous pouvons collecter automatiquement des données personnelles vous concernant en utilisant des cookies ou des technologies similaires. Un cookie est un petit fichier qui peut être placé sur votre appareil ou votre navigateur et qui nous permet de vous reconnaître et de nous souvenir de vous. Si vous souhaitez en savoir plus sur les cookies, y compris sur la manière dont nous les utilisons et sur les choix qui s'offrent à vous, veuillez consulter à notre Politique relative aux cookies.
+
+2\. UTILISATION DE VOS INFORMATIONS
+-----------------------------------
+
+### Nos algorithmes de Match
+
+Nous avons développé des algorithmes de Match pour prédire votre compatibilité avec les autres utilisateurs et ainsi vous montrer les personnes qui, selon nous, vous correspondent. Nos algorithmes de Match utilisent les données suivantes vous concernant pour prédire votre compatibilité avec d'autres personnes et générer des recommandations de profils : les informations que vous nous fournissez à votre sujet dans votre profil ; les informations sur votre activité dans nos applications ; si votre profil a été vérifié par photo ; et les coordonnées de votre appareil, qui sont nécessaires pour déterminer votre proximité avec les autres membres. La base juridique du traitement des informations de profil et de proximité est que cela est nécessaire pour vous fournir nos services contractuels conformément à l'article 6, paragraphe 1, point b) du RGPD. Lorsque nous traitons des informations sur votre activité dans l'application, cela est fondé sur nos intérêts légitimes conformément à l'article 6, paragraphe 1, point  f) du RGPD, et plus particulièrement sur notre intérêt légitime à générer des recommandations plus personnalisées et plus pertinentes concernant les personnes avec lesquelles vous pouvez matcher dans notre application. Si vous avez inclus des informations sensibles sur votre profil, telles que des informations sur vos croyances, le traitement de ces informations est basé sur votre consentement volontaire et explicite.
+
+Notre objectif principal est de nous assurer que votre expérience sur Badoo est agréable et afin de vous garantir ce type d’expérience, nous pouvons utiliser votre inscription et d'autres informations pour :
+
+* vous offrir nos services et fonctionnalités ;
+* vous contacter avec des informations sur l'application (par exemple, les mises à jour et les nouvelles fonctionnalités );
+* personnaliser les applications/les sites et le contenu que nous vous proposons ;
+* effectuer des recherches et des analyses sur la façon dont vous utilisez et interagissez avec les applications/les sites ;
+* tester de nouvelles technologies ainsi que les procédures conçues pour améliorer les applications/les sites ;
+* résoudre les litiges, résoudre les problèmes et appliquer nos [Conditions d'utilisation](https://badoo.com/terms/) ;
+* enquêter sur les fraudes, protéger nos droits légaux et faire respecter nos [Conditions d'utilisation](https://badoo.com/terms/) ;
+* vous envoyer des informations sur les promotions et les offres disponibles (par exemple, indiquer le type de biens/services/offres à proposer via une communication marketing directe) soit par des actions marketing directes soit par d'autres modes de communication - si vous vous êtes inscrit à nos newsletters ou si vous nous avez donné votre accord. Nous n’utiliserons pas vos données dans des e-mails de marketing direct sauf dans le cas où vous y avez consenti lors de la création de votre compte ou bien dans les paramètres de l'appli (vous pouvez retirer ce consentement à tout moment via les paramètres de l'application ou en utilisant nos modalités de désinscription fournies dans des dans chacun de nos e-mails); et
+* protéger nos utilisateurs et les tiers contre les dommages.
+
+### Pratiques de modération
+
+Nous utilisons une combinaison de systèmes automatisés et une équipe de modérateurs pour surveiller et examiner les comptes (y compris les photos et toute autre information téléchargée sur les profils d'utilisateurs) et les messages pour le contenu qui indique des violations de nos Conditions d'utilisation. Si un compte ou un message répond à certains critères démontrant que les [Conditions d'utilisation](https://badoo.com/terms/) sont susceptibles d'avoir été enfreintes, le compte concerné fera l'objet d'un avertissement et l'accès de l'utilisateur restreint et/ou bloqué. Les Utilisateurs concernés peuvent contacter Badoo pour contester la décision.
+
+**Si vous publiez quelque chose qui n'est pas conforme à nos conditions d'utilisation, nous nous réservons le droit de résilier ou de restreindre l'accès à votre compte.**
+
+### Base légale
+
+En vertu des lois de l'UE et du Royaume-Uni sur la protection des données, nous sommes tenus de vous indiquer notre base légale pour l'utilisation de vos données et nous l'avons indiqué dans le tableau ci-dessous. Lorsque la base légale est le consentement, vous pouvez retirer votre consentement à tout moment. Lorsque la base légale est des intérêts légitimes, vous avez le droit de vous opposer à notre utilisation de vos données. Nous expliquons dans les sections pertinentes de cette politique comment vous pouvez retirer votre consentement ou vous désinscrire de certaines utilisations de données (le cas échéant).
+
+| Objectif pour lequel les données sont utilisées | Données | Source | Base légale |
+| --- | --- | --- | --- | --- |
+| Pour vous fournir le service de réseau social Badoo | Nom, adresse e-mail, date de naissance, lieu (CCPA Catégories A et B) | Vous nous fournissez votre nom, votre adresse e-mail et votre date de naissance. Nous obtenons les données de localisation de l'appareil que vous utilisez pour accéder au service | Nécessité contractuelle |
+| Pour faciliter la navigation sur le site Badoo | Informations facultatives que vous choisissez de fournir dans votre profil, qui peuvent inclure des informations sur vos préférences sexuelles, votre genre non binaire, votre religion, votre origine ethnique, des photos, vos centres d’intérêt, etc. (CCPA Catégories B, C, H, I, J) | Vous nous fournissez ces informations | Nécessité contractuelle et nos intérêts légitimes : il est dans nos intérêts légitimes de faciliter les opportunités de réseautage dans l'appli Bumble. Dans le cas de catégories spécifiques ou de données personnelles sensibles, votre consentement explicite sera demandé. |
+| Pour vérifier votre identité et prévenir la fraude et pour assurer la sécurité et la sûreté des utilisateurs | Numéro de téléphone et, si demandé ou autorisé, photo fournie dans le cadre de la vérification du profil (CCPA Catégories B et H) | Vous nous fournissez ces informations | Intérêts légitimes - Il est dans notre intérêt légitime de veiller à ce que les comptes ne soient pas configurés de manière frauduleuse et de protéger les utilisateurs du site |
+| Pour accepter le paiement des services premium (ne s'applique pas aux utilisateurs qui paient par le biais de l'App Store d'Apple) | Détails de la carte de paiement (CCPA Catégories B et D) | Vous nous fournissez ces informations | Nécessité contractuelle |
+| Pour permettre à nos partenaires publicitaires de diffuser des publicités ciblées aux utilisateurs du site / de l'application (dont des vidéos avec récompense) | Identifiant publicitaire associé à votre appareil (ID d'appareil), âge, genre et adresse IP (et votre emplacement estimé en fonction de votre adresse IP) (CCPA Catégories A, C and G) | Vous nous fournissez votre âge et votre genre. Nous obtenons votre ID d'appareil et votre adresse IP de l'appareil que vous utilisez pour accéder au service | Consentement – Comme indiqué par vous dans vos préférences Paramètres de confidentialité / Paramètres de cookies et via les préférences de confidentialité de votre navigateur ou appareil (lorsque requis par le fabricant de votre appareil, par exemple les appareils Apple utilisant iOS 14.5). |
+| Pour diffuser des publicités aux utilisateurs du site / de l'application sur des réseaux tiers et mesurer l'efficacité de ces publicités | Données concernant votre visite sur notre site ou notre application et votre activité (par exemple, si vous avez téléchargé notre application ou créé un compte Badoo), âge, genre, ID d’appareil (CCPA Catégories A, C, G, F et K) | Vous nous fournissez votre âge et votre genre et nous obtenons d'autres informations de l'appareil que vous utilisez pour accéder au service | Consentement – Comme indiqué par vous dans vos préférences Paramètres de confidentialité / Paramètres de cookies et via les préférences de confidentialité de votre navigateur ou appareil (lorsque requis par le fabricant de votre appareil, par exemple les appareils Apple utilisant iOS 14.5) |
+| Pour diffuser des cartes promotionnelles et des publicités sur l'application | Lieu, genre, âge et informations que vous nous avez éventuellement fournis via votre profil (catégories CCPA A, C et G) | Nous obtenons de votre part des informations sur votre âge, votre sexe et votre profil, ainsi que des données de localisation à partir de l'appareil que vous utilisez pour accéder au service | Intérêts légitimes - Il est dans notre intérêt légitime de cibler les publicités afin que les utilisateurs voient des publicités pertinentes et afin de nous permettre de générer des revenus à partir de revenus publicitaires |
+| Pour vous envoyer des informations marketing sur nos événements, offres et services | Nom, adresse e-mail, adresse postale, identifiant Instagram et numéro de téléphone portable (CCPA, Catégories A et B) | Vous nous fournissez ces informations | Consentement ou intérêts légitimes et conformément aux lois applicables à nos activités de marketing. Nous avons un intérêt légitime à promouvoir notre entreprise et nos produits |
+| Pour vous contacter afin de mener des enquêtes à des fins de recherche et d'obtenir des commentaires, et pour savoir si vous souhaitez participer à des campagnes de marketing | Adresse e-mail et numéro de téléphone portable (CCPA Catégorie B) | Vous nous fournissez ces informations | Intérêts légitimes - Il est dans notre intérêt légitime de mener des recherches afin que nous puissions développer davantage l'application et améliorer le service |
+| Pour permettre aux utilisateurs de créer leur profil Badoo et de se connecter à l'application par le biais de comptes tiers | Données de Facebook et d'autres comptes tiers (pour plus de détails, voir la section 7 de la présente politique) (CCPA Catégories A, B, C et H) | Nous obtenons ces informations de Facebook ou des fournisseurs des comptes que vous utilisez pour vous connecter à votre compte Badoo | Intérêts légitimes - Il est dans notre intérêt légitime de faciliter l'accès à nos services |
+| Pour effectuer une analyse pour nous aider à améliorer l'application | Journal et données d'utilisation, y compris l'adresse IP, le type de navigateur, le domaine référent, les pages consultées, l'opérateur mobile, les termes de recherche, les images et les vidéos (CCPA Catégories F et H) | Vous nous fournissez les images et vidéos. Nous obtenons le journal et les données d'utilisation de l'appareil que vous utilisez pour accéder au service | Intérêts légitimes - Il est dans notre intérêt d'analyser la manière dont les utilisateurs accèdent et utilisent nos services afin que nous puissions développer davantage l'application, mettre en place des mesures de sécurité et améliorer le service |
+| Pour répondre à la correspondance et aux requêtes que vous nous soumettez, dont les demandes de réseaux sociaux | Adresse e-mail, adresse IP, nom sur les réseaux sociaux, numéro de téléphone (CCPA Catégories B et F) | Vous nous fournissez vos adresse e-mail, nom sur les réseaux sociaux et numéro de téléphone lorsque vous nous contactez et nous obtenons votre adresse IP de l'appareil que vous utilisez pour nous contacter | Intérêts légitimes - Il est dans notre intérêt légitime de répondre à vos requêtes afin de garantir un service de qualité aux utilisateurs et de résoudre les problèmes |
+| Pour enquêter sur les infractions à nos Conditions Générales d'Utilisation qui nous sont signalées et bloquer les utilisateurs concernés | Pour procéder à des recherches et analyses nous permettant d’améliorer l'appli et de tester de nouvelles technologies ainsi que les procédures conçues pour améliorer l'appli et le site | Données de connexion et d'usage, nom et données d’inscription de l'utilisateur, informations du profil, contenu des messages et photos ; l'utilisation et les données de l'appareil telles que l'adresse IP et les informations de session IP (CCPA Catégories A, F et H) | Vous nous fournissez vos informations d'inscription, informations de profil, messages photos. Nous obtenons les autres informations de l'appareil que vous utilisez pour accéder au service | Intérêts légitimes – Il est dans notre intérêt légitime d'empêcher tout comportement non autorisé et de maintenir la sécurité et l'intégrité de nos services. |
+| Pour bloquer les transactions de paiement dans le cadre de nos procédures anti-fraude | Nom, adresse IP, adresse e-mail, numéro de mobile, nom du titulaire de la carte, paiements reçus, type de paiement, ID utilisateur, pays (CCPA Catégories A, B et D) | Vous nous fournissez votre nom, votre adresse e-mail, votre numéro de téléphone et les détails de votre carte. Nous obtenons votre adresse IP de l'appareil que vous utilisez pour nous contacter. Nous obtenons vos informations de paiement à partir de vos interactions avec notre service | Intérêts légitimes - Il est dans notre intérêt légitime d'empêcher les transactions frauduleuses et de maintenir la sécurité de nos services |
+| Pour permettre les appels vidéo et audio et l'envoi d'images et de vidéos | Données d'utilisation des appels vidéo et audio, images et vidéos (CCPA Catégories F et H) | Nous obtenons ces informations de l'appareil que vous utilisez pour accéder au service | Intérêts légitimes - Il est dans notre intérêt légitime de fournir ces fonctionnalités dans le cadre des services. |
+| Pour créer un profil plus précis de vous, ce qui nous aide avec les profils que nous vous proposons, ainsi que pour personnaliser le service | Les applications installées sur votre appareil (Android uniquement) (CCPA Catégories F et K) | Nous obtenons ces informations de l'appareil que vous utilisez pour accéder au service | Consentement |
+| Pour défendre des réclamations légales, protéger les droits légaux et protéger les personnes contre les préjudices | Cela peut inclure toute information pertinente | Ces informations peuvent être obtenues directement auprès de vous, de votre appareil ou de tiers, selon les informations concernées | Intérêts légitimes - Il est dans notre intérêt légitime de protéger nos droits légaux, de défendre des réclamations légales et de protéger nos utilisateurs et des tiers contre tout préjudice |
+
+3\. DIVULGATION D'INFORMATIONS
+------------------------------
+
+Notre politique est de ne pas divulguer vos données personnelles, sauf dans les circonstances limitées décrites ci-dessous :
+
+.
+
+| Circonstances dans lesquelles les données peuvent être divulguées | Données divulguées |
 | --- | --- |
-| **Service Providers** - We engage certain trusted third parties to perform functions and provide services to us. We may share your personal data with these third parties, but only for the purposes of performing these functions and providing such services. More information about this is available directly below | This could include all data, including all CCPA Categories listed above |
-| **Moderators** - to monitor activity on the site/apps and approve content | Name and user registration details, profile information, content of messages and photographs (CCPA Categories A, B, C and H) |
-| **Advertising Partners** - our Advertising Partners serve targeted advertisements on our App and Sites (this includes rewarded video ads) – more information on this is available below | Advertising identifier associated with your device (Device ID), age, gender, and IP address (and your estimated locations based on your IP address) (CCPA Categories A, C and G) |
-| **Law and Harm** - As we mentioned in the [Terms and Conditions of Use](https://badoo.com/terms/), we think it is very important that all Badoo members behave whilst using the App. We will cooperate with all third parties to enforce their intellectual property or other rights. We will cooperate with lawfully made law enforcement requests for information from within or outside your country of residence where we are required to by law. This may include where there is an investigation into alleged criminal behaviour or to protect the vital interests of a person. We may preserve or disclose any of your information, including your Registration Information, if we believe in good faith that it is necessary to comply with a law or regulation, or when we believe in good faith that disclosure is necessary:<br><br>* to comply with a binding direction, court order, or lawful request;<br>* to protect the safety of any person;<br>* to address fraud, security or technical issues e.g. through anti-spam providers to protect the service from criminal activity; or<br>* to protect our rights or property or those of third parties.<br><br>In such cases we may raise or waive any legal objection or right available to us. | This could include any personal data that Badoo holds about you, depending on the nature of the request or the issue that we are dealing with, including all CCPA Categories listed above |
-| **Marketing Services Providers** - To help us serve marketing and advertising on third party websites and applications and measure the effectiveness of our advertising campaigns. More information on this is available below. | Advertising identifier associated with your device (Device ID), estimated location (based on your IP address), age, gender and data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with our App), hashed email address (for ‘custom audiences’ only) ( (CCPA Categories B, C, G, F and K) |
-| **Payment processing and telecommunications companies** - To facilitate payments for our premium services | Cardholder name, cardholder address, card number, payment amount, transaction date/time (CCPA Categories A, B, and D) |
-| **Business Transfers** - In the event that a Badoo Group entity or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data to a purchaser of all or part of the business or to an insolvency practitioner | This could include all personal data that Badoo holds about you, including all CCPA Categories listed above |
-| **Anti-Spam and Anti-Fraud** - Your data may be shared with other Badoo Group companies, for example, to block accounts and suspected fraudulent payment transactions as part of our anti-spam and anti-fraud procedures. | This could include email address, phone number, IP address and IP session information, social network ID, username, user agent string, and transaction and payment data (CCPA Categories B, F and D) |
-| **Aggregated Information** - We may share aggregated information with third parties that includes your personal data (but which doesn’t identify you directly) together with other information including log data for industry analysis and demographic profiling. |
+| **Prestataires de services** - Nous engageons certains tiers de confiance pour qu'ils remplissent des fonctions et nous fournissent des services. Nous pouvons partager vos données personnelles avec ces tiers, mais uniquement dans le but d'exécuter ces fonctions et de fournir ces services. De plus amples informations à ce sujet sont disponibles directement ci-dessous | Cela peut inclure toutes les données, y compris toutes les catégories du CCPA énumérées ci-dessus |
+| **Modérateurs** - Pour surveiller l'activité sur le site / les applications et approuver le contenu | Nom et détails de l'inscription de l'utilisateur, informations sur le profil, contenu des messages et des photographies (CCPA Catégories A, B, C, et H) |
+| **Partenaires publicitaires** - Nos partenaires publicitaires diffusent des publicités ciblées sur notre application et nos sites (y compris des publicités vidéo avec récompense) - Plus d'informations à ce sujet sont disponibles ci-dessous | Identifiant publicitaire associé à votre appareil (ID d'appareil), âge, sexe et adresse IP (et emplacement estimé en fonction de votre adresse IP) (CCPA Catégories A, C et G) |
+| **Lois et préjudices** - Comme nous l'avons mentionné dans les [Conditions Générales d'Utilisation](https://badoo.com/terms/), nous pensons qu'il est très important que tous les membres de Badoo se comportent lorsqu'ils utilisent l'application. Nous coopérerons avec tous les tiers pour faire respecter leur propriété intellectuelle ou d'autres droits. Nous coopérerons également aux enquêtes des forces de l'ordre à l'intérieur ou à l'extérieur de votre pays de résidence lorsque la loi nous y oblige, en cas d'enquête pour comportement criminel, ou pour protéger les intérêts vitaux d'une personne. Cela peut inclure la conservation ou la divulgation de vos informations, y compris vos informations d'inscription, si nous croyons de bonne foi que c'est nécessaire pour se conformer à une loi ou à un règlement, ou lorsque nous pensons que la divulgation est nécessaire :<br><br>* pour se conformer à une procédure judiciaire, une ordonnance de tribunal ou une demande légale ;<br>* pour protéger la sécurité d'une personne ;<br>* pour résoudre les problèmes de fraude, de sécurité ou techniques, par ex. via des fournisseurs anti-spam pour protéger le service contre les activités criminelles ou<br>* pour protéger nos droits ou nos biens ou ceux de tiers. Dans de tels cas, nous pouvons soulever ou renoncer à toute objection légale ou droit dont nous disposons. | Cela peut inclure toutes les données personnelles que Badoo détient sur vous, selon la nature de la demande ou le problème que nous traitons, y compris toutes les catégories du CCPA énumérées ci-dessus |
+| **Fournisseurs de services marketing** : pour nous aider à proposer des services marketing et publicitaires sur des sites Web et des applications tiers et à mesurer l'efficacité de nos campagnes publicitaires. Plus d'informations à ce sujet sont disponibles ci-dessous. | Identifiant publicitaire associé à votre appareil (ID de l'appareil), emplacement estimé (sur la base de votre adresse IP), âge, sexe et données concernant votre visite sur nos Sites ou App et les mesures prises à leur égard (par exemple si vous avez téléchargé notre App ou créé un compte avec notre application), adresse e-mail hachée (pour les "audiences personnalisées" uniquement) (CCPA Catégories B, C, G, F et K) |
+| **Sociétés de traitement des paiements et de télécommunications** - Pour faciliter les paiements de nos services premium | Nom du titulaire de la carte, adresse du titulaire de la carte, numéro de la carte, montant du paiement, date / heure de la transaction (CCPA Catégories A, B et D) |
+| **Transferts d'entreprise** - Dans le cas où une entité du Groupe Badoo ou l'une de ses sociétés affiliées subirait une transition commerciale ou un changement de propriétaire, comme une fusion, une acquisition par une autre société, une réorganisation ou la vente de tout ou partie de ses actifs, ou en cas d'insolvabilité ou d'administration, nous pouvons être amenés à divulguer vos données personnelles à un acheteur de tout ou partie de l'entreprise ou à un praticien de l'insolvabilité | Cela peut inclure toutes les données personnelles que Badoo détient à votre sujet, y compris toutes les catégories CCPA énumérées ci-dessus |
+| **\>Anti-Spam et Anti-Fraude** - Vos données peuvent être partagées avec d'autres sociétés du Groupe Badoo, par exemple, pour bloquer des comptes et des transactions de paiement jugées frauduleuses dans le cadre de nos procédures anti-spam et anti-fraude. | Cela pourrait inclure votre adresse e-mail, votre numéro de téléphone, votre adresse IP et vos informations de session IP, votre identifiant de réseau social, votre nom d'utilisateur, votre chaîne d'agent utilisateur et vos données de transaction et de paiement (CCPA Catégories B, F et D) |
+| **Informations agrégées** - Nous pouvons partager avec des tiers des informations agrégées comprenant vos données personnelles (mais qui ne vous identifient pas directement) ainsi que d'autres informations, notamment des données de journal, à des fins d'analyse sectorielle et de profilage démographique. |
 
-MORE INFORMATION ABOUT DISCLOSURES
-----------------------------------
+PLUS D'INFORMATIONS SUR LES DIVULGATIONS
+----------------------------------------
 
-### Service Providers
+### Fournisseurs de services
 
-We engage certain trusted third parties to perform functions and provide services to us (“Service Providers”). The suppliers with which Badoo shares User personal data vary depending on a variety of factors, such as which of our Apps and Sites a User engages with. For example, to provide our services to Badoo App Users, we typically use the following suppliers:
+Nous engageons certains tiers de confiance pour exécuter des fonctions et nous fournir des services (« fournisseurs de services »). Les fournisseurs avec lesquels Badoo partage les données personnelles des utilisateurs varient en fonction de divers facteurs, tels que les applications et sites avec lesquels un utilisateur s'engage. Par exemple, pour fournir nos services aux utilisateurs de l'application Badoo, nous utilisons généralement les fournisseurs suivants :
 
-* Billing services - to allow customers to purchase paid features of our App (for example, Google Play)
-* Authentication services - to allow customers to authenticate their account (for example, Twilio)
-* Social media providers - to allow customers to create/connect their Badoo account with their account(s) on such platforms (for example Facebook or Instagram)
-* Product improvement and market research - we use third party platforms (such as Typeform) and agencies (such as Kantar) to carry out customer surveys and market research to improve our products and services
-* Growth marketing services - to allow us to market and advertise Badoo to potential customers (for example AppsFlyer and Facebook)
-* IT services - some of the third-party software providers used in the operation of our business may process customers’ personal data (for example, if a customer contacts us via social media with a support inquiry, their inquiry is processed by our community management software provider Khoros)
+* Services de facturation : pour permettre aux clients d'acheter des fonctionnalités payantes de notre application (par exemple, Google Play)
+* Services d'authentification : pour permettre aux clients d'authentifier leur compte (par exemple, Twilio)
+* Fournisseurs de médias sociaux : pour permettre aux clients de créer/connecter leur compte Badoo avec leur(s) compte(s) sur ces plateformes (par exemple Facebook ou Instagram)
+* Amélioration des produits et études de marché : nous utilisons des plateformes tierces (telles que Typeform) et des agences (telles que Kantar) pour mener des enquêtes auprès des clients et des études de marché afin d'améliorer nos produits et services
+* Services de marketing de croissance : pour nous permettre de commercialiser et de promouvoir Badoo auprès de clients potentiels (par exemple, AppsFlyer et Facebook)
+* Services informatiques : certains des fournisseurs de logiciels tiers utilisés dans le cadre de l'exploitation de notre entreprise peuvent traiter les données personnelles des clients (par exemple, si un client nous contacte via les réseaux sociaux avec une demande d'assistance, sa demande est traitée par notre fournisseur de logiciels de gestion de communauté Khoros)
 
-We carry out due diligence on all Service Providers we engage to ensure they have adequate data protection and information security measures in place and only provide them with the personal data necessary to the service they are providing. Our suppliers are also subject to extensive obligations under our contractual arrangements, including strict data retention limits.
+Nous exerçons une diligence raisonnable sur tous les fournisseurs de services que nous engageons pour nous assurer qu'ils ont mis en place des mesures adéquates de protection des données et de sécurité des informations et ne leur fournissons que les données personnelles nécessaires au service qu'ils fournissent. Nos fournisseurs sont également soumis à des obligations étendues en vertu de nos dispositions contractuelles, y compris des limites strictes de conservation des données.
 
-### Marketing Service Providers and Advertising Partners
+### Prestataires de services marketing et partenaires publicitaires
 
-We may partner with advertising publishers to place third party adverts on our App and Sites (‘Advertising Partners’). We also partner with providers of marketing services (such as Facebook for example) (‘Marketing Services Providers’) to help us market and advertise our App and services on third party websites and applications and measure the effectiveness of our advertising campaigns. For example:
+Nous pouvons nous associer à des éditeurs de publicité pour placer des publicités de tiers sur notre application et nos sites (« partenaires publicitaires »). Nous travaillons également en partenariat avec des fournisseurs de services marketing (tels que Facebook par exemple) (« fournisseurs de services marketing ») pour nous aider à commercialiser et à promouvoir notre application et nos services sur des sites web et applications tiers et à mesurer l'efficacité de nos campagnes publicitaires. Par exemple :
 
-* to exclude you from advertising campaigns aimed at finding new users, if you already have a Badoo account;
-* to show Badoo adverts to users who have visited the Badoo App/Sites but haven’t yet created a Badoo account;
-* to create an audience for our advertisements of other potential users who have similar characteristics to you based on the information the Marketing Service Providers hold about you (also known as a Lookalike Audience); or
-* to include you in a ‘custom audience’ that will receive Badoo advertising content (a custom audience is essentially a list of people who we think are most likely to be interested in a particular advertisement).
+* pour vous exclure des campagnes publicitaires visant à trouver de nouveaux utilisateurs, si vous possédez déjà un compte Badoo ;
+* pour afficher les publicités Badoo aux utilisateurs qui ont visité l'application/les sites Badoo mais n'ont pas encore créé de compte Badoo ;
+* créer une audience pour nos publicités auprès d'autres utilisateurs potentiels qui présentent des caractéristiques similaires aux vôtres sur la base des informations que les fournisseurs de services marketing détiennent à votre sujet (également appelée audience similaire ) ; ou
+* pour vous inclure dans une audience personnalisée, qui recevra du contenu publicitaire Badoo (une audience personnalisée est essentiellement une liste de personnes qui, selon nous, sont les plus susceptibles d'être intéressées par une publicité particulière).
 
-We share a limited amount of your personal data with companies that help us with marketing and advertising, such as:
+Nous partageons une quantité limitée de vos données personnelles avec des sociétés qui nous aident dans le marketing et la publicité, à savoir :
 
-* the advertising identifier associated with your device (this is a random number assigned by your mobile device manufacturer (for example Apple or Google) to your device to help advertisers (including the manufacturer), know when an ad has been viewed or clicked on in the App or sites, and when an ad causes a “conversion” (for example downloading the app advertised to you))
-* your estimated location (based on your IP address)
-* age and gender
-* data about your visit to our Sites or App and action taken on those (for example if you download our App or created an Account with our App)
-* a hashed\* version of your email address (to create ‘custom audiences’).
+* l'identifiant publicitaire associé à votre appareil (il s'agit d'un nombre aléatoire attribué par le fabricant de votre appareil mobile (par exemple Apple ou Google) à votre appareil pour aider les annonceurs (y compris le fabricant), à savoir quand une annonce a été vue ou cliquée sur l'application ou les sites, et lorsqu'une annonce provoque une « conversion » (par exemple, le téléchargement de l'application qui vous a été annoncée)
+* votre position estimée (en fonction de votre adresse IP)
+* votre âge et votre sexe
+* les données concernant votre visite sur nos sites ou notre application et les mesures prises à leur égard (par exemple, si vous téléchargez notre application ou créez un compte avec notre application)
+* une version hachée\* de votre adresse e-mail (pour créer des "audiences personnalisées").
 
-\*Hashing is a way of encrypting information by turning it into a combination of random numbers and letters - this code cannot be traced back to the email address. When hashed email addresses are sent to a Marketing Service Provider, they’re then matched against the Provider’s own existing list of their own users’ hashed information and our ads are served to those of our users who have successfully been matched with the Provider’s. Matched and unmatched hashes are then deleted by the Provider.
+\*Le hachage est un moyen de crypter des informations en les transformant en une combinaison de chiffres et de lettres aléatoires - ce code ne peut pas être retracé jusqu'à l'adresse e-mail. Lorsque des adresses e‑mail hachées sont envoyées à un fournisseur de services marketing, elles sont ensuite comparées à la propre liste existante du fournisseur d'informations hachées de leurs propres utilisateurs et nos annonces sont diffusées à ceux de nos utilisateurs qui ont été mis en correspondance avec succès avec ceux du fournisseur. Les hachages correspondants et non correspondants sont ensuite supprimés par le fournisseur.
 
-For more information about how we use cookies and other tracking technologies, including how you can set and manage your preferences with regards to such technologies, please see our [Cookie Policy](https://badoo.com/en-us/cookie-policy).
+Pour plus d'informations sur la façon dont nous utilisons les cookies et autres technologies de suivi, y compris sur la manière dont vous pouvez définir et gérer vos préférences concernant ces technologies, veuillez consulter notre [Politique des cookies](https://badoo.com/en-us/cookie-policy).
 
-In some cases, these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.
+Dans certains cas, ces tiers utiliseront également les données qu'ils collectent à leurs propres fins. Par exemple, ils peuvent agréger vos données avec d'autres données qu'ils détiennent et les utiliser pour informer les services liés à la publicité fournis à d'autres clients.
 
 ### Facebook
 
-Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Badoo has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as an independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email DPO@corp.badoo.com.
+Lorsque nous partageons des données avec Facebook en tant que fournisseur de services marketing (y compris via la fonction « J'aime » de Facebook), nous sommes des contrôleurs conjoints des données avec Facebook Ireland pour ce traitement. Cet arrangement signifie que Badoo doit vous fournir cet avis, mais vous devez contacter Facebook si vous souhaitez exercer vos droits de protection des données. Vous trouverez de plus amples informations, y compris sur la manière dont Facebook vous permet d'exercer vos droits de protection des données, puis de traiter vos informations en tant que contrôleur de données indépendant, sur la [Politique Facebook relative aux données en Irlande](https://en-gb.facebook.com/policy.php). Si vous souhaitez plus d'informations sur la nature de l'accord que nous avons mis en place avec Facebook, veuillez envoyer un e-mail à DPO@corp.badoo.com.
 
-This data referred to above can include actions that you take on our website such as your interactions with our website or other information collected from cookies or similar technologies including the Facebook pixel. This allows us to measure the effectiveness of our advertising, improve our marketing practices, and helps us deliver more relevant advertising to you and people like you (including on social media such as Facebook).
+Les données mentionnées ci-dessus peuvent inclure des actions que vous entreprenez sur notre site web, telles que vos interactions avec notre site web ou d'autres informations collectées à partir de cookies ou de technologies similaires, y compris Facebook pixel. Cela nous permet de mesurer l'efficacité de notre publicité, d'améliorer nos pratiques marketing et nous aide à vous proposer, ainsi qu'à des personnes comme vous, des publicités plus pertinentes (y compris sur les réseaux sociaux tels que Facebook).
 
-### Google’s reCAPTCHA service
+### Service reCAPTCHA de Google
 
-To protect the input and comment areas of our App against spam and abuse, we use the reCAPTCHA verification tool. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and is subject to Google’s [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms).
+Pour protéger les zones de saisie et de commentaires de notre application contre le spam et les abus, nous utilisons l'outil de vérification reCAPTCHA. Ce service est fourni par Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis et est soumis à la [politique de confidentialité](https://policies.google.com/privacy) et aux [Conditions d'utilisation](https://policies.google.com/terms).
 
-reCAPTCHA makes it possible to differentiate between inputs of human origin and those that are carried out improperly by a bot. Certain device and application data will be transmitted to Google’s servers in order to determine whether actions on our App really come from humans. Google may also use this data to improve the reCAPTCHA service. This data may include: URLs; user IP address; Google account information if the user is logged in to their Google account at the same time; browser information, including browser type, browser size, browser resolution, browser plug-ins, language settings and date; mouse and touch events within the page; and information collected from cookies. This processing is based on our predominant legitimate interests in protecting our App from abusive bots.
+reCAPTCHA permet de différencier les entrées d'origine humaine de celles qui sont effectuées de manière incorrecte par un bot. Certaines données d'appareils et d'applications seront transmises aux serveurs de Google afin de déterminer si les actions sur notre application proviennent vraiment d'humains. Google peut également utiliser ces données pour améliorer le service reCAPTCHA. Ces données peuvent inclure : des URL ; adresse IP de l'utilisateur ; informations de compte Google si l'utilisateur est connecté à son compte Google en même temps ; les informations du navigateur, y compris le type de navigateur, la taille du navigateur, la résolution du navigateur, les plug-ins du navigateur, les paramètres de langue et la date ; événements de souris et de toucher sur la page ; et les informations collectées à partir des cookies. Ce traitement est basé sur nos intérêts légitimes prédominants à protéger notre application contre les robots abusifs.
 
-4\. WHAT OTHERS MAY SEE ABOUT YOU
+4\. CE QUE LES AUTRES PEUVENT VOIR SUR VOUS
+-------------------------------------------
+
+Notre application est conçue pour vous permettre de vous connecter plus facilement avec d'autres utilisateurs et d'interagir avec eux.
+
+Lorsque vous utilisez l'application Badoo, vous devez supposer que **tout ce que** vous publiez ou soumettez sur l'application peut être visible et accessible publiquement, à la fois par les utilisateurs de l'application et les non-utilisateurs de l'application. Nous souhaitons que nos Utilisateurs soient prudents lorsqu'ils publient des informations qui pourraient éventuellement être rendues publiques.
+
+Veuillez faire attention à ne pas publier des informations sensibles vous concernant sur votre profil, telles que votre confession religieuse et vos informations de santé. Bien que vous puissiez nous fournir volontairement ces informations lorsque vous créez votre profil, y compris vos préférences sexuelles, il n'y a aucune obligation de le faire. N'oubliez pas que les photos que vous publiez sur Badoo peuvent également révéler des informations vous concernant. **Lorsque vous téléchargez et choisissez de nous communiquer des informations sensibles vous concernant, vous consentez explicitement à ce que nous traitions ces informations et les rendiez publiques aux autres utilisateurs.**
+
+Votre profil Badoo et d'autres informations que vous mettez à disposition via l'Application, y compris certaines informations ajoutées à votre profil via des comptes tiers (tels que Facebook ou Instagram - voir la section 7 de cette Politique de Confidentialité pour plus d'informations à ce sujet) peuvent être consultés et partagé par les Utilisateurs avec des personnes qui peuvent ou non être des Utilisateurs de l'Application. Par exemple, un utilisateur peut vous recommander comme Match à ses amis Facebook en prenant une capture d'écran de votre photo de profil et en la partageant, que ces amis soient également ou non des utilisateurs de l'application.
+
+Veuillez également noter que dans certains pays (actuellement, la Corée du Sud uniquement) les Utilisateurs disposent de fonctionnalités leur permettant de télécharger une copie de leur historique de conversation (comme cela est requis par les lois locales) et que Badoo n'a aucun contrôle sur la façon dont les Utilisateurs peut alors publier ou utiliser ces informations.
+
+Si vous vous connectez ou accédez à l'application via votre compte Facebook ou un autre compte tiers sur un appareil que vous partagez avec d'autres, n'oubliez pas de vous déconnecter de l'application et du compte tiers concerné lorsque vous quittez l'appareil afin d'empêcher d'autres utilisateurs d'accéder à votre compte Badoo.
+
+5\. NOTRE POLITIQUE ENVERS L'ÂGE.
 ---------------------------------
 
-We think our Users are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them.
+Même si nous souhaitons ouvrir notre création aux plus de personnes possibles, vous devez être âgé(e) d’au moins 18 ans pour utiliser l’Application. Si vous êtes encore mineur, revenez rejoindre Badoo lorsque vous aurez l’âge requis.
 
-When using the Badoo App, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-users of the App. We want our Users to be careful about posting information that may eventually be made public.
+Badoo ne récupère aucune information personnelle relative aux enfants ou mineurs volontairement, et ne cherchons pas à leur vendre des produits. Si nous apprenons qu’un enfant, un mineur ou une personne de moins de 18 ans s’est inscrite sur notre site et nous a fourni des renseignements personnels, nous prendrons des mesures et supprimerons ses informations et son profil Badoo. Si nous supprimons un profil enfreignant nos règles relatives aux enfants, nous pouvons conserver l'adresse e-mail et IP d'un tel utilisateur afin de l'empêcher de contourner notre règlement et de créer un nouveau profil.
 
-Please be careful about posting sensitive details about yourself on your profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your profile, including your sexual preferences, there is no requirement to do so. Please remember that photographs that you post on Badoo may reveal information about yourself as well. **Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing of this information and making it public to other Users.**
+SÉCURITÉ
+--------
 
-Your Badoo profile and other information you make available via the App, including certain information added to your profile through third party accounts (such as Facebook or Instagram – see section 7 of this Privacy Policy for more information about this) may be viewed and shared by Users with individuals who may or may not be Users of the App. For example, a User may recommend you as a match to his or her Facebook friend(s) by taking a screenshot of your profile picture and sharing it, regardless of whether such friend(s) is also a User of the App.
+Badoo a mis en place des mesures de sécurité appropriées pour protéger et empêcher la perte, l'utilisation abusive, l'accès non autorisé ou la divulgation et l'altération des informations sous notre contrôle, y compris vos données personnelles. Nous utilisons des mesures de sécurité raisonnables pour protéger la confidentialité de vos informations personnelles. Nos experts techniques chez Badoo travaillent dur pour assurer votre utilisation sécurisée de notre site.
 
-Please also note that in certain countries (currently, South Korea only) Users are provided with functionality enabling them to download a copy of their conversation history (as this is required by local laws) and that Badoo has no control over how Users may then publish or use that information.
+Malheureusement, aucun site web ou transmission internet n'est complètement sécurisé à 100% et nous ne pouvons garantir qu'un accès non autorisé, un piratage, une perte de données ou d'autres violations ne se produiront jamais, mais voici quelques conseils pratiques pour vous aider à protéger vos données :
 
-If you log in to or access the App through your Facebook account or another third-party account on a device which you share with others, remember to log out of the App and the relevant third-party account when you leave the device in order to prevent other users from accessing your Badoo account.
+1. Veuillez vous assurer de vous déconnecter de votre compte après utilisation
+2. Veuillez ne pas partager le mot de passe que vous utilisez pour accéder à votre compte Badoo avec quelqu'un d'autre.
+3. Modifiez régulièrement votre mot de passe.
 
-5\. OUR POLICY TOWARDS AGE.
----------------------------
+Si vous pensez que quelqu'un a eu accès à votre mot de passe ou à votre compte, veuillez suivre les étapes décrites ici. Nous ne pouvons pas garantir la sécurité de vos données personnelles lorsqu'elles sont transmises à notre site et toute transmission est à vos propres risques.
 
-Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use the App - sorry kids, we know Badoo is cool, but you’ll have to come back when you’re old enough!
-
-Badoo does not knowingly collect any information about or market to children, minors or anyone under the age of majority. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal data, we will take steps to terminate that person’s registration and delete their Profile information from Badoo. If we do delete a Profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new Profile.
-
-6\. SECURITY.
--------------
-
-Badoo has implemented appropriate security measures to protect and prevent the loss, misuse, unauthorised access or disclosure and alteration of the information under our control, including your personal data. We use reasonable security measures to safeguard the confidentiality of your personal information. Our technical experts at Badoo work hard to ensure your secure use of our site.
-
-Unfortunately, no website or Internet transmission is ever completely 100% secure and even we cannot guarantee that unauthorised access, hacking, data loss or other breaches will never occur, but here are some handy tips to help keep your data secure:
-
-1. Please make sure you log out of your Account after use as you never know who may stumble onto your Account!
-2. Please don’t share the password you use to access your Badoo Account with anyone else!
-3. Change your password periodically.
-
-If you ever think someone has had access to your password or Account, please follow the steps set out here. We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk.
-
-7\. LINKING OTHER ACCOUNTS TO BADOO.
-------------------------------------
-
-### Using your social media details to sign in to Badoo
-
-When you sign in to our App using your Facebook account, you give permission to Facebook to share with us your name and profile picture. Unless you opt-out, you also give permission to Facebook to share with us your email address (if there is one associated with your Facebook account), date of birth, profile photos, gender, Page likes and current town/city.
-
-If you register or sign in with your Apple ID, you give Apple permission to share your Apple login, a name (that can be edited by you) and an email (you can choose to hide your email and Apple will create a random email address so your personal email can stay private). This email address will be linked to your Badoo account and will be used to retrieve your Badoo account.
-
-We will then use this personal data to form your Badoo account. If you remove the Badoo app from your Facebook settings, or from your Apple ID, we will no longer have access to this data. However, we will still have the personal data that we received when you first set up your Badoo account using your Facebook or Apple ID (you must delete your Badoo account entirely for us to no longer have access to this data).
-
-### Linking social media accounts to your Badoo account
-
-You may link your Badoo account with your Instagram or Facebook accounts. This allows you to share some information from those accounts directly to your Badoo account (for example, Instagram photos).
-
-We only receive the limited information that Instagram/Facebook permits to be transferred (as detailed by Instagram/Facebook and agreed by you when you first connect your account from such platforms with your Badoo account).
-
-If you no longer want to link your Badoo account to your Instagram or Facebook account, please visit the settings in your Instagram or Facebook account and follow the instructions to remove the Badoo app access permissions. Please note that any information already added to your Badoo account from those platforms will not be deleted unless you delete it within your Badoo account as well.
-
-8\. YOUR CALIFORNIA PRIVACY RIGHTS
+7\. LIER D'AUTRES COMPTES À BADOO.
 ----------------------------------
 
-For Users who are California residents, you have the following rights (in addition to those listed at section 9 below) under the California Consumer Privacy Act, and you have the right to be free from unlawful discrimination for exercising your rights under the Act:
+### Utiliser vos informations de réseaux sociaux pour vous connecter à Badoo
 
-1. You have the right to request that we disclose certain information to you and explain how we have collected, used and shared your personal information over the past 12 months.
-2. You have the right to request that we delete your personal information that we collected from you, subject to certain exceptions.
+Lorsque vous vous connectez à notre application à l'aide de votre compte Facebook, vous autorisez Facebook à partager avec nous votre nom et votre photo de profil. Sauf si vous vous désinscrivez, vous autorisez également Facebook à partager avec nous votre adresse e-mail (s'il y en a une associée à votre compte Facebook), votre date de naissance, vos photos de profil, votre sexe, vos préférences de page et votre ville actuelle.
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [DPO@corp.badoo.com](mailto:DPO@corp.badoo.com).
+Si vous vous inscrivez ou vous connectez avec votre identifiant Apple, vous autorisez Apple à partager votre identifiant Apple, un nom (que vous pouvez modifier) ​​et un e-mail (vous pouvez choisir de cacher votre e-mail et Apple créera une adresse e-mail aléatoire afin que votre e-mail personnel reste privé). Cette adresse e-mail sera liée à votre compte Badoo et sera utilisée pour récupérer votre compte Badoo.
 
-From time to time, as part of a joint promotion with a third party, we may, if you participate in such a promotion, disclose your contact information to the third party to allow them to market their products or services to you. Where this is a condition for participation in a promotion, we will always let you know before you enter the promotion. Please follow the instructions provided to you by third parties to unsubscribe from their messages.
+Nous utiliserons ensuite ces données personnelles pour créer votre compte Badoo. Si vous supprimez l'application Badoo de vos paramètres Facebook, ou de votre identifiant Apple, nous n'aurons plus accès à ces données. Cependant, nous aurons toujours les données personnelles que nous avons reçues lors de la première configuration de votre compte Badoo à l'aide de votre identifiant Facebook ou Apple (vous devez supprimer entièrement votre compte Badoo pour que nous n'ayons plus accès à ces données).
 
-In addition, Under California law, operators of online services are required to disclose how they respond to “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party online services, to the extent the operator engages in that collection. At this time, we do not track our Users’ personal information over time and across third-party online services. This law also requires operators of online services to disclose whether third parties may collect personal information about their users’ online activities over time and across different online services when the users use the operator’s service. We do not knowingly permit third parties to collect personal information about an individual User’s online activities over time and across different online services when using the App.
+### Lier des comptes de réseaux sociaux à votre compte Badoo
 
-9\. YOUR RIGHTS.
-----------------
+Vous pouvez lier votre compte Badoo à vos comptes Instagram ou Facebook. Cela vous permet de partager certaines informations de ces comptes directement sur votre compte Badoo (par exemple, des photos Instagram).
 
-Privacy laws applicable in your country may give you the following rights:
+Nous ne recevons que les informations limitées qu'Instagram/Facebook autorise à transférer (telles que détaillées par Instagram/Facebook et acceptées par vous la première fois que vous connectez votre compte sur ces plateformes à votre compte Badoo).
 
-1. Right to be informed: what personal data an organisation is processing and why (this notice).
-2. Right of access: you can request a copy of your data.
-3. Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
-4. Right to erasure: you have the right to have your data deleted in certain circumstances.
-5. Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
-6. Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider.
-7. Right to object: in certain circumstances (including where data is processed on the basis of legitimate interests or for the purposes of marketing) you may object to that processing.
-8. Rights related to automated decision-making including profiling: there are several rights in this area where processing carried out on a solely automated basis results in a decision which has legal or significant effects for the individual. In these circumstances your rights include the right to ensure that there is human intervention in the decision-making process.
+Si vous ne souhaitez plus lier votre compte Badoo à votre compte Instagram ou Facebook, veuillez visiter les paramètres de votre compte Instagram ou Facebook et suivre les instructions pour supprimer les autorisations d'accès à l'application Badoo. Veuillez noter que toutes les informations déjà ajoutées à votre compte Badoo à partir de ces plateformes ne seront pas supprimées à moins que vous ne les supprimiez également dans votre compte Badoo.
 
-The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
+8\. VOS DROITS À LA VIE PRIVÉE EN CALIFORNIE
+--------------------------------------------
 
-If you want to exercise any of your rights listed above please visit our [Feedback Page](https://badoo.com/feedback/) or email our Data Protection Officer at DPO@corp.badoo.com. You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
+Pour les utilisateurs qui résident en Californie, vous disposez des droits suivants (en plus de ceux énumérés à la section 9 ci-dessous) en vertu de la California Consumer Privacy Act, et vous avez le droit d'être à l'abri de toute discrimination illégale pour exercer vos droits en vertu dudit Acte :
 
-If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
+1. Vous avez le droit de nous demander de vous divulguer certaines informations et d'expliquer comment nous avons récupéré, utilisé et partagé vos informations personnelles au cours des 12 derniers mois.
+2. Vous avez le droit de demander que nous supprimions vos informations personnelles que nous avons récupérées auprès de vous, sous réserve de certaines exceptions.
 
-If you feel we have not resolved your concern, you have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
+La loi californienne « Shine the Light », section 1798.83 du Code civil, oblige certaines entreprises à répondre aux demandes des clients californiens concernant les pratiques des entreprises en matière de divulgation d'informations personnelles à des tiers à des fins de marketing direct de tiers. Si vous souhaitez connaître les droits que vous pourriez avoir en vertu de la section 1798.83 du Code civil californien, vous pouvez nous écrire à [DPO@corp.badoo.com](mailto:DPO@corp.badoo.com).
 
-### EU Representative
+De temps en temps, dans le cadre d'une promotion conjointe avec un tiers, nous pouvons, si vous participez à une telle promotion, divulguer vos coordonnées au tiers pour lui permettre de vous commercialiser ses produits ou services. Lorsqu'il s'agit d'une condition de participation à une promotion, nous vous en informerons toujours avant de participer à la promotion. Veuillez suivre les instructions qui vous sont fournies par des tiers pour vous désabonner de leurs messages.
 
-Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Badoo has appointed Borlux Ltd as its GDPR representative in the EU. If you usually reside in an EU Member State you can contact Borlux Ltd regarding matters pertaining to the GDPR by:
+De plus, en vertu de la loi californienne, les opérateurs de services en ligne sont tenus de divulguer comment ils répondent aux signaux « ne pas suivre » ou à d'autres mécanismes similaires, qui offrent aux consommateurs la possibilité d'exercer leur choix concernant la collecte des informations personnelles d'un consommateur au fil du temps et sur des services en ligne tiers, dans la mesure où l'opérateur s'engage dans cette collecte. À l'heure actuelle, nous ne suivons pas les informations personnelles de nos utilisateurs au fil du temps et sur des services en ligne tiers. Cette loi exige également que les opérateurs de services en ligne divulguent si des tiers peuvent collecter des informations personnelles sur les activités en ligne de leurs utilisateurs au fil du temps et sur différents services en ligne lorsque les utilisateurs utilisent le service de l'opérateur. Nous n'autorisons pas sciemment des tiers à collecter des informations personnelles sur les activités en ligne d'un utilisateur individuel au fil du temps et sur différents services en ligne lors de l'utilisation de l'application.
 
-Using the online request form at - https://services.nathantrust.com/privacycontact
+9\. VOS DROITS.
+---------------
 
-Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
+Les lois sur la confidentialité applicables dans votre pays peuvent vous accorder les droits suivants :
 
-10\. DATA LOCATIONS.
---------------------
+1. Droit d'être informé(e) : quelles données personnelles une organisation traite et pourquoi (cet avis).
+2. Droit d'accès : vous pouvez demander une copie de vos données.
+3. Droit de rectification : si les données détenues sont inexactes, vous avez le droit de les faire rectifier.
+4. Droit à l'effacement : vous avez le droit de faire supprimer vos données dans certaines circonstances.
+5. Droit de restreindre le traitement : dans des circonstances limitées, vous avez le droit de demander que le traitement soit arrêté mais que les données soient conservées.
+6. Droit à la portabilité des données : vous pouvez demander une copie de vos données sous une forme lisible par machine qui peut être transférée à un autre fournisseur.
+7. Droit d'opposition : dans certaines circonstances (y compris lorsque les données sont traitées sur la base d'intérêts légitimes ou à des fins de marketing), vous pouvez vous opposer à ce traitement.
+8. Droits liés à la prise de décision automatisée, y compris le profilage : il existe plusieurs droits dans ce domaine, où un traitement effectué sur une base uniquement automatisée aboutit à une décision qui a des effets juridiques ou significatifs pour l'individu. Dans ces circonstances, vos droits incluent le droit de veiller à ce qu'il y ait une intervention humaine dans le processus de prise de décision.
 
-We want you to be able to access Badoo wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Badoo Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email DPO@corp.badoo.com.
+Les droits particuliers qui vous sont applicables (pouvant inclure d'autres droits non énumérés ci-dessus) peuvent varier en fonction de votre pays. Vous devez vous informer des droits dont vous disposez en vertu des lois sur la confidentialité applicables dans votre pays.
 
-11\. DATA RETENTION AND DELETION.
----------------------------------
+.
 
-We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law. Please see “Profile Verification Information (Including Biometric Information)” in Section 1, above, to learn about our retention policy with respect to biometric information.
+Si vous souhaitez exercer l'un de vos droits énumérés ci-dessus, veuillez visiter notre page [Contact](https://badoo.com/feedback/) ou envoyer un e-mail à notre responsable de la protection des données à DPO@corp.badoo.com. Vous pouvez également nous contacter par courrier à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, Londres, Royaume-Uni, EC2A 2RS. Pour votre protection et la protection de tous nos utilisateurs, nous pouvons avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité avant de pouvoir répondre aux demandes ci-dessus.
 
-When your Account is deleted, we make sure it is no longer viewable on the App. For up to 28 days it is still possible to restore your Account if it was accidentally deleted. After 28 days, we begin the process of deleting your personal information from our systems, unless:
+Si vous avez des inquiétudes sur la manière dont nous avons traité votre demande ou vos données personnelles, vous devez nous contacter en premier lieu via les coordonnées indiquées ci-dessus.
 
-1. we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may need to be kept for tax and accounting purposes);
-2. we must keep it to evidence our compliance with applicable law (for example, if an account is blocked, we keep some account information and a record of the behaviour that led to the block - this information is retained for evidential purposes in case of queries or legal claims concerning the block);
-3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
-4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security (for example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account).
+Si vous pensez que nous n'avons pas résolu votre problème, vous avez le droit de déposer une plainte à tout moment auprès de l'Information Commissioner's Office (ICO), l'autorité de contrôle britannique pour les questions de protection des données ([www.ico.org.uk](http://www.ico.org.uk/)). Si vous résidez dans un pays ou un territoire situé dans l'Union européenne (UE) ou l'Espace Économique Européen (EEE), vous pouvez également contacter votre [Régulateur de la protection des données](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). Si vous vivez dans un pays en dehors de l'UE, vous pouvez avoir le droit de déposer une plainte auprès de votre autorité locale de protection de la vie privée ou de la protection des données.
 
-**Warning:** Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by others. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information, they may retain such information to the extent permitted under their terms of service or privacy policies.
+### Représentant de l'UE
 
-Thanks for reading, we hope we didn’t drone on for too long!
+Conformément à l'article 27 du règlement général sur la protection des données (RGPD), Badoo a nommé Borlux Ltd comme son représentant GDPR dans l'UE. Si vous résidez habituellement dans un État membre de l'UE, vous pouvez contacter Borlux Ltd concernant les questions relatives au GDPR :
 
-12\. CHANGES TO THIS POLICY.
-----------------------------
+En utilisant le formulaire de demande en ligne sur https://services.nathantrust.com/privacycontact
 
-As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
+Par voie postale : 1er étage, 6 Lapps Quay, Cork, Irlande
 
-**Effective date.** This Privacy Policy was last updated on 12 April 2023.
+10\. EMPLACEMENTS DES DONNÉES.
+------------------------------
+
+Nous voulons que vous puissiez accéder à Badoo où que vous soyez dans le monde. Pour nous permettre de fournir ce service, nous exploitons un réseau mondial de serveurs, notamment aux États-Unis, au Royaume-Uni, dans l'UE et (pour les utilisateurs situés en Russie) en Russie. Le matériel est situé dans des centres de données tiers mais appartient au groupe Badoo. Les données collectées par les partenaires publicitaires et autres prestataires de services peuvent également être conservées en dehors du Royaume-Uni et de l'Espace économique européen. Nous veillons à ce que les données soient protégées de manière adéquate en veillant à ce que des mécanismes juridiques valides soient en place, tels que des clauses types approuvées par l'UE (qui peuvent être trouvées [ici](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), et en mettant en œuvre des normes contractuelles solides. Si vous souhaitez plus d'informations sur la nature des garanties que nous avons mises en place, veuillez envoyer un e-mail à DPO@corp.badoo.com.
+
+11\. CONSERVATION ET SUPPRESSION DES DONNÉES.
+---------------------------------------------
+
+Nous conservons vos informations personnelles aussi longtemps que nous en avons besoin pour la base légale sur laquelle invoquée (comme indiqué dans la section 2 ci-dessus) et comme le permet la loi applicable. Veuillez consulter « Informations de vérification du profil (y compris les informations biométriques) » dans la Section 1 ci-dessus pour en savoir plus sur notre politique de conservation des données en ce qui concerne les informations biométriques.
+
+Lorsque vous supprimez votre compte, nous nous assurons qu'il n'est plus visible sur l'application. Pendant 28 jours maximum, il est toujours possible de restaurer votre Compte s'il a été supprimé accidentellement. Après 28 jours, nous commençons le processus de suppression de vos informations personnelles de nos systèmes, sauf si :
+
+1. nous devons les conserver pour nous conformer à la loi applicable (par exemple, si vous effectuez des achats dans l'application, certaines données personnelles peuvent devoir être conservées à des fins fiscales et comptables) ;
+2. nous devons les conserver comme preuve de notre conformité avec la loi applicable (par exemple, lorsqu'un compte est bloqué, nous conservons certains informations sur ce compte, ainsi que la raison pour laquelle le compte a été bloqué ; ces informations sont conservées à des fins de preuve en cas de questions ou de plaintes concernant le blocage du compte) ;
+3. il existe un problème, une réclamation ou un litige en suspens qui nous oblige à conserver les informations pertinentes jusqu'à ce qu'elles soient résolues ; ou
+4. les informations doivent être conservées pour nos intérêts commerciaux légitimes, tels que la prévention de la fraude, et l'amélioration de la sûreté et de la sécurité des utilisateurs (par exemple, il peut être nécessaire de conserver des informations pour empêcher un utilisateur banni pour comportement dangereux ou incident de sécurité d'ouvrir un nouveau compte).
+
+**Avertissement :** Même après avoir supprimé des informations de votre profil ou supprimé votre compte, des copies de ces informations peuvent toujours être visibles et/ou accessibles dans la mesure où ces informations ont déjà été partagées avec d'autres, ou copiés ou stockés par d'autres. Nous ne pouvons pas contrôler cela, et nous n'acceptons aucune responsabilité pour cela. Si vous avez autorisé des applications ou des sites web tiers à accéder à vos informations personnelles, ils peuvent conserver ces informations dans la mesure permise par leurs conditions d'utilisation ou leurs politiques de confidentialité.
+
+Merci d'avoir pris le temps de lire ces Conditions Générales.
+
+12\. MODIFICATIONS DE CETTE POLITIQUE.
+--------------------------------------
+
+Au fur et à mesure que Badoo évolue, nous pouvons réviser cette Politique de Confidentialité de temps à autre. La version la plus récente de la politique régira notre utilisation de vos informations et sera toujours disponible sur https://am1.badoo.com/fr/privacy/. Si nous apportons une modification à cette politique qui, à notre seule discrétion, est importante, nous vous en informerons, par exemple, via un e-mail à l'adresse e-mail associée à votre compte ou en publiant un avis dans Badoo.
+
+**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 12 avril 2023.
