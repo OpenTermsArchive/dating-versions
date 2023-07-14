@@ -7,12 +7,12 @@ Pendant que vous utilisez l'application Badoo (y compris la version de bureau) (
 
 L'application et les Sites Badoo sont internationaux. Vos informations seront envoyées et utilisées aux États-Unis et aux Royaume-Uni indépendamment de votre pays de résidence. Cette Politique détaille la manière dont nous protégeons vos données personnelles lorsque nous les transférons à l'étranger. Merci de la lire attentivement !
 
-Qui sommes-nous ?
+Qui sommes-nous ?
 -----------------
 
-Les entités suivantes du groupe Badoo agissent en tant que contrôleurs des données personnelles collectées et traitées via l'application et les sites Badoo : Badoo Trading Limited et Bumble Trading LLC (appelés « Nous » dans la présente Politique).
+Badoo Trading Limited agit en tant que contrôleur des données personnelles collectées et traitées via l'application et les sites Badoo (appelés « Nous » dans la présente Politique).
 
-Badoo a désigné un responsable de la protection des données, qu'il est possible de contacter en envoyant un e-mail à DPO@corp.badoo.com ou par courrier postal à l'adresse suivante adresse : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+Badoo a désigné un responsable de la protection des données, qu'il est possible de contacter en envoyant un e-mail à DPO@badoo.com ou par courrier postal à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
 
 1\. COLLECTE D'INFORMATIONS
 ---------------------------
@@ -208,7 +208,7 @@ Dans certains cas, ces tiers utiliseront également les données qu'ils collecte
 
 ### Facebook
 
-Lorsque nous partageons des données avec Facebook en tant que fournisseur de services marketing (y compris via la fonction « J'aime » de Facebook), nous sommes des contrôleurs conjoints des données avec Facebook Ireland pour ce traitement. Cet arrangement signifie que Badoo doit vous fournir cet avis, mais vous devez contacter Facebook si vous souhaitez exercer vos droits de protection des données. Vous trouverez de plus amples informations, y compris sur la manière dont Facebook vous permet d'exercer vos droits de protection des données, puis de traiter vos informations en tant que contrôleur de données indépendant, sur la [Politique Facebook relative aux données en Irlande](https://en-gb.facebook.com/policy.php). Si vous souhaitez plus d'informations sur la nature de l'accord que nous avons mis en place avec Facebook, veuillez envoyer un e-mail à DPO@corp.badoo.com.
+Lorsque nous partageons des données avec Facebook en tant que fournisseur de services marketing (y compris via la fonction « J'aime » de Facebook), nous sommes des contrôleurs conjoints des données avec Facebook Ireland pour ce traitement. Cet arrangement signifie que Badoo doit vous fournir cet avis, mais vous devez contacter Facebook si vous souhaitez exercer vos droits de protection des données. Vous trouverez de plus amples informations, y compris sur la manière dont Facebook vous permet d'exercer vos droits de protection des données, puis de traiter vos informations en tant que contrôleur de données indépendant, sur la [Politique Facebook relative aux données en Irlande](https://en-gb.facebook.com/policy.php). Si vous souhaitez plus d'informations sur la nature de l'accord que nous avons mis en place avec Facebook, veuillez envoyer un e-mail à DPO@badoo.com.
 
 Les données mentionnées ci-dessus peuvent inclure des actions que vous entreprenez sur notre site web, telles que vos interactions avec notre site web ou d'autres informations collectées à partir de cookies ou de technologies similaires, y compris Facebook pixel. Cela nous permet de mesurer l'efficacité de notre publicité, d'améliorer nos pratiques marketing et nous aide à vous proposer, ainsi qu'à des personnes comme vous, des publicités plus pertinentes (y compris sur les réseaux sociaux tels que Facebook).
 
@@ -236,7 +236,7 @@ Si vous vous connectez ou accédez à l'application via votre compte Facebook ou
 5\. NOTRE POLITIQUE ENVERS L'ÂGE.
 ---------------------------------
 
-Même si nous souhaitons ouvrir notre création aux plus de personnes possibles, vous devez être âgé(e) d’au moins 18 ans pour utiliser l’Application. Si vous êtes encore mineur, revenez rejoindre Badoo lorsque vous aurez l’âge requis.
+Même si nous souhaitons ouvrir notre création aux plus de personnes possibles, vous devez avoir au moins 18 ans pour utiliser Badoo.
 
 Badoo ne récupère aucune information personnelle relative aux enfants ou mineurs volontairement, et ne cherchons pas à leur vendre des produits. Si nous apprenons qu’un enfant, un mineur ou une personne de moins de 18 ans s’est inscrite sur notre site et nous a fourni des renseignements personnels, nous prendrons des mesures et supprimerons ses informations et son profil Badoo. Si nous supprimons un profil enfreignant nos règles relatives aux enfants, nous pouvons conserver l'adresse e-mail et IP d'un tel utilisateur afin de l'empêcher de contourner notre règlement et de créer un nouveau profil.
 
@@ -280,7 +280,7 @@ Pour les utilisateurs qui résident en Californie, vous disposez des droits suiv
 1. Vous avez le droit de nous demander de vous divulguer certaines informations et d'expliquer comment nous avons récupéré, utilisé et partagé vos informations personnelles au cours des 12 derniers mois.
 2. Vous avez le droit de demander que nous supprimions vos informations personnelles que nous avons récupérées auprès de vous, sous réserve de certaines exceptions.
 
-La loi californienne « Shine the Light », section 1798.83 du Code civil, oblige certaines entreprises à répondre aux demandes des clients californiens concernant les pratiques des entreprises en matière de divulgation d'informations personnelles à des tiers à des fins de marketing direct de tiers. Si vous souhaitez connaître les droits que vous pourriez avoir en vertu de la section 1798.83 du Code civil californien, vous pouvez nous écrire à [DPO@corp.badoo.com](mailto:DPO@corp.badoo.com).
+La loi californienne « Shine the Light », section 1798.83 du Code civil, oblige certaines entreprises à répondre aux demandes des clients californiens concernant les pratiques des entreprises en matière de divulgation d'informations personnelles à des tiers à des fins de marketing direct de tiers. Si vous souhaitez connaître les droits que vous pourriez avoir en vertu de la section 1798.83 du Code civil californien, vous pouvez nous écrire à [DPO@badoo.com](mailto:DPO@badoo.com).
 
 De temps en temps, dans le cadre d'une promotion conjointe avec un tiers, nous pouvons, si vous participez à une telle promotion, divulguer vos coordonnées au tiers pour lui permettre de vous commercialiser ses produits ou services. Lorsqu'il s'agit d'une condition de participation à une promotion, nous vous en informerons toujours avant de participer à la promotion. Veuillez suivre les instructions qui vous sont fournies par des tiers pour vous désabonner de leurs messages.
 
@@ -304,7 +304,7 @@ Les droits particuliers qui vous sont applicables (pouvant inclure d'autres droi
 
 .
 
-Si vous souhaitez exercer l'un de vos droits énumérés ci-dessus, veuillez visiter notre page [Contact](https://badoo.com/feedback/) ou envoyer un e-mail à notre responsable de la protection des données à DPO@corp.badoo.com. Vous pouvez également nous contacter par courrier à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, Londres, Royaume-Uni, EC2A 2RS. Pour votre protection et la protection de tous nos utilisateurs, nous pouvons avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité avant de pouvoir répondre aux demandes ci-dessus.
+Si vous souhaitez exercer l'un de vos droits énumérés ci-dessus, veuillez visiter notre page [Contact](https://badoo.com/feedback/) ou envoyer un e-mail à notre responsable de la protection des données à DPO@badoo.com. Vous pouvez également nous contacter par courrier à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, Londres, Royaume-Uni, EC2A 2RS. Pour votre protection et la protection de tous nos utilisateurs, nous pouvons avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité avant de pouvoir répondre aux demandes ci-dessus.
 
 Si vous avez des inquiétudes sur la manière dont nous avons traité votre demande ou vos données personnelles, vous devez nous contacter en premier lieu via les coordonnées indiquées ci-dessus.
 
@@ -321,7 +321,7 @@ Par voie postale : 1er étage, 6 Lapps Quay, Cork, Irlande
 10\. EMPLACEMENTS DES DONNÉES.
 ------------------------------
 
-Nous voulons que vous puissiez accéder à Badoo où que vous soyez dans le monde. Pour nous permettre de fournir ce service, nous exploitons un réseau mondial de serveurs, notamment aux États-Unis, au Royaume-Uni, dans l'UE et (pour les utilisateurs situés en Russie) en Russie. Le matériel est situé dans des centres de données tiers mais appartient au groupe Badoo. Les données collectées par les partenaires publicitaires et autres prestataires de services peuvent également être conservées en dehors du Royaume-Uni et de l'Espace économique européen. Nous veillons à ce que les données soient protégées de manière adéquate en veillant à ce que des mécanismes juridiques valides soient en place, tels que des clauses types approuvées par l'UE (qui peuvent être trouvées [ici](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), et en mettant en œuvre des normes contractuelles solides. Si vous souhaitez plus d'informations sur la nature des garanties que nous avons mises en place, veuillez envoyer un e-mail à DPO@corp.badoo.com.
+Nous voulons que vous puissiez accéder à Badoo où que vous soyez dans le monde. Pour nous permettre de fournir ce service, nous exploitons un réseau mondial de serveurs, notamment aux États-Unis, au Royaume-Uni, dans l'UE et (pour les utilisateurs situés en Russie) en Russie. Le matériel est situé dans des centres de données tiers mais appartient au groupe Badoo. Les données collectées par les partenaires publicitaires et autres prestataires de services peuvent également être conservées en dehors du Royaume-Uni et de l'Espace économique européen. Nous veillons à ce que les données soient protégées de manière adéquate en veillant à ce que des mécanismes juridiques valides soient en place, tels que des clauses types approuvées par l'UE (qui peuvent être trouvées [ici](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), et en mettant en œuvre des normes contractuelles solides. Si vous souhaitez plus d'informations sur la nature des garanties que nous avons mises en place, veuillez envoyer un e-mail à DPO@badoo.com.
 
 11\. CONSERVATION ET SUPPRESSION DES DONNÉES.
 ---------------------------------------------
@@ -344,4 +344,4 @@ Merci d'avoir pris le temps de lire ces Conditions Générales.
 
 Au fur et à mesure que Badoo évolue, nous pouvons réviser cette Politique de Confidentialité de temps à autre. La version la plus récente de la politique régira notre utilisation de vos informations et sera toujours disponible sur https://am1.badoo.com/fr/privacy/. Si nous apportons une modification à cette politique qui, à notre seule discrétion, est importante, nous vous en informerons, par exemple, via un e-mail à l'adresse e-mail associée à votre compte ou en publiant un avis dans Badoo.
 
-**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 12 avril 2023.
+**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 14 juillet 2023.
