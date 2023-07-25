@@ -4,7 +4,7 @@ POLICY
 
 
 
-Last update: 22 December 2022
+Last update: 21 July 2023
 
 
 
@@ -18,7 +18,13 @@ under the number 805 232 352 at the Paris “Registre du Commerce et des Sociét
 
 headquarters located at 5 rue du Pont aux Choux 75003 Paris and represented by its President, Julian
 
-KABAB, (hereinafter "FLASHGAP").
+KABAB, (hereinafter "FLASHGAP"). FLASHGAP is operated by the “Bumble Group” (also referred to
+
+in this policy as “we” or “us”) which includes Bumble Holding Limited, Badoo Trading Limited and
+
+Bumble Trading LLC, all of which are controllers of personal information collected and processed
+
+through the Application..
 
 
 
@@ -234,7 +240,7 @@ If you choose to verify your profile photo, we will scan each photo that you sub
 
 may include the use of facial recognition technology so that we can compare the photo you
 
-submit to your profile photo, to help ensure that you are who you say you are. We do not add
+submit to your profile photo to help ensure that you are who you say you are. We do not add
 
 the verification photos to your profile. We retain the scans so that we can verify you in the future
 
@@ -418,7 +424,7 @@ You can withdraw your consent at any time in the same cookie management banner, 
 
 set and modify your choices. You may also object to this processing by: writing to us, by objecting to
 
-the use of your data for these purposes in the Application’s settings , or by sending an email to
+the use of your data for these purposes in the Application’s settings, or by sending an email to
 
 privacy@fruitz.io.
 
@@ -430,11 +436,15 @@ With your consent, we and our partners may process your Personal Data for the fo
 
 ● to run advertising campaigns and increase our performance via real-time bidding. Processing
 
-your Personal Data consists of the collection and enhancement of data related to your profile
+your Personal Data consists of data about your visit to our App and action taken on those (for
 
-(gender, age, country, interests, etc. ...), as well as other contextual data (site visited, date and
+example if you downloaded our App, or created an account with our App, or details of any
 
-time, etc.) ;
+purchases made on Site or in App), collection and enhancement of data related to your profile
+
+(gender, age, country, interests, etc.), as well as other contextual data (site visited, date and
+
+time, etc., ) ;
 
 
 
@@ -554,13 +564,7 @@ is up to each User to take all appropriate measures to protect his or her own da
 
 The use of the Application is reserved exclusively for adults. In case of doubt, FLASHGAP reserves
 
-the right to verify by any means that the User is over 18 years old. Where a User fraudulently declares
-
-that he or she has attained the age of majority, the Users parent(s) are invited to notify FLASHGAP by
-
-sending an e-mail to privacy@fruitz.io, in order to request the erasure of the User’s data. FLASHGAP
-
-undertakes to erase all Personal Data regarding the User as soon as possible.
+the right to verify by any means that the User is over 18 years old.
 
 5\. To whom is your Personal Data intended and how is it shared?
 
@@ -598,9 +602,13 @@ connection with Apple (https://www.apple.com/ca/fr/legal/privacy/fr/)
 
 Germany (https://help.adjust.com/fr/marketer/data-protection ), Adikteev 29 rue des
 
-Pyramides, 75001 Paris, France (https://www.adikteev.com/) and Mixpanel One Front Street,
+Pyramides, 75001 Paris, France (https://www.adikteev.com/) Mixpanel One Front Street, 28th
 
-28th floor, San Francisco, CA 94111 (https://mixpanel.com/legal/ privacy-policy/)
+floor, San Francisco, CA 94111 (https://mixpanel.com/legal/ privacy-policy/), Appsflyer Inc.,
+
+100 First Plaza, 100 1st St, San Francisco, United States
+
+(https://www.appsflyer.com/trust/privacy/)
 
 
 
