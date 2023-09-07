@@ -1,12 +1,12 @@
 Terms of Use
 ============
 
-_Last updated April 18, 2023._
+_Last updated August 18, 2023._
 
-**Lex does not sell any of your data nor use it for advertising.  
-**  
-**ACCEPTANCE OF THE TERMS  
-**  
+**Lex does not sell any of your data nor use it for advertising.**
+
+**ACCEPTANCE OF THE TERMS**
+
 The following terms of use, (these “ **Terms**”) are entered into by and between you and Personal Best, Inc. d/b/a Lex (“**Lex**,” “**Company**,” “**we**,” “**us**” or “**our**”). These Terms govern your access to and use of mobile application (the “**App**”), our website, [https://www.lex.lgbt/](https://www.lex.lgbt/) (the “Site”) along with any other products or services offered by us, whether through the Site or otherwise (collectively and together with the App and Site, the “**Services**”).
 
 Please read these Terms carefully. By accessing, browsing or otherwise using the Services or by clicking to accept or agree to the Terms when this option is made available to you, you (1) acknowledge that you have read and understood these Terms, (2) represent and warrant that you meet all of our eligibility requirements for using the Services as described in these Terms, and (3) accept and agree to be bound by these Terms, including any other terms applicable to the Services that are incorporated herein by reference. If you are using the Services on behalf of an entity, you are agreeing to these Terms for that entity and are representing to us that you have the authority to bind that entity to these Terms (in which case “you” will refer to that entity). If you do not accept these Terms or do not satisfy the eligibility requirements set forth below, you may not access or use the Services.
@@ -99,6 +99,8 @@ You may only use the Services as explicitly authorized and in compliance with an
 
 * Use the Services for any revenue generating endeavor, commercial enterprise, or other purpose other than for personal, non-commercial use, without our express written consent;
 * Misrepresent your identity, age, current or previous positions, qualifications, or affiliations with a person or entity;
+* Bully, troll, harass, stalk, or intimidate others, or otherwise engage in malicious, harmful, or disrespectful conduct;
+* Post or share others’ private information, or invite others to use Lex, without their explicit consent;
 * Express or imply that any statements you make are endorsed by Lex;
 * Scrape the Services or use other automated or manual means to take our content without our express prior written consent;
 * Modify, adapt, translate, reverse engineer, decompile, disassemble or convert into human readable form any of the contents of the Services not intended to be so read;
