@@ -3,7 +3,7 @@ HER Privacy Policy
 
 **Last Updated: January 14, 2022**
 
-Welcome to HER! This Privacy Policy explains how our company, Bloomer Inc., doing business as HER (“**HER**”, “**we**”, “**us**”, or “**our**”) handlesPersonal Information (as defined below) collected from our website, located at [www.weareher.com](http://www.weareher.com/) (the “**Website**”) and through the use of our mobile application (the “**Mobile App**”) (collectively,  the “**Services**”). Our Website provides information about us, allows you to download the Mobile App, and allows you to sign up for our newsletter.
+Welcome to HER! This Privacy Policy explains how our company, Bloomer Inc., doing business as HER (“**HER**”, “**we**”, “**us**”, or “**our**”) handlesPersonal Information (as defined below) collected from our website, located at [www.weareher.com](https://www.weareher.com/) (the “**Website**”) and through the use of our mobile application (the “**Mobile App**”) (collectively,  the “**Services**”). Our Website provides information about us, allows you to download the Mobile App, and allows you to sign up for our newsletter.
 
 If you do not consent to any of the terms included in this Privacy Policy, please do not use, or if you are already using, immediately discontinue your use of the Services.
 
