@@ -167,9 +167,11 @@ For additional disclosures and rights you have under the California Consumer Pri
 
 Our full details are:
 
-Jdate Customer Care  
-3400 N. Ashton Blvd, Suite 175  
-Lehi, UT 84043
+Jdate Customer Care
+
+3731 W South Jordan Parkway, Suite 102-405,
+
+South Jordan, UT  84009
 
 Email: [dataprotection-EN@jdate.com](mailto:dataprotection-EN@jdate.com)
 
