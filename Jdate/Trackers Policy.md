@@ -85,9 +85,11 @@ If you have any questions or requests in connection with this Cookie Notice or o
 
 Alternatively, inquiries may be addressed to:
 
-Jdate Customer Care  
-3400 N. Ashton Blvd, Suite 175  
-Lehi, UT 84043
+Jdate Customer Care
+
+3731 W South Jordan Parkway, Suite 102-405,
+
+South Jordan, UT  84009
 
 **CALIFORNIA RESIDENTS**
 
