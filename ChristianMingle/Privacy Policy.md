@@ -167,8 +167,8 @@ Our full details are:
 
 ChristianMingle Customer Care  
 Attn: Legal  
-3400 N. Ashton Blvd, Suite 175  
-Lehi, UT 84043  
+3731 W South Jordan Parkway, Suite 102-405,  
+South Jordan, UT  84009  
 United States  
 Email: [dataprotection-EN@christianmingle.com](mailto:dataprotection-EN@christianmingle.com "Follow link")
 
