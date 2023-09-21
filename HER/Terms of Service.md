@@ -5,7 +5,7 @@ HER Terms and Conditions
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.png)
+![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
 
 Of course! Here’s the reformatted version of the section with the unnecessary all caps sentences changed to sentence case:
 
@@ -47,7 +47,7 @@ If you do not agree with all of the provisions of these terms, do not access and
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.png)
+![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
 
 Information about HER and contact details
 -----------------------------------------
@@ -83,7 +83,7 @@ Acceptable Use
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.jpg)
+![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
 
 You are responsible for your use of the Services, and for any use of the Services made using your Account. Our goal is to create a positive experience in connection with our Services. To promote this goal, we prohibit certain kinds of conduct that may be harmful to other Users or to HER.
 
@@ -105,7 +105,7 @@ When you use the Services, you agree that you will not:
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.jpg)
+![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
 
 License
 -------
@@ -117,7 +117,7 @@ Payments, HER Premium Plans and Cancellation
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.jpg)
+![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
 
 • HER Free Services. If you don’t choose to purchase HER Premium, you can simply use HER for free.
 
@@ -147,14 +147,14 @@ You represent and warrant that you have the legal right to use any payment card(
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.jpg)
+![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
 
 Ownership & Copyright
 ---------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.png)
+![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
 
 The parties agree that all proprietary rights in the Services are and will remain the property of HER. This includes non-personally identifiable aggregate data collected by HER in connection with providing the Services, as well as usage statistics and traffic patterns, any and all rights, title and interest to which are hereby assigned to HER by you.
 
@@ -176,7 +176,7 @@ You agree not to interfere or take action that results in interference with or d
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.png)
+![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
 
 Disclaimer; Limitation of Liability and Indemnification
 -------------------------------------------------------
@@ -255,7 +255,7 @@ Third Party Links & App Store
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.jpeg)
+![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
 ### Third-Party Links & Ads
 
@@ -287,7 +287,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.jpeg)
+![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
 Termination
 -----------
