@@ -1,6 +1,6 @@
 ### Effective Date: May 25, 2018
 
-HER Terms and Conditions
+HER terms and conditions
 ------------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -9,7 +9,7 @@ HER Terms and Conditions
 
 Of course! Here’s the reformatted version of the section with the unnecessary all caps sentences changed to sentence case:
 
-Our Terms
+Our terms
 ---------
 
 Welcome to HER! HER provides a platform for dating, making friends, reading content, finding out about local events, or just chatting with the biggest community for queer people worldwide.
@@ -24,7 +24,7 @@ Please be aware that the Arbitration Section of these Terms of Service, below, c
 
 The arbitration provisions set forth in these Terms could affect your right to participate in pending class action litigation. Please see below for more information regarding these arbitration provisions, including the arbitration provisions’ impact on the pending class litigation and how to opt out of arbitration. The Terms of Service limit the remedies that may be available to you in the event of a dispute.
 
-### Why Should You Read These Terms?
+### Why should you read these?
 
 These terms create a legally binding agreement between you and us. By accessing or using the Site, you are accepting these Terms. Some of our Services may have additional rules, policies, and procedures. Where such additional terms apply, we will make them available for you.
 
@@ -32,7 +32,7 @@ These terms create a legally binding agreement between you and us. By accessing 
 
 Some of our services may have additional rules, policies and procedures (collectively, “Additional Terms”). Where Additional Terms apply, we will make them available for you to read through in connection with your use of that service. By using that service, you agree to the Additional Terms. You confirm that you can enter the Agreement. You confirm and promise to us that you have the right, authority, and capacity to enter into these terms.
 
-### Which Provisions of the Terms Should You Pay Particular Attention To?
+### Which provisions matter most?
 
 The key terms that you should consider in particular detail are Sections:  
 • Changes to the Site and these Terms  
@@ -41,7 +41,7 @@ The key terms that you should consider in particular detail are Sections:
 • Termination  
 • Arbitration Agreement
 
-### What to Do If You Don’t Want to Accept These Terms?
+### What if you don’t want to accept the terms?
 
 If you do not agree with all of the provisions of these terms, do not access and/or use the Services.
 
@@ -56,8 +56,8 @@ Who we are. HER Inc. is a Delaware corporation located in California, USA. You c
 How we may contact you. If we have to contact you we may do so by text or email to the number and/or address you provided when you registered for an Account.  
 Email counts as “in writing”. When we use the words “writing” or “written” in these Terms, this includes emails. For contractual purposes, you consent to receiving communications from HER by email.
 
-Changes to the Services and these Terms
----------------------------------------
+Changes to the serves and these terms
+-------------------------------------
 
 Notice of Changes. We reserve the right to change the terms and conditions of this Agreement or to modify or discontinue the Services offered by HER at any time. Those changes will go into effect on the effective date shown in the revised agreement. If we change this Agreement, we will give you notice by posting the revised agreement on the applicable website(s) or app(s).
 
