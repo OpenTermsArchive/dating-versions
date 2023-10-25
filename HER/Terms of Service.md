@@ -1,4 +1,4 @@
-### Effective Date: May 25, 2018
+### Effective date: May 25, 2018
 
 HER terms and conditions
 ------------------------
@@ -63,22 +63,22 @@ Notice of Changes. We reserve the right to change the terms and conditions of th
 
 Material Changes. In the event of a more significant change to the Services and/or this Agreement, meaning that the changes materially impact your rights under this Agreement or your use of the Services, we may also require you to provide consent to the updated agreement before further use of the Services is permitted. By continuing to use any Services after the new effective date, you agree to be bound by such changes. If the modified terms are not acceptable to you, except as otherwise required by law, your only recourse is to cease using the Services.
 
-Service Description and Participation
+Service description and participation
 -------------------------------------
 
-### Service Description and Participation.
+### Service description and participation
 
 HER provides an online platform that connects our users with other that are interested in connection for dating purposes, friendship, making connections and other similar purposes (such users collectively referred to herein as “Customer” or “User”). As a User of the Services, you agree to provide us with complete and accurate information (if requested) and to update such information to keep it accurate, current and complete. You hereby grant HER the right to use and distribute the information that you have provided to HER for the purpose for which it was provided. YOU UNDERSTAND AND AGREE THAT THE HER HAS NO CONTROL OVER THE CONDUCT OF USERS. TO THE FULLEST EXTENT PERMITTED BY LAW, YOU HEREBY AGREE TO RELEASE HER FROM ALL LIABILITY ARISING OUT OF OR RELATED TO ANY INTERACTIONS YOU MAY HAVE WITH OTHER USERS THROUGH YOUR USE OF THE SERVICES OR ANY ACT OR OMISSION OF OTHER USERS.
 
-### Account Creation.
+### Account creation
 
 In order to access certain features of the Website and Apps and to use certain Services, you may be required register to create an account (“Account”). In connection with setting up your Account with HER, we may supply you with a User identification and/or password. In connection with any future use, you may be asked to input your User identification and/or password from time to time. You agree to be responsible for all activity that occurs under your Account and agree to be responsible for maintaining the security of your password and User identification. You can delete your Account at any time, for any reason, by following the instructions on the Site.
 
-### Eligibility & Age Restrictions.
+### Eligibility & age restrictions
 
 Persons under 18 are prohibited from providing personal information on our Websites or via our Apps. If you are under the age of eighteen (18), you may not use the Services under any circumstances. Further, you agree and represent and warrant that you will not show pictures of anyone under the age of 18 or talk about or share information regarding other people (whether or not they are Users of the Services) on or through the Services.
 
-Acceptable Use
+Acceptable use
 --------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -112,7 +112,7 @@ License
 
 Subject at all times to this Agreement, if you elect to download the App, the following also applies: HER grants you a license to download, install and use a copy of the App on a single mobile device or computer that you own or control solely for your personal and professional use on the basis that the license is: a personal, revocable, non-exclusive, non-transferable license (without a right to sublicense) to download, install and use a copy of the App on a single mobile device or computer that you own or control solely for your personal and professional use, subject at all times to this Agreement, including the restrictions on use, the acceptable use provisions and our right to remove Your Materials (as defined in Section 8) at our discretion at any time. Furthermore, with respect to any App accessed through or downloaded from an App Store such as Google Play or the Apple App Store (an “App Store Sourced Application”), you will only use the App Store Sourced Application: (1) on a product that runs the operating system for which it was intended and (2) as permitted by the “Usage Rules” set forth in the corresponding App Store. Use of the App from a third-party App Store is also subject to the provisions of Section 106.
 
-Payments, HER Premium Plans and Cancellation
+Payments, HER premium plans and cancellation
 --------------------------------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -123,7 +123,7 @@ Payments, HER Premium Plans and Cancellation
 
 • HER Premium. HER Premium offers Users with access to new features, including unlimited swipes, changes in locations, views of whose liked you, read receipts, MixHer, etc. HER has multiple subscription options to choose from, starting as low as $9.99 USD per month.
 
-### Payment Breakdowns and Models for HER Premium:
+### Payment breakdowns and models for HER premium:
 
 • 1 month: $14.99 and $24.99 USD
 
@@ -149,7 +149,7 @@ You represent and warrant that you have the legal right to use any payment card(
 
 ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
 
-Ownership & Copyright
+Ownership & copyright
 ---------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -158,19 +158,19 @@ Ownership & Copyright
 
 The parties agree that all proprietary rights in the Services are and will remain the property of HER. This includes non-personally identifiable aggregate data collected by HER in connection with providing the Services, as well as usage statistics and traffic patterns, any and all rights, title and interest to which are hereby assigned to HER by you.
 
-### Copyright Restrictions
+### Copyright restrictions
 
 • The Websites and Apps, including but not limited to software, content, text, photographs, images, graphics, video, audio and the compilation as a whole (“Content”), are copyrighted under U.S. copyright and other laws by HER or its licensors, unless otherwise noted. You must abide by all additional copyright notices or restrictions contained in the Websites, Apps or elsewhere. You may not delete any legal or proprietary notices in the Websites, Apps or elsewhere.  
 • Except as noted in Section 8 below: (1) the Websites and Apps may not be used, displayed, copied, reproduced, distributed, republished, uploaded, downloaded, posted, transmitted, mirrored or modified; and (2) except to the extent permitted by applicable law, you may not redistribute, sell, translate, modify, reverse-engineer or reverse-compile or decompile, disassemble or make derivative works of the Websites, Apps or any Content or components that are available on the Websites or Apps.
 
 You agree not to interfere or take action that results in interference with or disruption of the Websites or Apps or servers or networks connected to the Websites or Apps. You agree not to attempt to gain unauthorized access to other computer systems or networks connected to the Websites or Apps. HER reserves all other rights. Except as expressly provided herein, nothing on the Websites or as part of the Services will be construed as conferring any license under HER’s and/or any third party’s intellectual property rights, whether by estoppel, implication or otherwise. Notwithstanding anything herein to the contrary, HER may revoke any of the foregoing rights and/or your access to the Services, including the App, or any part thereof, at any time without prior notice.
 
-### Copyright Permission
+### Copyright permission
 
 • Permission is granted for viewing the Website pages and Content on the Internet and via the Apps, subject to the terms and conditions of this Agreement. In the event that information is downloaded from the Websites or Apps, the information, including any Content, data or files incorporated in or generated by the Websites or Apps are owned by HER and HER retains complete title to the information and all property rights therein. All other rights are reserved.  
 • Content License. As part of the Services, we may, in our sole discretion, permit you to post, upload, publish, submit or transmit certain content (“Your Materials”). We may also post a photograph or other visual likeness of you (“Your Image”). By making available any of Your Materials on or through the Services or if we make available Your Image on or through the Services, you hereby grant to HER the right to use Your Materials and Your Image as necessary to provide the Services and improve the Services. You also hereby grant to HER the right to use Your Materials (but not Your Image) to promote and market the Services. HER does not claim any ownership rights in any of Your Materials and nothing in this Agreement will be deemed to restrict any rights that you may have to use and exploit any of Your Materials.
 
-### Copyright Policy
+### Copyright policy
 
 • You acknowledge and agree that you are solely responsible for all of Your Materials that you make available through the Services. You represent and warrant that: (1) you either are the sole and exclusive owner of all of Your Materials that you make available through the Services or you have all rights, licenses, consents and releases that are necessary to grant to HER (or any other User as applicable) the rights in Your Materials
 
@@ -178,14 +178,14 @@ You agree not to interfere or take action that results in interference with or d
 
 ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
 
-Disclaimer; Limitation of Liability and Indemnification
+Disclaimer; limitation of liability and indemnification
 -------------------------------------------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://weareher.com/wp-content/uploads/2023/04/group-of-friends-cuddling-1296-728-header.jpg-1160x728.webp)
 
-### Disclaimer; Limitation of Liability and Indemnification
+### Disclaimer; limitation of liability and indemnification
 
 • Her does not make any representations or warranties, express or implied, including without limitation, warranties of merchantability, fitness for a particular purpose, title, compatibility, security, accuracy, or usefulness with respect to the services.  
 • You agree that any claims or causes of action arising out of any action or inaction of any users, shall be exclusively between you and the user (as applicable) and not HER.
@@ -194,7 +194,7 @@ Disclaimer; Limitation of Liability and Indemnification
 
 • To the fullest extent permitted by law, you assume full responsibility and risk of loss resulting from your use of the services. Although we intend to take reasonable steps to prevent any damages to you, to the fullest extent permitted by law, we are not liable for any damages or harm attributable to the foregoing.
 
-### Indemnification and Defense
+### Indemnification and defense
 
 You agree to defend, indemnify and hold harmless the dating app, its affiliates, officers, directors, employees, and agents from any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to reasonable attorney’s fees) arising from:  
 • Your use of and/or access to the services and/or any content accessed or provided through the services;
@@ -209,7 +209,7 @@ You agree to defend, indemnify and hold harmless the dating app, its affiliates,
 
 This defense and indemnification obligation will survive these terms of service and your use of the services.
 
-### Limitation of Liability
+### Limitation of liability
 
 Except as prohibited by applicable law, in no event shall the dating app, its officers, directors, employees, or agents be liable to you for any direct, indirect, incidental, special, punitive, or consequential damages whatsoever resulting from:
 
@@ -229,10 +229,10 @@ The foregoing limitation of liability shall apply to the fullest extent permitte
 
 Some jurisdictions do not allow for limited liability or exclusion of implied warranties, so not all of the above limitations may apply to you. You acknowledge and understand that the disclaimers, exclusions and limitations of liability set forth herein form an essential basis of the agreement between the parties hereto, that the parties have relied upon such disclaimers, exclusions and limitations of liability, and that absent such disclaimers, exclusions and limitations of liability, the terms and conditions of this agreement would be substantially different.
 
-Liability Exclusions
+Liability exclusions
 --------------------
 
-### What We Do Not Exclude
+### What we do not exclude
 
 Nothing in these terms shall limit or exclude our liability for:
 
@@ -242,7 +242,7 @@ Nothing in these terms shall limit or exclude our liability for:
 
 • Any other liability that cannot be excluded by applicable law.
 
-### Location of the Services
+### Location of the services
 
 The Services are controlled by the dating app from its facilities in the United States of America. The dating app makes no representations or warranties that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with all applicable local laws and regulations.
 
@@ -250,24 +250,24 @@ The Services are controlled by the dating app from its facilities in the United 
 
 ![](https://weareher.com/wp-content/uploads/2023/04/group-of-friends-cuddling-1296-728-header.jpg-1160x728.webp)
 
-Third Party Links & App Store
------------------------------
+Third party links & the App Store
+---------------------------------
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
-### Third-Party Links & Ads
+### Third-party links & ads
 
 The Services may contain links to third-party websites and services, and/or display advertisements for third parties (collectively, “Third-Party Links & Ads”). Where the Services contain links to Third-Party Links & Ads, these links are provided for your information and convenience only. We have no control over the contents of those sites or resources. HER does not review, approve, endorse or make any promises with respect to Third-Party Links & Ads. You use Third-Party Links & Ads at your own risk. You use all Third-Party Links & Ads at your own risk, and should apply a suitable level of caution and discretion in doing so. When you click on any of the Third-Party Links & Ads, the applicable third party’s terms and policies apply, not these Terms.
 
-### App Store
+### The App Store
 
 When you download our Apps, you may do so through a third party’s App Store. You acknowledge that the terms of this Agreement are between you and us and not with the owner or operator of the App Store (“App Store Owner”). As between the App Store Owner and us, we, and not the App Store Owner, are solely responsible for the Services, including the App, the content, maintenance, support services, and warranty, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement).
 
 In order to use the App, you must have access to a wireless network, and you agree to pay all fees associated with such access. You also agree to pay all fees (if any) charged by the App Store Owner in connection with the Services, including the App.
 
-### App Store Sourced Application
+### The App Store sourced application
 
 • Your use of the App Store Sourced Application must comply with the App Store’s “Terms of Service” or equivalent terms.
 
@@ -292,7 +292,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 Termination
 -----------
 
-### Suspension or Termination of Your Account or Site Access
+### Suspension or termination of your account or site access
 
 • We may, in our discretion and without liability to you, with or without cause, with or without prior notice and at any time: (a) terminate this Agreement and/or your access to the Services, and (b) deactivate or cancel your Account.
 
@@ -302,26 +302,26 @@ Termination
 
 • If we terminate this Agreement and/or your access to the Services as a result of your violation of any applicable law or regulation, we may also, at our sole discretion, inform law enforcement or regulatory authorities of the circumstances surrounding such termination.
 
-Other Important Terms
+Other important terms
 ---------------------
 
-### Privacy Policy
+### Privacy policy
 
 HER has customer information and privacy policies as set forth in its online Privacy Policy weareher.com/privacy. You hereby agree to be bound by HER’s Privacy Policy. Consistent with these policies, you may not collect, distribute, or gather personal or aggregate information, including Internet or e-mail addresses, about HER’s customers or other Users.
 
-### Anti-Spam
+### Anti-spam
 
 HER prohibits the sending of unsolicited bulk email or text messages (spam). Spam is defined for this purpose as sending multiple messages similar in content to any persons, entities, newsgroups, forums, email lists, or other groups or lists unless prior authorization has been obtained from the recipient or unless a business or personal relationship has already been established with the recipient. HER also prohibits using false headers in emails or falsifying, forging, or altering the origin of any email or text message in connection with HER and/or any products and Services. HER prohibits engaging in any of the foregoing activities by using the service of another provider, remailer service, or otherwise. If you or anyone you know is “spammed” by someone in relation to HER’s Services, please contact us promptly via the contact mechanism made available via the Website so that we may take appropriate action.
 
-### Governing Law and Jurisdiction
+### Governing law and jurisdiction
 
 This Agreement will be governed by and interpreted in accordance with the laws of the State of California, and we both agree to submit to the non-exclusive jurisdiction of the District Courts of California. This means that, if you are a citizen of a country in the EU, you may bring a claim to enforce your consumer protection rights in connection with these Terms in California or in the EU country in which you live.
 
-### Enforcement of Terms
+### Enforcement of terms
 
 Even if we delay in enforcing these Terms, we can still enforce them later. If we do not insist immediately that you do anything you are required to do under these Terms, or if we delay in taking steps against you in respect of your breaking these Terms, that will not mean that you do not have to do those things, and it will not prevent us from taking steps against you at a later date.
 
-### Rights and Waiver
+### Rights and waiver
 
 No delay or omission by either party hereto to exercise any right or power occurring upon any noncompliance or default by the other party with respect to any of the terms of this Agreement shall impair any such right or power or be construed to be a waiver thereof. The terms and conditions of this Agreement may be waived or amended only in writing and only by the party that is entitled to the benefits of the term(s) or condition(s) being waived or amended. Unless stated otherwise, all remedies provided for in this Agreement shall be cumulative and in addition to and not in lieu of any other remedies available to either party at law, in equity, or otherwise.
 
@@ -329,23 +329,23 @@ No delay or omission by either party hereto to exercise any right or power occur
 
 If any provision of this Agreement or any word, phrase, clause, sentence, or other portion thereof should be held to be unenforceable or invalid for any reason, then such provision or portion thereof shall be modified or deleted in such a manner as to render this Agreement as modified legal and enforceable to the maximum extent permitted under applicable laws.
 
-### Authorization and Transfer of Terms
+### Authorization and transfer of terms
 
 The party entering into this Agreement hereby acknowledges, represents, and warrants that he or she is expressly and duly authorized to enter into this Agreement and to legally bind said party to this Agreement.  
 We may transfer these Terms to someone else. This Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. We may transfer our rights and obligations under these Terms to another organization – for example, this could include another member of our group of companies or someone who buys our business. We will always tell you in writing if this happens, and we will ensure that the transfer will not affect your rights under these Terms.
 
-### No Third-Party Rights
+### No third-party rights
 
 These Terms are between you and us. No other person or party shall have any rights to enforce any of its terms.
 
-### Notice to California Users
+### Notice to California users
 
 Notice to California Users. Under California Civil Code Section 1789.3, Users of the Services from California are entitled to the following specific consumer rights notice. You may report complaints to The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.
 
-Arbitration Agreement and Dispute Resolution.
----------------------------------------------
+Arbitration agreement and dispute resolution
+--------------------------------------------
 
-### Arbitration Agreement
+### Arbitration agreement
 
 Please read this Arbitration Agreement carefully. It is part of your contract with Bloomer, Inc. (doing business as HER) and affects your rights. It contains procedures for mandatory binding arbitration and a class action waiver.
 
@@ -353,31 +353,31 @@ Please read this Arbitration Agreement carefully. It is part of your contract wi
 
 You acknowledge and agree that any dispute or claim relating in any way to your access or use of the Website or to any other aspect of your relationship with HER will be resolved by binding arbitration, rather than in court, except that (1) you may assert claims in small claims court if your claims qualify, so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis; and (2) you or HER may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents). This Arbitration Agreement shall apply, without limitation, to all claims that arose before this or any prior Agreement. Now or in the future, there may be lawsuits against HER alleging class, collective, and/or representative claims. Such claims, if successful, could result in some monetary recovery to you. The existence of such class, collective, and/or representative lawsuits does not mean that such lawsuits will ultimately succeed. But if you agree to arbitration with HER, you are agreeing in advance that you will not participate in or seek to recover monetary or other relief under such class, collective, and/or representative lawsuits. Instead, by agreeing to arbitration, you may bring your claims against HER in an individual arbitration proceeding. If successful on such claims, you could be awarded money or other relief by an arbitrator.
 
-### Arbitration Rules and Forum
+### Arbitration rules and forum
 
 Arbitration Rules and Forum. This Arbitration Agreement is governed by the Federal Arbitration Act in all respects. To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent, The Corporation Trust Company, at 1209 Orange Street, Wilmington, DE 19801. The arbitration will be conducted by the American Arbitration Association (“AAA”) under its rules, including the AAA’s Supplementary Procedures for Consumer-Related Disputes. The AAA’s rules are available at adr.org or by calling the AAA at 1-800-778-7879. Payment of all filing, administration, and arbitration fees will be governed by the AAA’s rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, HER will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines the claims are frivolous. If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum.
 
-### Arbitrator Powers
+### Arbitrator powers
 
 The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including, but not limited to any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitration will decide the rights and liabilities, if any, of you and HER. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum’s rules, and this Agreement. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding on you and HER.
 
-### Waiver of Jury Trial
+### Waiver of jury trial
 
 You and HER each knowingly and voluntarily waive any constitutional and statutory rights to sue in court and receive a judge or jury trial. You and HER are instead electing to have claims and disputes resolved by arbitration. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is limited. In any litigation between you and HER over whether to vacate or enforce an arbitration award, you and HER waive all rights to a jury trial and elect instead to have a judge resolve the dispute.
 
-### Waiver of Class or Consolidated Actions
+### Waiver of class or consolidated ctions
 
 All claims and disputes within the scope of this arbitration agreement must be arbitrated on an individual basis and not on a class basis. Claims of more than one customer or user cannot be arbitrated or litigated jointly or consolidated with those of any other customer or user. If, however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor HER is entitled to arbitration. Instead, all claims and disputes will then be resolved in a court as set forth in Section 14 (Exclusive Venue) below.
 
-### Opt Out
+### Opt out
 
 You may opt out of this Arbitration Agreement. If you do so, neither you nor HER can force the other to arbitrate. To opt out, you must notify HER in writing no later than 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your HER username (if any), the email address you used to set up your HER account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. You must send your opt-out notice to: hello@weareher.com and 1760 Mission Street, San Francisco, CA, 94103. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any previous, other, or future arbitration agreements that you may have with us.
 
-### Survival of Arbitration Agreement
+### Survival of arbitration agreement
 
 This Arbitration Agreement will survive any termination of your relationship with HER.
 
-### Exclusive Venue
+### Exclusive venue
 
 To the extent the parties are permitted under this Agreement to initiate litigation in a court, both you and HER agree that all claims and disputes arising out of or relating to the Agreement will be litigated exclusively in the state or federal courts located in the applicable county within the State of California.
 
