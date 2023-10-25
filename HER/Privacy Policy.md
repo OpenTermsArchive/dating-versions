@@ -1,22 +1,22 @@
-HER Privacy Policy
+HER privacy policy
 ------------------
 
 **Last Updated: January 14, 2022**
 
-Welcome to HER! This Privacy Policy explains how our company, Bloomer Inc., doing business as HER (“**HER**”, “**we**”, “**us**”, or “**our**”) handlesPersonal Information (as defined below) collected from our website, located at [www.weareher.com](https://www.weareher.com/) (the “**Website**”) and through the use of our mobile application (the “**Mobile App**”) (collectively,  the “**Services**”). Our Website provides information about us, allows you to download the Mobile App, and allows you to sign up for our newsletter.
+Welcome to HER! This Privacy Policy explains how our company, Bloomer Inc., doing business as HER (“**HER**”, “**we**”, “**us**”, or “**our**”) handles Personal Information (as defined below) collected from our website, located at [www.weareher.com](https://www.weareher.com/) (the “**Website**”) and through the use of our mobile application (the “**Mobile App**”) (collectively,  the “**Services**”). Our Website provides information about us, allows you to download the Mobile App, and allows you to sign up for our newsletter.
 
 If you do not consent to any of the terms included in this Privacy Policy, please do not use, or if you are already using, immediately discontinue your use of the Services.
 
-**Our Services**. Our Services allow you to connect and communicate with other members of the LGBTQ+ community for dating, fun, friendships and more!
+**Our Services**. Our Services allow you to connect and communicate with other members of the LGBTQIA+ community for dating, fun, friendships and more!
 
 When we use the phrase “**Personal Information**” in this Privacy Policy, we mean information that describes or indicates an identified or identifiable individual. When we use the phrase “**Anonymous Information**” in this Privacy Policy, we mean information that is not associated with or linked to any Personal Information except as expressly stated in this Policy, and does not enable identification of or contact with individual persons.
 
 **Users Outside of the United States.** HER is based in the U.S. If you are a non U.S. user of the Services, by visiting the Website and/or using the Mobile App, you acknowledge and agree that your Personal Information may be transferred to and/or processed in the United States for the purposes identified in this Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than and less protective of Personal Information than the laws in your country. By providing your information and agreeing to the terms of this Privacy Policy, you consent to any such transfer.
 
-Information We Collect
+Information we collect
 ----------------------
 
-### Personal Information
+### Personal information
 
 In general, the Personal Information we gather enables us to provide the Services to you, to improve and maintain the Services, and to better understand how users interact with the Services.
 
@@ -50,10 +50,10 @@ _Other_: We may also collect Personal Information at other points through our Se
 
 _Collection of Data by Advertisers_.  We may also use third parties to serve ads on the Services.  Your Account Information and Usage Information may be used by these third parties to choose advertisements likely to be relevant for you. We follow the guidelines of mobile application platforms (the Apple App Store and Google Play Store) in serving targeted advertisements to you through the Mobile App in connection with these third parties.
 
-How We Use Information We’ve Collected
+How we use information we’ve collected
 --------------------------------------
 
-### Personal Information
+### Personal information
 
 We will use your Personal Information, both directly and in connection with the third party services described in this Policy, to:
 
@@ -86,10 +86,10 @@ Lawful Bases
 
 We will only collect and process Personal Information where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g. to operate the site or deliver any products or services you have requested)) and “legitimate interests.” We rely on our legitimate interests as our lawful basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law). If you have questions about the lawful bases of how we process your personal information, contact us at support@weaareher.com.
 
-How We Disclose and Share Information
+How we disclose and share information
 -------------------------------------
 
-### Personal Information
+### Personal information
 
 We do not disclose or share your Personal Information with third parties other than as described in this Policy. In addition to the sharing described as a part how we collect data, we may disclose certain Personal Information to third parties in the following ways:
 
@@ -106,11 +106,11 @@ We do not disclose or share your Personal Information with third parties other t
 * Corporate Restructuring. We may share some or all of your Personal Information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy, as updated from time to time.
 * Other Disclosures. Regardless of any choices you make regarding your Personal Information (as described below), we may disclose Personal Information if we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms and Conditions; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties; and/or (d) investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms and Conditions, or harm (including potential harm) to HER or other users.
 
-### **How We Respond to DNT Signals**
+### **How we respond to DNT signals**
 
 **Your browser settings may allow you to automatically transmit a Do Not Track signal to websites and other online services you visit. We do not alter our practices when we receive a Do Not Track signal from a visitor’s browser because we do not track our visitors to provide targeted advertising on the Website. To find out more about Do Not Track, please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).**
 
-Your Choices Regarding Your Information
+Your choices regarding your information
 ---------------------------------------
 
 * Email Communications. We will communicate with you primarily in the form of push notifications and emails. You can manage the frequency and/or opt out of receiving these communications by changing your settings on your mobile device and/or clicking the “Unsubscribe” link at the bottom of each email. Please note that even if you unsubscribe or opt-out, we may still send you administrative communications (e.g., emails related to your Account). Please note if you disable push notifications on your mobile device you may not be able to receive or view administrative communications we send you via push notification.
@@ -128,7 +128,7 @@ Protecting the privacy of children is very important to us. We do not collect or
 
 ### We provide you with a simple tool in the Mobile App to control your information through your settings menu.
 
-How to Update, Access, and Modify Your Personal Information In-App
+How to update, access, and modify your personal information in-app
 ------------------------------------------------------------------
 
 To access this tool, from your profile, click the settings icon at the top right. From your profile setting, scroll down to “Privacy Options” and tap. From here, you can choose “Send me my data,” “Stop using my data,” or “Delete my account and data.”
@@ -139,17 +139,17 @@ To access this tool, from your profile, click the settings icon at the top right
 
 **Delete my account and my data.**  When you select this option, we’ll delete your account and the data it contains. Note that you won’t be able to use your account after doing this.
 
-How to Opt-Out
+How to opt-out
 ==============
 
 In addition to the standard mechanisms above for managing your data, if you’d like to opt out of a particular use of your data described in this Privacy Policy, you can email us at support@weareher.com.
 
-Changes to this Privacy Policy
+Changes to this privacy policy
 ------------------------------
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy at [**_www.weareher.com/privacy_**](https://weareher.com/privacy/) and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
-**Contacting Us**
+**Contacting us**
 -----------------
 
 We are here to help answer any questions you have about the Services and how we use your Personal Information. If you have any questions,concerns, complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security issues to us, please contact us at: [support@weareher.com](mailto:supportmydata@weareher.com).
