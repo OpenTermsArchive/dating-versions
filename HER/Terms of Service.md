@@ -3,7 +3,7 @@
 HER terms and conditions
 ------------------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
 
@@ -45,7 +45,7 @@ The key terms that you should consider in particular detail are Sections:
 
 If you do not agree with all of the provisions of these terms, do not access and/or use the Services.
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/06/sf-pride-parade.webp)
 
@@ -81,7 +81,7 @@ Persons under 18 are prohibited from providing personal information on our Websi
 Acceptable use
 --------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
 
@@ -103,7 +103,7 @@ When you use the Services, you agree that you will not:
 • Use any means to scrape or crawl any Web pages or Content contained in the Websites or Apps (although HER may allow operators of public search engines to use spiders to index materials from the Websites for the sole purpose of creating publicly available searchable indices of the materials, and HER reserves the right to revoke these exceptions either generally or in specific cases);  
 • Attempt to circumvent any technological measure implemented by HER or any of HER’s providers or any other third party (including another User) to protect the Websites or Apps; to the extent permitted by applicable law, attempt to decipher, decompile, disassemble, or reverse engineer any of the software used to provide the Websites or Apps; or advocate, encourage, or assist any third party in doing any of the foregoing.
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-1160x1084.webp)
 
@@ -115,7 +115,7 @@ Subject at all times to this Agreement, if you elect to download the App, the fo
 Payments, HER premium plans and cancellation
 --------------------------------------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
 
@@ -145,14 +145,14 @@ By providing HER with your payment and/or financial information, you agree that 
 
 You represent and warrant that you have the legal right to use any payment card(s), payment means or other financial information that you provide. You will also be responsible for paying any applicable taxes relating to payments that you make or that you receive.
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2022/07/Friendship-After-feelings-her-app-a-1160x1084.webp)
 
 Ownership & copyright
 ---------------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
 
@@ -174,14 +174,14 @@ You agree not to interfere or take action that results in interference with or d
 
 • You acknowledge and agree that you are solely responsible for all of Your Materials that you make available through the Services. You represent and warrant that: (1) you either are the sole and exclusive owner of all of Your Materials that you make available through the Services or you have all rights, licenses, consents and releases that are necessary to grant to HER (or any other User as applicable) the rights in Your Materials
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/06/NYC-PRIDE-PARADE-.webp)
 
 Disclaimer; limitation of liability and indemnification
 -------------------------------------------------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2023/04/group-of-friends-cuddling-1296-728-header.jpg-1160x728.webp)
 
@@ -246,14 +246,14 @@ Nothing in these terms shall limit or exclude our liability for:
 
 The Services are controlled by the dating app from its facilities in the United States of America. The dating app makes no representations or warranties that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with all applicable local laws and regulations.
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2023/04/group-of-friends-cuddling-1296-728-header.jpg-1160x728.webp)
 
 Third party links & the App Store
 ---------------------------------
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
@@ -285,7 +285,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 
 • Without limiting any other terms in this Agreement, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+ ![](https://weareher.com/wp-content/uploads/blank.png)
 
 ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
