@@ -119,7 +119,7 @@ Objections to a payment already made should be directed to our Customer Care tea
 
 **6.3 Right to cancel straight after Purchase**
 
-Subscriptions start upon Purchase confirmation. Pursuant to applicable law, you have 14 days starting from the day following a Purchase to exercise your right to cancel it (without giving any reason), by filling out the cancellation form available [here](http://uk.match.com/pages/misc/wp-content/uploads/sites/8/2018/01/CANCELLATION-FORM-UK.pdf) or by writing to the email address listed in the ‘Requests and Claims’ section below. The refund will be made within 14 days from the date we were informed of your decision to cancel and will be processed on the same Payment Method you used for the original Purchase.
+Subscriptions start upon Purchase confirmation. Pursuant to applicable law, you have 14 days starting from the day following a Purchase to exercise your right to cancel it (without giving any reason), by filling out the cancellation form available [here](http://uk.match.com/pages/misc/wp-content/uploads/sites/8/2023/11/cancellation-form-uk.pdf) or by writing to the email address listed in the ‘Requests and Claims’ section below. The refund will be made within 14 days from the date we were informed of your decision to cancel and will be processed on the same Payment Method you used for the original Purchase.
 
 If you connect to your account and use the Services before the end of the cancellation period, this first log in following the Purchase of a Subscription constitutes an express request by you to have immediate access to the Services, for which you will be charged.
 
