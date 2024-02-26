@@ -4,7 +4,7 @@ POLICY
 
 
 
-Last update: 21 July 2023
+Last update: 16 February 2024
 
 
 
@@ -236,23 +236,15 @@ verification might be required by us for the prevention of fraud. You can also v
 
 on a voluntary basis (to add the blue ‘verified’ badge to your profile).
 
-If you choose to verify your profile photo, we will scan each photo that you submit. The scan
+For photo verification, we will scan each photo that you submit. The scan may include the use
 
-may include the use of facial recognition technology so that we can compare the photo you
+of facial recognition technology so that we can compare the photo you submit to your profile
 
-submit to your profile photo to help ensure that you are who you say you are. We do not add
+photos. We do not add the verification photos to your profile. We will keep your verification
 
-the verification photos to your profile. We retain the scans so that we can verify you in the future
+photo to scan and compare it with other photos you upload in the future.Data that FLASHGAP
 
-and for our record-keeping purposes until we no longer need them for such purposes or for
-
-three years after your last interaction with us, whichever occurs first. After the applicable
-
-retention period expires, we take commercially reasonable steps to permanently and securely
-
-delete the scans from our systems.
-
-1.2. Data that FLASHGAP collects from third parties
+collects from third parties
 
 
 
@@ -260,7 +252,7 @@ When you sign up to the Application with or:
 
 
 
-● your Facebook account, by clicking on the "connect with Facebook" button, FLASHGAP collects
+● your Google account, by clicking on the "connect with Google" button, FLASHGAP collects
 
 from the latter: your first and last name, your date of birth, your email address and your gender.
 
@@ -272,7 +264,7 @@ your name and your email address.
 
 
 
-1.3. Data that FLASHGAP collects automatically from you
+1.2. Data that FLASHGAP collects automatically from you
 
 
 
@@ -354,25 +346,29 @@ and/or a paying subscription) to which you are a party.
 
 
 
-Geolocation is one of the Application’s main functionalities which allows you to find other Users in your
+We use different indications based on users’ profiles on our app (for example, how you swipe or
 
-vicinity. When you register, you have the choice of sharing your location:
+whether you match with someone). We use these indications to recommend the most relevant profiles
 
-- only when you are using the Application;
-
-- once;
-
-- never.
+to everyone to maximise everyone’s chances of finding meaningful connections on our apps.
 
 
 
-Your exact location is not shown, nor is exact location of other Users. It simply allows you to locate
+Our matching algorithms are based on a range of factors and use machine learning to rank profiles for
 
-them within a radius that you define in the Application's settings. The processing of this data is
+you to maximise your chance of finding compatible matches. We use the following data about you and
 
-necessary in order for you to be able to find other Users in your vicinity and the data is collected
+other users to predict your compatibility with others and generate profile recommendations:
 
-strictly for this purpose.
+● the information you provide us about yourself in your profile such as age, distance or gender so
+
+we can show you people who are appropriate and are more likely to like you back;
+
+● information about how you interact with our app to suggest to you people who are active and
+
+available to meet new people; and
+
+● your device coordinates, which are necessary to understand your proximity to other members.”
 
 
 
@@ -472,7 +468,9 @@ in accordance with this Privacy Policy.
 
 The legal basis for the processing described above is your consent.
 
-2.5. To detect or prevent fraudulent activities or activities contrary to FLASHGAP’s Terms and
+
+
+2.5 To detect or prevent fraudulent activities or activities contrary to FLASHGAP’s Terms and
 
 Conditions of Use
 
@@ -592,9 +590,9 @@ Users' Personal Data.
 
 In particular with :
 
-● social networks: connection via Facebook (https://www.facebook.com/policy.php) and
+● social networks: connection via Google (https://policies.google.com/privacy?hl=en-US) and
 
-connection with Apple (https://www.apple.com/ca/fr/legal/privacy/fr/)
+connection with Apple (https://www.apple.com/privacy//)
 
 
 
