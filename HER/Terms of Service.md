@@ -5,12 +5,9 @@ HER terms and conditions
 
  ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjYwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+Cgk8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwIi8+Cjwvc3ZnPg==)
 
-Of course! Here’s the reformatted version of the section with the unnecessary all caps sentences changed to sentence case:
+Welcome to HER!
 
-Our terms
----------
-
-Welcome to HER! HER provides a platform for dating, making friends, reading content, finding out about local events, or just chatting with the biggest community for queer people worldwide.
+HER provides a platform for dating, making friends, reading content, finding out about local events, or just chatting with the biggest community for queer people worldwide.
 
 Important — this Agreement (“Agreement” or “Terms”) is a legal agreement between you (“you” or “your”) and Bloomer Inc., hereinafter “HER,” “we,” “us” or “our”) that sets forth the legal terms and conditions for your access to and use of https://weareher.com and any other website owned and operated by HER (the “Website(s)” or “site(s)”) and any HER software, including any HER mobile applications (the “App(s)”) or other services offered by HER from time to time and other products or services offered by third parties using HER functionality (collectively, the website(s), App(s) and services are referred to as “Service(s)”).
 
