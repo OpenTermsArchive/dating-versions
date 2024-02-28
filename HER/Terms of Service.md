@@ -106,19 +106,9 @@ Payments, HER premium plans and cancellation
 
  ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iMTA4NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCTxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+)
 
-• HER Free Services. If you don’t choose to purchase HER Premium, you can simply use HER for free.
+**HER Free Services**. If you don’t choose to purchase HER Premium, you can simply use HER for free.
 
-• HER Premium. HER Premium offers Users with access to new features, including unlimited swipes, changes in locations, views of whose liked you, read receipts, MixHer, etc. HER has multiple subscription options to choose from, starting as low as $9.99 USD per month.
-
-### Payment breakdowns and models for HER premium:
-
-• 1 month: $14.99 and $24.99 USD
-
-• 12 months: $89.99 and $59.99 USD
-
-If you choose to purchase HER Premium, payment will be charged to your iTunes or Google Play account (as applicable). All subscription prices are in USD and are listed in full above. Prices may vary in other countries than the U.S. and except where prohibited by law, are subject to change without notice.
-
-Where to find the price. We may charge fees in connection with your use of the Services. If you are using the paid-for version of the Services, the price of the product will be the price indicated on the order pages when you placed your order. We use our best efforts to ensure that the price advised to you is correct. However please see Section 7.4 for what happens if we discover an error in the price of your order.
+Her operates a global business, and our pricing varies by a number of factors. We frequently offer promotional rates – which can vary based on region, length of subscription, bundle size and more. We also regularly test new features and payment options.
 
 ### When you must pay and how you must pay:
 
