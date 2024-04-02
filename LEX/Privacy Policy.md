@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated August 18, 2023._
+_Last updated April 2, 2024._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
@@ -115,6 +115,8 @@ Third parties may keep track of your browsing activities across third party webs
 **ACCESSING AND CORRECTING YOUR INFORMATION**
 
 If you wish to access, update, correct or delete any personal data in our possession that you have previously submitted via the App, you may log into your account and make updates. If you wish to make changes not available through your account settings, please contact us at [support@lex.lgbt](mailto:mailto:support@lex.lgbt).
+
+Any individual who wishes to have their personal data deleted, regardless of their location, can request this by emailing [support@lex.lgbt](mailto:support@lex.lgbt).
 
   
 
