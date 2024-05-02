@@ -1,368 +1,109 @@
-![Match UK - Online Dating Site](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/positive-27ae9801c9c.svg)
+Match community guidelines
+==========================
 
-RegisterLog in
+Match is a service intended for singles who are looking for genuine, committed people who are ready to start a serious relationship.
 
-![Match UK - Online Dating Site](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/white-2c1e96bc6a9.svg)
+We want you to have a great time and get the best dating experience. To make that happen, we ask all our users to take responsibility for their behaviour here and the ways they interact with other members.
 
-Start Something Real
+### The golden rule
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/conversational-bot-2cb52a481a9.png)
+The most important thing to remember when you’re on our site/app is this:
 
-Hello, I'm the Match coach. Who are you looking for?
+_If you wouldn’t say, do or show something to a date in real life, don’t say, do or show it here._
 
-I am looking for a manI am looking for a womanI am looking for both
+So before you send a message, ask a question or upload a photo, always ask yourself if you would do the same if you were meeting in real life. If you wouldn’t, it’s probably not a good idea to do it online.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple-7ff0f9bbdf5.svg)
+### The four pillars of online behaviour
 
-2.6M people have already met someone on Match\*. Could you be next?
+There are four key principles we want you to follow while you’re part of our community.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/filter-75914f86d90.svg)
+**Be kind  
+Be respectful  
+Be safe  
+Be genuine  
+**
 
-Singles revealing their true self through detailed profiles
+Check out the Tips on how to act.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/profile-218f4a21181.svg)
+### Being kind
 
-A powerful search tool that lets singles filter according to what matters
+ALWAYS treat people you interact with on Match the way you would like to be treated yourself.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/events-8157dcb23ed.svg)
+Don’t be rude. Don’t be mean. Don’t bully, intimidate, defame, harass or stalk other members. If someone says they’re not interested, leave them alone. If someone blocks you, don’t try to get back in touch: Even if you don’t think you did anything wrong, the best plan is to forget it and move on.
 
-Themed Events that create exciting dating occasions
+### Tips
 
-Match: find love with our dating site!
-======================================
+* Be careful what you say, especially at first. Something you might think is just a joke may be taken very personally by someone else.
+* Nobody finds threats, hate speech, racism or bigotry attractive, they’re illegal and we take reports of such things very seriously. Depending on the severity, they may lead to your account being warned or banned.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/conversations-20efc9208ea.svg)
+### Being respectful
 
-More than 300,000 convsersations start evry month on Match\*\*\*\*
+Every strong relationship is built on mutual respect, and it pays to show that respect right from the start.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couples-a3a8afaa5d9.svg)
+Think of your profile picture and username as your first message to someone. So choose a name that makes a positive first impression, and a photo that makes the right person want to find out more. If your name, picture or message contains hate speech, obscenity or trolling it won’t just mean you’re unlikely to get any dates: we’ll ban you from the site.
 
-2.6M people have already met someone on Match\*. Could you be next?
+We’re all adults, and singles may send flirty and even sexy messages to each other. But only when it’s consensual. Don’t send messages containing unwelcome sexual propositions or sexually explicit content, particularly at the start of a relationship.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/testimonials-3eef0ba448f.svg)
+We also do not accept messages or content depicting illegal activity or promoting commercial sexual services, human trafficking or non-consensual sexual acts. Breaking this rule will result in your account being removed.
 
-1 in 5 Brits knows a Match couple\*\*\*\*\*
+### Tips
 
-Why Match?
-----------
+* Never ask for or share private information.
+* Sending sexy photos, or talking about kinks or fantasies can be fun, but not right at the start of a relationship. Let things develop first.
+* It’s never OK to upload nudity, sexually explicit or pornographic content to Match.
+* Avoid out of context shirtless or bikini photos (it’s OK to wear a bikini in a photo taken on the beach, but in your bedroom it just looks weird).
+* NO images of violence, drug use or criminal activity: nobody’s impressed.
+* Please respect your children’s privacy and safety. Photos showing minors, even with an accompanying adult will be removed.
+* Match is not the place to advertise your business, your band, your artwork or that old fridge you’re selling. Spammers will be banned.
 
-### Find a person you match with
+### Being safe
 
-Our members are looking for their very own love story and we do everything to help them achieve it.
+The golden rule for being safe on Match is always to think about your safety first. Only interact with people through the Match app or site, don’t share too much too soon, and never give out your address, email or phone number to anyone you don’t fully trust. Watch out too for people you have never met who ask you for money. Remember scammers can often be very convincing. Don’t let yourself be fooled.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/profile.responsive-6b5679c9d4d.png)
+This is a dating site, not an e-commerce site. Never solicit another member for private information, like passwords, Social Security Number, financial information or their home or work address. You are not allowed to use any information regarding a member, public or private, for business/commercial use or any other unlawful or nefarious purpose.
 
-**Check out our detailed profiles**  
-On Match, dating profiles are very detailed. You can find matches using the criteria search or just browse through the array of members’ profiles.
+We only accept adults as members, and we will remove and permanently ban any accounts operated by anyone who is not an adult. If you find someone underage, please report their account to us immediately for your safety and theirs.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/events-9b56514888f.svg)
+If you do encounter anyone who makes you feel uncomfortable or who isn’t sticking to our rules, it’s easy to report them. Just click ‘report member’ on their profile. And if you don’t want to hear from them again, you can always block them.
 
-Bye bye routine, hello surprise.
+### Tips
 
-Come and meet singles near you at one of our vibrant and informal Match nights.
+* In the early stages, keep all your interactions on the site. You’re both much safer that way.
+* Don’t pressure people into giving your personal information. Remember they don’t know you, and it might make them feel uncomfortable. Get to know them first: they’ll share when they’re ready.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/video-chat-bf696929737.svg)
+For our complete list of tips about how to stay safe online, [click here](https://uk.match.com/safety/)
 
-Try a real video date
+### Being genuine
 
-See your date’s reactions for the very first time, from the safety and comfort of a Match video call!
+If you’re after a one night stand, an affair or a secret life, Match isn’t the place for you. Our community is about being yourself, finding someone special and, hopefully, starting something real. So be genuine from the start. It goes without saying that we will ban any scammers, impersonators, fraudsters or criminals and may report them to the police.
 
-2.6M people have already met someone on Match\*. Could you be next?
--------------------------------------------------------------------
+Don’t promote external links, sites, pages or any commercial messages in your profile or messaging. And don’t use copyrighted images that belong to someone else unless you have received their express permission. Please note that all responsibility for any use of copyright images without permission and for any other content you share lies wholly with you the user.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/heart-a-da88c3ae5a0.svg)Start your own story now!
+### Tips
 
-### Broad visibility of your profile
+* Make sure all the information on your profile is true, including your age and height. It’s disrespectful not to be honest from the start, and it breaks our terms and conditions.
+* Only include pictures of yourself, and show your face clearly. Don’t include group photos: people won’t know which face is yours.
+* Avoid using memes or heavy filters that distort or hide your face. People want to know what you look like!
 
-There’s more to Match than just Match. Register with us, create your perfect online dating profile and so you don’t miss out on a chance to find that special someone, your profile can be made visible to members of our dating services for the over 50s or single parents if you’re part of categories of singles they address and you consented to it. That means you will increase your chances of being contacted!
+### Behave yourself, online and in real life
 
-For more information about your profile visibility [click here](https://uk.match.com/faq/managing-my-profile/where-will-people-be-able-to-see-my-profile/).
+We want our singles to meet eventually, whether it’s on a date or at one of our Match events. And we want you to stay kind, safe, respectful and genuine right through your dates and relationships – it’s just the best way to be.
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/phone.responsive-aa69d2edb45.png)
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/security-6873da74ff8.svg)
-
-### Trust and safety
-
-We want Match to be a fun, safe online dating site where you can meet serious, committed singles ready for a real relationship. The safety of our clients is our top priority, and we work hard to keep our site safe. We moderate every single profile picture and description on our site, and the protection of your personal data is our priority.
-
-Plus if you ever feel uncomfortable about a profile or a message you receive you can always block or report a member to our moderators. They’ll be happy to help. We also have lots of tips about making sure you stay safe while you’re using our site and when you decide it’s time to meet in real life. Just take a look in our help centre.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/cyberstalking-e66e3708f56.jpg)
+If someone you’ve met through Match acts badly towards you or makes you uncomfortable, we want to hear about it. Contact [customer services](https://uk.match.com/faq/) and we’ll do our best to help.
 
 ### Cyber-bullying leads nowhere. Least of all to love.
 
-Match is fighting cyber-bullying to give you a safer dating experience.  
-If you receive messages which make you feel uncomfortable, you can:
+At Match, we say cyberbullying is when a person sends messages repeatedly to the same person despite not getting a response.
 
-* \- **Report a profile** to alert the Moderation and Safety team.
-* \- **Block a profile** to avoid being contacted by that person again.
+These messages can undermine people’s happiness, dignity and mental health through their repetitive nature and the use of insulting, discriminatory and defamatory content, or of a sexual nature without mutual consent.
 
-[![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/shield-b-830e0f4b53b.svg)Learn more](https://uk.match.com/p/news/cyberbullying/)
+In order to fight against this type of behaviour, here are the rules you should follow:
 
-### Want to be more in control?
+* **Rule 1. Wait** for the other person to respond, or not if they choose.
+* **Rule 2**. Replying once is fine, twice is fine, **three times is too much.**
+* **Rule 3. Respect** the other person: don’t use insulting or denigrating words or send unsolicited inappropriate photos.
 
-With Match, you’re in charge. You can visit singles’ profiles without alerting them, or set your preferences so you can only be contacted by singles who match your search criteria. The choice is yours!
+If you receive pushy messages which make you feel uncomfortable, here’s how to alert us so it stops immediately:
 
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/incognito-e1f01db3710.svg)
-
-Choose “Incognito Mode”
-
-Incognito mode is your online dating superpower. It lets you view other people’s profiles discreetly – they won’t know you’ve visited – and ensures you only appear to people you know you’re interested in. Which means less hassle – and more chance of finding a date!
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/zen-4791a78334a.svg)
-
-Opt for “Zen Mode”
-
-Zen mode is great when you need a little peace and quiet. Activate it and only people who match your criteria will be able to contact you – so you know they’re worth a look.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/marketing-26b4005d6eb.jpg)
-
-### Here at Match, we pull out all the stops to help you find your special someone.
-
-Every day, you’ll be sent personalised selections of singles’ profiles by email and via our push notifications. Check out our recommendations wherever you are – don’t let love pass you by!
-
-How to encounter dating?
-------------------------
-
-### You are three steps away from dating your special someone
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/profile-ce8d204f851.svg)
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/women-fb870051eaf.jpg)
-
-### Tell us who you are!
-
-Talk about yourself. The secret? Be natural, honest and spontaneous. A few lines are enough to make an impression.
-
-Why not add a bit of humour, too?  
-Be precise: the more search criteria you complete, the greater your chances are of being contacted by singles who share the same interests as you.
-
-Share your photos. Create an album that reflects your personality.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/search-0d733813c76.svg)
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple-3db611fc059.jpg)
-
-### Find the right person
-
-Meet the person who’s right for you thanks to our detailed search.
-
-Discover our personalised selection of detailed dating profiles.
-
-Come and meet other singles at our Match evenings and activities.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/inbox-f601a029aa0.svg)
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/computer-363135afa70.jpg)
-
-### Discuss
-
-Don’t know how to kick start the conversation?
-
-Tell them about the little details that attracted you to their online dating profile or discuss your shared interests.
-
-Or be creative and share a music link, or a GIF!
-
-Read our advice articles to make your profile as attractive as possible and find tips on how to break the ice.
-
-[![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/book-b-6265066a840.svg)Discover our dating advice](https://uk.match.com/p/dating-advice/)
-
-Our singles nights and activities
----------------------------------
-
-### Join the community!
-
-Make space in your diary! Come to our singles nights and events for your age group in your area.  
-  
-Meet singles through a shared interest at one of our many activities or over a drink at one of our **free drinks events.**  
-  
-Don’t want to come on your own? **Ask your friends to come too!**  
-**What are you waiting for?**  
-  
-Book your place at an upcoming [singles event in the UK.](https://uk.match.com/p/events/)
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/glass-fcd5c8d3171.svg)
-
-* Discover our [singles nights in London.](https://uk.match.com/p/events/london/)
-
-![Eric, Sarha](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/eric_sarha-4dd8c82da2c.jpg)
-
-Eric,  
-Sarha
-
-![Kate, Simon](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/kate_simon-8c2be6432ee.jpg)
-
-Kate,  
-Simon
-
-![Laura, Jon](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/laura_jon-af7e9ed79ea.jpg)
-
-Laura,  
-Jon
-
-![Lucy, Emma](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/lucy_emma-ea576b4f75f.jpg)
-
-Lucy,  
-Emma
-
-Our success stories
--------------------
-
-### 2.6M people have already met someone on Match\*. Could you be next?
-
-Here are just a few of them: real-life single men and women who were ready to start a relationship and trusted Match to help them find it. Maybe the next success story we can tell will be yours!
-
-[![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/wink-b-91ce562aeec.svg)Read their stories](https://uk.match.com/p/success-stories/couples-stories/)
-
-Match dating app
-----------------
-
-Download the Match online dating app and you’re always ready to check out profiles near you, and chat with real, committed singles ready for a real relationship. Free for iOS and Android, it puts all the power of Match in the palm of your hand for a faster, smoother online dating experience.
-
-How do you show you’re ready for a real story?
-----------------------------------------------
-
-### Be calm. Be kind. Be yourself.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/icon_text-d336ae05a27.svg)![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/phone_street-fd1d9ba3d5e.jpg)
-
-Online dating may have led to an increase in casual dating and hook-up culture.
-
-But people looking to meet singles on Match have chosen our service because they’re ready to start a real story. So how do you make sure someone you meet online understands you’re serious, and how do you establish those expectations?  
-  
-The secret isn’t really a secret, and it’s something you’ve almost certainly been told before. The key is to be yourself, be kind and be calm. And it all starts with writing your profile.  
-  
-Discover [mature dating](https://uk.match.com/p/singles/mature-dating/) on Match and browse [senior](https://uk.match.com/p/singles/senior-dating/) singles on our website.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/icon_thumb_up-bbc45154da8.svg)![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple_sofa-86a298a210e.jpg)
-
-Think about the sort of person you would like to share a long-term relationship with.
-
-Looks matter, for sure. But the chances are you would choose someone who is genuine, considerate, interested in you and who makes you laugh. There’s nothing wrong with that: it’s the most human thing of all: we want to be with people who make us happy.  
-  
-When you write your online dating profile, make sure you’re the sort of person you would want to be with. Try to resist the temptation to talk just about yourself: make it clear you’re interested in other people too. What would you like to do together with your date? What do you enjoy in people? Show that you are someone who is great company, not just someone who expects people want to be with them.
-
-Meet singles near you
----------------------
-
-**In Manchester, Edinburgh, London, Portsmouth…**  
-Wherever you are, there are people waiting to meet you! Still not convinced?  
-Register and see for yourself!
-
-![London](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/london-e6920a8b73c.jpg)
-
-### London dating
-
-Dates in London: Are you single and living in London? Register free for Match and browse thousands of profiles of other single Londoners. Arrange dates in the capital at our singles events.
-
-[London Dating](https://uk.match.com/p/uk/london-dating/)
-
-![Edinburgh](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/edinburgh-4d0eeefb6f9.jpg)
-
-### Edinburgh dating
-
-Dates in Edinburgh: Want to meet eligible Edinburgh singles? Browse our wide selection of profiles or attend a singles event in the Scottish capital.
-
-[Edinburgh Dating](https://uk.match.com/p/uk/edinburgh-dating/)
-
-![Manchester](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/manchester-42a062c0e4b.jpg)
-
-### Manchester dating
-
-Dates in Manchester: Want great dates in Manchester? Register on Match and meet singles in Manchester on our website, or at a drinks event or a meet-up activity organised by Match.
-
-[Manchester Dating](https://uk.match.com/p/uk/manchester-dating/)
-
-With thousands of singles up and down the UK ready to start a real relationship, why not check out who’s looking for someone like you in a city near you.
-
-[Liverpool dating](https://uk.match.com/p/uk/liverpool-dating/)[Leicester dating](https://uk.match.com/p/uk/midlands-dating/leicester-dating/)[Bristol dating](https://uk.match.com/p/uk/bristol-dating/)[Glasgow dating](https://uk.match.com/p/uk/glasgow-dating/)[Belfast dating](https://uk.match.com/p/uk/belfast-dating/)[Birmingham dating](https://uk.match.com/p/uk/midlands-dating/birmingham-dating/)[Cambridge dating](https://uk.match.com/p/uk/cambridge-dating/)[Aberdeen dating](https://uk.match.com/p/uk/aberdeen-dating/)[Cardiff dating](https://uk.match.com/p/uk/cardiff-dating/)[Leeds dating](https://uk.match.com/p/uk/leeds-dating/)[Belfast dating](https://uk.match.com/p/uk/belfast-dating/)[Newcastle dating](https://uk.match.com/p/uk/newcastle-dating/)[Nottingham dating](https://uk.match.com/p/uk/midlands-dating/nottingham-dating/)[Sheffield dating](https://uk.match.com/p/uk/sheffield-dating/)[Cardiff dating](https://uk.match.com/p/uk/south-england-dating/oxford-dating/)
-
-**Ready to widen your search?**  
-Check out singles in your region and get chatting!
-
-[Devon dating](https://uk.match.com/p/uk/devon-dating/)[Lincolnshire dating](https://uk.match.com/p/uk/lincolnshire-dating/)[Essex dating](https://uk.match.com/p/uk/essex-dating/)[Hampshire dating](https://uk.match.com/p/uk/hampshire-dating/)[Hertfordshire dating](https://uk.match.com/p/uk/hertfordshire-dating/)[Kent dating](https://uk.match.com/p/uk/kent-dating/)[Yorkshire dating](https://uk.match.com/p/uk/north-yorkshire-dating/)[Surrey dating](https://uk.match.com/p/uk/surrey-dating/)[Norfolk dating](https://uk.match.com/p/uk/norfolk-dating/)[Northern Ireland dating](https://uk.match.com/p/uk/northern-ireland-dating/)
-
-Language matters when you’re online dating!
--------------------------------------------
-
-### Words of love and everyday life
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/icon_activity-e5b3525c1fe.svg)![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple_phone-2225a62b800.jpg)
-
-Don’t be afraid of words! All the new casual dating sites that have appeared recently have transformed the game of seduction into something like a video game.
-
-The result? Many singles have given up dating altogether as it is just too exhausting! However, many singles are looking for serious, deeper and more authentic encounters and a long-term relationship.  
-  
-The key to this new demand for authenticity is through words. Yes, even in the instant world of online dating, words are what really count.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/icon_edit-dc6b1b103a1.svg)![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/computer-dbde93877e3.jpg)
-
-Let’s start with the words you use to describe yourself. They say a picture is worth a thousand words, but our singles consistently tell us that a profile description matters more to them than a photo\*\*\*.
-
-It’s important, especially on a serious dating site, that you take the time to make your written presentation as good as it can be, and reveal your true self honestly and carefully.  
-  
-And words can break the ice! It can be hard to introduce yourself to a single you find interesting; it is always difficult to find the right way to approach them and find THE message that will attract their attention. Anyone can write ‘hello’, but is it going to make you stand out from the crowd during your encounters? In dating first impressions count, and the first words you exchange online can make all the difference.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/icon_complementary-404ea1e83e0.svg)![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple_hug-46ac7fe93a8.jpg)
-
-Finally, words say a lot during a first date in real life.
-
-Looks really aren’t everything, and when you’re finally face-to-face in front of a person, you can’t hide behind your screen any more! But rest assured, people generally prefer good humour to good looks on a first date, and they want someone with whom they can share an interesting conversation. The most important thing is to be yourself and stay as natural as possible.
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/couple-907caee2a9c.jpg)
-
-Ready for a real love story? Find out how to get started on Match!
-
-* After I’ve created my Match account, how do I log in?
-    
-* Is Match really free?
-    
-* Will I find people ready for commitment on Match?
-    
-
-![](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/main-with-hearts-8c688bb4792.svg)
-
-Start meeting singles who are ready to commit today
-
-Register
-
-Our services
-------------
-
-* [Singles nights & events](https://uk.match.com/p/events/ "Singles nights & events")
-* [Dating & relationship advice](https://uk.match.com/p/dating-advice/ "Dating & relationship advice")
-* [Help/Contact us](https://uk.match.com/faq/ "Help/Contact us")
-* [Success stories](https://uk.match.com/p/success-stories/ "Success stories")
-* [Advertising](https://www.meetic-group.com/en/advertise-with-one-of-our-leading-dating-brands/ "Advertising")
-* [Press](https://www.meetic-group.com/press/uk/ "Press")
-* [Affiliation](https://www.meetic-group.com/affiliation/uk/ "Affiliation")
-* [Business development](mailto:ukbizdev@eu.match.com "Business development")
-* [Match TV Advert](https://www.meetic-group.com/en/little-details-great-stories-our-pan-european-campaign/ "Match TV Advert")
-* [Single parents dating](https://uk.even-dating.com/ "Single parents dating")
-* [Safety Tips](https://uk.match.com/safety/ "Safety Tips")
-
-Visit our pages
----------------
-
-[![Visit the Match Facebook page](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/facebook-2d1cc207eea.svg)](https://www.facebook.com/matchuk)[![Visit the Match Twitter page](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/twitter-662cd10df07.svg)](https://twitter.com/match_uk)[![Visit the Match Google+ page](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/googleplus-e01333fc874.svg)](https://plus.google.com/u/0/+match/posts)[![Visit the Match Instagram page](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/instagram-3c31118aaa1.svg)](http://www.instagram.com/ukmatch)[![Visit the Match YouTube page](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/youtube-56e1dfb2fdf.svg)](https://www.youtube.com/user/UKmatch/videos)[![Visit the Match dating advice site](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/blog-85f625bf647.svg)](https://uk.match.com/p/dating-advice/)
-
-© 2024 Match | Match is a [meetic](https://www.meetic-group.com/en/ "Meetic Corp") network website.
-
-Broad visibility of your profile: By creating your profile on Match, it will be visible on the local variants of our service which use the same platform operated under different brand names. For more information about the terms of your profile’s extended visibility, [click here](https://uk.match.com/faq/managing-my-profile/where-will-people-be-able-to-see-my-profile/).
-
-For any complaints and enquiries you may contact us [here](https://uk.match.com/faq/). If we are not able to resolve a complaint, you may submit it through the EU online dispute resolution platform at [http://ec.europa.eu/odr](http://ec.europa.eu/odr). Please note that a complaint submitted through the online platform will not be considered unless you have raised it with us first.
-
-\*Data based on an extrapolation from Dynata survey conducted in July 2021, among a representative sample of 2 004 respondents aged 18+ in the UK which has been combined with the total population of this age group (Source Eurostat 2020). 6% of interviewees claim having already met someone on Match.
-
-\*\*All profile pictures and descriptions are moderated.
-
-\*\*\*Data based on an internal study conducted between October 29th and November 16th 2018, among a representative sample of 1552 respondents aged 18+ in the UK.
-
-\*\*\*\*Internal data - average number of conversations (=2 messages exchanged between 2 members) starting on Match every month - January to March 2023.
-
-\*\*\*\*\*Survey conducted by Dynata in July 2021, among a representative sample of 2 004 persons aged 18+ in the UK. 21% claim they know a couple who have met on Match.
-
-![ODA Member](https://iliusstu-a.akamaihd.net/uk.match.com/hpv-default/oda_member-8e3330d6d57.png)
-
-We are a member of the Online Dating Association (ODA). We are committed to maintaining standards, protecting users and giving those users assurance as outlined in [Our Guiding Principles](https://www.onlinedatingassociation.org.uk/about-us/our-guiding-principles.html). Further information about ODA can be found [here](https://www.onlinedatingassociation.org.uk/oda-consumers.html). A link to our customer service arrangements is provided [here](https://uk.match.com/faq/).
+* **Report a profile** direct from your mailbox to alert our moderation and safety team. Every report is dealt with as quickly as possible: from sending a warning to permanent deletion of the profile.
+* **Block a profile** so that person can no longer contact you.
