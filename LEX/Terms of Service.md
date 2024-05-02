@@ -97,20 +97,20 @@ We may from time to time in our sole discretion develop and provide updates to t
 
 You may only use the Services as explicitly authorized and in compliance with any policies made available to you within the Services. You may not use such proprietary information or materials in any way whatsoever except for permitted use of the Services. No portion of the Services may be reproduced in any form or by any means. Without limiting the foregoing, you may not do any of the following while accessing or using the Services:
 
-* Use the Services for any revenue generating endeavor, commercial enterprise, or other purpose other than for personal, non-commercial use, without our express written consent;
-* Misrepresent your identity, age, current or previous positions, qualifications, or affiliations with a person or entity;
-* Bully, troll, harass, stalk, or intimidate others, or otherwise engage in malicious, harmful, or disrespectful conduct;
-* Post or share others’ private information, or invite others to use Lex, without their explicit consent;
-* Express or imply that any statements you make are endorsed by Lex;
-* Scrape the Services or use other automated or manual means to take our content without our express prior written consent;
-* Modify, adapt, translate, reverse engineer, decompile, disassemble or convert into human readable form any of the contents of the Services not intended to be so read;
-* Take any action that imposes or may impose (as determined by us in our sole discretion) an unreasonable or disproportionately large load on our or our third party providers’ infrastructure;
-* Interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services;
-* Bypass, circumvent, or attempt to bypass or circumvent any measures we may use to prevent or restrict access to the Services, including without limitation other accounts,  computer systems or networks connected to the Services;
-* Run any form of auto-responder or “spam” on the Services;
-* Access or use the Services to post materials that encourage discrimination, racism, sexism, or violence against individuals or groups;
-* Access or use the Services for any illegal or unauthorized purpose, including to harass, abuse, defame or otherwise infringe or violate the rights of any other party; or
-* Otherwise take any action in violation of these Terms.
+*   Use the Services for any revenue generating endeavor, commercial enterprise, or other purpose other than for personal, non-commercial use, without our express written consent;
+*   Misrepresent your identity, age, current or previous positions, qualifications, or affiliations with a person or entity;
+*   Bully, troll, harass, stalk, or intimidate others, or otherwise engage in malicious, harmful, or disrespectful conduct;
+*   Post or share others’ private information, or invite others to use Lex, without their explicit consent;
+*   Express or imply that any statements you make are endorsed by Lex;
+*   Scrape the Services or use other automated or manual means to take our content without our express prior written consent;
+*   Modify, adapt, translate, reverse engineer, decompile, disassemble or convert into human readable form any of the contents of the Services not intended to be so read;
+*   Take any action that imposes or may impose (as determined by us in our sole discretion) an unreasonable or disproportionately large load on our or our third party providers’ infrastructure;
+*   Interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services;
+*   Bypass, circumvent, or attempt to bypass or circumvent any measures we may use to prevent or restrict access to the Services, including without limitation other accounts,  computer systems or networks connected to the Services;
+*   Run any form of auto-responder or “spam” on the Services;
+*   Access or use the Services to post materials that encourage discrimination, racism, sexism, or violence against individuals or groups;
+*   Access or use the Services for any illegal or unauthorized purpose, including to harass, abuse, defame or otherwise infringe or violate the rights of any other party; or
+*   Otherwise take any action in violation of these Terms.
 
 **CONTENT**
 
@@ -150,9 +150,9 @@ Any other text, content, graphics, user interfaces, trademarks, logos, sounds, a
 
 Lex offers a map feature that enables users to:
 
-* View local events created by users
-* See other users in the vicinity
-* Appear on the map if they choose to be visible
+*   View local events created by users
+*   See other users in the vicinity
+*   Appear on the map if they choose to be visible
 
 By opting in to location sharing, you consent to Lex collecting and using your location data in accordance with our Privacy Policy.
 
@@ -186,12 +186,12 @@ The Digital Millennium Copyright Act of 1998 (the “DMCA”) provides recourse 
 
 The notice must include the following information:
 
-* A physical or electronic signature of a person authorized to act on behalf of the owner of the works that have been allegedly infringed;
-* Identification of the copyrighted work alleged to have been infringed (or if multiple copyrighted works located on the Site are covered by a single notification, a representative list of such works);
-* Identification of the specific material alleged to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Study Hall to locate the material on the Site;
-* Your name, address, telephone number, and e-mail address (if available);
-* A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-* A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an          exclusive right that is allegedly infringed.
+*   A physical or electronic signature of a person authorized to act on behalf of the owner of the works that have been allegedly infringed;
+*   Identification of the copyrighted work alleged to have been infringed (or if multiple copyrighted works located on the Site are covered by a single notification, a representative list of such works);
+*   Identification of the specific material alleged to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Study Hall to locate the material on the Site;
+*   Your name, address, telephone number, and e-mail address (if available);
+*   A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+*   A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an          exclusive right that is allegedly infringed.
 
 If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send us a counter-notice.
 
