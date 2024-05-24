@@ -16,11 +16,11 @@ When we use the phrase “**Personal Information**” in this Privacy Policy, we
 Information we collect
 ----------------------
 
-### Personal information
+**Personal information**
 
 In general, the Personal Information we gather enables us to provide the Services to you, to improve and maintain the Services, and to better understand how users interact with the Services.
 
-### Specifically, we collect the following types of Personal Information:
+Specifically, we collect the following types of Personal Information:
 
 _Profile and Account Information:_ You can choose to sign up for the Mobile App using different types of Personal Information, and choose which items of your Personal Information you want to share as you otherwise use the Mobile App. To sign up, you can choose to submit your phone number, email, AppleID, or sign up with a Facebook or Instagram account (a “Social Account”). Whichever option you choose, we will collect that information and associate it with your account.
 
@@ -53,7 +53,7 @@ _Collection of Data by Advertisers_.  We may also use third parties to serve ad
 How we use information we’ve collected
 --------------------------------------
 
-### Personal information
+**Personal information**
 
 We will use your Personal Information, both directly and in connection with the third party services described in this Policy, to:
 
@@ -82,14 +82,14 @@ We will use your Personal Information, both directly and in connection with the 
 
 We may also use your Personal Information to extract Anonymous Information records by excluding information that would allow the identification of any particular individual. We generally use Anonymous Information, which is not associated with an identifiable individual, that we collect to analyze trends, administer and improve the Services, understand the demographics of our aggregate user base, and tailor the Services to our users’ needs. We may use Anonymous Information in other ways, including sharing it publicly. This may include sharing anonymous statements by our users about the product.
 
-Lawful Bases
+**Lawful Bases**
 
 We will only collect and process Personal Information where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g. to operate the site or deliver any products or services you have requested)) and “legitimate interests.” We rely on our legitimate interests as our lawful basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law). If you have questions about the lawful bases of how we process your personal information, contact us at support@weaareher.com.
 
 How we disclose and share information
 -------------------------------------
 
-### Personal information
+**Personal information**
 
 We do not disclose or share your Personal Information with third parties other than as described in this Policy. In addition to the sharing described as a part how we collect data, we may disclose certain Personal Information to third parties in the following ways:
 
@@ -106,9 +106,9 @@ We do not disclose or share your Personal Information with third parties other t
 * Corporate Restructuring. We may share some or all of your Personal Information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy, as updated from time to time.
 * Other Disclosures. Regardless of any choices you make regarding your Personal Information (as described below), we may disclose Personal Information if we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms and Conditions; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties; and/or (d) investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms and Conditions, or harm (including potential harm) to HER or other users.
 
-### **How we respond to DNT signals**
+**How we respond to DNT signals**
 
-**Your browser settings may allow you to automatically transmit a Do Not Track signal to websites and other online services you visit. We do not alter our practices when we receive a Do Not Track signal from a visitor’s browser because we do not track our visitors to provide targeted advertising on the Website. To find out more about Do Not Track, please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).**
+Your browser settings may allow you to automatically transmit a Do Not Track signal to websites and other online services you visit. We do not alter our practices when we receive a Do Not Track signal from a visitor’s browser because we do not track our visitors to provide targeted advertising on the Website. To find out more about Do Not Track, please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 Your choices regarding your information
 ---------------------------------------
@@ -126,39 +126,28 @@ Protecting the privacy of children is very important to us. We do not collect or
 
 **California Privacy Rights.** Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties for their direct marketing purposes. To make such a request, please contact us at support@weareher.com. Note that we do not sell personal information about our users to third parties, and that, as of the date of this policy, we do not meet the requirements to be a covered business under the California Consumer Privacy Act.
 
-### We provide you with a simple tool in the Mobile App to control your information through your settings menu.
-
 How to update, access, and modify your personal information in-app
 ------------------------------------------------------------------
 
-To access this tool, from your profile, click the settings icon at the top right. From your profile setting, scroll down to “Privacy Options” and tap. From here, you can choose “Send me my data,” “Stop using my data,” or “Delete my account and data.”
+To access this tool, from your profile, click the settings icon at the top right. From your profile settings, scroll down to “Privacy Options” and tap. From here, you can choose “Send me my data,” “Stop using my data,” or “Delete my account and data.”
 
-**Send me my data.** When you select this option, we’ll email you a copy of the data we hold about you. Note that to use the “Send me my data” function, you’ll need to have added an email to your profile and verified that email. We’ll send your data only to verified emails.
+* **Send me my data.** When you select this option, we’ll email you a copy of the data we hold about you. Note that to use the “Send me my data” function, you’ll need to have added an email to your profile and verified that email. We’ll send your data only to verified emails.
+* **Stop using my data.** When you select this option, we’ll stop using your data to serve ads to you. You may still see ads, but they won’t be personalized.
+* **Delete my account and my data.**  When you select this option, we’ll delete your account and the data it contains. Note that you won’t be able to use your account after doing this.
 
-**Stop using my data.** When you select this option, we’ll stop using your data to serve ads to you. You may still see ads, but they won’t be personalized.
-
-**Delete my account and my data.**  When you select this option, we’ll delete your account and the data it contains. Note that you won’t be able to use your account after doing this.
-
-How to opt-out
-==============
-
-In addition to the standard mechanisms above for managing your data, if you’d like to opt out of a particular use of your data described in this Privacy Policy, you can email us at support@weareher.com.
+**How to opt-out:** In addition to the standard mechanisms above for managing your data, if you’d like to opt out of a particular use of your data described in this Privacy Policy, you can email us at support@weareher.com.
 
 Changes to this privacy policy
 ------------------------------
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy at [**_www.weareher.com/privacy_**](https://weareher.com/privacy/) and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
-**Contacting us**
------------------
+**Contacting us:** We are here to help answer any questions you have about the Services and how we use your Personal Information. If you have any questions, concerns, or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security issues to us, please contact us at support@weareher.com.
 
-We are here to help answer any questions you have about the Services and how we use your Personal Information. If you have any questions,concerns, complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security issues to us, please contact us at: [support@weareher.com](mailto:supportmydata@weareher.com).
-
-You can can reach our offices and our data protection lead at:
+You can reach our offices and our data protection lead at:
 
 Attn: Privacy  
 Unit #4315,  
 2261 Market Street  
-San Francisco, CA, 94114
-
+San Francisco, CA, 94114  
 Copyright 2022 Bloomer Inc
