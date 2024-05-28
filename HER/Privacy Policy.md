@@ -13,6 +13,8 @@ When we use the phrase “**Personal Information**” in this Privacy Policy, we
 
 **Users Outside of the United States.** HER is based in the U.S. If you are a non U.S. user of the Services, by visiting the Website and/or using the Mobile App, you acknowledge and agree that your Personal Information may be transferred to and/or processed in the United States for the purposes identified in this Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than and less protective of Personal Information than the laws in your country. By providing your information and agreeing to the terms of this Privacy Policy, you consent to any such transfer.
 
+[Download HER now](https://links.weareher.com/NxziKj51UIb)
+
 Information we collect
 ----------------------
 
@@ -50,6 +52,8 @@ _Other_: We may also collect Personal Information at other points through our Se
 
 _Collection of Data by Advertisers_.  We may also use third parties to serve ads on the Services.  Your Account Information and Usage Information may be used by these third parties to choose advertisements likely to be relevant for you. We follow the guidelines of mobile application platforms (the Apple App Store and Google Play Store) in serving targeted advertisements to you through the Mobile App in connection with these third parties.
 
+[Join HER today](https://links.weareher.com/NxziKj51UIb)
+
 How we use information we’ve collected
 --------------------------------------
 
@@ -85,6 +89,8 @@ We may also use your Personal Information to extract Anonymous Information recor
 **Lawful Bases**
 
 We will only collect and process Personal Information where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g. to operate the site or deliver any products or services you have requested)) and “legitimate interests.” We rely on our legitimate interests as our lawful basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law). If you have questions about the lawful bases of how we process your personal information, contact us at support@weaareher.com.
+
+[Contact us](https://links.weareher.com/NxziKj51UIb)
 
 How we disclose and share information
 -------------------------------------
@@ -151,3 +157,5 @@ Unit #4315,
 2261 Market Street  
 San Francisco, CA, 94114  
 Copyright 2022 Bloomer Inc
+
+[Join HER and find your person](https://links.weareher.com/NxziKj51UIb)
