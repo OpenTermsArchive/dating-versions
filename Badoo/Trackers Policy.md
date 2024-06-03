@@ -1,63 +1,63 @@
-Cookies Policy
-==============
+Politique des Cookies
+=====================
 
-Your trust, privacy and data are important to us and we are committed to being transparent about our data practices and how we use and protect your data.
+Votre confiance, votre confidentialité et vos données sont importantes pour nous et nous nous engageons à être transparents sur nos pratiques en matière de données et sur la façon dont nous utilisons et protégeons vos données.
 
-We use cookies and similar technologies when you use the Badoo mobile application (including the desktop version) (“**App**”) or websites (such as Badoo.com) (“**Websites**”).
+Nous utilisons des cookies et des technologies similaires lorsque vous utilisez l'application mobile Badoo (y ​​compris la version de bureau) (**App**) ou des sites web (tels que Badoo.com) (**Sites Web**).
 
-This policy provides more detail about the cookies and tracking technologies we use and should be read in conjunction with our [Privacy Policy](https://badoo.com/en/privacy/) and the information available in our “Manage Cookies” section (linked at the bottom of our Websites) or in your profile settings in our App (under “Settings” > “Privacy” > “Allow personalised Ads” on iOS or under “Settings” > “Advertising Preferences” on Android) where you can adjust your cookie settings at any time.
+Cette Politique fournit plus de détails sur les cookies et les technologies de suivi que nous utilisons, et doit être lue conjointement avec notre [Politique de Confidentialité](https://badoo.com/fr/privacy/) et les informations disponibles dans notre section «Gestion des cookies» (lien en bas de nos sites web) ou dans les paramètres de votre profil dans notre application (sous «Paramètres» > Confidentialité» > «Autoriser publicités personnalisées» sur iOS ou sous «Paramètres» > «Préférences des publicités» sur Android) où vous pouvez ajuster vos paramètres de cookies à tout moment.
 
-1\. What are ‘cookies’ and which ‘cookies’ does Badoo use?
-----------------------------------------------------------
+Que sont les « cookies » et quels « cookies » Badoo utilise-t-il ?
+------------------------------------------------------------------
 
-Unlike the chocolate chip kind, these cookies have no calories! We collect information by placing cookies on your computer or mobile device. A cookie is a piece of text containing a unique identifier, which is stored on your computer by your web browser or by your mobile device. They are basically a tool that stores information about App use and Websites’ visits. Cookies also allow us to recognise you and your preferences each time you visit Badoo. They ensure the functioning of the App and Websites which in turn allows us to provide the services that our members request and to improve your user experience.
+Nous collectons des informations en plaçant des cookies sur votre ordinateur ou appareil mobile. Un cookie est un texte contenant un identifiant unique, qui est stocké sur votre ordinateur par votre navigateur Internet ou par votre appareil mobile. Il s'agit essentiellement d'un outil qui stocke des informations sur l'utilisation de l'application et les visites des sites web. Les cookies nous permettent de vous reconnaître, et de reconnaître vos préférences chaque fois que vous visitez Badoo. Ils garantissent le bon fonctionnement de l'application et des sites web, nous permettant ainsi de fournir les services demandés par nos membres, et d'améliorer votre expérience utilisateur.
 
-We also use other technologies such as web beacons (also called pixels), tracking URLs and software development kits (SDKs) for similar purposes as cookies. Web beacons are files that contain a unique identifier that enable us to recognise when someone has accessed content on our Websites. Tracking URLs are unique links that help us understand where visitors to our Websites are coming from. SDKs are small pieces of code included in applications, which function like cookies and web beacons. For simplicity, in this Policy we also refer to these technologies as “Cookies”.
+Nous utilisons également d'autres technologies telles que les balises web (également appelées pixels), les URL de suivi et les kits de développement logiciel (SDK) à des fins similaires à celles des cookies. Les balises web sont des fichiers qui contiennent un identifiant unique nous permettant de reconnaître quand quelqu'un a accédé au contenu de nos sites web. Les URL de suivi sont des liens uniques qui nous aident à comprendre d'où viennent les visiteurs de nos sites web. Les SDK sont de petits morceaux de code inclus dans les applications, qui fonctionnent comme des cookies et des balises web. Par souci de simplicité, dans cette Politique, nous appelons également ces technologies des « Cookies ».
 
-| Type of Cookie | Purpose |
+| Type de Cookie | Objectif |
 | --- | --- |
-| Strictly Necessary Cookies | These Cookies are necessary for the App and Websites to function and cannot be switched off in our systems, or our App and Websites will not work properly. They are usually only set in response to actions made by you which amount to a request of services, such as setting your privacy preferences, logging in or filling in forms, making payments, uploading photographs, chatting or to localise your experience, such as when you’ve requested to view Badoo’s Site in your local language or when you’ve asked Badoo to ‘remember me’. etc. You can always control the Websites’ strictly necessary Cookies in your browser, as explained below.<br><br>We also use Cookies to help keep Badoo and our members safe and secure. These Cookies do things like protect Badoo users from spam and fraud by ensuring the safety of your personal data when you pay for things on Badoo like Badoo’s premium services.<br><br>We may use persistent Cookies, which will help us to ensure we have identified that the same device is logging in to the correct account. These types of Cookies also help with our anti-spam measures and help us to prevent phishers, scammers, unauthorised login attempts to your account and accessing any hacked accounts.<br><br>Some of these strictly necessary Cookies are third parties’, as some social media platforms can be used as an entry point to register for our services. |
-| Analytics Cookies | These Cookies allow us to collect information about how visitors interact with our App and Websites. We use this information to compile reports and to help measure and improve the performance of the App and Websites.<br><br>Badoo uses Google Analytics to collect information about how visitors use the Badoo Site. We use the information to compile reports and to help us improve the Site or App. The Cookies collect information in an aggregated form, including the number of visitors to the Site or App, where visitors have come to the Site from and the pages they visited. |
-| Social Media Cookies | These Cookies help provide experiences, such as links to other social media Websites and social plugins, including making it easier for you to share content between Badoo and your other favourite social networks.<br><br>In some cases, the Site feature you choose may allow a third party to place Cookies on your device. |
-| Advertising Cookies | These Cookies may be set on our Websites and App by us or our advertising partners. They may be used to build a profile of your interests and show you relevant adverts on our App and Websites or other Websites you visit, as well as to improve reporting on any advertising campaign and to avoid showing you ads that you have already seen. |
-| Marketing Cookies | These Cookies may be set on our Websites and App by us or our marketing services providers. They help us and our marketing services providers improve and measure the effectiveness of Badoo ads on other apps and Websites. For example, they help us understand which Badoo ads lead people to download our App or sign-up for Badoo. You can find out more information about this in our [Privacy Policy](https://badoo.com/en/privacy/) (under the heading “Sharing your personal data with Marketing Services Providers”). |
+| Cookies strictement nécessaires | Ces Cookies sont nécessaires au fonctionnement de l'application et des sites web, et ne peuvent pas être désactivés dans nos systèmes, sinon notre application et nos sites web ne fonctionneront pas correctement. Ils ne sont généralement définis qu'en réponse à des actions de votre part qui équivalent à une demande de services, telles que la définition de vos préférences de confidentialité, la connexion ou le remplissage de formulaires, les paiements, le téléchargement de photos, le chat ou la localisation de votre expérience, par exemple quand vous avez demandé à voir le site de Badoo dans votre langue locale ou lorsque vous avez demandé à Badoo de se souvenir de vous, etc. Vous pouvez toujours contrôler les Cookies strictement nécessaires des sites web dans votre navigateur, comme expliqué ci-dessous.<br><br>Nous utilisons également des Cookies pour assurer la sécurité de Badoo et de nos membres. Ces Cookies protègent les utilisateurs de Badoo contre le spam et la fraude en garantissant la sécurité de vos données personnelles lorsque vous effectuez des achats sur Badoo, comme les services premium de Badoo.<br><br>Nous pouvons utiliser des Cookies persistants, qui nous aideront à détecter que le même appareil se connecte au bon compte. Ces types de Cookies contribuent également à nos mesures anti-spam et peuvent nous aider à empêcher les hameçonneurs, les escrocs, les tentatives de connexion non autorisées à votre compte et l'accès à tout compte piraté.<br><br>Certains de ces Cookies strictement nécessaires sont des tiers, car certains réseaux sociaux peuvent être utilisés comme point d'entrée pour s'inscrire à nos services. |
+| Cookies analytiques | Ces Cookies nous permettent de collecter des informations sur la façon dont les visiteurs interagissent avec notre application et nos sites web. Nous utilisons ces informations pour compiler des rapports et pour aider à mesurer et à améliorer les performances de l'application et des sites web.<br><br>Badoo utilise Google Analytics pour collecter des informations sur la façon dont les visiteurs utilisent le site Badoo. Nous utilisons les informations pour compiler des rapports et pour nous aider à améliorer le site ou l'application. Les Cookies collectent des informations sous une forme agrégée, y compris le nombre de visiteurs sur le site ou l'application, d'où les visiteurs sont venus sur le site et les pages qu'ils ont visitées. |
+| Cookies des réseaux sociaux | Ces Cookies aident à fournir des expériences, telles que des liens vers d'autres sites web de réseaux sociaux et des plugins sociaux, notamment en facilitant le partage de contenu entre Badoo et vos autres réseaux sociaux préférés.<br><br>Dans certains cas, la fonctionnalité du site que vous choisissez peut permettre à un tiers de placer des Cookies sur votre appareil. |
+| Cookies publicitaires | Ces Cookies peuvent être installés sur nos sites web et notre application par nous ou nos partenaires publicitaires. Ils peuvent être utilisés pour créer un profil de vos centres d'intérêt et vous montrer des publicités pertinentes sur notre application et nos sites web, ou d'autres sites que vous visitez, ainsi que pour améliorer les rapports sur toute campagne publicitaire, et pour éviter de vous montrer des publicités que vous avez déjà vues. |
+| Cookies marketing | Ces Cookies peuvent être définis sur nos sites web et notre application par nous ou nos fournisseurs de services marketing. Ils nous aident, ainsi que nos fournisseurs de services marketing, à améliorer et à mesurer l'efficacité des publicités Badoo sur d'autres applications et sites web. Par exemple, ils nous aident à comprendre quelles publicités Badoo incitent les gens à télécharger notre application ou à s'inscrire à Badoo. Vous pouvez trouver plus d'informations à ce sujet dans notre [Politique de Confidentialité](https://badoo.com/fr/privacy/) (sous la rubrique « Partage de vos données personnelles avec les fournisseurs de services marketing »). |
 
-2\. Cookies lifespan and third parties placing Cookies
-------------------------------------------------------
+2\. Durée de vie des cookies et tiers utilisant des cookies
+-----------------------------------------------------------
 
-Cookies last for different periods of time depending on which of the following two categories they fall into:
+Les cookies durent différentes périodes en fonction de la catégorie à laquelle ils appartiennent :
 
-* **Session cookies** – these cookies only last as long as your online session, and expire when you close your browser (for example Internet Explorer or Safari).
-* **Persistent cookies** – these cookies stay on your device after your browser has been closed. These cookies are used when we need to remember you for more than one browsing session, for instance to remember your preferences from one visit to the next.
+* **Cookies de session** : ces cookies ne durent que le temps de votre session en ligne et expirent lorsque vous fermez votre navigateur (par exemple Internet Explorer ou Safari).
+* **Cookies persistants** : ces cookies restent sur votre appareil après la fermeture de votre navigateur. Ces cookies sont utilisés lorsque nous devons nous souvenir de vous pendant plus d'une session de navigation, par exemple pour mémoriser vos préférences d'une visite à l'autre.
 
-If you would like to obtain more information about the third parties placing Cookies on our Websites and App (including a link to their privacy practices) and their lifespan you can access this information:
+Si vous souhaitez obtenir plus d'informations sur les tiers qui ont recours à des cookies sur nos sites web et notre application (y compris un lien vers leurs pratiques de confidentialité) et leur durée de vie, vous pouvez accéder à ces informations :
 
-* in your profile settings for the Badoo App (under under “Privacy” > “Personalised Ads” on iOS, or under “Advertising Preferences” on Android ); and
-* in the “Manage Cookies” section linked at the bottom of our Websites.
+* dans les paramètres de votre profil pour l'application Badoo (sous « Confidentialité » > « Annonces personnalisées » sur iOS, ou sous « Préférences de publicité » sur Android ); et
+* dans la section « Gérer les cookies » en bas de nos sites web.
 
-3\. How can you refuse or withdraw consent to the use of Cookies?
------------------------------------------------------------------
+3\. Comment refuser ou retirer son consentement à l'utilisation des Cookies ?
+-----------------------------------------------------------------------------
 
-**When using our Websites**, you are in control and may refuse to accept Cookies at any time by managing your preferences in the “Manage Cookies” section (linked at the bottom of our Websites) or by altering the settings on your internet browser (for example Internet Explorer, Chrome and Firefox).
+**Lorsque vous utilisez nos sites web**, vous gardez le contrôle et pouvez refuser d'accepter les cookies à tout moment en gérant vos préférences dans la section « Gérer les cookies » (en bas de nos sites web) ou en modifiant les paramètres de votre navigateur Internet (Internet Explorer, Chrome et Firefox).
 
-If you would like to know more about Cookies and how to refuse Cookies, the following websites provide useful information:
+Si vous souhaitez en savoir plus sur les cookies et comment refuser les cookies, les sites web suivants fournissent des informations utiles :
 
 * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 * [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
-**When using our App**, you are also in control and may refuse to accept Cookies at any time by managing your Privacy Preferences in your Profile in the App (under “Settings” > “Privacy” > “Allow personalised ads” on iOS or under “Settings” > “Advertising Preferences” on Android).
+**Lorsque vous utilisez notre application**, vous pouvez refuser d'accepter les cookies à tout moment en gérant vos préférences de confidentialité dans votre profil (sous «Paramètres» > Confidentialité» > «Autoriser publicités personnalisées» sur iOS ou sous «Paramètres» > «Préférences des publicités» sur Android).
 
-Please note that if you choose not to permit Cookies some areas of our Websites or App may not function properly or be accessible.
+Veuillez noter que si vous choisissez de ne pas autoriser les cookies, certaines parties de nos sites web ou de notre application peuvent ne pas fonctionner correctement ou ne pas être accessibles.
 
-4\. How to contact us?
-----------------------
+4\. Comment nous contacter ?
+----------------------------
 
-Badoo has designated a Data Protection Officer and they can be reached by emailing DPO@corp.badoo.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+Badoo a désigné un responsable de la protection des données qu'il est possible de contacter en envoyant un e-mail à DPO@corp.badoo.com ou par courrier postal à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A.
 
-If you have any questions regarding this Cookie Policy, please visit our [Feedback Page](https://badoo.com/en/feedback/) or email us at DPO@corp.badoo.com. You can also contact us by post at the address above.
+Si vous avez des questions concernant cette Politique en matière de cookies, veuillez visiter notre page [Contact](https://badoo.com/fr/feedback/) ou nous envoyer un e‑mail à l'adresse suivante : DPO@corp.badoo.com. Vous pouvez également nous contacter par courrier à l'adresse ci-dessus.
 
-Effective date
---------------
+Date d'entrée en vigueur
+------------------------
 
-This Cookie Policy was last updated on 17 January 2022.
+Cette Politique des cookies a été mise à jour le 17 janvier 2022.
