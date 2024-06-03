@@ -1,18 +1,18 @@
 Conditions d'utilisation de Badoo
 =================================
 
-Si vous habitez en dehors des États-Unis, les présentes Conditions d'utilisation s'appliquent à vous. Si vous habitez aux États-Unis, les conditions générales de Badoo disponibles [ici](https://badoo.com/en-us/terms/) s'appliquent à vous.
+Si vous habitez en dehors des États-Unis, les présentes Conditions d'utilisation s'appliquent à vous. Si vous habitez aux États-Unis, les conditions générales de Badoo disponibles [ici (ouvre une nouvelle fenêtre)](https://badoo.com/en-us/terms/) s'appliquent à vous.
 
 Résumé
 ------
 
-Merci de bien vouloir lire attentivement l'intégralité des présentes Conditions générales d'utilisation car elles s'appliquent lors de chaque connexion au site Badoo et dès que vous y utilisez l’une de ses fonctionnalités. Voici un résumé des points essentiels abordés :
+Merci de bien vouloir lire attentivement l'intégralité des présentes Conditions générales d'utilisation car elles s'appliquent lors de chaque connexion au site Badoo et dès que vous y utilisez l’une de ses fonctionnalités. Voici un résumé des points essentiels abordés :
 
-1. l’accès à Badoo est interdit aux personnes physiques de moins de 18 ans car c’est un réseau social réservé aux adultes.
-2. la société Badoo ne peut être tenue pour responsable de l’ensemble des publications ou déclarations faites sur le site. Nous ne surveillons pas le contenu publié sur le site. Toutefois, si nous remarquons ou si un utilisateur nous signale du contenu que nous jugeons inapproprié, nous nous réservons le droit de le supprimer.
-3. si vous publiez du contenu ne vous appartenant pas, sans l’aval de son propriétaire et que ce dernier s’y oppose (ou fait appel à un avocat), notre responsabilité ne saurait être engagée. Vous devez assumer l’entière responsabilité de ce que vous publiez.
+1. L’accès à Badoo est interdit aux personnes physiques de moins de 18 ans car c’est un réseau social réservé aux adultes.
+2. La société Badoo ne peut être tenue pour responsable de l’ensemble des publications ou déclarations faites sur le site. Nous ne surveillons pas le contenu publié sur le site. Toutefois, si nous remarquons ou si un utilisateur nous signale du contenu que nous jugeons inapproprié, nous nous réservons le droit de le supprimer.
+3. Si vous publiez du contenu ne vous appartenant pas, sans l’aval de son propriétaire et que ce dernier s’y oppose (ou fait appel à un avocat), notre responsabilité ne saurait être engagée. Vous devez assumer l’entière responsabilité de ce que vous publiez.
 4. Veuillez également consulter notre charte de la communauté et nos conseils sur la sécurité pour de plus amples informations sur la protection de votre vie privée.
-5. Pour savoir comment Badoo utilise vos données personnelles, veuillez consulter notre [Politique de confidentialité](https://badoo.com/privacy/). Vous y trouverez des informations sur la manière dont nous traitons vos données personnelles et protégeons votre confidentialité lorsque vous utilisez Badoo. En utilisant Badoo, vous acceptez que nous utilisions de telles données conformément à notre Politique de confidentialité. Notre site web et nos applications utilisent également des cookies ou des technologies similaires. Pour en savoir plus sur ces derniers, cliquez [ici](https://badoo.com/privacy/#cookies). Vous avez toujours la possibilité de bloquer les cookies et autres stockages de données dans votre navigateur ou dans les paramètres de votre mobile, mais cela restreindrait votre accès à certaines fonctionnalités de Badoo.
+5. Pour savoir comment Badoo utilise vos données personnelles, veuillez consulter notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/). Vous y trouverez des informations sur la manière dont nous traitons vos données personnelles et protégeons votre confidentialité lorsque vous utilisez Badoo. En utilisant Badoo, vous acceptez que nous utilisions de telles données conformément à notre Politique de confidentialité. Notre site web et nos applications utilisent également des cookies ou des technologies similaires. Pour en savoir plus sur ces derniers, rendez-vous sur la page de notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/privacy/#cookies). Vous avez toujours la possibilité de bloquer les cookies et autres stockages de données dans votre navigateur ou dans les paramètres de votre mobile, mais cela pourrait restreindre votre accès à certaines fonctionnalités de Badoo.
 
 Mentions légales complètes
 --------------------------
@@ -30,50 +30,57 @@ SI VOUS N'ACCEPTEZ PAS ET N'ACCEPTEZ PAS LES CONDITIONS, VOUS NE DEVEZ PAS ACCÉ
 
 ### Qui peut utiliser Badoo ?
 
-Badoo est un lieu de rencontre pour les adultes. Vous ne pouvez utiliser Badoo, y compris l'une de ses fonctionnalités, ou devenir membre enregistré que si vous avez (i) 18 ans ou plus et (ii) êtes légalement autorisé à utiliser Badoo par les lois de votre pays d'origine.
+Badoo est un lieu de rencontre pour les adultes. Vous ne pouvez utiliser Badoo, y compris l'une de ses fonctionnalités, ou devenir membre enregistré(e) que si vous avez (i) 18 ans ou plus et (ii) êtes légalement autorisé(e) à utiliser Badoo par les lois de votre pays d'origine.
 
 Vous garantissez que : (i) vous avez le droit, l'autorité et la capacité d'être lié(e) par les Conditions, (ii) toutes les informations d'inscription que vous fournissez sont exactes et complètes, et (iii) qu'en utilisant Badoo vous ne violerez aucune loi ou réglementation du pays dans lequel vous résidez. Vous êtes l'unique responsable de votre conformité à toutes les lois et réglementations locales applicables.
 
 Vous garantissez en outre que vous n’avez pas été condamné(e) ni soumis(e) à une décision judiciaire relative à des voies de fait, de la violence, de l’inconduite sexuelle ou du harcèlement.
 
-### Quel type de contenu puis-je publier sur Badoo ?
+### Quel genre de contenu est-ce que je peux publier ou télécharger sur Badoo ?
 
-Vous pouvez publier toutes sortes de choses sur Badoo, notamment des photos, des messages et d’autres contenus («**Contenu**»).
+Vous pouvez publier ou télécharger toutes sortes de choses sur Badoo, y compris des photos, des e-mails, des messages et autres contenus (“**Contenus**”).
 
-Il y a tout de même des règles à respecter. C’est pourquoi, lors de l’utilisation de Badoo, vous vous engagez à ne pas publier ou envoyer de Contenu :
+Il existe cependant certaines règles concernant ce qui est acceptable, ainsi lorsque vous utilisez Badoo, vous ne pouvez pas publier, envoyer ou télécharger un contenu qui :
 
-1. qui contienne des jurons ou qui soit écrit d'une façon qui pourrait être considérée comme injurieuse ou susceptible de harceler, contrarier, gêner, inquiéter ou ennuyer autrui ;
-2. obscène, pornographique ou susceptible de porter atteinte à la dignité humaine ;
-3. injurieux, insultant ou menaçant, promouvant, montrant ou encourageant la violence, l'infliction de blessures à soi-même, le suicide, ou encore incitant au racisme, au sexisme, à la haine ou au fanatisme ;
-4. encourageant toute activité illégale, y compris, mais sans s’y limiter, le terrorisme ou l’incitation à la haine raciale, ou dont la publication constitue une infraction pénale ;
-5. à caractère diffamatoire ;
-6. lié à des activités commerciales (y compris, mais sans s’y limiter, les ventes, les concours et la publicité, ainsi que les liens vers d'autres sites ou vers des numéros de téléphones surtaxés) ;
-7. impliquant la transmission de courrier indésirable ou non sollicité (spams)
-8. qui usurpe l'identité d'une personne, d'une entreprise ou d'une marque avec l'intention de tromper ou de dérouter les autres ;
-9. qui contienne des logiciels espions, des logiciels publicitaires, des virus, des fichiers corrompus, des vers ou d’autres codes malveillants conçus pour interrompre, endommager ou limiter le fonctionnement des logiciels, du matériel, des télécommunications, des réseau, des serveurs ou de tout autre équipement, ou qui contienne des chevaux de Troie ou tout autre matériel conçu pour endommager, modifier, intercepter ou exproprier des données ou des informations personnelles, qu'elles appartiennent à Badoo ou à un tiers ; et
-10. qui, par lui-même ou par sa publication, viole les droits d'un tiers (y compris, mais sans s’y limiter, les droits de propriété intellectuelle et le droit au respect de la vie privée) ; ou
-11. qui montre une autre personne sans que cette dernière n'ait consenti à sa distribution, sans qu'elle ne soit au courant, et sans qu'elle n'ait eu l'occasion de refuser une telle création ou distribution ; ou
-12. qui comprennent des images d'enfants, même si vous apparaissez vous-même sur la photo, ou qui mettent des mineurs en danger
+1. est illégal ou encourage, fait la promotion ou incite à des activités illégales ;
+2. nuit aux mineurs ;
+3. est diffamatoire ou calomnieuse ;
+4. en soi ou par sa publication, porte atteinte aux droits d'un tiers (y compris, mais sans s'y limiter, les droits de propriété intellectuelle et les droits relatifs à la vie privée) ;
+5. montre une autre personne alors que cette personne n’y a pas consenti ;
+6. contient un langage et/ou des images qui pourraient être considérés comme offensants ou qui sont de nature à harceler, perturber, embarrasser, effrayer ou gêner toute autre personne ;
+7. est obscène, pornographique, violent ou qui est susceptible de porter atteinte à la dignité humaine de quelque manière que ce soit ;
+8. est abusif, insultant ou menaçant, discriminatoire ou qui fait la promotion, décrit ou encourage le racisme, le sexisme, la haine ou le sectarisme ;
+9. est associé à des activités commerciales (y compris, sans s'y limiter, les ventes, les concours et la publicité, les liens vers d'autres sites web ou les numéros de téléphone surtaxés) ;
+10. implique la transmission de courriers électroniques indésirables ou de « spams » ;
+11. usurpe l'identité d'une personne, a l'intention de la tromper ou de la manipuler (y compris, sans s'y limiter, les escroqueries et les comportements malhonnêtes) ;
+12. contient des logiciels espions, des logiciels publicitaires, des virus, des fichiers corrompus, des vers informatiques ou d'autres codes malveillants conçus pour interrompre, endommager ou limiter la fonctionnalité de tout logiciel, matériel, télécommunication, réseau, serveur ou autre équipement, un cheval de Troie ou tout autre matériel conçu pour endommager, interférer, intercepter indûment ou exproprier des données ou des données personnelles, qu'elles proviennent de Badoo ou d'une autre source ; ou
+13. qui viole ces Conditions.
 
-Nous vous saurions gré de bien vouloir faire preuve de bon sens lors du choix du Contenu que vous publiez et envoyez sur Badoo, car vous en assumez l’entière responsabilité.
+Veuillez faire preuve de bon sens dans le choix du contenu que vous décidez de publier sur Badoo, de télécharger ou d'envoyer par l'intermédiaire de Badoo, car vous êtes seul(e) responsable de ce contenu et en assumez l'entière responsabilité.
 
-Nous utilisons une combinaison de systèmes automatisés et d'une équipe de modérateurs pour surveiller et examiner les comptes et les messages afin de détecter tout contenu indiquant des violations de ces Conditions. Si vous enfreignez ces règles de manière répétée, nous pourrions être amenés à restreindre votre accès à Badoo, à désactiver votre compte ou à vous bloquer de Badoo. Nous pourrons supprimer le Contenu que vous avez publié sur Badoo si nous jugeons qu'il enfreint nos Conditions, ou si la loi nous y oblige.
+Nous utilisons un ensemble de systèmes automatisés, de rapports d'utilisateurs et une équipe de modérateurs pour surveiller et examiner les comptes et les contenus afin d'identifier les violations des présentes Conditions. Si vous enfreignez nos règles de manière répétée, vous pouvez vous voir interdire l'utilisation de Badoo et nous pouvons restreindre votre accès à Badoo, désactiver votre compte ou vous empêcher d'utiliser Badoo à l'avenir. Nous pouvons également supprimer tout contenu que vous soumettez à Badoo si nous estimons qu'il enfreint nos Conditions ou si nous sommes tenus de le faire en vertu de la législation en vigueur.
+
+Pour les utilisateurs résidant dans l'Union européenne (« UE »), nous vous informerons lorsque nous prendrons des mesures à l'encontre de votre compte ou de votre contenu, à moins que ce ne soit pas approprié pour nous de le faire (par exemple, si cela nous est interdit par les autorités chargées de l'application de la loi). Si vous pensez que nous avons commis une erreur en prenant une telle mesure, vous pouvez faire appel en utilisant les procédures décrites sur Badoo ou en nous contactant via l’assistance de nos [Règles de la communauté](https://badoo.com/guidelines) disponibles [ici](https://badoo.com/feedback). Pour tous les autres utilisateurs, nous nous réservons le droit (sans obligation), à notre seule discrétion et sans vous en avertir, de supprimer ou de modifier, de limiter ou de bloquer l'accès à tout contenu que vous téléchargez ou soumettez à Badoo, sans que notre responsabilité ne soit engagée à votre égard. Nous n'avons aucune obligation d'afficher le contenu que vous soumettez à Badoo, ni de vérifier l'exactitude ou la véracité du contenu soumis à Badoo, ni de surveiller votre utilisation ou celle des autres utilisateurs de Badoo.
+
+Les utilisateurs résidant dans l'Union européenne disposent de droits supplémentaires en vertu du règlement européen sur les services numériques (Digital Services Act) : (i) recourir à des procédures de règlement extrajudiciaire des litiges par des tiers ; (ii) demander réparation auprès des tribunaux de l'État membre de l'UE dans lequel ils résident ; et (iii) déposer une plainte auprès de l'autorité de régulation de l'UE dont ils dépendent. Les utilisateurs résidant au Royaume-Uni ont le droit – conformément à la législation locale – de déposer une plainte pour rupture du contrat, s’ils considèrent que nous avons ignoré les termes du contrat en supprimant, restreignant ou limitant l'accès à leur contenu ou sa distribution, ou en suspendant ou en résiliant leur compte.
 
 ### Y a-t-il des règles relatives aux données personnelles comme mon adresse e-mail ?
 
-Vous n’êtes pas autorisé à communiquer d’informations personnelles ou bancaires (telles que les noms, adresses postales, numéros de téléphone, adresses e-mail, URL, informations de carte de débit/crédit ou autres coordonnées bancaires, ainsi que le lieu de travail) sur votre page de profil (« **Profil** »), qu'il s'agisse des vôtres ou de celle d’un tiers. Si vous choisissez de divulguer vos informations personnelles à d'autres utilisateurs, que ce soit par e-mail ou autrement, vous le faites à vos propres risques. Nous vous invitons à faire preuve de la même prudence que dans d’autres circonstances lorsque vous divulguez des informations vous concernant à des tiers en ligne. Nous vous invitons à prendre connaissance de nos [Conseils de sécurité](https://badoo.com/guidelines/).
+Vous n’êtes pas autorisé à communiquer d’informations personnelles ou bancaires (telles que les noms, adresses postales, numéros de téléphone, adresses e-mail, URL, informations de carte de débit/crédit ou autres coordonnées bancaires, ainsi que le lieu de travail) sur votre page de profil (« **Profil** »), qu'il s'agisse des vôtres ou de celle d’un tiers. Si vous choisissez de divulguer vos informations personnelles à d'autres utilisateurs, que ce soit par e-mail ou autrement, vous le faites à vos propres risques. Nous vous invitons à faire preuve de la même prudence que dans d’autres circonstances lorsque vous divulguez des informations vous concernant à des tiers en ligne. Nous vous invitons à prendre connaissance de nos [Conseils de sécurité](https://badoo.com/guidelines).
 
 ### Puis-je utiliser les données personnelles d’autres utilisateurs ?
 
 Vous pouvez uniquement utiliser les informations personnelles d'autres utilisateurs de Badoo dans le but de faire de nouvelles connaissances. Il vous est strictement interdit d’utiliser les informations personnelles d’autres utilisateurs à des fins commerciales, pour leur envoyer des spams, les harceler ou les menacer. Badoo se réserve le droit de fermer votre compte, ou de limiter l'accès à ses fonctionnalités, en cas d’usage abusif des informations d’autres utilisateurs.
 
-### Qui a accès au Contenu que je publie sur Badoo ?
+### Qui peut voir le contenu que je publie sur Badoo ?
 
-Lorsque vous téléchargez du Contenu sur Badoo, tous les utilisateurs peuvent le consulter. Vous pouvez en limiter l’accès en choisissant d'utiliser les dossiers privés et en sélectionnant la ou les personnes autorisées à y accéder. Si vous ne voulez pas que votre Contenu soit accessible à d'autres utilisateurs, vous ne devez pas le publier sur Badoo. Si vous décidez de partager les résultats des votes (que ce soit les vôtres ou ceux d'autres utilisateurs) sur d'autres réseaux sociaux, les utilisateurs de ces réseaux sociaux pourront les voir. Vous pouvez désactiver le partage des résultats à tout moment dans vos paramètres. Pensez à consulter les Conditions générales de ces réseaux sociaux pour vous assurer que vous les acceptez. Nous nous réservons le droit, à notre entière discrétion, sans préavis et sans aucune responsabilité à votre égard, de supprimer ou modifier tout Contenu que vous téléchargez ou publiez sur Badoo, ou d’en limiter ou bloquer l'accès. Nous n'avons aucune obligation d’afficher le Contenu que vous soumettez à Badoo, ni de vérifier son exactitude ou sa véracité, ni de surveiller l’utilisation que vous en faites ou que d'autres utilisateurs de Badoo en font.
+Lorsque vous importez du contenu sur Badoo, le grand public peut y avoir accès et le voir. Si vous ne souhaitez pas que ce Contenu soit vu par d'autres personnes, vous pouvez choisir d'utiliser les dossiers privés et sélectionner la personne à laquelle vous souhaitez donner accès au contenu. Si vous ne souhaitez toujours pas que ce contenu soit vu par d'autres personnes, vous ne devez pas l'importer sur Badoo.
 
-### Autre chose ?
+### Autre chose à savoir ?
 
-En utilisant Badoo, vous en acceptez les Termes et Conditions. En contrepartie, nous vous garantissons une licence limitée, personnelle, non exclusive et non transférable pour utiliser et publier du Contenu seulement à but personnel. En dehors de la cette licence, vous ne bénéficiez d'aucun autre droit d'utiliser le site, l'application ou son Contenu et ses fonctionnalités. Vous ne pouvez pas modifier, copier, reproduire, créer des œuvres dérivées, inverser, altérer, améliorer ou exploiter le site ou son Contenu de quelque manière que ce soit. En cas de non-respect de ces Conditions, la licence susmentionnée sera automatiquement révoquée et vous devrez immédiatement détruire tout Contenu téléchargé ou imprimé.
+En utilisant Badoo, vous en acceptez les Conditions d'utilisation. En contrepartie, nous vous garantissons une licence limitée, personnelle, non exclusive et non transférable pour utiliser Badoo et publier du Contenu seulement à des fins personnelles. En dehors de cette licence, vous ne bénéficiez d'aucun autre droit d'utiliser le site, l'application ou son Contenu et ses fonctionnalités. Vous ne pouvez pas modifier, copier, reproduire, créer des œuvres dérivées, inverser, altérer, améliorer ou exploiter le site ou son Contenu de quelque manière que ce soit. En cas de non-respect de ces Conditions d'utilisation, la licence susmentionnée sera automatiquement révoquée et vous devrez immédiatement détruire tout Contenu téléchargé ou imprimé.
+
+Nous avons développé des algorithmes de correspondance pour évaluer votre compatibilité avec d'autres utilisateurs et vous présenter des personnes qui, selon nous, vous conviennent. Pour en savoir plus sur notre utilisation des systèmes de recommandation et sur les principaux paramètres que nous utilisons, consultez notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/).
 
 2\. Propriété du Contenu
 ------------------------
@@ -109,7 +116,7 @@ Vous disposez uniquement de droits sur le Contenu que vous soumettez à Badoo. A
 
 Badoo vous propose sur son site un certain nombre de services payants. Les services premium de Badoo offrent différents moyens pour trouver et rencontrer plus de personnes, de personnaliser votre profil et d’augmenter votre popularité afin d’être plus visible sur le site. Divers jeux sont également proposés sur le site. Vous pouvez acheter tous ces services premium après votre inscription, et des abonnements de différentes durées sont disponibles.
 
-Une fois que vous avez payé pour l’un des services premium, vous avez le droit d'annuler et d'être remboursé(e) pour tout paiement reçu dans les 14 jours précédents. Si vous désirez annuler, veuillez nous le faire savoir via notre page [Contact](https://badoo.com/feedback/). Si vous téléchargez du Contenu faisant partie d'un service payé dans la période de 14 jours, vous pourrez perdre ce droit. Passés 14 jours, tout service payé ne sera pas remboursable.
+Une fois que vous avez payé pour l’un des services premium, vous avez le droit d'annuler et d'être remboursé(e) pour tout paiement reçu dans les 14 jours précédents. Si vous désirez annuler, veuillez nous le faire savoir via notre page [Contact](https://badoo.com/feedback). Si vous téléchargez du Contenu faisant partie d'un service payé dans la période de 14 jours, vous pourrez perdre ce droit. Passés 14 jours, tout service payé ne sera pas remboursable.
 
 Vous pouvez désactiver la recharge automatique à tout moment, en vous rendant dans vos paramètres de facturation sur votre profil. Les prix peuvent varier en fonction d'un certain nombres de facteurs, y compris (mais sans s'y limiter) les offres promotionnelles, les récompenses de fidélité et les éventuelles promotions.
 
@@ -123,9 +130,9 @@ Lorsque vous vous abonnez à un service premium de Badoo, vous autorisez Badoo �
 
 Si vous choisissez de participer à l'un des jeux, services premium ou une gamme de services conçus pour améliorer votre expérience sur Badoo, vous vous engagez à utiliser vous-même ces services et à ne pas les transférer (à titre gratuit ou dans le cas d’une revente), et à ne pas acheter ou vendre de tels services auprès d'autres utilisateurs de Badoo. Badoo se réserve le droit d’annuler les services payants que vous tenteriez de transférer ou d’acheter à un autre utilisateur. Les services payants ne seront délivrés par Badoo qu’à qui de droit.
 
-### Mes crédits sont-ils acquis pour une durée indéterminée ?
+### Mes crédits sont-ils acquis pour une durée indéterminée ?
 
-Non, nous nous réservons le droit de supprimer vos crédits inutilisés après 6 mois (excepté s’ils ont été achetés via iTunes). Si vous supprimez votre compte, ou si votre compte est résilié par nos services pour cause de non-respect des présentes Conditions, vos crédits seront perdus. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les supprimer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire à moins que nous y consentions par écrit.
+Non, nous nous réservons le droit de supprimer vos crédits inutilisés après 6 mois (sauf s’ils ont été achetés via iTunes). Si vous supprimez votre compte, ou si votre compte est résilié par nos services pour cause de non-respect des présentes Conditions, vos crédits seront perdus. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les supprimer à tout moment. De la même manière, si vous recevez des crédits supplémentaires dans le cadre de votre abonnement Premium, nous serons en mesure de modifier le nombre de ces crédits supplémentaires et/ou les faire expirer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire à moins que nous y consentions par écrit.
 
 Pour plus d’informations relatives aux conditions de paiement, merci de consulter nos Conditions de service sur la page de recharge.
 
@@ -151,7 +158,7 @@ Les utilisateurs non inscrits sont en mesure d'accéder uniquement à certaines 
 
 ### Comment puis-je me désinscrire de Badoo ?
 
-À tout moment, vous pouvez résilier votre inscription en vous connectant à votre compte Badoo, en allant dans vos « Paramètres », et en cliquant sur « Supprimer mon profil ». Nous enregistrons vos informations de profil dans le cas où vous décideriez ultérieurement de rétablir votre compte. De nombreux utilisateurs désactivent leur compte temporairement et attendent de Badoo que nous conservions leurs informations jusqu’à la réactivation du compte. De ce fait, vous serez en mesure de rétablir votre compte et votre profil dans leur intégralité dans les 28 jours qui suivent leur désactivation. Une fois votre profil résilié, nous nous réservons le droit de supprimer tout Contenu connexe que vous avez publié ou mis en ligne sur Badoo. Pour plus d’informations, consultez notre [Politique de confidentialité](https://badoo.com/privacy/).
+À tout moment, vous pouvez résilier votre inscription en vous connectant à votre compte Badoo, en allant dans vos « Paramètres », et en cliquant sur « Supprimer mon profil ». Nous enregistrons vos informations de profil dans le cas où vous décideriez ultérieurement de rétablir votre compte. De nombreux utilisateurs désactivent leur compte temporairement et attendent de Badoo que nous conservions leurs informations jusqu’à la réactivation du compte. De ce fait, vous serez en mesure de rétablir votre compte et votre profil dans leur intégralité dans les 28 jours qui suivent leur désactivation. Une fois votre profil résilié, nous nous réservons le droit de supprimer tout Contenu connexe que vous avez publié ou mis en ligne sur Badoo. Pour plus d’informations, consultez notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/).
 
 Le Contenu, autre que votre profil, que vous avez mis en ligne sur Badoo (tel que des commentaires ou des e-mails) peut encore être disponible sur Badoo après la résiliation de votre inscription.
 
@@ -160,24 +167,24 @@ Le Contenu, autre que votre profil, que vous avez mis en ligne sur Badoo (tel qu
 
 ### Un utilisateur ne respecte pas les Conditions générales d’utilisation du site, que dois-je faire ?
 
-Vous pouvez signaler tout abus ou toute plainte relative à du Contenu publié sur Badoo en cliquant sur le lien [Contacter Badoo](https://badoo.com/feedback/). Il vous est également possible de signaler un utilisateur à partir de son profil en cliquant sur le lien « Signaler un abus ». Vous serez invité à préciser le motif de la plainte et à nous fournir toute information complémentaire qui vous semble pertinente.
+Vous pouvez signaler tout abus ou toute plainte relative à du Contenu publié sur Badoo en cliquant sur le lien [Contacter Badoo](https://badoo.com/feedback). Il vous est également possible de signaler un utilisateur à partir de son profil en cliquant sur le lien « Signaler un abus ». Vous serez invité à préciser le motif de la plainte et à nous fournir toute information complémentaire qui vous semble pertinente.
 
-Nous faisons toujours de notre mieux pour résoudre le moindre problème que vous pourriez rencontrer en utilisant notre service. Cependant, si votre plainte ou litige n'était pas résolu(e), vous pouvez satisfaire les conditions requises pour utiliser la plateforme de résolution des litiges en ligne de la Commission européenne disponible [ici](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+Nous faisons toujours de notre mieux pour résoudre le moindre problème que vous pourriez rencontrer en utilisant notre service. Cependant, si votre plainte ou litige n'était pas résolu(e), vous pouvez satisfaire les conditions requises pour utiliser la [plateforme de résolution des litiges en ligne de la Commission européenne (ouvre une nouvelle fenêtre)](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
 
 ### Les autres utilisateurs sont-ils contrôlés ?
 
 NON. VOUS COMPRENEZ QUE DANS LE COURS ORDINAIRE DES OPÉRATIONS DE BADOO, LE GROUPE BADOO NE FAIT PAS DE CONTRÔLE DES ANTÉCÉDENTS JUDICIAIRES SUR SES UTILISATEURS, OU AUTREMENT ENQUÊTE RÉGULIÈREMENT SUR LE PASSÉ DE SES UTILISATEURS, OU TENTE DE VÉRIFIER LES DÉCLARATIONS DE SES UTILISATEURS. LE GROUPE BADOO NE FAIT AUCUNE REPRÉSENTATION OU GARANTIE QUANT À LA CONDUITE DE TOUT UTILISATEUR OU À SA COMPATIBILITÉ AVEC TOUT UTILISATEUR ACTUEL OU FUTUR. LE GROUPE BADOO SE RÉSERVE LE DROIT DE RÉALISER TOUTE VÉRIFICATION DES ANTÉCÉDENTS JUDICIAIRES OU AUTRES VÉRIFICATIONS (TELS QUE LES RECHERCHES DANS LE REGISTRE DES DÉLINQUANTS SEXUELS) À TOUT MOMENT, ET D'UTILISER LES DOSSIERS PUBLICS DISPONIBLES À TOUT BUT.
 
-Nous n’exerçons aucun contrôle sur ce que fait ou dit un utilisateur. Mais nous avons établi et faisons respecter des Conditions d’utilisation et prenons des mesures qui visent à prévenir toute conduite condamnable, **nous n'avons aucune obligation à vous protéger de tout type de préjudice causé par un utilisateur.** Vous portez l’entière responsabilité de vos échanges avec les autres membres de Badoo.
+Nous n’exerçons aucun contrôle sur ce que fait ou dit un utilisateur. Mais nous avons établi et faisons respecter des Conditions générales d’utilisation et prenons des mesures qui visent à prévenir toute conduite condamnable, **nous n'avons aucune obligation à vous protéger de tout type de préjudice causé par un utilisateur.** Vous portez l’entière responsabilité de vos échanges avec les autres membres de Badoo.
 
 Vous acceptez, et par la présente, dans la mesure maximale permise par la loi applicable, de dégager le groupe Badoo et ses affiliés, ainsi que leurs dirigeants, administrateurs, employés, agents, représentants et successeurs respectifs de toute réclamation, demande, perte, dommage, droits et actions de toute nature, y compris les blessures, la mort et les dommages matériels, qui découlent directement ou indirectement de vos interactions avec ou de la conduite d'autres utilisateurs de Badoo.
 
 7\. Politique de Confidentialité
 --------------------------------
 
-### Avez-vous des lignes directrices sur ce que vous pouvez faire avec mes données personnelles ?
+### Existe-t-il des règles sur ce que vous pouvez faire avec mes données personnelles ?
 
-Nous traitons les informations conformément à notre [Politique de confidentialité](https://badoo.com/privacy/) intégrée aux présentes Conditions Générales d'Utilisation. Veuillez lire les termes de notre [Politique de Confidentialité](https://badoo.com/privacy/) avant d'utiliser Badoo. En utilisant Badoo, vous acceptez un tel traitement et vous garantissez que toutes les données que vous fournissez sont vraies, correctes et exactes.
+Nous traitons les informations conformément à notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/) intégrée aux présentes Conditions Générales d'Utilisation. Veuillez lire les termes de notre [Politique de Confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/) avant d'utiliser Badoo.
 
 8\. Liens
 ---------
@@ -254,4 +261,4 @@ Notre siège social est situé à l'adresse The Broadgate Tower, Third Floor, 20
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d’utilisation : 14 juillet 2023.
+Dernière mise à jour des Conditions générales d'utilisation : 22 avril 2024.
