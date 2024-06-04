@@ -3,7 +3,7 @@ Politique de protection des données pour l’utilisation de Parship – France
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/privacy-policy/)
 
-Dernière mise à jour : 01.02.2024
+Dernière mise à jour : 03.06.2024
 
 Merci d’utiliser Parship ! Vous trouverez ici des informations concernant les données à caractère personnel recueillies par Parship, la façon dont nous traitons ces données et les options dont vous disposez en tant qu’utilisateur.
 
@@ -32,11 +32,11 @@ Si vous le souhaitez, vous pouvez nous contacter via les coordonnées suivantes 
 
 PE Digital GmbH, service Clientèle Parship France, Speersort 10, 20095 Hambourg, Allemagne, [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) (e-mail).
 
-**Vous pouvez joindre notre déléguée à la protection des données comme suit :**
+**Vous pouvez joindre notre délégué à la protection des données comme suit :**
 
-Dr Stefanie Wegener, [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) (e-mail)
+Dr. Thomas Scheffel, [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) (e-mail)
 
-Notre déléguée à la protection des données et nous-mêmes sommes à votre disposition pour toute question ou suggestion concernant la protection des données.
+Notre délégué à la protection des données et nous-mêmes sommes à votre disposition pour toute question ou suggestion concernant la protection des données.
 
 Collecte, traitement et utilisation des données à caractère personnel
 ---------------------------------------------------------------------
