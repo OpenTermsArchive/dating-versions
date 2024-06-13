@@ -13,14 +13,14 @@ Nous souhaitons, au travers de notre Politique de confidentialité, vous fournir
 * De comprendre le traitement qui sera fait de vos données,
 * D'assurer enfin la maîtrise de ces données en facilitant l'exercice vos droits
 
-Accéder à la [politique de confidentialité](https://www.mektoube.fr/politique-de-confidentialite)
+Accéder à la [politique de confidentialité](https://www.mektoube.fr/privacy-policy)
 
 2\. Notre politique de gestion des cookies
 ------------------------------------------
 
 Nous utilisons différents cookies, traceurs et autres technologies similaires sur notre site web et notre application. Ils nous permettent de mesurer l’audience et d'intégrer des services permettant d’améliorer les fonctionnalités de notre plateforme de rencontre.
 
-Pour en savoir plus sur les cookies, l'usage qui en est fait, ainsi que la gestion de votre consentement, nous vous invitons à consulter notre [politique de gestion des cookies.](https://www.mektoube.fr/politique-des-cookies)
+Pour en savoir plus sur les cookies, l'usage qui en est fait, ainsi que la gestion de votre consentement, nous vous invitons à consulter notre [politique de gestion des cookies.](https://www.mektoube.fr/cookie-policy)
 
 L'exercice de vos droits
 ------------------------
