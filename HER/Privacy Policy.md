@@ -21,33 +21,33 @@ When we use the phrase “**Personal** **Information**” in this Privacy Polic
 
 Specifically, we collect the following types of Personal Information:
 
-* * Identifiers, such as real name, online identifier, Internet Protocol (“**IP**”) address, email address, account name, or other similar identifiers.
+*   *   Identifiers, such as real name, online identifier, Internet Protocol (“**IP**”) address, email address, account name, or other similar identifiers.
 
-* * Categories of personal information described in Section 1798.80(e) of the California Civil Code, such as name, physical characteristics or description, telephone number, education, or employment history, credit card number, or any other financial information.
+*   *   Categories of personal information described in Section 1798.80(e) of the California Civil Code, such as name, physical characteristics or description, telephone number, education, or employment history, credit card number, or any other financial information.
 
-* * Characteristics of protected classifications under federal law, such as religion, gender (including pregnancy) and age (40 years old and over), or under California law, such as marital status, age, or sexual orientation.
+*   *   Characteristics of protected classifications under federal law, such as religion, gender (including pregnancy) and age (40 years old and over), or under California law, such as marital status, age, or sexual orientation.
 
-* * Internet or other electronic network activity information, such as browsing history, search history, and information regarding a consumer’s interaction with a website, application or advertisement.
+*   *   Internet or other electronic network activity information, such as browsing history, search history, and information regarding a consumer’s interaction with a website, application or advertisement.
 
-* * Geolocation data.
+*   *   Geolocation data.
 
-* * Audio, electronic, visual information or similar information.
+*   *   Audio, electronic, visual information or similar information.
 
-* * Professional or employment-related information.
+*   *   Professional or employment-related information.
 
-* * Education information.
+*   *   Education information.
 
-* * Inferences drawn from the above categories of information.
+*   *   Inferences drawn from the above categories of information.
 
 **The categories of sensitive information include:**
 
-* * Account login in combination with any required security or access code, password, or credentials allowing access to the account.
+*   *   Account login in combination with any required security or access code, password, or credentials allowing access to the account.
 
-* * Information collected and analyzed concerning a consumer’s sex life or sexual orientation.
+*   *   Information collected and analyzed concerning a consumer’s sex life or sexual orientation.
 
-* * Contents of mail or text messages, unless we are the intended recipient of the communication.
+*   *   Contents of mail or text messages, unless we are the intended recipient of the communication.
 
-* * Precise geolocation data.
+*   *   Precise geolocation data.
 
 When you create a profile, you have the option of adding a name (given, chosen, real, or fake, at your election), photos, a bio, and certain other details about your gender, your sexual orientation and your dating preferences, as well as answering some standard preferences. All of this information is optional. Whatever you choose to add to your profile will be visible to other users of the Mobile App.
 
@@ -77,11 +77,11 @@ We may use Google Analytics. We use the information we get from Google Analytics
 
 You may wish to restrict the use of cookies. Please be aware that some of the features of our Website may not function correctly if you disable cookies. Most modern browsers allow you to change your cookie settings. You can usually find these settings in the options or preferences menu of your browser. To understand these settings, the following links for commonly used browsers may be helpful: [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666)
 
-* * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectslug=Cookies&redirectlocale=en-US)
+*   *   [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectslug=Cookies&redirectlocale=en-US)
 
-* * [Cookie settings in Microsoft Edge](https://support.microsoft.com/en-us/search?query=enable%20cookies%20in%20edge)
+*   *   [Cookie settings in Microsoft Edge](https://support.microsoft.com/en-us/search?query=enable%20cookies%20in%20edge)
 
-* * [Cookie settings in Safari web](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac) and [iOS](https://support.apple.com/en-us/105082)
+*   *   [Cookie settings in Safari web](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac) and [iOS](https://support.apple.com/en-us/105082)
 
 **Location Information**_._  If you have enabled location services on your phone, we collect precise geolocation information from your device. We share this information as rough geolocation to give users you interact with an approximate estimate of their distance from you.  If you do not want this information collected by us, you can disable location services on your phone for the Mobile App. If location services are not enabled for the Mobile App, you won’t be able to see any other users in the “Meet” or “Nearby” functions of the app.
 
@@ -96,49 +96,49 @@ How we use information we’ve collected
 
 We will use your Personal Information, both directly and in connection with the third party services described in this Policy, to:
 
-* * Identify you as a user in our system;
+*   *   Identify you as a user in our system;
 
-* * Facilitate the creation of, payment for, and administration of your Account;
+*   *   Facilitate the creation of, payment for, and administration of your Account;
 
-* * Allow you to communicate with other users of the Services;
+*   *   Allow you to communicate with other users of the Services;
 
-* * To send you push notifications, when enabled;
+*   *   To send you push notifications, when enabled;
 
-* * Provide you with the Services and complete your transactions;
+*   *   Provide you with the Services and complete your transactions;
 
-* * Provide you with customer support and respond to your support inquiries;
+*   *   Provide you with customer support and respond to your support inquiries;
 
-* * Operate marketing campaigns to users and prospective users, including through the use of third party tools like Mailchimp to distribute those campaigns;
+*   *   Operate marketing campaigns to users and prospective users, including through the use of third party tools like Mailchimp to distribute those campaigns;
 
-* * Send you our newsletters, when you sign up;
+*   *   Send you our newsletters, when you sign up;
 
-* * Understand how you interact with our marketing content and/or begin using the Mobile App;
+*   *   Understand how you interact with our marketing content and/or begin using the Mobile App;
 
-* * Understand your needs and tailor the features and content of the Services to you;
+*   *   Understand your needs and tailor the features and content of the Services to you;
 
-* * Respond to and, as applicable, fulfill your requests, resolve disputes and/or troubleshoot problems;
+*   *   Respond to and, as applicable, fulfill your requests, resolve disputes and/or troubleshoot problems;
 
-* * Verify your compliance with your obligations in our Terms of Service;
+*   *   Verify your compliance with your obligations in our Terms of Service;
 
-* * Send you administrative e-mail notifications, such as security, or support and maintenance advisories and otherwise communicate with you about the Services;
+*   *   Send you administrative e-mail notifications, such as security, or support and maintenance advisories and otherwise communicate with you about the Services;
 
-* * Send surveys, offers, and other promotional materials related to our Services and for other marketing purposes on our own behalf;
+*   *   Send surveys, offers, and other promotional materials related to our Services and for other marketing purposes on our own behalf;
 
-* * Improve the quality and functionality of the Services, identify new features that may be of interest to you and other users, analyze aggregate usage trends for the Services and our industry, and maintain and secure our systems:
+*   *   Improve the quality and functionality of the Services, identify new features that may be of interest to you and other users, analyze aggregate usage trends for the Services and our industry, and maintain and secure our systems:
         
-        * * To display your friends to other users, if and when you add friends;
+        *   *   To display your friends to other users, if and when you add friends;
         
-        * * To understand your messaging behavior and the messaging behavior of our users as a whole, including with respect to advertising messages;
+        *   *   To understand your messaging behavior and the messaging behavior of our users as a whole, including with respect to advertising messages;
         
-        * * To identify and deliver our own marketing messages to you;
+        *   *   To identify and deliver our own marketing messages to you;
         
-        * * To understand how and when users of the Mobile App interact with our offline content and promotional activities;
+        *   *   To understand how and when users of the Mobile App interact with our offline content and promotional activities;
         
-        * * To ask you to consider using the Mobile App following an offline interaction with us where you shared Voluntary Information, such as registering for an Eventbrite event;
+        *   *   To ask you to consider using the Mobile App following an offline interaction with us where you shared Voluntary Information, such as registering for an Eventbrite event;
         
-        * * To allow other users to share, report, or block your profile; and
+        *   *   To allow other users to share, report, or block your profile; and
         
-        * * Select and display relevant advertisements of third party products and services that may be of interest to you, in compliance with guidelines and restrictions imposed by the App Store and Play Store platforms.
+        *   *   Select and display relevant advertisements of third party products and services that may be of interest to you, in compliance with guidelines and restrictions imposed by the App Store and Play Store platforms.
         
 
 We may also use your Personal Information to extract Anonymous Information records by excluding information that would allow the identification of any particular individual. We generally use Anonymous Information, which is not associated with an identifiable individual, that we collect to analyze trends, administer and improve the Services, understand the demographics of our aggregate user base, and tailor the Services to our users’ needs. We may use Anonymous Information in other ways, including sharing it publicly. This may include sharing anonymous statements by our users about the product or Services.
@@ -149,33 +149,33 @@ We may also use your Personal Information to extract Anonymous Information recor
 
 We do not disclose or share your Personal Information with third parties other than as described in this Policy. In addition to the sharing described as a part of how we collect data, we may disclose certain Personal Information to third parties in the following ways:
 
-* * As You Request. When you use the Services, the Personal Information you provide will be shared with the third parties that you authorize to receive such information (e.g., other individuals that you wish to connect with via the Services). You choose which information about you will be displayed to possible connections in the Services.
+*   *   As You Request. When you use the Services, the Personal Information you provide will be shared with the third parties that you authorize to receive such information (e.g., other individuals that you wish to connect with via the Services). You choose which information about you will be displayed to possible connections in the Services.
         
-        * * Spotify. You can, but do not have to, choose to connect your Spotify account to your Mobile App profile to display music you listen to frequently.
+        *   *   Spotify. You can, but do not have to, choose to connect your Spotify account to your Mobile App profile to display music you listen to frequently.
         
-        * * Social Media Profiles. If you use your Facebook and/or Instagram accounts to log into the [Mobile App, yo](https://links.weareher.com/XKUPX2dxBob)u can choose to import certain data from those accounts to improve your [experience on th](https://links.weareher.com/XKUPX2dxBob)e Mobile App.
-        
-
-* * Service Providers. We may share your Personal Information with our third party service providers who provide services such as data analytics, website hosting, payment processing (e.g., Stripe and RevenueCat), information technology, customer service, email delivery, auditing, and other services. In particular:
-        
-        * * Servers and Hosting. Like most modern applications, our Services use cloud-based server and hosting tools operated by third parties, and your Personal Information is stored on those third party servers. Our servers and databases, as well as the data we store there, are secured and encrypted with industry-standard tools. In some cases, we also use data analysis tools which replicate our server and/or some data on those servers in order to help us optimize our operations.
-        
-        * * Data processing and Analysis. We use certain third party software tools to analyze, visualize, and process data about our Services and how users interact with them, as well as to transmit that data effectively to cloud servers. The third party vendors may store or have access to your Personal Information for the purpose of providing their services to us. Data handled by these vendors is subject to Encryption of at least TLSv1.2 in transit and AES Encryption at rest. Services that help us manage data flows (for example, data pipeline, data handling, and data visualization services operated by third parties) generally do not store our data, but many have access to it in the course of delivering their services.
-        
-        * * Subscription Management. We use a third party service, RevenueCat, to help manage and analyze subscription revenue. You can read more about RevenueCat’s Privacy Practices with respect to you as a HER user in their Privacy Policy [here](https://www.revenuecat.com/privacy).
+        *   *   Social Media Profiles. If you use your Facebook and/or Instagram accounts to log into the [Mobile App, yo](https://links.weareher.com/XKUPX2dxBob)u can choose to import certain data from those accounts to improve your [experience on th](https://links.weareher.com/XKUPX2dxBob)e Mobile App.
         
 
-* * Ad Display. We may share your Personal Information in order to select and display targeted advertisements. Currently, vendors such as [AppLovin](https://www.applovin.com/) provide services for this purpose, though the particular vendors we use may change over time. You can read AppLovin’s Privacy Policy [here](https://www.applovin.com/privacy/)[.](https://www.facebook.com/ads/manage/audience_network/publisher_tos/) You may opt out of receiving interest-based advertising by emailing support@weareher.com. Please read the Section below on “How to opt out” for more details about this.
+*   *   Service Providers. We may share your Personal Information with our third party service providers who provide services such as data analytics, website hosting, payment processing (e.g., Stripe and RevenueCat), information technology, customer service, email delivery, auditing, and other services. In particular:
+        
+        *   *   Servers and Hosting. Like most modern applications, our Services use cloud-based server and hosting tools operated by third parties, and your Personal Information is stored on those third party servers. Our servers and databases, as well as the data we store there, are secured and encrypted with industry-standard tools. In some cases, we also use data analysis tools which replicate our server and/or some data on those servers in order to help us optimize our operations.
+        
+        *   *   Data processing and Analysis. We use certain third party software tools to analyze, visualize, and process data about our Services and how users interact with them, as well as to transmit that data effectively to cloud servers. The third party vendors may store or have access to your Personal Information for the purpose of providing their services to us. Data handled by these vendors is subject to Encryption of at least TLSv1.2 in transit and AES Encryption at rest. Services that help us manage data flows (for example, data pipeline, data handling, and data visualization services operated by third parties) generally do not store our data, but many have access to it in the course of delivering their services.
+        
+        *   *   Subscription Management. We use a third party service, RevenueCat, to help manage and analyze subscription revenue. You can read more about RevenueCat’s Privacy Practices with respect to you as a HER user in their Privacy Policy [here](https://www.revenuecat.com/privacy).
+        
+
+*   *   Ad Display. We may share your Personal Information in order to select and display targeted advertisements. Currently, vendors such as [AppLovin](https://www.applovin.com/) provide services for this purpose, though the particular vendors we use may change over time. You can read AppLovin’s Privacy Policy [here](https://www.applovin.com/privacy/)[.](https://www.facebook.com/ads/manage/audience_network/publisher_tos/) You may opt out of receiving interest-based advertising by emailing support@weareher.com. Please read the Section below on “How to opt out” for more details about this.
 
 If you would like more information about these targeted advertising services and the choices about the use of your information they support, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices) or [http://www.networkadvertising.org](http://www.networkadvertising.org/). If you’re in the EU, you can find additional information about your choices with respect to advertising networks and online behavioral advertising by clicking here: [http://www.youronlinechoices.eu/.](http://www.youronlinechoices.eu/) Using these general opt-out tools will remove your information from certain services we use, such as Braze.
 
-* * Public Profile and Profile Sharing. Certain portions of the information you provide to us may also be displayed in your Profile.  As an essential element of the Services, most of the Personal Information you choose to explicitly provide to us when you register or update your Profile is displayed on your Profile and therefore to other users of the Mobile App. You can make your profile “Incognito” by toggling the radio button for that Setting in the “Edit Profile” Display, which is accessible by clicking “Edit” in the top right corner of your profile screen within the Mobile App. You can block specific users from interacting with you on the Mobile App by clicking “Block” at the bottom of their profile, and Report users who are not in compliance with our [Community Guidelines](https://weareher.com/community-guidelines/) or who take action which makes you in any way uncomfortable from the link at the bottom of their profile as well. **Finally, you and other users can share a profile via text message or email – and your own profile can be shared publicly in this way.** When another user takes this action, your primary profile photo, first name, and age will display to the recipient of the share. However, clicking the link associated with this display will only open the shared profile in our Mobile App for another registered user of HER. We cannot control who reads your postings, takes screenshots of your data and photos, or what other users may do with the information that you voluntarily post, including another user’s profile, so it is very important that you do not put Personal Information in your messages, posts, and/or profile that you are uncomfortable having shared by other users. Once you have posted information publicly, you may not be able to edit or delete such information cached, collected, and stored elsewhere by others.
+*   *   Public Profile and Profile Sharing. Certain portions of the information you provide to us may also be displayed in your Profile.  As an essential element of the Services, most of the Personal Information you choose to explicitly provide to us when you register or update your Profile is displayed on your Profile and therefore to other users of the Mobile App. You can make your profile “Incognito” by toggling the radio button for that Setting in the “Edit Profile” Display, which is accessible by clicking “Edit” in the top right corner of your profile screen within the Mobile App. You can block specific users from interacting with you on the Mobile App by clicking “Block” at the bottom of their profile, and Report users who are not in compliance with our [Community Guidelines](https://weareher.com/community-guidelines/) or who take action which makes you in any way uncomfortable from the link at the bottom of their profile as well. **Finally, you and other users can share a profile via text message or email – and your own profile can be shared publicly in this way.** When another user takes this action, your primary profile photo, first name, and age will display to the recipient of the share. However, clicking the link associated with this display will only open the shared profile in our Mobile App for another registered user of HER. We cannot control who reads your postings, takes screenshots of your data and photos, or what other users may do with the information that you voluntarily post, including another user’s profile, so it is very important that you do not put Personal Information in your messages, posts, and/or profile that you are uncomfortable having shared by other users. Once you have posted information publicly, you may not be able to edit or delete such information cached, collected, and stored elsewhere by others.
 
-* * Affiliates. We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“**Affiliates**”).
+*   *   Affiliates. We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“**Affiliates**”).
 
-* * Corporate Restructuring. We may share some or all of your Personal Information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy, as updated from time to time.
+*   *   Corporate Restructuring. We may share some or all of your Personal Information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy, as updated from time to time.
 
-* * Other Disclosures. Regardless of any choices you make regarding your Personal Information (as described below), we may disclose Personal Information if we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our [Terms and Conditions](https://weareher.com/terms/) or [Community Guidelines](https://weareher.com/community-guidelines/); (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties; and/or (d) investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our [Terms and Conditions](https://weareher.com/terms/), or harm (including potential harm) to HER or other users.
+*   *   Other Disclosures. Regardless of any choices you make regarding your Personal Information (as described below), we may disclose Personal Information if we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our [Terms and Conditions](https://weareher.com/terms/) or [Community Guidelines](https://weareher.com/community-guidelines/); (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties; and/or (d) investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our [Terms and Conditions](https://weareher.com/terms/), or harm (including potential harm) to HER or other users.
 
 ### How we respond to Do Not Track (“DNT”) signals
 
@@ -188,17 +188,17 @@ Several jurisdictions grant state residents certain rights and disclosures. We p
 
 **Request for Information or Deletion.** Residents of certain U.S. states have the right to know whether we are processing your Personal Information, and in some instances, you have the right to request we disclose to you the categories listed below for the preceding 12 months. We have the right to request verification of your identity for all requests for information. In responding to this right, we shall provide to you:
 
-* * The categories of Personal Information we collect about you.
+*   *   The categories of Personal Information we collect about you.
 
-* * The categories of sources from which your Personal Information is collected.
+*   *   The categories of sources from which your Personal Information is collected.
 
-* * The business or commercial purpose(s) for collecting, selling, sharing or disclosing your Personal Information, and the categories of Personal Information disclosed for such purpose(s).
+*   *   The business or commercial purpose(s) for collecting, selling, sharing or disclosing your Personal Information, and the categories of Personal Information disclosed for such purpose(s).
 
-* * The categories of third parties with whom we share your Personal Information.
+*   *   The categories of third parties with whom we share your Personal Information.
 
-* * The categories of Personal Information we have sold, if any, about you and the categories of third parties to whom your Personal Information was sold, by category or categories of Personal Information for each third party to whom the Personal Information was sold.
+*   *   The categories of Personal Information we have sold, if any, about you and the categories of third parties to whom your Personal Information was sold, by category or categories of Personal Information for each third party to whom the Personal Information was sold.
 
-* * The specific pieces of Personal Information we have collected about you.
+*   *   The specific pieces of Personal Information we have collected about you.
 
 In addition, you may have the right to request we delete your Personal Information.
 
@@ -230,17 +230,17 @@ If we deny your appeal, we will provide a written explanation of our decision wi
 
 **EEA, UK or Swiss Individuals’ Rights.** If you are from the EEA, UK or Switzerland, you have the right, under certain circumstances, to:
 
-* * Access your Personal Information;
+*   *   Access your Personal Information;
 
-* * Correct inaccurate information in your Personal Information;
+*   *   Correct inaccurate information in your Personal Information;
 
-* * Request erasure of your Personal Information without undue delay;
+*   *   Request erasure of your Personal Information without undue delay;
 
-* * Request restriction of, in certain circumstances, the processing of your Personal Information;
+*   *   Request restriction of, in certain circumstances, the processing of your Personal Information;
 
-* * Request receiving a portable copy of your Personal Information held by us, and to have that portable copy transmitted to another controller; and
+*   *   Request receiving a portable copy of your Personal Information held by us, and to have that portable copy transmitted to another controller; and
 
-* * To object to the processing of your Personal Information.
+*   *   To object to the processing of your Personal Information.
 
 To exercise any of these rights, contact us using the contact details provided at the end of this Privacy Policy, and please specify which privacy right(s) you wish to exercise. We may need to verify your identity to honor your request.
 
@@ -264,11 +264,11 @@ We provide you with a simple tool in the Mobile App to control your information 
 
 To access this tool, from your profile, click the settings icon at the top right. From your profile settings, scroll down to “Privacy Options” and tap. From here, you can choose “Send me my data,” “Stop using my data,” or “Delete my account and data.”
 
-* * Send me my data. When you select this option, we’ll email you a copy of the data we hold about you. Note that to use the “Send me my data” function, you’ll need to have added an email to your profile and verified that email. We’ll send your data only to verified emails.
+*   *   Send me my data. When you select this option, we’ll email you a copy of the data we hold about you. Note that to use the “Send me my data” function, you’ll need to have added an email to your profile and verified that email. We’ll send your data only to verified emails.
 
-* * Stop using my data. When you select this option, we’ll stop using your data to serve ads to you. You may still see ads, but they won’t be personalized.
+*   *   Stop using my data. When you select this option, we’ll stop using your data to serve ads to you. You may still see ads, but they won’t be personalized.
 
-* * Delete my account and my data.  When you select this option, we’ll delete your account and the data it contains. Note that you won’t be able to use your account after doing this.
+*   *   Delete my account and my data.  When you select this option, we’ll delete your account and the data it contains. Note that you won’t be able to use your account after doing this.
 
 ### How to opt out
 
