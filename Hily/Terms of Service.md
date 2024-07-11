@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Effective date: Nov 10, 2023
+Effective date: Jul 01, 2024
 
 IMPORTANT NOTICES
 
@@ -134,7 +134,7 @@ Any translation from English version is provided for your convenience only. In t
 7\. USER CONTENT
 ----------------
 
-1. Responsibility for User Content. You are solely responsible for the content and information that you provide, publish, transmit, broadcast, stream, translate, display whether real-time or pre-recorded (created in advance) or otherwise communicate to Hily through the Service or to other users (collectively referred to as “post” or “streams”), including without limitation messages, data, text, photos, video, music, graphics, links, records, streams, broadcasts, audio-visual works or other materials posted through chat messages, video messages, community pages, email messages, mobile messages, any other types of live or recorded messages, photos, broadcasting or streaming, profile information or otherwise communicated to us or other users (your submissions and those of other users, collectively, are “User Content”). Hily does not control, take responsibility for or assume liability for any User Content posted by you or any third party, or for any loss or damage thereto, nor is Hily liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you encounter. From time to time we may issue and amend some additional rules and polices as to regulate manner in which you can create and use the User Content within the Service.
+1. Responsibility for User Content. You are solely responsible for the content and information that you provide, publish, transmit, translate, display whether real-time or pre-recorded (created in advance) or otherwise communicate to Hily through the Service or to other users (collectively referred to as “post”), including without limitation messages, data, text, photos, video, music, graphics, links, records, audio-visual works or other materials posted through chat messages, video messages, community pages, email messages, mobile messages, any other types of live or recorded messages, photos, profile information or otherwise communicated to us or other users (your submissions and those of other users, collectively, are “User Content”). Hily does not control, take responsibility for or assume liability for any User Content posted by you or any third party, or for any loss or damage thereto, nor is Hily liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you encounter. From time to time we may issue and amend some additional rules and polices as to regulate manner in which you can create and use the User Content within the Service.
     
 2. Accuracy of Information. You will not post any inaccurate, misleading, incomplete or false information or User Content to Hily or to any other user. You may be required to supply certain information and post a photo of yourself to use the Service.
     
