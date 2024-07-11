@@ -1,296 +1,182 @@
-UNSERE VERPFLICHTUNG IHNEN GEGENÜBER
-====================================
+Hallo! Willkommen bei den Datenschutzbestimmungen von LoveScout24.
 
-\* \* \*
+Uns ist bewusst, dass das Lesen von Datenschutzbestimmungen nicht unbedingt das ist, was man generell unter Spaß versteht … aber schauen Sie sie sich bitte trotzdem an. Wir haben uns sehr bemüht, diese Richtlinie so klar und ansprechend wie möglich zu gestalten, da wir möchten, dass Sie sie auch tatsächlich lesen! Stellen Sie sich uns als Ihren digitalen Kameraden vor, der Ihnen im Detail erklärt, welche Daten wir erheben und warum und wie wir sie verwenden. Machen Sie es sich also gemütlich, holen Sie sich Ihr Lieblingsgetränk und lassen Sie uns gemeinsam in die Welt der personenbezogenen Daten eintauchen.
 
-**UNSERE VERPFLICHTUNG IHNEN GEGENÜBER**
+Diese Datenschutzbestimmungen gelten ab 10.08.2024. Bis dahin gilt die bisherige Version, die Sie [hier](https://www.lovescout24.de/pages/misc/privacy_072024?styled=1) finden.
 
-Für uns von LOVESCOUT24 hat der Schutz Ihrer Privatsphäre Vorrang. Bei der Entwicklung und dem Aufbau unserer Dienste und Produkte, die Sie kennen und schätzen, steht der Schutz Ihrer Privatsphäre im Zentrum, sodass Sie ihnen voll und ganz vertrauen und sich darauf konzentrieren können, wertvolle Beziehungen aufzubauen.
+1. [Wer wir sind](#CH1)
+2. [Wo diese Datenschutzbestimmungen gelten](#CH2)
+3. [Von uns erhobene Daten](#CH3)
+4. [Wie wir Daten verwenden](#CH4)
+5. [Wie wir Daten weitergeben](#CH5)
+6. [Wie Unternehmen der Match Group zusammenarbeiten](#CH6)
+7. [Grenzüberschreitender Datentransfer](#CH7)
+8. [Ihre Rechte](#CH8)
+9. [Wie lange wir Ihre Daten aufbewahren](#CH9)
+10. [Die Privatsphäre von Kindern](#CH10)
+11. [Änderungen der Datenschutzbestimmungen](#CH11)
+12. [Wie Sie uns kontaktieren können](#CH12)
 
-Wir wissen das Vertrauen zu schätzen, das Sie uns mit der Bereitstellung Ihrer Informationen entgegenbringen und nehmen dies nicht auf die leichte Schulter.
+### 1\. Wer wir sind
 
-**Unsere Verpflichtung zu Datenschutz** Bei der Entwicklung all unserer Produkte und Dienste achten wir stets auf den Schutz Ihrer Privatsphäre. Wir beziehen Experten aus verschiedenen Bereichen, wie Recht, Sicherheit, Technik, Produktentwicklung usw. ein, um sicherzustellen, dass unsere Entscheidungen die größtmögliche Achtung Ihrer Privatsphäre gewährleisten.
+Das für Ihre Daten verantwortliche Unternehmen (der „Datenverantwortliche“) ist:
 
-**Unsere Verpflichtung zu Transparenz** Da wir häufig dieselben Onlinedienste wie Sie nutzen, wissen wir, dass unzureichende Informationen und übermäßig komplizierte Formulierungen in Datenschutzrichtlinien ein weit verbreitetes Problem sind. Wir verfolgen genau den umgekehrten Ansatz: Wir bemühen uns nach Kräften, unsere Datenschutzrichtlinie und die zugehörigen Dokumente einfach und verständlich zu formulieren. Wir möchten, dass Sie unsere Richtlinien lesen und unsere Datenschutzmaßnahmen verstehen!
+FriendScout24 GmbH
 
-**Unsere Verpflichtung zu Sicherheit** Wir haben Teams, die eigens für die Sicherheit Ihrer Daten zuständig sind. Wir aktualisieren unsere Sicherheitsmaßnahmen fortlaufend und investieren in diese, um die Sicherheit Ihrer Informationen zu verbessern.
+LOVESCOUT24
 
-\* \* \*
+c/o WeWork
 
-**DATENSCHUTZRICHTLINIE**
+Neuturmstraße 5
 
-Willkommen bei den Datenschutzbestimmungen von LOVESCOUT24. Vielen Dank, dass Sie sich die Zeit nehmen, sie zu lesen.
+80331 München
 
-Wir wissen es zu schätzen, dass Sie uns Ihre Informationen anvertrauen und werden dieses Vertrauen nicht enttäuschen. Der erste Schritt dazu ist, sicherzustellen, dass Sie verstehen, welche Informationen wir erheben, warum wir sie erheben, wie wir sie verwenden und welche Wahlmöglichkeiten Sie in Bezug auf Ihre Informationen haben. In dieser Richtlinie werden unsere Datenschutzmaßnahmen einfach und verständlich mit möglichst wenig rechtlichem und technischem Fachchinesisch beschrieben.
-
-Diese Datenschutzrichtlinie gilt ab 13/12/2022.
-
-Bis dahin gilt die vorherige Version dieser Datenschutzrichtlinie, welche [hier](https://www.lovescout24.de/pages/misc/privacy_042022?styled=1) verfügbar ist.
-
-1. [WER WIR SIND](#_section01)
-2. [WO DIESE DATENSCHUTZRICHTLINIE GILT](#_section02)
-3. [WELCHE INFORMATIONEN WIR ERHEBEN](#_section03)
-4. [COOKIES UND ÄHNLICHE TECHNOLOGIEN ZUR DATENERHEBUNG](#_section04)
-5. [WIE WIR INFORMATIONEN NUTZEN](#_section05)
-6. [WIE WIR INFORMATIONEN WEITERGEBEN](#_section06)
-7. [GRENZÜBERSCHREITENDE DATENÜBERMITTLUNG](#_section07)
-8. [IHRE RECHTE](#_section08)
-9. [WIE LANGE WIR IHRE INFORMATIONEN AUFBEWAHREN](#_section09)
-10. [SCHUTZ DER PRIVATSPHÄRE VON KINDERN](#_section10)
-11. [STELLENBEWERBER, AUFTRAGNEHMER- UND LIEFERANTENVERTRETER](#_section11)
-12. [ÄNDERUNGEN DER DATENSCHUTZRICHTLINIE](#_section12)
-13. [WIE SIE UNS ERREICHEN](#_section13)
-
-1\. WER WIR SIND
-----------------
-
-Das für Ihre Informationen im Rahmen dieser Datenschutzrichtlinie verantwortliche Unternehmen ist:
-
-FriendScout24 GmbH  
-LOVESCOUT24  
-c/o WeWork  
-Neuturmstraße 5  
-80331 München  
 Deutschland
 
-2\. WO DIESE DATENSCHUTZRICHTLINIE GILT
----------------------------------------
+### 2\. Wo diese Datenschutzbestimmungen gelten
 
-Diese Datenschutzrichtlinie gilt für Websites, Apps, Events und andere Dienste, die wir unter der Marke LOVESCOUT24 betreiben. Aus Gründen der Einfachheit werden sie in dieser Datenschutzrichtlinie alle als „Dienste“ bezeichnet. Damit es besonders klar wird, haben wir in allen betreffenden Diensten Links zu dieser Datenschutzrichtlinie hinzugefügt.
+Diese Datenschutzbestimmungen gelten für Websites, Apps, Events und sonstige Dienste, die mit der Marke LoveScout24 betrieben werden. Egal, ob Sie nach Ihrem Seelenpartner suchen, an einem unserer Events teilnehmen oder unsere anderen tollen Dienste nutzen, diese Bestimmungen helfen Ihnen weiter. Aus Gründen der Einfachheit bezeichnen wir in den vorliegenden Datenschutzbestimmungen alles oben Genannte einfach als unsere „Dienste“.
 
-Für manche Dienste ist eine eigene Datenschutzrichtlinie erforderlich. Wenn ein Dienst eine eigene Datenschutzrichtlinie hat, gilt die betreffende – und nicht die vorliegende – Datenschutzrichtlinie.
+Wenn einer unserer Dienste aus irgendeinem Grund seine eigenen separaten Datenschutzbestimmungen erfordert, werden Ihnen diese Bestimmungen zur Verfügung gestellt, und in diesem Fall gelten solche Bestimmungen – nicht diese Datenschutzbestimmungen.
 
-3\. WELCHE INFORMATIONEN WIR ERHEBEN
-------------------------------------
+### 3\. Von uns erhobene Daten
 
-Natürlich können wir Ihnen nur beim Aufbau wertvoller Beziehungen helfen, wenn wir einige Informationen über Sie haben, wie grundlegende Profilangaben und welche Art von Menschen Sie kennenlernen möchten. Wir erheben auch Informationen dazu, wie Sie unsere Dienste nutzen, wie Zugriffsprotokolle, sowie Informationen von Dritten, beispielsweise wenn Sie über Ihr Social-Media-Konto auf unsere Dienste zugreifen oder Informationen aus Ihrem Social-Media-Konto hochladen, um Ihr Profil zu vervollständigen. Weitere Informationen finden sich in der ausführlicheren Beschreibung unten.
+Es versteht sich von selbst, dass wir Ihnen beim Knüpfen bedeutsamer Beziehungen nicht helfen können, ohne dass Sie einige Informationen über sich selbst bereitstellen, wie beispielsweise grundlegende Profildaten und die Arten der Menschen, die Sie gerne treffen möchten. Einige Informationen werden durch die Nutzung unseres Dienstes auch generiert, z. B. wann Sie sich angemeldet haben und wie Sie den Dienst genutzt haben. Wir können auch Daten von Dritten erheben, zum Beispiel, wenn Sie über ein Konto auf einer anderen Plattform (z. B. Google oder Apple) auf den Dienst zugreifen oder wenn Sie Informationen von Ihrem Konto auf einer anderen Plattform hochladen, um Ihr Profil zu vervollständigen. Wenn Sie an allen Einzelheiten interessiert sind, sehen Sie sich die Tabelle unten an.
 
-**_Informationen, die Sie uns zur Verfügung stellen_**
+| Daten, die Sie uns geben |     |
+| --- | --- |
+| Kategorien | Beschreibung |
+| --- | --- |
+| Kontodaten | Wenn Sie ein Konto einrichten, geben Sie hierfür grundlegende Informationen an uns weiter, wie z. B. E-Mail-Adresse, Geburtsdatum, Passwort. |
+| Profildaten | Wenn Sie Ihr Profil vervollständigen, liefern Sie zusätzliche Informationen über sich selbst, wie etwa Ihr Geschlecht, Ihre Interessen, Ihre Präferenzen, Ihren ungefähren Aufenthaltsort usw. Einige dieser Daten können in bestimmten Ländern als sensible oder besondere Daten gelten, wie zum Beispiel Angaben zu Ihrer sexuellen Orientierung, Gesundheit oder ethnischen Herkunft. Wenn Sie sich entscheiden, diese Daten zur Verfügung zu stellen, stimmen Sie zu, dass wir sie gemäß diesen Datenschutzbestimmungen verwenden. |
+| Inhalte | Wenn Sie unseren Dienst nutzen, können Sie Fotos, Videos, Audio, Text und andere Arten von Inhalten veröffentlichen, zum Beispiel Ihre Chats mit anderen Mitgliedern. |
+| Kaufdaten | Wenn Sie einen Kauf tätigen, behalten wir die Einzelheiten der Transaktion (z. B. was Sie gekauft haben, das Datum der Transaktion und den Preis). Die genauen Daten hängen von der gewählten Zahlungsmethode ab. Wenn Sie direkt bei uns (anstatt über eine Plattform wie iOS oder Android) bezahlen, geben Sie Ihre Debit- oder Kreditkartennummer oder andere Finanzinformationen an. |
+| Marketing-, Umfrage- und Forschungsdaten | Manchmal führen wir (i) zu Forschungszwecken Umfragen, Fokusgruppen oder Marktstudien und (ii) zu Marketingzwecken Werbeaktionen, Events oder Wettbewerbe durch. Wenn Sie sich für eine Teilnahme entscheiden, geben Sie uns Informationen, um Ihre Teilnahme zu bearbeiten, sowie Ihre Antworten auf unsere Fragen und Ihr Feedback. |
+| Daten Dritter | Wenn Sie uns Daten über andere Personen mitteilen (zum Beispiel, wenn Sie für eine bestimmte Funktion die Kontaktdaten einer Person, die Sie kennen, nutzen oder wenn Sie eine Erkundigung oder einen Bericht einreichen, die/der ein Mitglied betrifft), verarbeiten wir diese Daten in Ihrem Namen, um Ihre Anfrage zu bearbeiten. |
+| Kundendienst-Daten | Wenn Sie uns kontaktieren, stellen Sie uns Informationen zur Verfügung, die möglicherweise erforderlich sind, um Ihre Anfrage zu bearbeiten. Andere Personen können ebenfalls Erkundigungen oder Berichte einreichen, die Sie betreffen. Schließlich können unsere Moderationstools und Teams im Rahmen ihrer Untersuchungen zusätzliche Daten erheben. Ferner gehören wir zur [Match Group-Unternehmensfamilie](https://mtch.com/). Für Match Group hat die Sicherheit von Mitgliedern oberste Priorität. Wenn Sie in einem anderen Dienst der Match Group gesperrt wurden, können Ihre Daten an uns weitergegeben werden, damit wir die notwendigen Maßnahmen ergreifen können, einschließlich der Schließung Ihres Kontos oder der Unterbindung einer Kontoerstellung bei unserem Dienst.<br><br>Soweit gesetzlich zulässig, können wir im Rahmen unserer Bemühungen, die Sicherheit unserer Mitglieder zu gewährleisten, auch Daten über mutmaßliche oder verurteilte Straftäter von Dritten erhalten. |
+| Social-Media-Daten | Sie können uns Daten über Ihre Konten auf anderen Plattformen (z. B. Spotify, Google oder Apple) weitergeben, zum Beispiel, wenn Sie sich entscheiden, Ihr Konto über diese Plattformen zu erstellen und sich dort anzumelden oder wenn Sie sich entscheiden, Daten wie etwa Playlisten von diesen Plattformen auf unseren Dienst hochzuladen. |
 
-Wenn Sie unsere Dienste nutzen, geben Sie uns bestimmte Informationen: Dies beinhaltet:
+| Generierte oder automatisch erhobene Daten |     |
+| --- | --- |
+| Kategorien | Beschreibung |
+| --- | --- |
+| Nutzungsdaten | Die Nutzung des Dienstes generiert Daten über Ihre Aktivitäten, einschließlich der Art und Weise, wie Sie sie nutzen (z. B. wann Sie sich angemeldet haben, Funktionen, die Sie verwendet haben, durchgeführte Aktionen, Informationen, die Ihnen angezeigt werden, verweisende Webseiten, Anzeigen, mit denen Sie interagiert haben) und wie Sie mit anderen interagieren (z. B. Suchen, Matching, Kommunikation). Wir können auch Daten im Zusammenhang mit Ihren Interaktionen mit unseren Anzeigen auf den Websites oder Apps Dritter erhalten. |
+| Technische Daten | Die Nutzung des Dienstes umfasst die Erhebung von Daten von und über das Geräte/die Geräte, mit dem/denen Sie auf unseren Dienst zugreifen, einschließlich Hardware- und Softwareinformationen wie etwa IP-Adresse, Geräte-ID und -Typ, App-Einstellungen und -Eigenschaften, App-Abstürze, Werbe-IDs und Kennungen, die mit Cookies oder anderen Technologien zusammenhängen, die ein Gerät oder einen Browser eindeutig identifizieren können. Weitere Informationen zu Cookies finden Sie in unserer [Cookie-Richtlinie](https://www.lovescout24.de/pages/misc/cookie?styled=1). |
 
-* Wenn Sie ein Konto einrichten, teilen Sie uns zumindest Ihre Anmeldedaten oder Ihre Telefonnummer mit sowie einige grundlegende Angaben, die für das Funktionieren des Dienstes erforderlich sind, wie Ihr Geschlecht und Ihr Geburtsdatum.
-* Bei der Ergänzung Ihres Profils können Sie uns zusätzliche Informationen zukommen lassen, wie Angaben zu Ihrer Persönlichkeit, zu Lebensstil, Interessen und sonstigen Punkten sowie Inhalte, wie Fotos und Videos. Um bestimmte Inhalte, wie Fotos oder Videos, hinzuzufügen, gewähren Sie uns gegebenenfalls Zugriff auf Ihre Kamera oder Ihr Fotoalbum.
-* Wenn Sie einen kostenpflichtigen Dienst abonnieren oder direkt (und nicht über eine Plattform wie iOS oder Android) etwas von uns kaufen, lassen Sie uns oder unserem Zahlungsdienstleister Informationen, wie Ihre Bank- oder Kreditkartennummer oder sonstige Finanzdaten, zukommen.
-* Wenn Sie an Umfragen, Fokusgruppen oder Marktstudien teilnehmen, lassen Sie uns Ihre Meinung zu unseren Produkten und Leistungen, Ihre Antworten auf unsere Fragen und Ihre Erfahrungsberichte zukommen.
-* Wenn Sie an unseren Werbeaktionen, Events oder Preisausschreiben teilnehmen, erheben wir die Informationen, die Sie zur Registrierung oder Teilnahme verwenden.
-* Wenn Sie sich an unseren Kundenservice wenden, erheben wir die Informationen, die Sie uns im Rahmen dieses Kontakts angeben.
-* Wenn Sie uns Informationen über andere Personen mitteilen (z. B. wenn Sie die Kontaktdaten eines Freundes für eine bestimmte Funktion verwenden), verarbeiten wir diese Informationen in Ihrem Namen, um Ihre Anfrage zu bearbeiten.
-* Selbstverständlich verarbeiten wir auch Ihre Chats mit anderen Nutzern sowie die von Ihnen veröffentlichten Inhalte, soweit dies für den Betrieb der Dienste erforderlich ist.
+| Andere Daten, die wir mit Ihrer Erlaubnis/Einwilligung erheben |     |
+| --- | --- |
+| Kategorien | Beschreibung |
+| --- | --- |
+| Gesichtsgeometriedaten | Sie können bestimmte unserer Funktionen nutzen, wie z. B. Fotoverifizierung, die die Erfassung von Gesichtsgeometriedaten umfassen, die in einigen Rechtsordnungen als biometrische Daten gelten können. [Erfahren Sie mehr](https://www.lovescout24.de/faq/?answer=0309_ProfileVerifiedPhoto) über unsere Verifizierungsfunktion und wie wir Ihre Gesichtsgeometriedaten verarbeiten. |
+| Ausweisdaten | Sie können uns eine Kopie Ihres amtlichen Ausweises zur Verfügung stellen, damit wir überprüfen können, ob Sie die Person sind, für die Sie sich ausgeben. |
 
-**_Informationen, die wir von anderen erhalten_**
+### 4\. Warum und wie wir Ihre Daten verwenden
 
-Zusätzlich zu den von Ihnen gegebenenfalls direkt zur Verfügung gestellten Informationen erhalten wir auch von anderen Informationen über Sie, einschließlich:
+Der Hauptgrund, aus dem wir Ihre Daten verarbeiten, ist die Bereitstellung unseres Dienstes und seine Verbesserung im Laufe der Zeit. Dazu gehört, Sie mit Mitgliedern zu verbinden, die Ihr Herz höher schlagen lassen könnten, Ihre Erfahrung zu personalisieren und, allgemein, Ihnen zu helfen, unseren Dienst optimal zu nutzen. Wir verarbeiten Ihre Daten auch, um Ihre Sicherheit sowie die Sicherheit aller unserer Mitglieder während der Nutzung unseres Dienstes zu gewährleisten. Wir nehmen diese Verantwortung sehr ernst und arbeiten ständig daran, unsere Systeme und Prozesse zu verbessern, um Sie zu schützen. Und ja, wir verarbeiten Ihre Daten auch, um relevante Anzeigen anzuzeigen – Sie können dies in Ihren Einstellungen kontrollieren. Im Folgenden finden Sie eine detailliertere Erklärung.
 
-* **Nutzern**
+Informationen darüber, wie wir personenbezogene Daten durch „Profiling“ und „automatisierte Entscheidungsfindung“ verarbeiten, finden Sie in unseren [FAQ](https://www.lovescout24.de/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
-Nutzer können Informationen über Sie bereitstellen, wenn sie unsere Dienste nutzen, z. B. wenn sie mit Ihnen interagieren oder wenn sie einen Bericht über Sie einreichen.
+| Zwecke der Verarbeitung Ihrer Daten | Gründe für die Verarbeitung Ihrer Daten | Kategorien der verarbeiteten Daten (Diese sind in Abschnitt 3 dieser Bestimmungen beschrieben) |
+| --- | --- | --- |
+| Um Ihnen die Nutzung unseres Dienstes zu ermöglichen, einschließlich:<br><br>* Erstellung und Pflege Ihres Kontos und Profils in unserem Dienst<br>* Betrieb und Wartung der verschiedenen Funktionen unseres Dienstes<br>* Empfehlung anderer Mitglieder Ihnen gegenüber und Empfehlung von Ihnen gegenüber anderen Mitgliedern<br>* Organisation von Gewinnspielen und Wettbewerben<br>* Beantwortung Ihrer Anfragen und Fragen<br>* Überwachung der ordnungsgemäßen Funktion unseres Dienstes und Fehlerbehebung und Behebung von Problemen nach Bedarf | * Erfüllung unseres Vertrags mit Ihnen<br><br>* Ihre Einwilligung (wenn sensible Daten oder andere Arten von Daten verarbeitet werden, die eine Einwilligung erfordern) | * Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Marketing-, Umfrage- und Forschungsdaten<br>* Daten Dritter<br>* Kundendienst-Daten<br>* Social-Media-Daten<br>* Nutzungsdaten<br>* Technische Daten |
+| Um Ihre Einkäufe über unseren Dienst zu ermöglichen, einschließlich:<br><br>* Zahlungsabwicklung<br>* Angebot von Rabatten und Werbeaktionen, Preisanpassung | * Erfüllung unseres Vertrags mit Ihnen | * Kontodaten<br>* Profildaten<br>* Technische Daten<br>* Kaufdaten<br>* Nutzungsdaten |
+| Um Werbe- und Marketingkampagnen zu betreiben, einschließlich:<br><br>* Durchführung und Messung der Effektivität von Werbekampagnen auf unserem Dienst<br>* Durchführung und Messung der Effektivität von Marketingkampagnen zur Förderung unseres eigenen Dienstes auf Plattformen von Drittanbietern<br>* Kommunikation mit Ihnen über Produkte und Dienste, von denen wir glauben, dass sie Sie interessieren könnten | * Einwilligung (sofern nach geltendem Recht erforderlich) und anderweitig unser berechtigtes Interesse. Es liegt in unserem berechtigten Interesse, unseren Dienst zu bewerben und unseren Mitgliedern Werbeanzeigen zu zeigen, die auf ihre Interessen zugeschnitten sind, um ihre Erfahrung zu verbessern und die kostenlosen Teile unseres Dienstes zu finanzieren | * Kontodaten<br>* Profildaten<br>* Nutzungsdaten<br>* Marketing-, Umfrage- und Forschungsdaten<br>* Technische Daten |
+| Um unseren Dienst zu verbessern und neue Funktionen und Dienste zu entwickeln, einschließlich:<br><br>* Durchführung von Fokusgruppen, Marktstudien und Umfragen<br>* Analyse der Nutzung unseres Dienstes<br>* Überprüfung von Interaktionen mit Kundendienstteams, um unsere Dienstqualität zu verbessern<br>* Entwicklung und Verbesserung neuer Funktionen und Dienstleistungen, einschließlich durch maschinelles Lernen und andere Technologien sowie entsprechende Tests<br>* Durchführung von Forschungsarbeiten und Veröffentlichung von Forschungsdaten | * Erfüllung unseres Vertrags mit Ihnen<br>* Unser berechtigtes Interesse: Es liegt in unserem berechtigten Interesse, unseren Dienst im Laufe der Zeit zu verbessern<br>* Einwilligung, wenn dies nach geltendem Recht erforderlich ist (z. B. können wir Daten verarbeiten, die in bestimmten Ländern als sensible oder besondere Daten gelten, um sicherzustellen, dass die verschiedenen Gemeinschaften, die unseren Dienst nutzen, fair und gerecht behandelt werden und dass unser Dienst vielfältig und inklusiv bleibt) | * Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Marketing-, Umfrage- und Forschungsdaten<br>* Daten Dritter<br>* Kundendienst-Daten<br>* Social-Media-Daten<br>* Nutzungsdaten<br>* Technische Daten |
+| Um Ihre Sicherheit und die Sicherheit anderer Mitglieder auf unserem Dienst und in der gesamten Match Group zu gewährleisten, einschließlich:<br><br>* Verhinderung, Aufdeckung und Bekämpfung von Verstößen gegen unsere [Bedingungen](https://www.lovescout24.de/pages/misc/terms?styled=1), Betrug und andere illegale oder nicht genehmigte Aktivitäten<br>* Entwicklung und Verbesserung von Hilfsmitteln zur Verhinderung, Aufdeckung und Bekämpfung von Verstößen gegen unsere Bedingungen, Betrug und andere illegale oder nicht genehmigte Aktivitäten<br>* Verhinderung von wiederholten Verstößen, insbesondere, indem Personen, die gegen unsere Bedingungen verstoßen, daran gehindert werden, ein neues Konto zu erstellen<br>* Benachrichtigung von Personen, die eine Meldung vornehmen, über die Maßnahmen, die wir ergriffen haben<br>* Überprüfung Ihrer Identität<br>* Sicherung von Zahlungen und Bekämpfung von Finanzbetrug<br><br>Weitere generelle Informationen zu Sicherheit und Integrität finden Sie in unseren [Sicherheitstipps](https://www.lovescout24.de/safety/) und [Gemeinschaftsrichtlinien](https://www.lovescout24.de/pages/misc/community-guidelines/). | * Erfüllung unseres Vertrags mit Ihnen<br>* Unser berechtigtes Interesse: Es liegt in unserem berechtigten Interesse und dem berechtigten Interesse unserer Mitglieder, ihre Sicherheit zu gewährleisten<br>* Schutz Ihrer wesentlichen Interessen und der wesentlichen Interessen anderer Mitglieder<br>* Einhaltung gesetzlicher Verpflichtungen, die für uns gelten, wie zum Beispiel Entfernen illegaler Inhalte<br>* Ihre Einwilligung (wenn sensible Daten oder andere Arten von Daten verarbeitet werden, die eine Einwilligung erfordern) | * Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Daten Dritter<br>* Kundendienst-Daten<br>* Nutzungsdaten<br>* Technische Daten<br>* Gesichtsgeometriedaten<br>* Ausweisdaten |
+| Um geltendes Recht einzuhalten, Rechtsansprüche und Rechte zu begründen, auszuüben und zu verteidigen, einschließlich:<br><br>* Aufbewahrung von Daten zur Einhaltung geltender Gesetze und zum Nachweis der Einhaltung geltender Gesetze<br>* Unterstützung von Untersuchungen und Verteidigung potenzieller oder laufender Rechtsstreitigkeiten, behördlicher Maßnahmen oder Streitigkeiten<br>* Beantwortung rechtmäßiger Anfragen von Strafverfolgungsbehörden, Gerichten, Aufsichtsbehörden und anderen Dritten<br>* Meldung illegaler oder verletzender Inhalte an Strafverfolgungs-, Regierungs- oder andere Behörden<br>* Begründung, Ausübung oder Verteidigung laufender oder drohender Ansprüche<br><br>* Weitergabe von Daten an Strafverfolgungsbehörden oder Partner zur Bekämpfung von missbräuchlichem oder illegalem Verhalten | * Unser berechtigtes Interesse: Es liegt in unserem berechtigten Interesse, geltendes Recht einzuhalten und uns, unsere Mitglieder und andere zu schützen, einschließlich im Rahmen von Untersuchungen, Gerichtsverfahren und anderen Streitigkeiten<br>* Schutz Ihrer wesentlichen Interessen und der wesentlichen Interessen anderer Mitglieder<br>* Einhaltung gesetzlicher Verpflichtungen, die für uns gelten, zum Beispiel Beantwortung von Informationsanfragen von Strafverfolgungsbehörden | Die Kategorien der weitergegebenen Daten variieren je nach den spezifischen Umständen der einzelnen Verpflichtungen, zwingenden Interessen oder Streitigkeiten |
 
-* **Soziale Medien**
+### 5\. Wie wir Daten weitergeben
 
-Sie können sich dazu entschließen, Informationen über Ihr Social-Media-Konto mit uns zu teilen, beispielsweise wenn Sie sich dazu entschließen, Ihr LOVESCOUT24-Konto über Ihr Social-Media- oder ein anderes Konto (z. B. Facebook, Google oder Apple) zu erstellen und sich dort anzumelden, oder wenn Sie Informationen wie Fotos von einem Ihrer Social-Media-Konten (z. B. Facebook, Instagram usw.) auf unsere Dienste hochladen.
+Da unser Ziel darin besteht, Ihnen zu helfen, bedeutsame Beziehungen zu knüpfen, sind einige Ihrer Informationen natürlich für andere Mitglieder des Dienstes sichtbar. Wir geben Daten auch an Dienstleister und Partner weiter, die uns bei dem Betrieb unseres Dienstes unterstützen, an andere Unternehmen der Match Group aus den unten angegebenen Gründen und in manchen Fällen aus rechtlichen und verbundenen Gründen. Im Folgenden erhalten Sie weitere Informationen.
 
-* **Verbundenen Unternehmen**
+| Empfänger | Gründe für die Weitergabe | Kategorien personenbezogener Daten |
+| --- | --- | --- |
+| Andere Mitglieder | Sie geben Ihre Daten an andere Mitglieder weiter, wenn Sie freiwillig Daten in unseren Diensten freigeben, die für andere sichtbar sind (z. B. Ihr öffentliches Profil).<br><br>Wenn jemand Sie meldet (z. B. wenn behauptet wird, dass Sie gegen unsere Nutzungsbedingungen verstoßen haben), können wir der meldenden Person gegebenenfalls mitteilen, welche Maßnahmen wir in Bezug auf ihre Meldung getroffen haben. Gleiches gilt, wenn Sie eine Meldung bezüglich eines anderen Mitglieds einreichen. | * Profildaten<br>* Inhalte<br>* Social-Media-Daten<br>* Daten Dritter<br>* Kundendienst-Daten |
+| Dienstleister/Partner | Wir geben Daten an Anbieter und Partner weiter, die uns beim Betrieb, bei der Förderung und der Verbesserung unseres Dienstes unterstützen. Sie erbringen für uns Dienstleistungen wie Datenhosting und -pflege, Analysen, Kundenbetreuung, Marketing, Werbung, Zahlungsabwicklung, rechtliche Unterstützung und Sicherheitsabläufe. | In Abhängigkeit von der vom Anbieter oder Partner erbrachten Dienstleistung kann dies Folgendes umfassen:<br><br>* Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Marketing-, Umfrage- und Forschungsdaten<br>* Daten Dritter<br>* Kundendienst-Daten<br>* Social-Media-Daten<br>* Nutzungsdaten<br>* Technische Daten<br>* Gesichtsgeometriedaten<br>* Ausweisdaten |
+| Werbepartner | Wir können Anzeigen für Produkte und Dienstleistungen von dritten Werbetreibenden auf unserem Dienst veröffentlichen sowie auf Websites und Apps von Drittanbietern Anzeigen veröffentlichen, die unseren eigenen Dienst bewerben. Um die Relevanz dieser Anzeigen zu steigern, stellen wir Dritten, einschließlich Werbepartnern, bestimmte Informationen über Sie zur Verfügung oder ermöglichen ihnen, solche Daten von unseren Diensten zu erheben (z. B. mithilfe von Cookies, SDKs oder ähnlichen Technologien). Einige unserer Werbepartner ermöglichen es uns, Ihre E-Mail-Adresse, Werbekennungen oder Telefonnummer in eine Kennung umzuwandeln, die nicht verwendet werden kann, um Sie persönlich zu identifizieren, und diese eindeutige Kennung dann zu verwenden, um Sie entweder von unseren Marketingkampagnen auszuschließen oder um unsere Anzeigen auf eine Zielgruppe auszurichten, die Ihnen in Bezug auf Hintergrund, Interessen oder App-Nutzung ähnelt. | * Kontodaten<br>* Profildaten<br>* Nutzungsdaten<br>* Technische Daten |
+| Verbundene Unternehmen | Wir können für die in Abschnitt 6 dieser Bestimmungen dargelegten Zwecke Daten an verbundene Unternehmen weitergeben oder Daten von verbundenen Unternehmen erhalten. | Die Datenkategorien variieren je nach Grund für die Weitergabe, können aber Folgendes umfassen:<br><br>* Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Marketing-, Umfrage- und Forschungsdaten<br>* Daten Dritter<br>* Kundendienst-Daten<br>* Social-Media-Daten<br>* Nutzungsdaten<br>* Technische Daten<br>* Gesichtsgeometriedaten<br>* Ausweisdaten |
+| Strafverfolgungsbehörden | Wir können Ihre Daten offenlegen, (i) um einem rechtlichen Verfahren, wie einem Gerichtsbeschluss, einer Vorladung oder einem Durchsuchungsbefehl, einer behördlichen/strafrechtlichen Ermittlung oder sonstigen gesetzlichen Vorgaben Folge zu leisten; (ii) um eine Verbrechensprävention oder -aufklärung zu unterstützen; (iii) um die Sicherheit einer anderen Person zu schützen und (iv) um Rechtsansprüche zu begründen, auszuüben oder zu verteidigen. | Die Kategorien der weitergegebenen Daten variieren je nach den spezifischen Umständen der Anfrage, aber können oft Folgendes umfassen:<br><br>* Kontodaten<br>* Profildaten<br>* Inhalte<br>* Kaufdaten<br>* Kundendienst-Daten<br>* Daten Dritter<br>* Social-Media-Daten<br>* Nutzungsdaten<br>* Technische Daten<br>* Ausweisdaten |
+| Unsere verbundenen Unternehmen oder neuen Eigentümer im Zusammenhang mit Fusionen und Übernahmen | Falls wir ganz oder teilweise an einer Fusion, einem Verkauf, einer Übernahme, einer Veräußerung, einer Neustrukturierung, einer Neuorganisation, einer Auflösung, einer Insolvenz oder einem sonstigen Eigentümer- oder Kontrollwechsel beteiligt sind, können wir Ihre Daten ebenfalls weitergeben. | Die Kategorien der weitergegebenen Daten variieren je nach Art der Unternehmenstransaktion. Die Weitergabe kann alle Unternehmensdaten oder nur eine bestimmte Teilmenge wie Kaufdaten betreffen. |
 
-LOVESCOUT24 ist Teil der [Unternehmensgruppe Match Group](http://mtch.com/). Die Sicherheit der Nutzer hat für die Match Group oberste Priorität. Wenn Sie von einem anderen Dienst der Match Group ausgeschlossen wurden, können Ihre Informationen an uns weitergegeben werden, damit wir die erforderlichen Maßnahmen, wie die Schließung Ihres Kontos oder die Verhinderung der Einrichtung eines Kontos für unsere Dienste, ergreifen können.
+### 6\. Wie Unternehmen der Match Group zusammenarbeiten
 
-* **Weitere Partner**
+LoveScout24 gehört zur [Match Group-Unternehmensfamilie](https://mtch.com/ourcompany).
 
-Wir können Informationen über Sie von unseren Partnern erhalten, z. B. wenn LOVESCOUT24-Konten über den Dienst eines Partners erstellt werden können (in diesem Fall geben sie Registrierungsinformationen an uns weiter) oder wenn LOVESCOUT24-Anzeigen auf dem Dienst eines Partners veröffentlicht werden (in diesem Fall können sie Details über den Erfolg einer Kampagne weitergeben). Soweit gesetzlich zulässig, können wir im Rahmen unserer Bemühungen, die Sicherheit unserer Nutzer zu gewährleisten, auch Informationen über mutmaßliche oder verurteilte Straftäter von Dritten erhalten.
+Wir können Informationen über Sie an unsere verbundenen Unternehmen weitergeben und diese können Informationen über Sie an uns weitergeben, und zwar aus den unten dargelegten Gründen:
 
-**_Informationen, die durch die Nutzung unserer Dienste generiert werden_**
+* Um die Sicherheit aller Plattformen der Match Group zu erhöhen, zum Beispiel durch Sicherstellung, dass ein bösartiger Akteur, der auf einer Plattform der Match Group entdeckt wird (zum Beispiel auf unserer) von allen Plattformen ausgeschlossen werden kann.
+* Um einander bei Datenverarbeitungstätigkeiten als Dienstleister zu helfen. Diese Unterstützung kann Verarbeitungstätigkeiten umfassen, wie Datenhosting und -wartung, Kundenbetreuung, Marketing und gezielte Werbung, Analysen, Finanzen und Buchhaltung, rechtliche Unterstützung, Zahlungsabwicklung, die Verbesserung unseres Dienstes, die Sicherung unserer Daten und Systeme und die Bekämpfung von Spam, Missbrauch, Betrug und sonstigem Fehlverhalten.
+* Um Ihre Chancen auf den Aufbau bedeutungsvoller Beziehungen mit anderen zu verbessern, können wir Sie auf anderen Diensten der Match Group sichtbar machen oder Ihnen ermöglichen, von plattformübergreifenden Funktionalitäten zu profitieren. Wir werden natürlich das geltende Recht einhalten und Sie, falls relevant, über eine solche Möglichkeit informieren und Ihnen die Möglichkeit geben, zuzustimmen oder abzulehnen.
+* Wo und wie nach geltendem Recht zulässig, um besser zu verstehen, wie die Match Group-Dienste insgesamt genutzt werden, um Ihre Erfahrung über die Match Group-Dienste hinweg zu personalisieren und um Marketing- und Werbekampagnen zu verbessern.
+* Für andere berechtigte Geschäftszwecke, einschließlich Betriebsprüfung/konsolidierte Prüfung, Analyse und Berichterstattung.
 
-Wenn Sie unsere Dienste nutzen, werden technische Daten dazu, welche Funktionen Sie genutzt haben, wie Sie sie genutzt haben und welche Geräte Sie für den Zugriff auf unsere Dienste verwendet haben, erzeugt. Weitere Einzelheiten s. unten:
+[Erfahren Sie mehr](https://www.lovescout24.de/faq/?answer=0332_DataAcrossMG) darüber, wie Match Group-Unternehmen zusammenarbeiten.
 
-* **Nutzungsinformationen**
+### 7\. Grenzüberschreitender Datentransfer
 
-Bei der Nutzung der Dienste werden Daten über Ihre Aktivitäten in unseren Diensten erzeugt, beispielsweise dazu, wie Sie die Dienste nutzen (z. B. Login-Zeitpunkt, genutzte Funktionen, durchgeführte Aktionen, angezeigte Informationen, verweisende Websites und Werbeanzeigen, mit denen Sie interagiert haben), und Ihre Interaktionen mit anderen Nutzern (z. B. Nutzer mit denen Sie Kontakt aufnehmen und interagieren, Zeitpunkt des Austauschs und Zahl der gesendeten und erhaltenen Mitteilungen).
+Da wir den Dienst weltweit anbieten, umfasst die Weitergabe Ihrer Daten wie in [Section 6](https://www.lovescout24.de/pages/misc/privacy#_section06) erläutert grenzüberschreitende Datentransfers in die Vereinigten Staaten von Amerika und andere Länder, in denen möglicherweise andere Gesetze zur Datenverarbeitung gelten. Wenn wir personenbezogene Daten außerhalb des EWR, des Vereinigten Königreichs, der Schweiz oder anderer Länder übermitteln, deren Datenschutzgesetze von der Europäischen Kommission oder anderen zuständigen Regierungsbehörden als angemessen erachtet wurden, stützen wir uns in der Regel auf die sogenannten [Standardvertragsklauseln](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). Diese Standardvertragsklauseln sind bindende Verpflichtungen zum Schutz der Privatsphäre und der Sicherheit Ihrer Daten zwischen Unternehmen, die personenbezogene Daten übermitteln. [Wenden Sie sich an uns](https://www.lovescout24.de/faq/#privacyRequest), um ein Exemplar zu erhalten.
 
-* **Geräteinformationen**
+### 8\. Ihre Rechte
 
-Wir erheben Informationen von und zu Ihrem/n Gerät(en), die Sie zum Zugriff auf die Dienste verwenden, einschließlich Hardware- und Softwareinformationen, wie IP-Adresse, Gerätekennung und -typ, App-Einstellungen und -Eigenschaften, App-Abstürze, Werbe-IDs (zufällig erzeugte Nummern, die Sie in Ihren Geräteeinstellungen zurücksetzen können), mit Cookies oder anderen Technologien verknüpfte Kennungen zur eindeutigen Identifizierung eines Geräts oder Browsers.
+Wir möchten, dass Sie die Kontrolle über Ihre Daten haben, daher möchten wir Sie an die folgenden Rechte, Optionen und Tools erinnern, die Ihnen zur Verfügung stehen. Je nachdem, wo Sie leben, haben Sie möglicherweise nicht die gleichen Rechte oder sie werden möglicherweise anders bezeichnet. Wenn Sie Fragen zu Ihren Rechten haben und wie Sie diese ausüben können, kontaktieren Sie uns bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
 
-* **Weitere Informationen mit Ihrer Zustimmung**
+| Ihre Rechte | Wie man sie ausübt |
+| --- | --- |
+| Zugriff, Übertragbarkeit oder Auskunft<br><br>_Recht, über die personenbezogenen Daten, die wir über Sie verarbeiten, informiert zu werden und/oder eine Kopie davon anzufordern_ | Sie können direkt auf einige Daten zugreifen und diese überprüfen, indem Sie sich bei Ihrem Konto anmelden. Sie können auch eine Kopie Ihrer Daten abrufen, indem Sie den [hier](https://www.lovescout24.de/faq/#privacyRequest) erläuterten Prozess befolgen. |
+| Korrektur oder Berichtigung<br><br>_Recht auf Änderung oder Aktualisierung Ihrer personenbezogenen Daten, wenn diese unrichtig oder unvollständig sind_ | Sie können Ihre Daten direkt im Dienst aktualisieren, indem Sie einfach Ihr Profil aktualisieren. Wenn Sie andere Daten berichtigen möchten, kontaktieren Sie uns bitte [hier](https://www.lovescout24.de/faq/#privacyRequest). |
+| Löschung oder Entfernung<br><br>_Recht auf Löschung personenbezogener Daten_ | Sie können einige der Daten, die Sie uns zur Verfügung gestellt haben, direkt innerhalb des Dienstes löschen. Sie können Ihr Konto auch schließen, wie [hier](https://www.lovescout24.de/faq/#privacyRequest) erläutert, und wir löschen Ihre Daten, wie in diesen Datenschutzbestimmungen dargelegt. In jedem Fall können Sie uns jederzeit [hier](https://www.lovescout24.de/misc/privacy#_section04) kontaktieren. |
+| Widerspruch (Ablehnung) oder Einschränkung<br><br>_Recht, unserer Verarbeitung personenbezogener Daten zu widersprechen oder zu verlangen, dass wir die Verarbeitung personenbezogener Daten vorübergehend oder dauerhaft einstellen_ | Sie können die Verarbeitung bestimmter personenbezogener Daten direkt in Ihren Kontoeinstellungen ablehnen. Andernfalls können Sie uns [hier](https://www.lovescout24.de/faq/#privacyRequest) kontaktieren, wenn Sie einer in diesen Datenschutzbestimmungen aufgeführten Datenverarbeitung widersprechen oder diese einschränken möchten. |
+| Widerrufsrecht<br><br>_Recht auf Widerruf einer von Ihnen erteilten Einwilligung zur Verarbeitung Ihrer personenbezogenen Daten für einen bestimmten Zweck_ | Sie können Ihre Einwilligung, die Sie uns erteilt haben, direkt widerrufen, indem Sie entweder Ihre Kontoeinstellungen aktualisieren oder in Ihren Geräteeinstellungen Geräteberechtigungen deaktivieren, denen Sie zugestimmt haben (z. B. Zugriff auf bestimmte Arten von Gerätedaten wie Telefonkontakte, Bilder, Werbekennungen und Standortdienste oder Zustimmung zum Erhalt von Push-Benachrichtigungen). Wenn Sie Ihre Einwilligung widerrufen, funktionieren bestimmte Dienste möglicherweise nicht mehr. Sie können uns jederzeit [hier](https://www.lovescout24.de/faq/#privacyRequest) kontaktieren, um weitere Informationen zu erhalten.For your protection and the protection of all of our members, we may ask you for information to verify your identity or authority to act on behalf of a member before we can answer the above requests. We wouldn’t want someone else to get in control of your data! |
 
-Mit Ihrer Zustimmung erfassen wir Ihren genauen Standort (geografische Länge und Breite). Wenn die Zustimmung, die Sie uns erteilt haben, dies ausdrücklich zulässt, kann die Erfassung Ihres geografischen Standorts im Hintergrund erfolgen, auch wenn Sie die Dienste nicht nutzen. Wenn Sie die Erlaubnis zur Erfassung Ihres genauen Standorts verweigern, werden wir ihn nicht erfassen. Ebenso können wir mit Ihrer Zustimmung Fotos und Videos sammeln (wenn Sie beispielsweise ein Foto oder Video veröffentlichen oder Streamingfunktionen unserer Dienste nutzen möchten). Wenn Sie sich darüber hinaus für die Teilnahme an der Funktion ‚Selfie zur Identitätsverifizierung’ entschließen, erheben wir geometrische Gesichtsdaten, die in einigen Rechtsordnungen als biometrische Daten gelten könnten, um zu bestätigen, dass es sich wirklich um Sie handelt. Mehr über Selfie-Verifizierung und dazu, wie wir geometrische Gesichtsdaten verarbeiten, finden Sie [hier](https://www.lovescout24.de/faq/?answer=0309_ProfileVerifiedPhoto).
+Zu Ihrem Schutz und zum Schutz aller unserer Mitglieder können wir Sie um Informationen bitten, um Ihre Identität oder Ihre Befugnis zu überprüfen, im Namen eines Mitglieds zu handeln, bevor wir die oben genannten Anfragen beantworten können. Wir möchten nicht, dass jemand anderes die Kontrolle über Ihre Daten erhält!
 
-4\. COOKIES UND ÄHNLICHE TECHNOLOGIEN ZUR DATENERHEBUNG
--------------------------------------------------------
+Bitte beachten Sie, dass wir Anfragen ablehnen können, beispielsweise wenn wir Sie nicht identifizieren können, wenn die Anfrage unrechtmäßig oder ungültig ist oder Betriebsgeheimnisse, geistiges Eigentum oder Datenschutz oder sonstige Rechte anderer verletzen könnte. Wenn Sie Informationen über ein anderes Mitglied erhalten möchten, zum Beispiel eine Kopie von Nachrichten, die Sie von diesem Mitglied erhalten haben, muss das andere Mitglied selbst eine Anfrage stellen.
 
-Wir nutzen Cookies und vergleichbare Technologien (z. B. Web Beacons, Pixels, SDK), um Sie und/oder Ihr(e) Gerät(e) zu erkennen, und können anderen erlauben, dies zu tun. Weitere Informationen dazu, warum wir dies tun und wie Sie den Einsatz besser kontrollieren können, finden Sie in unserer [Cookie-Richtlinie](https://www.lovescout24.de/pages/misc/cookie?styled=1).
+In bestimmten Ländern, u. a. im Europäischen Wirtschaftsraum und im Vereinigten Königreich, haben Sie das Recht, eine Beschwerde bei der zuständigen Datenschutzbehörde einzureichen, wenn Sie Bedenken dazu haben, wie wir Ihre personenbezogenen Daten verarbeiten. Informationen zu Ihrer Datenschutzbehörde im Europäischen Wirtschaftsraum finden Sie [hier](https://edpb.europa.eu/about-edpb/board/members_en) und im Vereinigten Königreich [hier](https://ico.org.uk/). Die Datenschutzbehörde, bei der Sie eine Beschwerde einreichen können, kann sich an Ihrem gewöhnlichen Wohnsitz, Ihrem Arbeitsplatz oder an dem Ort, an dem eine angebliche Rechtsverletzung erfolgt ist, befinden.
 
-Einige Browser (wie Safari, Internet Explorer, Firefox und Chrome) haben eine „Nicht verfolgen“-Funktion („Do Not Track“, „**DNT**“), die der Website mitteilt, dass der Nutzer nicht möchte, dass seine Onlineaktivitäten verfolgt werden. Wenn eine Website, die auf ein DNT-Signal reagiert, ein DNT-Signal empfängt, kann der Browser verhindern, dass diese Website bestimmte Informationen über den Nutzer des Browsers erhebt. Nicht alle Browser bieten eine DNT-Option an, und DNT-Signale sind noch nicht einheitlich. Deshalb reagieren viele Unternehmen, so auch LOVESCOUT24, derzeit nicht auf DNT-Signale.
+### 9\. Wie lange wir Ihre Daten aufbewahren
 
-5\. WIE WIR INFORMATIONEN NUTZEN
---------------------------------
+Wir möchten, dass die Beziehungen, die Sie über unseren Dienst knüpfen, für immer andauern, doch wir bewahren Ihre personenbezogenen Daten nur so lange auf, wie es aus legitimen geschäftlichen Gründen erforderlich ist (wie in [Section 4](https://www.lovescout24.de/misc/privacy#_section04) dargelegt) und wie es geltendes Recht erlaubt.
 
-Der Hauptgrund für die Nutzung Ihrer Informationen ist die Bereitstellung und Verbesserung unserer Dienste. Darüber hinaus verwenden wir Ihre Informationen, um für Ihre Sicherheit zu sorgen und Ihnen Werbung zu zeigen, die für Sie von Interesse sein könnte. Im Folgenden finden Sie ausführlichere Erläuterungen der verschiedenen Zwecke, für die wir Ihre Informationen nutzen, sowie praktische Beispiele.
+Wenn Sie sich entscheiden, unseren Dienst nicht mehr zu nutzen, können Sie Ihr Konto schließen. Ihr Profil ist dann für andere Mitglieder nicht mehr sichtbar. Bitte beachten Sie, dass wir Ihr Konto automatisch schließen, wenn Sie zwei Jahre lang nicht aktiv sind.
 
-1. **_Zur Verwaltung Ihres Kontos und Bereitstellung unseres Dienstes für Sie_**
+Nach der Kontoschließung löschen wir Ihre Daten wie unten beschrieben:
 
-* Erstellung und Verwaltung Ihres Kontos
-* Kundensupport und Beantwortung Ihrer Anfragen
-* Durchführung Ihrer Transaktionen
-* Kommunikation mit Ihnen bezüglich unserer Dienste
+1. Zum Schutz und zur Sicherheit unserer Mitglieder bewahren wir Ihre Daten zur Sicherheit nach Löschung des Kontos noch drei Monate lang auf. Während dieses Zeitraums bewahren wir Ihre Daten auf, um rechtswidrige oder schädliche Verhaltensweisen zu untersuchen. Die Aufbewahrung von Daten während dieses Sicherheitsaufbewahrungsfensters beruht auf unserem berechtigten Interesse sowie dem von potenziellen dritten Opfern.
+2. Wir speichern begrenzte Daten, um gesetzlichen Aufbewahrungspflichten nachzukommen: Insbesondere speichern wir Transaktionsdaten und den ungefähren Einkaufsort für 10 Jahre, um steuerliche und buchhalterische gesetzliche Anforderungen zu erfüllen, und Kreditkartendaten, solange Nutzer\*innen die Transaktion anfechten können, und „Verkehrsdaten“/Protokolle ein Jahr lang, um gesetzlichen Aufbewahrungspflichten nachzukommen. Wir führen außerdem fünf Jahre lang Aufzeichnungen über die Einwilligungen, die Mitglieder uns erteilen, um maßgebliche Gesetze zu befolgen und unsere Befolgung dieser Gesetze nachzuweisen.
+3. Wir speichern begrenzte Daten auf der Grundlage unseres berechtigten Interesses: Wir verwahren Kundenbetreuungsaufzeichnungen und unterstützende Daten in Unterstützung unserer Sicherheitsanstrengungen für 6 Jahre ab dem Datum der Meldung, Profildaten und den ungefähren Ort des Downloads für ein Jahr, um unsere Kundenbetreuungsentscheidungen zu unterstützen, unsere Rechte durchzusetzen und es uns zu ermöglichen, uns im Fall eines Anspruchs in Erwartung eines möglichen Rechtsstreits für Zwecke der Geltendmachung, Ausübung oder Abwehr von Rechtsansprüchen zu verteidigen, sowie Daten, die erforderlich sind, um zu verhindern, dass Mitglieder, die gesperrt wurden, ein neues Konto eröffnen, um die Sicherheit und die wesentlichen Interessen unserer Mitglieder zu gewährleisten.
+4. Schließlich bewahren wir Daten auf der Grundlage unseres berechtigten Interesses auf, wenn ein offenes oder potenzielles Problem, eine Forderung oder ein Streitfall vorliegt, der die Aufbewahrung von Daten erfordert (insbesondere, wenn wir eine gültige gerichtliche Vorladung oder Aufforderung erhalten, Daten aufzubewahren (in diesem Fall müssten wir die Daten aufbewahren, um unseren rechtlichen Verpflichtungen nachzukommen), oder wenn die Daten anderweitig im Rahmen eines Gerichtsverfahrens erforderlich sind.
 
-1. **_Zur Unterstützung der Kontaktaufnahme mit anderen Nutzern_**
+Sofern und soweit nach geltendem Recht zulässig, können wir Daten, die Sie ohne weitere Informationen nicht identifizieren oder nicht speziell Ihnen zugeordnet werden können, für die in diesen Datenschutzbestimmungen beschriebenen Zwecke aufbewahren und verwenden, wie insbesondere zur Verbesserung unseres Dienstes, zur Entwicklung neuer Funktionen, Technologien und Dienste und zum Schutz der Dienste von Match Group.
 
-* Empfehlung anderer Nutzer, mit denen Sie Kontakt aufnehmen können
-* Anzeigen von Nutzerprofilen für andere Nutzer
+### 10\. Privatsphäre von Kindern
 
-1. **_Zur Abwicklung von Werbe- und Marketingkampagnen_**
+Unser Dienst ist nur für Personen bestimmt, die mindestens 18 Jahre alt sind. Wir erlauben Personen unter 18 Jahren nicht auf unserer Plattform. Falls Sie den Verdacht haben, dass ein Mitglied minderjährig (unter 18) ist, melden Sie dies bitte unter Verwendung des Meldemechanismus, der im Dienst zur Verfügung steht.
 
-* Verwaltung von Verlosungen, Preisausschreiben, Rabatten oder anderen Angeboten
-* Durchführung und Messung der Wirksamkeit von Werbekampagnen auf unseren Diensten und Marketingkampagnen zur Förderung von LOVESCOUT24 auf und außerhalb unserer Dienste
-* Kommunikation mit Ihnen über unsere Produkte und Dienste, von denen wir denken, dass sie für Sie interessant sein könnten
+### 11\. Änderungen der Datenschutzbestimmungen
 
-1. **_Zur Verbesserung unserer Dienste und Entwicklung von neuen Diensten_**
+Diese Bestimmungen können sich im Laufe der Zeit ändern. Wir sind immer auf der Suche nach neuen und innovativen Wegen, um Sie beim Aufbau bedeutsamer Beziehungen zu unterstützen, und sind immer darum bemüht, die Erläuterungen zu unseren Datenschutzpraktiken aktuell zu halten. Wir informieren Sie, bevor wesentliche Änderungen in Kraft treten, so dass Sie Zeit haben, die Änderungen einzusehen.
 
-* Verwaltung von Fokusgruppen, Marktstudien und Umfragen
-* Überprüfung der Interaktionen mit dem Kundensupport zur Qualitätsverbesserung
-* Erkennung, wie die Nutzer die Dienste normalerweise nutzen, um diese zu verbessern (z.B. können wir ausgehend von der Reaktion der Nutzer das Aussehen oder den Eindruck einer Funktion ändern oder sie sogar stark umgestalten)
-* Entwicklung neuer Funktionen und Dienste (z.B. können wir auf entsprechende Anfragen von Nutzern hin beschließen, eine neue interessenbasierte Funktion zu entwickeln).
+### 12\. Wie Sie uns kontaktieren können
 
-1. **_Zur Verhinderung, Erkennung und Bekämpfung von Betrug und anderen unrechtmäßigen oder nicht erlaubten Aktivitäten_**
+Wenn Sie Fragen zu diesen Datenschutzbestimmungen haben, haben Sie folgende Möglichkeiten:
 
-* Erkennung von mutmaßlichen oder angeblichen Verstößen gegen unsere [Nutzungsbedingungen](https://www.lovescout24.de/pages/misc/terms?styled=1), insbesondere durch Überprüfung von Meldungen und Interaktionen zwischen Mitgliedern, und entsprechende Reaktion.
-* Gewinnung von Erkenntnissen zu Verstößen gegen unsere [Nutzungsbedingungen](https://www.lovescout24.de/pages/misc/terms?styled=1) und Entwicklung entsprechender Gegenmaßnahmen.
-* Aufbewahrung von Daten in Zusammenhang mit Verstößen gegen unsere [Nutzungsbedingungen](https://www.lovescout24.de/pages/misc/terms?styled=1) zur Verhinderung von wiederholten Verstößen
-* Durchsetzung oder Ausübung unserer Rechte, beispielsweise unserer [Nutzungsbedingungen](https://www.lovescout24.de/pages/misc/terms?styled=1).
-* Information von Nutzern, was wir als Reaktion auf ihre Meldungen unternommen haben
+Online: [hier](https://www.lovescout24.de/faq/#privacyRequest)
 
-1. **_Zur Gewährleistung der rechtlichen Compliance_**
+Per Post:
 
-* Einhaltung der gesetzlichen Anforderungen
-* Unterstützung der Strafverfolgungsbehörden
+FriendScout24 GmbH
 
-Weitere Informationen dazu, wie wir Ihre personenbezogenen Daten mittels Profiling und automatisierter Entscheidungsfindung verarbeiten, finden Sie in unseren [FAQ](https://www.lovescout24.de/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
+LOVESCOUT24, Datenschutzbeauftragter
 
-Die Verarbeitung Ihrer Informationen entsprechend dieser Datenschutzrichtlinie beruht auf den folgenden Rechtsgrundlagen:
+c/o WeWork
 
-* _Bereitstellung unseres Dienstes für Sie_: Für die obigen Zwecke A und B verarbeiten wir Ihre Informationen, um den Vertrag, den Sie mit uns abgeschlossen haben, zu erfüllen. Während Sie unseren Dienst zum Aufbau von Beziehungen nutzen, verwenden wir Ihre Informationen, um Ihr Konto und Ihr Profil bereitzuhalten, es für andere Nutzer sichtbar zu machen und Ihnen andere Nutzer zu empfehlen sowie um Ihnen anderweitig unsere kostenlosen und kostenpflichtigen Funktionen bereitzustellen.
-* _Berechtigte Interesse_: Wir verarbeiten Ihre Informationen für die vorstehenden Zwecke C, D und E basierend auf unseren berechtigten Interessen. Beispielsweise analysieren wir das Nutzerverhalten auf unseren Diensten zur fortlaufenden Optimierung unserer Angebote, wir schlagen Ihnen Angebote vor, von denen wir denken, dass sie für Sie interessant sind, und bewerben unsere eigenen Dienste, wir verarbeiten Informationen, um die Sicherheit unserer Nutzer zu gewährleisten, und wir verarbeiten Daten, wenn dies erforderlich ist, um unsere Rechte durchzusetzen, die Strafverfolgung zu unterstützen und uns zu ermöglichen, uns im Falle einer Klage zu verteidigen.
-* _Einhaltung der geltenden Gesetze und_ _Bestimmungen_: Wir verarbeiten Ihre Informationen für den obigen Zweck F, wenn dies zur Einhaltung der geltenden Gesetze und Bestimmungen sowie zum Nachweis, dass wir alle geltenden Gesetze und Bestimmungen einhalten, erforderlich ist. Beispielsweise bewahren wir Verkehrsdaten und Transaktionsdaten entsprechend unseren buchhalterischen, steuerlichen und sonstigen gesetzlichen Aufbewahrungspflichten sowie zur Erfüllung berechtigter Zugriffsanfragen von Strafverfolgungsbehörden auf. Außerdem bewahren wir Daten zum Nachweis der von Nutzern erteilten Zustimmungen und ihrer Entscheidungen zur Deaktivierung einer bestimmten Funktion oder Verarbeitung auf.
-* _Zustimmung_: Wenn Sie uns Informationen zur Verfügung stellen, die in bestimmten Ländern als „besonders“ oder „sensibel“ gelten, wie Ihre sexuelle Orientierung, stimmen Sie zu, dass wir diese Information entsprechend dieser Datenschutzrichtlinie verarbeiten. Wir holen gegebenenfalls von Zeit zu Zeit Ihre Zustimmung zur Erfassung bestimmter Informationen, wie Ihren genauen geografischen Standort, oder zur Verwendung Ihrer Informationen für bestimmte Zwecke ein. In einigen Fällen können Sie Ihre Zustimmung durch das Anpassen Ihrer Einstellungen (z. B. bei der Erfassung Ihres genauen geografischen Standorts) oder das Löschen Ihrer Inhalte (z. B. wenn Sie als „besonders “ oder „sensibel“ geltende Informationen in Ihr Profil eingegeben haben) widerrufen. Sie können in jedem Fall Ihre Zustimmung jederzeit widerrufen, indem Sie uns über die am Ende dieser Datenschutzrichtlinie angegebene Adresse kontaktieren.
+Neuturmstraße 5
 
-6\. WIE WIR INFORMATIONEN WEITERGEBEN
--------------------------------------
+80331 München
 
-Da es unser Ziel ist, Sie beim Aufbau von wertvollen Beziehungen zu unterstützen, werden die Daten der Nutzer natürlich hauptsächlich mit anderen Nutzern des Diensts geteilt. Wir geben auch einige Nutzerinformationen an Dienstleister und Partner, die uns beim Betrieb der Dienste unterstützen, andere Unternehmen der Match Group für die unten dargelegten Zwecke und in manchen Fällen an Justizbehörden weiter. Im Folgenden erfahren Sie mehr darüber, wie Ihre Informationen weitergegeben werden.
-
-* **An** **andere Nutzer**
-
-Sie geben Informationen an andere Nutzer weiter, wenn Sie diese bewusst im Dienst offenlegen (einschließlich Ihrer Profildaten). Bitte gehen Sie vorsichtig mit Ihren Informationen um und stellen Sie sicher, dass Sie nur solche Inhalte teilen, die Sie für sich selbst als unproblematisch erachten.
-
-Wenn Sie sich dafür entscheiden, das Publikum für Ihr gesamtes oder einen Teil Ihres Profils oder für bestimmte Inhalte oder Informationen über Sie einzuschränken, dann werden diese Informationen nur entsprechend Ihren Einstellungen sichtbar sein.
-
-Wenn jemand eine Sie betreffende Meldung macht (z.B. mutmaßlicher Verstoß gegen unsere Nutzungsbedingungen oder Community-Richtlinien), können wir die betreffende Person über die als Reaktion auf ihre Meldung ergriffenen Maßnahmen informieren.
-
-* **_An unsere Dienstleister und Partner_**
-
-Wir arbeiten mit Dritten zusammen, die uns beim Betrieb und bei der Verbesserung unserer Dienste helfen. Sie unterstützen uns bei verschiedenen Aufgaben, wie Datenhosting und -pflege, Analyse, Kundenbetreuung, Marketing, Werbung, Zahlungsverarbeitung und Sicherheit. Wir geben Informationen auch an Partner weiter, die unsere Dienste vertreiben und uns bei der Bewerbung unserer Dienste unterstützen. Beispielsweise können wir begrenzte Informationen zu Ihnen in gehashter, für Menschen nicht lesbarer Form an Werbepartner weitergeben.
-
-Vor der Beauftragung von Dienstleistern oder der Zusammenarbeit mit Partnern werden diese einer strengen Überprüfung unterzogen. Unsere Dienstleister und Partner müssen strenge Vertraulichkeitsverpflichtungen unterzeichnen.
-
-* **_An unsere verbundenen Unternehmen_**
-
-LOVESCOUT24 ist Teil der [Unternehmensgruppe Match Group](http://mtch.com/).
-
-Wir geben Ihre Informationen, wie nachfolgend angegeben, für begrenzte Zwecke an verbundene Unternehmen weiter:
-
-* um die Sicherheit der Plattformen der Match Group zu verbessern, indem wir sicherstellen, dass Störenfriede auf einer Plattform (beispielsweise unseren Diensten) nicht nur dort (z. B. durch Sperrung), sondern auch auf anderen Plattformen gestoppt werden;
-* damit diese Unternehmen uns entsprechend unseren Anweisungen als Dienstleister bei Datenverarbeitungsvorgängen unterstützen können. Mögliche Unterstützungsbereiche sind: Datenhosting und -pflege, Kundenbetreuung, Marketing und gezielte Werbung, Analyse, Finanzen und Buchhaltung, Verbesserung unseres Dienstes, Sicherung unserer Daten und Systeme sowie Bekämpfung von Spam, Missbrauch, Betrug, Rechtsverletzungen und sonstigem Fehlverhalten.
-* um Ihre Chancen zu verbessern, wertvolle Beziehungen mit anderen aufzubauen, können wir Sie auf anderen Diensten der Match Group sichtbar machen oder Ihnen die Nutzung plattformübergreifender Funktionen ermöglichen. Selbstverständlich halten wir geltendes Recht ein und informieren Sie gegebenenfalls über diese Möglichkeiten, wobei Sie zustimmen oder ablehnen können. Eine solche Gelegenheit kann beispielsweise die Schaffung eines neuen Dienstes innerhalb der Match Group sein, der sich an bestimmte Personengruppen richtet und der ausgehend von Ihrem Profil für Sie interessant sein kann.
-* für andere berechtigte Zwecke, wie Unternehmensprüfungen, Analysen und Konzernberichterstattung, wenn und insoweit nach anwendbarem Recht zulässig.
-
-* **_Für Unternehmenstransaktionen_**
-
-Wir können Ihre Informationen übermitteln, wenn wir vollständig oder teilweise in einen der folgenden Vorgänge involviert sind: Fusion, Verkauf, Kauf, Veräußerung, Umstrukturierung, Reorganisation, Auflösung, Insolvenz oder sonstige Eigentums- oder Kontrolländerungen.
-
-* **_An Strafverfolgungsbehörden / wenn rechtlich vorgeschrieben_**
-
-Wir können Ihre Informationen offenlegen, wenn dies erforderlich ist: (i) um rechtliche Maßnahmen, wie gerichtliche Verfügungen, gerichtliche Herausgabeanordnungen oder Durchsuchungsbefehle, Untersuchungen von Staats-/Strafverfolgungsbehörden oder sonstige gesetzliche Anforderungen zu erfüllen; (ii) die Prävention oder Aufdeckung von Straftaten (jeweils gemäß geltendem Recht) zu unterstützen oder (iii) die Sicherheit von Personen zu gewährleisten.
-
-* **_Zur Durchsetzung von Rechtsansprüchen_**
-
-Wir können Informationen auch weitergeben: (i) wenn durch die Offenlegung unsere Haftung in einem tatsächlichen oder drohenden Gerichtsverfahren gemindert werden kann; (ii) insoweit dies zum Schutz unserer Rechtsansprüche und der unserer Nutzer, Geschäftspartner oder anderer Beteiligter erforderlich ist; (iii) um unsere Verträge mit Ihnen durchzusetzen und (iv) um unrechtmäßige Aktivitäten, Betrugsverdachtsfälle oder sonstiges Fehlverhalten zu untersuchen, zu verhindern oder auf sonstige Weise anzugehen.
-
-* **_Mit Ihrer Zustimmung oder auf Ihre Aufforderung_**
-
-Wir bitten Sie eventuell um Ihre Zustimmung zur Weitergabe Ihrer Informationen an Dritte. Dabei stellen wir immer klar, warum wir diese Informationen weitergeben möchten.
-
-Wir können nicht personenbezogene Daten (d. h. Daten, die an sich keine Identifizierung Ihrer Person ermöglichen, wie Geräteinformationen, allgemeine demografische Informationen, allgemeine Verhaltensdaten, anonymisierten geografischen Standort) sowie personenbezogene Daten in gehashter, für Menschen nicht lesbarer Form unter jeglichen oben genannten Umständen weitergeben. Wir können diese Informationen auch an andere Unternehmen der Match Group und Dritte (insbesondere Werber) weitergeben, um gezielte Werbung zu entwickeln und auf unseren Diensten und auf Websites oder in Apps Dritter anzuzeigen und Analysen und Berichte über die Ihnen angezeigte Werbung zu erstellen. Wir können diese Informationen mit zusätzlichen nicht personenbezogenen oder personenbezogenen Daten in gehashter, für Menschen nicht lesbarer Form aus anderen Quellen zusammenführen. Weitere Informationen zum Einsatz von Cookies und vergleichbaren Technologien finden sich in unserer [Cookie-Richtlinie](https://www.lovescout24.de/pages/misc/cookie?styled=1).
-
-7\. GRENZÜBERSCHREITENDE DATENÜBERMITTLUNG
-------------------------------------------
-
-Die Weitergabe von Informationen gemäß [Abschnitt 6](#_section06) schließt grenzüberschreitende Datenübermittlungen in die Vereinigten Staaten von Amerika und andere Rechtsräume mit abweichenden Bestimmungen zur Datenverarbeitung ein. Wenn wir Ihre personenbezogenen Daten außerhalb des EWR, des Vereinigten Königreichs, der Schweiz oder anderer Länder, deren Datenschutzbestimmungen von der Europäischen Kommission oder einem anderen zuständigen Staatsorgan für angemessen befunden wurden, übermitteln, verwenden wir [Standardvertragsklauseln](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (das sind Verpflichtungen zwischen Unternehmen, die personenbezogene Daten übermitteln, mit denen sie zum Datenschutz und zur Gewährleistung der Sicherheit Ihrer Daten verpflichtet werden) oder sonstige geeignete Übermittlungsmechanismen. Derzeit überprüfen wir Übermittlungen an unsere Lieferanten und die zugehörige Rechtsgrundlage im Hinblick auf die jüngste Entscheidung des Gerichtshofs der Europäischen Union zu Übermittlungen von personenbezogenen Daten in die USA.
-
-8\. IHRE RECHTE
----------------
-
-Wir möchten, dass Sie die Kontrolle über Ihre Informationen behalten, weshalb wir Sie auf die folgenden Möglichkeiten und Instrumente hinweisen möchten:
-
-* Zugriff und zur Aktualisierung im Dienst Werkzeuge und Konteneinstellungen können Ihnen helfen, direkt im Dienst auf die uns zur Verfügung gestellten und mit Ihrem Konto verbundenen Informationen zuzugreifen, diese zu berichtigen oder zu löschen. Bei Fragen zu diesen Werkzeugen und Einstellungen wenden Sie sich zwecks Unterstützung bitte [hier](https://www.lovescout24.de/faq) an unseren Kundensupport.
-* Geräteberechtigungen Mobile Plattformen können über Berechtigungssysteme für bestimmte Arten von Gerätedaten und Meldungen, wie Kontakte, Fotos, Standortdienste, Push-Nachrichten und Werbekennungen, verfügen. Mithilfe der Einstellungen auf Ihrem Gerät können Sie der Erhebung oder Verarbeitung der entsprechenden Informationen oder der Anzeige der entsprechenden Mitteilungen zustimmen oder diese ablehnen. Natürlich kann dies dazu führen, dass einige Dienste nicht mehr funktionieren.
-* Deinstallation Sie können die Erhebung von Informationen durch eine App vollständig stoppen, indem Sie sie mit dem Standard-Deinstallationsprozess Ihres Geräts deinstallieren. Denken Sie daran, dass durch das Deinstallieren einer App Ihr Konto NICHT geschlossen wird. Verwenden Sie zum Schließen Ihres Kontos bitte die entsprechende Funktion unseres Dienstes.
-* Kontenschließung Sie können Ihr Konto mithilfe der entsprechenden Funktion direkt auf unserem Dienst schließen.
-
-Wir möchten auch, dass Sie Ihre Datenschutzrechte kennen. Hier ein paar wesentliche Punkte zur Erinnerung:
-
-* Einsichtnahme Nach anwendbarem Datenschutzrecht haben Sie gegebenenfalls das Recht, die von uns gespeicherten personenbezogenen Daten einzusehen (je nach Rechtsraum wird dies als Zugriffsrecht, Recht auf Portabilität, Recht auf Information oder mit ähnlichen Begriffen bezeichnet). Sie können dieses Recht ausüben, indem Sie [hier](https://www.lovescout24.de/faq/#privacyRequest) eine entsprechende Anfrage stellen.
-* Aktualisierung Ihrer Informationen. Wenn Sie der Auffassung sind, dass die von uns über Sie gespeicherten Informationen nicht richtig sind oder wir nicht länger zur Verwendung der Informationen berechtigt sind, und Sie ihre Berichtigung oder Löschung beantragen oder der Verarbeitung widersprechen oder diese einschränken möchten, kontaktieren Sie uns bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
-
-Zu Ihrem Schutz und zum Schutz all unserer Nutzer verlangen wir gegebenenfalls einen Identitätsnachweis, ehe wir Ihre obige Anfrage beantworten können.
-
-Denken Sie daran, dass wir Anfragen ablehnen können, insbesondere wenn wir Ihre Identität nicht überprüfen können, die Anfrage unrechtmäßig oder ungültig ist oder wenn durch sie Geschäftsgeheimnisse, Rechte des geistigen Eigentums, die Privatsphäre oder sonstige Rechte anderer Personen verletzt werden könnten. Wenn Sie Informationen über einen anderen Nutzer, wie eine Kopie der Mitteilungen, die Sie von ihm über den Dienst erhalten haben, erhalten möchten, muss der betreffende Nutzer uns schriftlich seine Zustimmung erteilen, ehe die Informationen herausgegeben werden. Wir können von ihm auch einen Identitätsnachweis anfordern, ehe wir die Anfrage beantworten können.
-
-Außerdem können wir unter Umständen bestimmten Anträgen auf Widerspruch oder Einschränkung der Verarbeitung personenbezogener Daten nicht nachkommen, insbesondere dann, wenn solche Anträge es uns nicht mehr ermöglichen würden, Ihnen unseren Service anzubieten. So können wir beispielsweise unseren Dienst nicht erbringen, wenn wir Ihr Geburtsdatum nicht kennen und somit nicht sicherstellen können, dass Sie 18 Jahre oder älter sind.
-
-In einigen Ländern, wie dem Europäischen Wirtschaftsraum und dem Vereinigten Königreich, haben Sie das Recht, Beschwerde bei der zuständigen Datenschutzbehörde einzulegen, wenn Sie Bedenken in Bezug auf die Art und Weise der Verarbeitung Ihrer personenbezogenen Daten haben. Informationen zur Datenschutzaufsichtsbehörde im Europäischen Wirtschaftsraum finden Sie [hier](https://edpb.europa.eu/about-edpb/board/members_en) und im Vereinigten Königreich [hier](https://ico.org.uk/). Für Ihre Beschwerde ist die Datenschutzbehörde an Ihrem gewöhnlichen Wohnsitz, Ihrem Arbeitsort oder an dem Ort, an dem der mutmaßliche Verstoß stattfand, zuständig.
-
-9\. WIE LANGE WIR IHRE INFORMATIONEN AUFBEWAHREN
-------------------------------------------------
-
-Wir bewahren Ihre personenbezogenen Daten nur solange auf, wie dies für berechtigte Zwecke (entsprechend [Abschnitt 5](#_section05)) erforderlich und nach geltendem Recht zulässig ist. Wenn Sie unsere Dienste nicht länger nutzen möchten, können Sie Ihr Konto schließen und Ihr Profil ist dann nicht länger für andere Nutzer sichtbar. Bitte beachten Sie, dass wir Ihr Konto automatisch schließen, wenn Sie länger als zwei Jahre inaktiv sind. Nach der Schließung Ihres Kontos löschen wir Ihre personenbezogenen Daten wie im Folgenden beschrieben:
-
-1. Um die Sicherheit unserer Nutzer zu schützen, haben wir eine Aufbewahrungsfrist von drei Monate nach der Schließung des Kontos eingeführt. In diesem Zeitraum bewahren wir Ihre Informationen für den Fall auf, dass eine Untersuchung von unrechtmäßigem oder schädlichem Verhalten erforderlich ist. Die Aufbewahrung von Informationen während dieses Sicherheitszeitraums beruht auf unserem berechtigten Interesse sowie dem von potenziellen dritten Opfern. .
-2. Nach Ablauf der Aufbewahrungsfrist löschen wir Ihre Daten und bewahren sie nur im begrenzten Umfang für bestimmte Zwecke, wie unten dargelegt, auf:
-    1. Wir bewahren begrenzte Daten zur Einhaltung der gesetzlichen Aufbewahrungspflichten auf: Transaktionsdaten werden zur Einhaltung der gesetzlichen Steuer- und Buchhaltungsanforderungen 10 Jahre lang aufbewahrt. Gegebenenfalls müssen wir zur Erfüllung von gesetzlichen Aufbewahrungspflichten auch Verkehrsdaten / Protokolle ein Jahr lang aufbewahren. Außerdem bewahren wir Aufzeichnungen der von den Nutzern erteilten Zustimmungen zum Nachweis der Einhaltung des geltenden Rechts fünf Jahre lang auf.
-    2. Wir bewahren folgende begrenzte Informationen auf Grundlage unseres berechtigten Interesses auf: Kundensupport-Aufzeichnungen und zugehörige Daten sowie ungefähre Download-/Kauforte werden zur Unterstützung von Kundensupport-Entscheidungen, zur Durchsetzung unserer Rechte und zur Verteidigung im Falle einer Klage fünf Jahre lang aufbewahrt Profildaten werden ein Jahr lang im Vorgriff auf mögliche Rechtsstreitigkeiten zur Feststellung, Ausübung oder Verteidigung von Klagen aufbewahrt, und Daten, die benötigt werden, um zu verhindern, dass gesperrte Nutzer oder Personen unter 18 Jahren ein neues Konto eröffnen, werden aufbewahrt, um die Sicherheit und wesentlichen Interessen unserer Nutzer zu schützen.
-    3. Schließlich bewahren wir Informationen auf der Grundlage unseres berechtigten Interesses auf, wenn ein offenes oder potenzielles Problem, eine Forderung oder ein Streitfall vorliegt, der die Aufbewahrung von Informationen erfordert (insbesondere, wenn wir eine gültige gerichtliche Vorladung oder Aufforderung erhalten, Daten aufzubewahren (in diesem Fall müssten wir die Daten aufbewahren, um unseren rechtlichen Verpflichtungen nachzukommen), oder wenn die Daten anderweitig im Rahmen eines Gerichtsverfahrens erforderlich sind).
-
-10\. SCHUTZ DER PRIVATSPHÄRE VON KINDERN
-----------------------------------------
-
-Unsere Dienste sind Personen ab 18 Jahren vorbehalten. Personen unter 18 Jahren dürfen unsere Plattform nicht nutzen. Wenn Sie vermuten, dass ein Nutzer unter 18 ist, nutzen Sie bitte den auf dem Dienst verfügbaren Meldemechanismus.
-
-11\. STELLENBEWERBER, AUFTRAGNEHMER- UND LIEFERANTENVERTRETER
--------------------------------------------------------------
-
-Im Rahmen unseres Rekrutierungs- und Talentmanagementprozesses bzw. der Verwaltung der Leistungen unserer Auftragnehmer und Lieferanten verarbeiten wir auch die personenbezogenen Daten unserer Stellenbewerber, Auftragnehmer- und Lieferantenvertreter. Wenn Sie Stellenbewerber oder Vertreter eines Auftragnehmers oder Lieferanten von LOVESCOUT24 sind, gelten bestimmte maßgebliche Bestimmungen dieser Datenschutzrichtlinie für die Verarbeitung Ihrer personenbezogenen Daten durch uns, wie die Abschnitte dieser Datenschutzrichtlinie zum [für die Verarbeitung Ihrer personenbezogenen Daten verantwortlichen Unternehmen](#_section01), zu [Übermittlungen von personenbezogenen Daten](#_section07), zu [Rechten nach geltendem Recht](#_section08) und zu [unseren Kontaktdaten](#_section13).
-
-Bei Stellenbewerbern können sich die von uns verarbeiteten personenbezogenen Daten abhängig von der Stelle, auf die sie sich bewerben, unterscheiden, umfassen aber in der Regel die Angaben, die die Bewerber uns im Rahmen der Bewerbung übermitteln, sowie Informationen zu beruflichen Qualifikationen, Hintergrund und Referenzen, die Personalvermittler oder Dritte an uns weitergeben. Wir verwenden diese Informationen zur Unterstützung des Rekrutierungsprozesses, der in einen Arbeitsvertrag münden kann. Bei Auftragnehmer- und Lieferantenvertretern können wir Identifizierungsdaten und arbeitsbezogene Daten verarbeiten, die zur Verwaltung der Beziehung mit den Vertretern und deren Arbeitgebern, zur Erfüllung von Dienstleistungsverträgen sowie zur Begründung, Geltendmachung oder Abwehr von Rechtsansprüchen erforderlich sind. Wir können personenbezogene Daten an Dienstleister, die uns bei der Rekrutierung und bei technischen Datenverarbeitungsvorgängen unterstützen, sowie an Unternehmen der Match Group (z. B. wenn Sie in einer Geschäftsbeziehung mit Beschäftigten eines verbundenen Unternehmens stehen) weitergeben. Wir bewahren Ihre personenbezogenen Daten nur so lange auf, wie es für diese Zwecke erforderlich ist.
-
-12\. ÄNDERUNGEN DER DATENSCHUTZRICHTLINIE
------------------------------------------
-
-Da wir immer auf der Suche nach neuen und innovativen Wegen sind, um Sie beim Aufbau von wertvollen Beziehungen zu unterstützen, und uns bemühen, die Erklärungen zu unseren Datenschutzmaßnahmen auf aktuellem Stand zu halten, kann sich diese Richtlinie im Laufe der Zeit ändern. Wir informieren Sie vor dem Inkrafttreten von wesentlichen Änderungen, sodass Sie Zeit haben, die Änderungen zu prüfen.
-
-13\. WIE SIE UNS ERREICHEN
---------------------------
-
-Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, stehen Ihnen unten verschiedene Optionen zur Verfügung:
-
-**Online**: [hier](https://www.lovescout24.de/faq/#privacyRequest)
-
-**Per Post**:
-
-Datenschutzbeauftragter
-
-FriendScout24 GmbH  
-LOVESCOUT24  
-c/o WeWork  
-Neuturmstraße 5  
-80331 München  
 Deutschland
+
+Wenn Sie weitere Informationen darüber wünschen, wie Sie den Datenschutzbeauftragten kontaktieren können, klicken Sie bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
+
+Das war’s! Sie haben es bis zum Ende unserer Datenschutzbestimmungen geschafft. Wir hoffen, dass sie so ansprechend und klar waren wie von uns beabsichtigt. Und jetzt ist es Zeit, ein paar Erinnerungen zu schaffen! Wir freuen uns darauf, gemeinsam mit Ihnen diese Reise zu unternehmen.
