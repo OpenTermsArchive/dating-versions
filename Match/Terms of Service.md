@@ -98,7 +98,7 @@ We use internal and external tools for automated detection of content that may v
 
 These tools include automatic scanning of profiles for inappropriate language and images, as well as manual review of suspicious profiles and activities.
 
-For more information on content moderation, please see this article.
+For more information on content moderation, please see [this article](https://mtch.com/safety).
 
 b) Reporting tool
 
