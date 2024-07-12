@@ -21,10 +21,8 @@ La présente Politique de confidentialité s’applique à partir du 07/08/2024.
 
 La société qui est responsable de vos données (le « responsable du traitement ») est :
 
-Meetic S.A.S.
-
-DISONS DEMAIN
-
+Meetic S.A.S.  
+DISONS DEMAIN  
 53 rue de Châteaudun Paris 9 FRANCE
 
 ### 2\. Où la présente politique de confidentialité s’applique
@@ -159,10 +157,8 @@ En ligne : [ici](https://www.disonsdemain.fr/faq/#privacyRequest)
 
 par courrier :
 
-Meetic S.A.S.
-
-DISONS DEMAIN, Bureau du DPD
-
+Meetic S.A.S.  
+DISONS DEMAIN, Délégué à la Protection des Données  
 53 rue de Châteaudun Paris 9 FRANCE
 
 Pour plus d’informations sur la manière de contacter le délégué à la protection des données, veuillez cliquer [ici](https://www.disonsdemain.fr/faq/#privacyRequest).
