@@ -158,7 +158,7 @@ En ligne : [ici](https://www.meetic.fr/faq/#privacyRequest)
 par courrier :
 
 Meetic S.A.S.  
-MEETIC, Bureau du DPD  
+MEETIC, Délégué à la Protection des Données  
 53 rue de Châteaudun Paris 9 FRANCE
 
 Pour plus d’informations sur la manière de contacter le délégué à la protection des données, veuillez cliquer [ici](https://www.meetic.fr/faq/#privacyRequest).
