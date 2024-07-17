@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective date: Jun 20, 2024
+Effective date: Jul 10, 2024
 
 Hily Privacy Policy (the “Policy”) explains all the privacy matters you may face when using our website, [https://hily.com](https://hily.com/) and other websites run by Hily (the “Website”) and Hily’s mobile and web-based applications (the “App”), jointly the “Service”, operated by Hily Corp. (“Hily” or “we”).
 
@@ -88,51 +88,61 @@ If you have given Hily access to your location, but wish to turn this off, you c
 | Processor\`s Privacy Policy | [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/) |
 | Data Collected | All personal data |
 | Purpose | Storage of all personal data when you use the App |
+|     |     |
 | Type | Customer support |
 | Processor | Zendesk, Inc. |
 | Processor\`s Privacy Policy | [https://www.zendesk.com/company/agreements-and-terms/privacy-notice/#personal-data-we-collect-and-disclose](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/#personal-data-we-collect-and-disclose) |
 | Data Collected | first and last name, email address, title, position, employer, contact information (company, email, phone numbers, physical address), date of birth, gender, communications (telephone recordings, voicemail), and customer service information |
 | Purpose | Process and sort all emails received from you |
+|     |     |
 | Type | Moderation and photo verification tool |
 | Processor | Nyckel, Inc. |
 | Processor\`s Privacy Policy | [https://www.nyckel.com/privacy](https://www.nyckel.com/privacy) |
 | Data Collected | Photos |
 | Purpose | Moderate content and help with verification of users |
+|     |     |
 | Type | SMS communication |
 | Processor | Twilio. Inc |
 | Processor\`s Privacy Policy | [https://www.twilio.com/en-us/legal/privacy](https://www.twilio.com/en-us/legal/privacy) |
 | Data Collected | Phone numbers |
 | Purpose | Send remarketing SMS and verification codes |
+|     |     |
 | Type | SMS communication |
 | Processor | Plivo Inc. |
 | Processor\`s Privacy Policy | [https://www.plivo.com/legal/privacy/](https://www.plivo.com/legal/privacy/) |
 | Data Collected | Phone numbers |
 | Purpose | Send verivication codes |
+|     |     |
 | Type | Analytical tool |
 | Processor | SplitMetrics Inc. |
 | Processor\`s Privacy Policy | [https://splitmetrics.com/legal/privacy-policy/](https://splitmetrics.com/legal/privacy-policy/) |
 | Data Collected | technical data ‒ events from MMPs: mobile apps version, operating system version, type of device |
-| Purpose | Automatization and optimization of advertising accounts (including campaigns,<br><br>ad groups and keywords), A/B testing |
+| Purpose | Automatization and optimization of advertising accounts (including campaigns,  <br>ad groups and keywords), A/B testing |
+|     |     |
 | Type | Advertising tool |
 | Processor | Moloco Inc. |
 | Processor\`s Privacy Policy | [https://www.moloco.com/privacy-policy](https://www.moloco.com/privacy-policy) |
 | Data Collected | Mobile advertising ID and in-app events |
 | Purpose | Leverage ad campaigns |
+|     |     |
 | Type | Moderation tool |
 | Processor | Castle Global, Inc |
 | Processor\`s Privacy Policy | [https://hive.com/privacy-policy/](https://hive.com/privacy-policy/) |
 | Data Collected | Images and videos |
 | Purpose | Moderate content |
+|     |     |
 | Type | Web payment processing |
 | Processor | Solid Processing Limited |
 | Processor\`s Privacy Policy | [https://solidgate.com/privacy-policy/](https://solidgate.com/privacy-policy/) |
 | Data Collected | Customer’s name, phone number; email address; IP address; billing and shipping address (state, zip code, city); account ID; order description; language; user agent; device; operating system; browser; time zone offset. |
 | Purpose | Execute payment web transactions |
+|     |     |
 | Type | SMS communications |
 | Processor | Ding SAS |
 | Processor\`s Privacy Policy | [https://www.ding.com/privacy-statement](https://www.ding.com/privacy-statement) |
 | Data Collected | Phone number, IP address, kind of platform |
 | Purpose | Send SMS |
+|     |     |
 | Type | Moderation tool |
 | Processor | Amazon Web Services, Inc., Amazon Rekognition |
 | Processor\`s Privacy Policy | [https://aws.amazon.com/privacy/?nc1=f\_pr](https://aws.amazon.com/privacy/?nc1=f_pr) |
@@ -151,7 +161,7 @@ Additional processor: Lathinol Limited, a company with its registered address at
 | Firebase Performance Monitoring Software Development Kit | Google LLC | [https://policies.google.com/privacy](https://policies.google.com/privacy) | General device information, such as model, OS and orientation, RAM and disk size, CPU usage, Carrier (based on Mobile Country and Network Code), Radio/Network information (for example, WiFi, LTE, 3G), Country (based on IP address), Locale/language, App version, App foreground or background state, App package name, Firebase installation IDs, Duration times for automated traces | We use Firebase Perfomance Monitoring to calculate the number of unique Firebase installations that access network resources, to ensure that access patterns are sufficiently anonymous. Additionally, we use IP addresses to map performance events to the countries from which they originate. |
 | Facebook Audience Network Software Development Kit | Facebook Inc. | [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) | Device identifiers, including your IP address, iOS Identifier for Advertising (IDFA), iOS Identifier for Vendors (IDFV), Android Advertising ID, and a Fb-specific identifier; your approx location, when location services have been enabled for an app on your device that has integrated the Fb SDK and APIs; demographic information (e.g., your age or gender) or information about your interests; information about your device, including the type and model, manufacturer, operating system (e.g., iOS or Android), carrier name, mobile browser (e.g., Chrome, Safari), and screen size; information about your app usage; information about ads served, viewed, or clicked on, including the type of ad, where the ad was served, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s app. | We use Facebook Audience Network to show you more relevant ads that will not annoy you. |
 | Adjust Software Development Kit | Adjust GmbH | [https://www.adjust.com/terms/privacy-policy/](https://www.adjust.com/terms/privacy-policy/) | Data on number of installs; localization data; data on your purchases; data on sources of purchases, Facebook ID, advertising ID name, email, gender, birthday, Facebook profile photo instagram username instagram, IP address, HTTP header, user agent (country, language, local settings, version of the operating system as well as the app version), device and appactivity information (last session, in-app purchases etc.) | We use Adjust to track and analyze our marketing efforts and for deep links functionality. |
-| Agora Software Development Kit | Agora Lab, Inc. | [https://www.agora.io/en/acceptable-use-policy/](https://www.agora.io/en/acceptable-use-policy/) | Device information, including model, manufacturer and brand; user ID; channel mode; SDK version; network type; App ID; call detail record; General call information (including timestamp and duration of the call); Quality of services information (including network quality metrics); Quality of experience information (including video and audio resolution); Device status changes and device runtime metrics (including CPU usage and CPU Rate); IP address, Device type, OS Version,  Service Logs, Usage Data (when, how, and how long Service is used),  User Content Data | We use Agora to enable streaming features in the App, store streams’ records. |
+| Agora Software Development Kit | Agora Lab, Inc. | [https://www.agora.io/en/acceptable-use-policy/](https://www.agora.io/en/acceptable-use-policy/) | Device information, including model, manufacturer and brand; user ID; channel mode; SDK version; network type; App ID; call detail record; General call information (including timestamp and duration of the call); Quality of services information (including network quality metrics); Quality of experience information (including video and audio resolution); Device status changes and device runtime metrics (including CPU usage and CPU Rate); IP address, Device type, OS Version,  Service Logs, Usage Data (when, how, and how long Service is used),  User Content Data | We use Agora to enable enable to make video calls |
 | AppLovin Software Development Kit | AppLovin Corporation | [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/) | Device identifiers, including your IP address, iOS Identifier for Advertising (IDFA), iOS Identifier for Vendors (IDFV), Android Advertising ID and a AppLovin-specific identifier; your approx geolocation (when location services have been enabled for an app on your device that has integrated the Applovin SDK and APIs); demographic information (e.g., your age or gender) or information about your interests; information about your device, including the type and model, manufacturer, operating system (e.g., iOS or Android), carrier name, mobile browser (e.g., Chrome, Safari), and screen size; information about your app usage; information about ads served, viewed, or clicked on, including the type of ad, where the ad was served, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s app. | We use AppLovin to show you more relevant ads that will not annoy you. |
 | Google Mobile Ads SDK | Google LLC | [https://developers.google.com/ad-manager/mobile-ads-sdk/android/privacy/play-data-disclosure](https://developers.google.com/ad-manager/mobile-ads-sdk/android/privacy/play-data-disclosure) | IP address, User product interactions (app launch, taps, and video views), Diagnostic information (crash logs, app launch time, hang rate, and energy usage), Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device. | We use it to show you more relevant ads that will not annoy you. |
 
@@ -238,9 +248,9 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 | to provide you with a better communication and connection experience | optional data, such as Hily tags: your interests, your preferences, your mood, requirements to your partner (to body shapes and interests); your religious or political leanings; photos; your field of occupation; zodiac sign; your username on Instagram, Snapchat, Spotify, Facebook, Twitter, TikTok, Twitch, Discord, PlayStation, Xbox, Pinterest, or Tumblr (CCPA categories A, B, C, G, H and I) | we receive this data from you | performing of the contract with you |
 | to provide you with networking services; to help you connect with other users | all the data placed in your profile; your geolocation; history of your likes/dislikes; your connections; your preferences (CCPA categories A-C, F, H and I) | we receive this data from you directly (you share the data with us) or indirectly (you create the data when using the App) | performing of the contract with you |
 | to show “nearby” location information to you and other users of the App | Wi-fi access points and location data when you use the App (CCPA сategory G) | you provide this information to us | performing of the contract with you or consent |
-| to provide you with an opportunity to share your content and opinion | your photos; images that you upload; publications; texts; videos; livestreams; comments; data in your groups (CCPA categories F and G) | we receive this data from you directly (you share the data with us) or indirectly (you create the data when using the App) | performing of the contract with you |
+| to provide you with an opportunity to share your content and opinion | your photos; images that you upload; publications; texts; videos; comments; data in your groups (CCPA categories F and G) | we receive this data from you directly (you share the data with us) or indirectly (you create the data when using the App) | performing of the contract with you |
 | to enable video calls feature | video call usage data; images and videos (CCPA categories F and H) | we receive this data from you indirectly (you create the data when using the App) | performing of the contract with you |
-| to enable other in-app features | data on number and types of in-app objects; the Licensed content; number and types of publications; livestreams you have interacted with; location (CCPA categories A, D, F, G, H and K) | we receive this data from you indirectly (you create the data when using the App) | performing of the contract with you |
+| to enable other in-app features | data on number and types of in-app objects; the Licensed content; number and types of publications (CCPA categories A, D, F, G, H and K) | we receive this data from you indirectly (you create the data when using the App) | performing of the contract with you |
 | to process your requests and claims in the App | name; email address; IP address; your message, including any data you decided to share with us (CCPA categories A, B and H) | we receive this data from you | legitimate interest |
 | to process complaints against you | your profile data; shared content data; content of sent messages; other information we may be provided with (CCPA categories A, B, D, F, G, and I) | we get this data from third parties or indirectly from you (when you create the data when using the App) | legitimate interest or legal obligation |
 | #### to verify your Hily profile/your identity/age; to prevent, detect and fight fraud or other illegal or unauthorized activities; to send sms or email with verification code | your photos; driver’s license, passport data; phone number, email address; any data that we hold about you, depending on the issue that we are dealing with (CCPA categories A-D, F, G, and I) | we may get data from you, third parties of automatically collect from your device | legitimate interest or legal obligation |
@@ -309,13 +319,11 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 **6.3.** **Terms of Deletion**. All your data is to be fully erased (or anonymized) within 7 calendar days following deletion of your Hily profile, except:
 
-(a) livestreams records which are being stored up to 7 calendar days following a date of livestream;
+(a)in-app features and subscription purchases which are being retained during the term of your subscription and 5 years from the deletion of your user account;
 
-(b) in-app features and subscription purchases which are being retained during the term of your subscription and 5 years from the deletion of your user account;
+(b) messages between users and support team, support tickets, emails with our support team (as identified in your email), as part of support tickets data that are being retained during the term of your subscription and 5 years from the deletion of your user account;
 
-(c) messages between users and support team, support tickets, emails with our support team (as identified in your email), as part of support tickets data that are being retained during the term of your subscription and 5 years from the deletion of your user account;
-
-(d) hashed email address, IP address, profile ID (including, Hily ID, Facebook ID, Snapchat ID, Apple ID) and device ID (NOT a device IMEI) associated with banned account which are being retained during the term of your subscription and 5 years from the deletion of your user account owing to our legitimate interest (see section 6.6 hereof).
+(c) hashed email address, IP address, profile ID (including, Hily ID, Facebook ID, Snapchat ID, Apple ID) and device ID (NOT a device IMEI) associated with banned account which are being retained during the term of your subscription and 5 years from the deletion of your user account owing to our legitimate interest (see section 6.6 hereof).
 
 **6.4.** **Leftovers**. When your account is deleted (as well as your data) from the Services, copies of your data may still be viewable, if your data has been previously shared with others, or copied or stored by other users or other third parties. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your data, they may retain such information to the extent permitted under their own privacy policies.
 
