@@ -3,7 +3,7 @@ Privacy Policy
 
 [Print or download as PDF file](https://www.eharmony.co.uk/legal/privacy-policy/)
 
-Version: February 15th 2024
+Version: July 17th 2024
 
 Thank you for using eharmony!
 
@@ -29,13 +29,13 @@ You can find information about data processing in connection with Cookies and ot
 
 ### Contact / Data Controller
 
-Unless otherwise stated in this privacy policy or in our [Cookies & Tracking Policy](https://www.eharmony.co.uk/cookiesandtracking/) , the controller of your personal data is eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great Britain (hereafter “eharmony”, “us”, “our”, “we”).
+Unless otherwise stated in this privacy policy or in our [cookies & tracking policy,](https://www.eharmony.co.uk/cookiesandtracking/) the controller of your personal data is eHarmony UK Ltd., 3rd Floor, 1 Ashley Road, Altrincham, Cheshire,  WA14 2DT United Kingdom (hereafter “eharmony”, “us”, “our”, “we”).
 
 If you have any questions or suggestions about how we use your personal data, please contact us or our data protection officer.
 
 Our contact details are as follows:
 
-eHarmony UK Ltd., Customer Care, BM Box 5904, London WC1N 3XX, United-Kingdom, [privacypolicy@eharmony.co.uk](mailto:privacypolicy@eharmony.co.uk) (email)
+eHarmony UK Ltd., Customer Care, 3rd Floor, 1 Ashley Road, Altrincham, Cheshire WA14 2DT, United Kingdom, [privacypolicy@eharmony.co.uk](mailto:privacypolicy@eharmony.co.uk) (email)
 
 **You can reach our data protection officer at:**
 
