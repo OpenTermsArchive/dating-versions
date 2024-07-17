@@ -2,19 +2,19 @@ PERSONAL DATA PROTECTION
 
 POLICY
 
-Last update: 16 February 2024
+Last update: 16 July 2024
 
-This Privacy Policy concerns the processing of personal data (hereinafter "Personal Data") while you
+This Privacy Policy concerns the processing of personal data (hereinafter " Personal Data ") while you
 
-are using the smartphone or tablet application "FRUITZ" (hereinafter the "Application") as published by
+are using the smartphone or tablet application "FRUITZ" (hereinafter the " Application ") as published by
 
-FLASHGAP, a French “société par actions simplifiée” with share capital of EUR 28 829.60 registered
+FLASHGAP, a French “ société par actions simplifiée ” with share capital of EUR 28 829.60 registered
 
-under the number 805 232 352 at the Paris “Registre du Commerce et des Sociétés”, with
+under the number 805 232 352 at the Paris “ Registre du Commerce et des Sociétés ”, with
 
 headquarters located at 5 rue du Pont aux Choux 75003 Paris and represented by its President, Julian
 
-KABAB, (hereinafter "FLASHGAP"). FLASHGAP is operated by the “Bumble Group” (also referred to
+KABAB, (hereinafter " FLASHGAP "). FLASHGAP is operated by the “Bumble Group” (also referred to
 
 in this policy as “we” or “us”) which includes Bumble Holding Limited, Badoo Trading Limited and
 
@@ -32,9 +32,9 @@ protection, confidentiality and security of your Personal Data and to process an
 
 compliance with all applicable laws and regulations, in particular European Union Regulation 2016/679
 
-of 27 April 2016 (hereinafter the "GDPR") and French law n° 78-17 of 6 January 1978 known as the
+of 27 April 2016 (hereinafter the " GDPR ") and French law n° 78-17 of 6 January 1978 known as the
 
-"Loi informatique et libertés", and any other law or regulation that may be added to it or take its place .
+" Loi informatique et libertés ", and any other law or regulation that may be added to it or take its place .
 
 The purpose of this Privacy Policy is to inform you of the way FLASHGAP processes the Personal
 
@@ -42,11 +42,11 @@ Data that you provide, and that FLASHGAP collects, while you are using the Appli
 
 It applies to all use of the Application by individuals signed up to use the Application (hereinafter the
 
-"Users"). For any services provided and operated by third parties, please refer to the privacy policies
+" Users "). For any services provided and operated by third parties, please refer to the privacy policies
 
 of those service providers.
 
-1. What Personal Data is processed by FLASHGAP?
+1\. What Personal Data is processed by FLASHGAP?
 
 Personal Data means any information relating to an identified or identifiable natural person (“Data
 
@@ -89,10 +89,6 @@ both), your expectations in terms of relationship and your current state of mind
 this information at any time in the Application settings;
 
 ● at least one profile picture.
-
-Some of this information identifies you. Once communicated, the following information will be visible to
-
-other Users and made public on the Application:
 
 ● your photos;
 
@@ -166,11 +162,13 @@ For photo verification, we will scan each photo that you submit. The scan may in
 
 of facial recognition technology so that we can compare the photo you submit to your profile
 
-photos. We do not add the verification photos to your profile. We will keep your verification
+photos. We do not share it with third parties. We do not add the verification photos to your
 
-photo to scan and compare it with other photos you upload in the future.Data that FLASHGAP
+profile. We will only keep your original verification photo to scan and compare it with other
 
-collects from third parties
+photos you upload in the future.
+
+Data that FLASHGAP collects from third parties
 
 When you sign up to the Application with or:
 
@@ -210,7 +208,7 @@ numbers, for their validation, and your purchase and subscription history are ke
 
 FLASHGAP. FLASHGAP will not keep any information related to the payment methods used.
 
-2. Why does FLASHGAP process your Personal Data and what is the legal basis for the
+2\. Why does FLASHGAP process your Personal Data and what is the legal basis for the
 
 processing?
 
@@ -282,7 +280,7 @@ security of your Personal Data.
 
 To promote our services and optimize our advertising operations, we conduct marketing campaigns
 
-and allow selected partners, listed in point 5 below, to conduct campaigns on our behalf.
+and allow selected partners, listed in point 5 below , to conduct campaigns on our behalf.
 
 For this purpose, our partners may use cookies which require your consent. You can choose to refuse
 
@@ -296,7 +294,7 @@ set and modify your choices. You may also object to this processing by: writing 
 
 the use of your data for these purposes in the Application’s settings, or by sending an email to
 
-privacy@fruitz.io.
+privacy@fruitz.io .
 
 With your consent, we and our partners may process your Personal Data for the following purposes :
 
@@ -336,9 +334,9 @@ Conditions of Use
 
 ● Automated analysis of profile data and activity on the Application to ensure the quality of the
 
-User profiles and to detect false profiles, fraudulent behaviour or behaviour contrary to the
-
 [](#pf6)[](mailto:privacy@fruitz.io)
+
+User profiles and to detect false profiles, fraudulent behaviour or behaviour contrary to the
 
 Terms and Conditions of Use and the Code of Conduct.
 
@@ -352,7 +350,7 @@ The legal basis for this processing is the legitimate interest pursued by FLASHG
 
 fraudulent activity or compliance with a legal obligation to which FLASHGAP is subject
 
-3. How long does FLASHGAP keep your data?
+3\. How long does FLASHGAP keep your data?
 
 FLASHGAP keeps your Personal Data as long as necessary for the purposes for which they were
 
@@ -398,13 +396,13 @@ FLASHGAP undertakes to make its best efforts to guarantee the optimal security o
 
 is up to each User to take all appropriate measures to protect his or her own data.
 
-4. Personal Data of children
+4\. Personal Data of children
 
 The use of the Application is reserved exclusively for adults. In case of doubt, FLASHGAP reserves
 
 the right to verify by any means that the User is over 18 years old.
 
-5. To whom is your Personal Data intended and how is it shared?
+5\. To whom is your Personal Data intended and how is it shared?
 
 FLASHGAP’s authorized managers process Users’ Personal Data for the purposes described above
 
@@ -424,25 +422,27 @@ Users' Personal Data.
 
 In particular with :
 
-● social networks: connection via Google (https://policies.google.com/privacy?hl=en-US) and
+● social networks: connection via Google ( https://policies.google.com/privacy?hl=en-US ) and
 
-connection with Apple (https://www.apple.com/privacy//)
+connection with Apple (https://www.apple.com/privacy/ / )
 
 ● our marketing and analytics providers: Adjust GmbH, Saarbrücker Str. 37a. 10405 Berlin,
 
 Germany (https://help.adjust.com/fr/marketer/data-protection ), Adikteev 29 rue des
 
-Pyramides, 75001 Paris, France (https://www.adikteev.com/) Mixpanel One Front Street, 28th
+Pyramides, 75001 Paris, France ( https: //w ww .adikteev.com/ ) Mixpanel One Front Street, 28
 
-floor, San Francisco, CA 94111 (https://mixpanel.com/legal/ privacy-policy/), Appsflyer Inc.,
+th
+
+floor, San Francisco, CA 94111 ( https://mixpanel.com/legal/ privacy-policy/ ), Appsflyer Inc.,
 
 100 First Plaza, 100 1st St, San Francisco, United States
 
-(https://www.appsflyer.com/trust/privacy/)
+( https://www.appsflyer.com/trust/privacy/ )
 
-● our subcontractors for app hosting and maintenance: Google (https://
+● our subcontractors for app hosting and maintenance: Google ( https://
 
-policies.google.com/privacy?hl=en-US)
+policies.google.com/privacy?hl=en-US )
 
 FLASHGAP may also share your information with third parties:
 
@@ -452,7 +452,7 @@ FLASHGAP may also share your information with third parties:
 
 control, merger, acquisition, disposal, dissolution...
 
-6. Is your Personal Data transferred outside the European Union?
+6\. Is your Personal Data transferred outside the European Union?
 
 Users' Personal Data may be transferred to Google in the United States for data hosting services.
 
@@ -462,7 +462,7 @@ European Commission and approved certifications or other relevant security measu
 
 transfers from the EU to other countries.
 
-7. What are your rights and how to exercise them?
+7\. What are your rights and how to exercise them?
 
 In accordance with the GDPR and with French law n° 78-17 of 6 January 1978, known as the "Loi
 
@@ -506,7 +506,7 @@ the Application, in the "Settings" tab. FLASHGAP, as host, has the legal obligat
 
 your Personal Data for one (1) year under Article 6-II) of French Law N° 2004-575 of 21
 
-June 2004 “Loi pour la confiance dans l'économie numérique”. The data will be kept in a
+June 2004 “ Loi pour la confiance dans l'économie numérique ”. The data will be kept in a
 
 separate archive solely for the purpose of responding to a judicial requisition and will be
 
@@ -542,7 +542,7 @@ l'Informatique et des Libertés (CNIL) or any other competent supervisory author
 
 FLASHGAP prior to lodging a complaint.
 
-8. How to contact FLASHGAP?
+8\. How to contact FLASHGAP?
 
 For any question relating to this Privacy Policy or for any request relating to your Personal Data, you
 
@@ -554,7 +554,7 @@ or
 
 \- by mail at the following postal address : FLASHGAP, 5 rue du Pont aux Choux 75003 Paris.
 
-9. Language
+9\. Language
 
 Should the English and French versions of this Privacy Policy differ, the French version shall prevail.
 
