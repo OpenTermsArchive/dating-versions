@@ -1,11 +1,11 @@
 General Terms and Conditions of Use
 ===================================
 
-[Print or download as pdf file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Terms_and_Conditions_2022_11_29.pdf)
+[Print or download as pdf file](https://www.eharmony.co.uk/legal/terms-conditions/)
 
-Version: 29 November 2022
+Version: July 19th 2024
 
-**The following General Terms and Conditions of Use (“Terms and Conditions”) set out the contractual relationship between eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, Great-Britain (“eharmony”, “us”, “our”, “we”) and its customers (“you”) when you subscribe to and use the free-of-charge and chargeable eharmony Service (defined below), whether through a mobile device, mobile application (our app) or computer.**
+****The following General Terms and Conditions of Use (“Terms and Conditions”) set out the contractual relationship between eHarmony UK Ltd., 3rd Floor, 1 Ashley Road, Altrincham, Cheshire WA14 2DT United Kingdom (“eharmony”, “us”, “our”, “we”) and its customers (“you”) when you subscribe to and use the free-of-charge and chargeable eharmony Service (defined below), whether through a mobile device, mobile application (our app) or computer.****
 
 **Our [Community Guidelines](https://www.eharmony.co.uk/communityguidelines/) form part of and apply in addition to these Terms and Conditions.**
 
@@ -192,7 +192,7 @@ To exercise your right to cancel, you must notify us using any of the contact me
 by post:  
 eHarmony UK Ltd.  
 Customer Care  
-BM Box 5904 London WC1N 3XX  
+3rd Floor, 1 Ashley Road, Altrincham, Cheshire WA14 2DT  
 United Kingdom
 
 by email: [support@eharmony.co.uk](mailto:support@eharmony.co.uk)
@@ -265,11 +265,11 @@ These Terms and Conditions are between you and eharmony. These Terms and Conditi
 
 ### 16\. Contact Us
 
-16.1 eHarmony UK Ltd., 6-10 Great Portland Street, London W1W 8QL, United Kingdom, represented by its Board of Directors, is responsible for the content of the eharmony Service. You can contact us using the following contact details:  
+16.1 eHarmony UK Ltd., 3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT United Kingdom, represented by its Board of Directors, is responsible for the content of the eharmony Service. You can contact us using the following contact details:  
 by post:  
 eHarmony UK Ltd.  
 Customer Care  
-BM Box 5904 London WC1N 3XX  
+3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT  
 United Kingdom
 
 or by email: [support@eharmony.co.uk](mailto:support@eharmony.co.uk)
@@ -277,7 +277,7 @@ or by email: [support@eharmony.co.uk](mailto:support@eharmony.co.uk)
 ### Model cancellation form
 
 To  
-eharmony UK Ltd., Customer Care, BM Box 5904, London WC1N 3XX, United Kingdom  
+eharmony UK Ltd., Customer Care, 3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT, United Kingdom  
 Email: [support@eharmony.co.uk](mailto:support@eharmony.co.uk)
 
 I hereby give notice that I cancel my subscription for the provision of the following service
@@ -303,4 +303,4 @@ Your service password
 
 (\*) Your profile ID and service password were assigned to you when you registered to eharmony. You can access these at any time in your online profile in the section entitled “My Data & Settings” > “Manage Profile”.
 
-[Print or download as pdf file](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Terms_and_Conditions_2022_11_29.pdf)
+[Print or download as pdf file](https://www.eharmony.co.uk/legal/terms-conditions/)
