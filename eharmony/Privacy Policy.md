@@ -476,9 +476,3 @@ In general, if social media plugins are used, the providers of such plugins will
 ### Cookies & other tracking technologies
 
 You will find information on cookies and other tracking technologies that are used on our website and in our app in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/). If personal data is processed in connection with tracking-based processes, you will also find detailed information on the reasons for doing so in that policy, which includes information on how to object to this type of data processing.
-
-How it works
-
-Your search for a great relationship has never been easier with groundbreaking overhaul of the eharmony you know and trust.
-
-[Start free today](https://www.eharmony.co.uk/profile/registration/?itm=20210413_DA_CO_V_CTA_howitworks_startfreetoday)
