@@ -12,7 +12,7 @@ Qui sommes-nous ?
 
 Badoo Trading Limited agit en tant que contrôleur des données personnelles collectées et traitées via l'application et les sites Badoo (appelés « Nous » dans la présente Politique).
 
-Badoo a désigné un responsable de la protection des données, qu'il est possible de contacter en envoyant un e-mail à DPO@badoo.com ou par courrier postal à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+Badoo a désigné un responsable de la protection des données, qu'il est possible de contacter en envoyant un e-mail à DPO@badoo.com ou par courrier postal à l'adresse suivante : 1 Blossom Yard, Fourth Floor, London E1 6RS.
 
 1\. COLLECTE D'INFORMATIONS
 ---------------------------
@@ -304,7 +304,7 @@ Les droits particuliers qui vous sont applicables (pouvant inclure d'autres droi
 
 .
 
-Si vous souhaitez exercer l'un de vos droits énumérés ci-dessus, veuillez visiter notre page [Contact](https://badoo.com/feedback) ou envoyer un e-mail à notre responsable de la protection des données à DPO@badoo.com. Vous pouvez également nous contacter par courrier à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, Londres, Royaume-Uni, EC2A 2RS. Pour votre protection et la protection de tous nos utilisateurs, nous pouvons avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité avant de pouvoir répondre aux demandes ci-dessus.
+Si vous souhaitez exercer l'un de vos droits énumérés ci-dessus, veuillez visiter notre page [Contact](https://badoo.com/feedback) ou envoyer un e-mail à notre responsable de la protection des données à DPO@badoo.com. Vous pouvez également nous contacter par courrier à l'adresse suivante : 1 Blossom Yard, Fourth Floor, London E1 6RS. Pour votre protection et la protection de tous nos utilisateurs, nous pouvons avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité avant de pouvoir répondre aux demandes ci-dessus.
 
 Si vous avez des inquiétudes sur la manière dont nous avons traité votre demande ou vos données personnelles, vous devez nous contacter en premier lieu via les coordonnées indiquées ci-dessus.
 
@@ -344,4 +344,4 @@ Merci d'avoir pris le temps de lire ces Conditions Générales.
 
 Au fur et à mesure que Badoo évolue, nous pouvons réviser cette Politique de Confidentialité de temps à autre. La version la plus récente de la politique régira notre utilisation de vos informations et sera toujours disponible sur https://am1.badoo.com/fr/privacy/. Si nous apportons une modification à cette politique qui, à notre seule discrétion, est importante, nous vous en informerons, par exemple, via un e-mail à l'adresse e-mail associée à votre compte ou en publiant un avis dans Badoo.
 
-**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 16 février 2024.
+**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 2 août 2024.
