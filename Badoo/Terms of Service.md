@@ -17,13 +17,13 @@ Merci de bien vouloir lire attentivement l'intégralité des présentes Conditio
 Mentions légales complètes
 --------------------------
 
-\>Le site et l'application Badoo sont un réseau social conçu comme un forum où vous pouvez rencontrer de nouvelles personnes, discuter et partager des photos, des nouvelles et des informations. Il est destiné à être un endroit sympathique à visiter et il est important pour nous (et pour vous) qu'il reste un environnement sûr et convivial.Vous acceptez donc de n'utiliser Badoo que d'une manière conforme à son objectif et conforme avec ces termes et conditions, ainsi que les directives de la communauté Badoo et les conseils de sécurité (les « **Conditions** »). Lorsque nous mentionnons Badoo, nous entendons www.badoo.com, ainsi que les sites Web et applications affiliés.
+\>Le site et l'application Badoo sont un réseau social conçu comme un forum où vous pouvez rencontrer de nouvelles personnes, discuter et partager des photos, des nouvelles et des informations. Il est destiné à être un endroit sympathique à visiter et il est important pour nous (et pour vous) qu'il reste un environnement sûr et convivial. Vous acceptez donc de n'utiliser Badoo que d'une manière conforme à son objectif et conforme avec ces termes et conditions, ainsi que les directives de la communauté Badoo et les conseils de sécurité (les « **Conditions** »). Lorsque nous mentionnons Badoo, nous entendons www.badoo.com, ainsi que les sites Web et applications affiliés.
 
-Les Conditions constituent un accord juridique contraignant entre vous en tant qu'utilisateur (« **vous** ») et le groupe Badoo (« nous »). Le groupe Badoo comprend, mais sans s'y limiter, Badoo Trading Limited (une société anglaise dont le siège social est situé à The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS), Social Online Payments Limited (une société constituée en Irlande sous numéro d'entreprise 496494) et Social Online Payments, Inc. (une société constituée dans le Delaware sous le numéro d'entreprise 5214252).
+Les Conditions constituent un accord juridique contraignant entre vous en tant qu'utilisateur (« **vous** ») et le groupe Badoo (« nous »). Le groupe Badoo comprend, mais sans s'y limiter, Badoo Trading Limited (une société anglaise dont le siège social est situé à 1 Blossom Yard, Fourth Floor, London E1 6RS), Social Online Payments Limited (une société constituée en Irlande sous numéro d'entreprise 496494) et Social Online Payments, Inc. (une société constituée dans le Delaware sous le numéro d'entreprise 5214252).
 
 Les conditions s'appliquent chaque fois que vous visitez Badoo, que vous ayez choisi ou non de vous inscrire, donc veuillez les lire attentivement. En accédant, en utilisant, en vous inscrivant ou en recevant des services proposés sur Badoo, vous acceptez et acceptez d'être lié par les Conditions.
 
-SI VOUS N'ACCEPTEZ PAS ET N'ACCEPTEZ PAS LES CONDITIONS, VOUS NE DEVEZ PAS ACCÉDER OU UTILISER LES APP OU SITE.
+SI VOUS N'ÊTES PAS D'ACCORD ET N'ACCEPTEZ PAS LES CONDITIONS, VOUS NE DEVEZ PAS ACCÉDER OU UTILISER L'APPLICATION OU LE SITE.
 
 1\. Utilisation du site et de l'application, et règles relatives au contenu
 ---------------------------------------------------------------------------
@@ -256,9 +256,9 @@ www.badoo.com est un site et une application détenus et exploités par Badoo Tr
 
 Nous sommes enregistrés en Angleterre, sous le numéro d’immatriculation 07540255.
 
-Notre siège social est situé à l'adresse The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS.
+Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London E1 6RS.
 
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d'utilisation : 22 avril 2024.
+Dernière mise à jour des Conditions générales d'utilisation : 2 août 2024.
