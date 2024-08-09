@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective date: Jul 10, 2024
+Effective date: Aug 09, 2024
 
 Hily Privacy Policy (the “Policy”) explains all the privacy matters you may face when using our website, [https://hily.com](https://hily.com/) and other websites run by Hily (the “Website”) and Hily’s mobile and web-based applications (the “App”), jointly the “Service”, operated by Hily Corp. (“Hily” or “we”).
 
@@ -167,9 +167,13 @@ Additional processor: Lathinol Limited, a company with its registered address at
 
 **3.6.** **Additional Data Processors**. Where there is a necessity, we may also engage additional service providers, contractors and third parties services and may share the data with them. That will help us operate, provide, improve, integrate, customize, support, and market our Service and the Website. We share the data, in particular, for purposes indicated herein. The types of service providers we may share information with include, in particular: cloud storage providers, data analytics providers, measurement partners, marketing partners, payment processing providers, communication services providers, etc.
 
-**3.7.** **Moderation Practices.** We use moderators to monitor and review accounts (including name and any other information uploaded onto user profiles). If the user\`s profile meets certain criteria that demonstrate that the user is likely to breach the Terms of Use, the relevant profile will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Hily to contest the decision.
+**3.7. Sharing consumer information with the App Store.** By registering on our Hily app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.
 
-**3.8.** **Third Parties: Other Users and Social Media**. Some of your data is publicly available; it means that other users of Hily may have access to your data with which you go public. The following information may be visible:
+You can withdraw your consent at any time, please contact us at [support@hily.com](mailto:support@hily.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
+
+**3.8.** **Moderation Practices.** We use moderators to monitor and review accounts (including name and any other information uploaded onto user profiles). If the user\`s profile meets certain criteria that demonstrate that the user is likely to breach the Terms of Use, the relevant profile will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Hily to contest the decision.
+
+**3.9.** **Third Parties: Other Users and Social Media**. Some of your data is publicly available; it means that other users of Hily may have access to your data with which you go public. The following information may be visible:
 
 * Name;
 * Username;
@@ -194,7 +198,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (f) if you do not want to have your Hily profile linked to your profile on the third-party websites, please visit your Facebook, Snapchat or Apple profile and follow the instructions of those social media to remove the Hily access permissions.
 
-**3.9. Please note we collect personal data directly from you and we may also receive some of your personal data from third parties. For example:**
+**3.10. Please note we collect personal data directly from you and we may also receive some of your personal data from third parties. For example:**
 
 (a) From other social networks: when you connect to your Hily mobile application user account through one of your other social network accounts (e.g. Facebook account);
 
@@ -202,7 +206,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (c) From other users: other users of the Hily mobile application may provide us with personal data about you when they use our services (for example, when they contact us about you or mention information about you in their discussions with other users).
 
-**3.10.** **Third Parties: Law Protection and Enforcement Bodies; Attorneys-at-Law. Hily is a place free of any kind of abuse, violence, laws and third-party rights infringement. We designed Hily as a safe harbor for people to be themselves and express their emotions. We do our utmost to protect our biggest value, sense of security of our users, so we may disclose your data to third parties in the following cases:**
+**3.11.** **Third Parties: Law Protection and Enforcement Bodies; Attorneys-at-Law. Hily is a place free of any kind of abuse, violence, laws and third-party rights infringement. We designed Hily as a safe harbor for people to be themselves and express their emotions. We do our utmost to protect our biggest value, sense of security of our users, so we may disclose your data to third parties in the following cases:**
 
 (a) we will cooperate with law enforcement inquiries from within or outside your country of residence where we are required to by law, where there is an investigation into alleged criminal behaviour or to protect the vital interests of a person. We may share any personal data that we hold about you, depending on the nature of the request or the issue that we are dealing with;
 
@@ -262,8 +266,9 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 | to ensure a consistent experience across your devices | user ID, including third party’s ones; duration of a session; the history of the interaction of the App; data you provided our support team with via “Contact-us” form or a live-chat feature, including, email address, name, content of your request; localization of your device system; type and preferences of your device’s system; your device type; OS type (CCPA categories A, B, D, F, G and K) | we automatically collect from your device | performing of the contract with you |
 | to analyze use of the Services; to improve our Services | gender; age; partner ID; zodiac sign; body shapes data; occupation; Hily tags; relationship status; content placing history; in-app activity logs; friends list; logins/logouts log; duration of sessions; location; type and preference of your device’s system; your device type; OS type; lodged and received complaints; low power mode; Apple Watch connection; mobile carrier; system user interface style; is pin or fingerprint set on your device; font size; is headphones connected to your device; system memory volume; battery state; battery level; total disk capacity; free disk storage capacity; airplane mode”, available processors of JVM, charge device related information, charge USB related information, power capacity, camera presence information, device landscape information, display density, app install time, free disk space, font scale, GPS presence information, tablet information, power save mode, device memory size information, system interface style, total disk capacity | you directly provide this information to us and we automatically collect it from your device (location, type and preferences of your device’s system, your device type, OS type) | legitimate interest |
 | to contact you in order to obtain feedback and to find out if you want to take part in marketing campaigns and to send information about service (direct marketing) | name; email address; user ID; data you disclose to us (CCPA categories A and B) | you directly provide this information to us and we automatically collect it from your device (user id) | legitimate interest or consent |
-| to help you to connect with other users and<br><br>to allow you to create a Hily profile | ethnic origin, political opinions, religious beliefs | you directly provide this information to us | your explicit consent |
+| to help you to connect with other users and  <br>to allow you to create a Hily profile | ethnic origin, political opinions, religious beliefs | you directly provide this information to us | your explicit consent |
 | to communicate on your activity within our Services. As a result, you may, for example, receive a push notification every day at a particular time reminding you to read. | push notification tokens, localization of your device system; type and preferences of your device’s system; your device type | we automatically collect from your device | your explicit consent |
+| to help inform and improve the refund process in the Apple store | age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, kind of the platform, the status of your account, the total amount of refunds you received in your app, delivery status | we automatically collect from your device | your consent |
 
 **5.5.** **Legal Bases**. Legal bases are the grounds set forth by the GDPR on which we may process your data. We rely on the following legal bases:
 
