@@ -132,9 +132,13 @@ Si vous choisissez de participer à l'un des jeux, services premium ou une gamme
 
 ### Mes crédits sont-ils acquis pour une durée indéterminée ?
 
-Non, nous nous réservons le droit de supprimer vos crédits inutilisés après 6 mois (sauf s’ils ont été achetés via iTunes). Si vous supprimez votre compte, ou si votre compte est résilié par nos services pour cause de non-respect des présentes Conditions, vos crédits seront perdus. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les supprimer à tout moment. De la même manière, si vous recevez des crédits supplémentaires dans le cadre de votre abonnement Premium, nous serons en mesure de modifier le nombre de ces crédits supplémentaires et/ou les faire expirer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire à moins que nous y consentions par écrit.
+Non. Nous nous réservons le droit de faire expirer les crédits inutilisés au bout de 6 mois à compter de la date d'achat (à moins que les crédits aient été achetés via iTunes). Si vous supprimez votre compte ou si votre compte est résilié en raison d'une violation de ces Conditions, vous perdrez tous les crédits accumulés. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les faire expirer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire de notre part, à moins que nous en convenions autrement par écrit.
 
-Pour plus d’informations relatives aux conditions de paiement, merci de consulter nos Conditions de service sur la page de recharge.
+### Crédits bonus sous abonnements premium
+
+Si vous recevez des crédits bonus sur des packs de crédits achetés dans le cadre d'une fonctionnalité premium (par exemple, en tant qu'abonné Extra ou Premium), nous nous réservons le droit de modifier le pourcentage de crédits bonus disponibles dans le cadre de cette fonctionnalité à notre discrétion. Les crédits bonus ne s'appliquent qu'aux packs de crédits à plein tarif.
+
+Pour plus d’informations relatives aux conditions de paiement, merci de consulter nos Conditions de service sur la page "recharge".
 
 4\. Accès au site et à l’application
 ------------------------------------
@@ -261,4 +265,4 @@ Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d'utilisation : 2 août 2024.
+Dernière mise à jour des Conditions générales d'utilisation : 16 août 2024.
