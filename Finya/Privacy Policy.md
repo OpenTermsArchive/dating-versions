@@ -65,7 +65,7 @@ Diese oben beschriebenen Daten sind technisch erforderlich, um Ihnen die Nutzung
 
 ### c) Rechtsgrundlage
 
-Rechtsgrundlage für die Verarbeitung dieser Daten ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO bzw. § 25 Abs. 2 Nr. 2 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG).
+Rechtsgrundlage für die Verarbeitung dieser Daten ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO bzw. § 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG).
 
 ### d) Speicherdauer
 
@@ -82,9 +82,9 @@ Wir verwenden Cookies. Cookies sind kleine Textdateien oder Informationen in ein
 
 Einige Funktionen unserer Website können ohne den Einsatz technisch notwendiger Cookies nicht angeboten werden. Andere Cookies ermöglichen uns dagegen verschiedene Analysen. So können einige Cookies den von Ihnen verwendeten Browser bei einem erneuten Besuch unserer Website wiedererkennen und verschiedene Informationen an uns übermitteln. Wir verwenden Cookies, um die Benutzung unserer Website zu erleichtern und zu verbessern. So können wir durch Cookies unter anderem unser Internet-Angebot für Sie nutzerfreundlicher und effektiver gestalten, indem wir beispielsweise Ihre Nutzung unserer Website nachvollziehen und Ihre bevorzugten Einstellungen (bspw. Länder- und Spracheneinstellungen) feststellen. Sofern Dritte über Cookies Informationen verarbeiten, erheben diese die Informationen direkt über Ihren Browser. Cookies richten auf Ihrem Endgerät keinen Schaden an.
 
-Sofern im Rahmen von Datenverarbeitungen auf dieser Website Cookies oder cookieähnliche Technologien eingesetzt werden, erfolgt die Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der Zugriff auf bereits in der Endeinrichtung des Endnutzers gespeicherte Information aufgrund Ihrer Einwilligung gemäß § 25 Abs. 1 S. 1 Telekommunikations-Telemedien-Datenschutz-Gesetz (TTDSG) in Verbindung mit den Voraussetzung einer datenschutzrechtlichen Einwilligung gemäß Art. 4 Nr. 11, 7 DS-GVO.
+Sofern im Rahmen von Datenverarbeitungen auf dieser Website Cookies oder cookieähnliche Technologien eingesetzt werden, erfolgt die Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der Zugriff auf bereits in der Endeinrichtung des Endnutzers gespeicherte Information aufgrund Ihrer Einwilligung gemäß § 25 Abs. 1 S. 1 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG) in Verbindung mit den Voraussetzung einer datenschutzrechtlichen Einwilligung gemäß Art. 4 Nr. 11, 7 DS-GVO.
 
-Falls die Cookie-Nutzung der alleinige Zweck der Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der alleinige Zweck des Zugriffs auf bereits in der Endeinrichtung des Endnutzers gespeicherte Informationen die Durchführung der Übertragung einer Nachricht über ein öffentliches Telekommunikationsnetz ist oder die Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der Zugriff auf bereits in der Endeinrichtung des Endnutzers gespeicherte Informationen unbedingt erforderlich ist, damit der Anbieter eines Telemediendienstes einen vom Nutzer ausdrücklich gewünschten Telemediendienst zur Verfügung stellen kann, erfolgen die Datenverarbeitungen auf dieser Website aufgrund von Cookies oder cookieähnliche Technologien auf Grundlage von § 25 Abs. 2 TTDSG.
+Falls die Cookie-Nutzung der alleinige Zweck der Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der alleinige Zweck des Zugriffs auf bereits in der Endeinrichtung des Endnutzers gespeicherte Informationen die Durchführung der Übertragung einer Nachricht über ein öffentliches Telekommunikationsnetz ist oder die Speicherung von Informationen in der Endeinrichtung des Endnutzers oder der Zugriff auf bereits in der Endeinrichtung des Endnutzers gespeicherte Informationen unbedingt erforderlich ist, damit der Anbieter eines Telemediendienstes einen vom Nutzer ausdrücklich gewünschten Telemediendienst zur Verfügung stellen kann, erfolgen die Datenverarbeitungen auf dieser Website aufgrund von Cookies oder cookieähnliche Technologien auf Grundlage von § 25 Abs. 2 TDDDG.
 
 Für die nachfolgenden Verarbeitungen personenbezogener Daten sind wiederum die allgemeinen Vorgaben der DS-GVO gemäß Art. 6 Abs. 1 DS-GVO zu beachten:
 
@@ -109,7 +109,7 @@ Unsere Webseite verwendet ein Consent-Management-System, um Ihre Einwilligung zu
 
 Beim Betreten der Webseite speichert unser Consent-Management-System ein Cookie in Ihrem Browser, in dem die von Ihnen erteilten Einwilligungen bzw. Widerrufe der Einwilligungen dokumentiert werden. Hierbei handelt es sich um ein notwendiges Cookie, welches keiner Einwilligung bedarf.
 
-Rechtsgrundlage für die Datenverarbeitung ist § 25 Abs. 2 Nr. 2 TTDSG bzw. Art. 6 Abs. 1 S. 1 lit. f DS-GVO. Wir haben ein berechtigtes Interesse daran, den Nachweis für ein datenschutzkonformes Einwilligungsmanagement erbringen zu können.
+Rechtsgrundlage für die Datenverarbeitung ist § 25 Abs. 2 Nr. 2 TDDDG bzw. Art. 6 Abs. 1 S. 1 lit. f DS-GVO. Wir haben ein berechtigtes Interesse daran, den Nachweis für ein datenschutzkonformes Einwilligungsmanagement erbringen zu können.
 
 Die Cookies werden so lange gespeichert, bis Sie uns auffordern, diese Daten zu löschen, Sie das Cookie selbst löschen oder die Speicherung für den Zweck der Datenverarbeitung nicht mehr erforderlich ist.
 
@@ -122,7 +122,7 @@ Wir verwenden folgende Kategorien von Cookies:
 
 #### Erforderliche Cookies
 
-Erforderliche Cookies gewährleisten Funktionen ohne die unsere Website nicht wie vorgesehen genutzt werden kann. Diese unbedingt notwendigen Cookies dienen zum Beispiel dazu, dass angemeldete Nutzer bei Zugriff auf verschiedene Unterseiten stets angemeldet bleiben. Es handelt sich um sog. Erstanbieter-Cookies (First Party Cookies), diese Cookies werden ausschließlich von uns verwendet. Da diese technisch erforderlich sind, bedürfen diese Cookies keiner Einwilligung. Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist § 25 Abs. 2 Nr. 2 TTDSG bzw. Art. 6 Abs. 1 S. 1 lit. f DS-GVO, da wir ein berechtigtes Interesse in der Aufrechterhaltung der Funktionalität unseres Webseitauftritts haben. Sobald die Cookies für die beschriebenen Zwecke nicht mehr erforderlich sind, werden diese gelöscht. Ihnen steht grundsätzlich ein Widerspruchsrecht nach Maßgabe von Art. 21 DS-GVO zu. Bei technisch notwendigen Cookies haben wir allerdings zwingende schutzwürdige Gründe für die Verarbeitung der Daten, denn ohne Verarbeitung dieser Daten können wir unsere Website bzw. die jeweilige Funktionalität nicht oder nicht ordnungsgemäß bereitstellen.
+Erforderliche Cookies gewährleisten Funktionen ohne die unsere Website nicht wie vorgesehen genutzt werden kann. Diese unbedingt notwendigen Cookies dienen zum Beispiel dazu, dass angemeldete Nutzer bei Zugriff auf verschiedene Unterseiten stets angemeldet bleiben. Es handelt sich um sog. Erstanbieter-Cookies (First Party Cookies), diese Cookies werden ausschließlich von uns verwendet. Da diese technisch erforderlich sind, bedürfen diese Cookies keiner Einwilligung. Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist § 25 Abs. 2 Nr. 2 TDDDG bzw. Art. 6 Abs. 1 S. 1 lit. f DS-GVO, da wir ein berechtigtes Interesse in der Aufrechterhaltung der Funktionalität unseres Webseitauftritts haben. Sobald die Cookies für die beschriebenen Zwecke nicht mehr erforderlich sind, werden diese gelöscht. Ihnen steht grundsätzlich ein Widerspruchsrecht nach Maßgabe von Art. 21 DS-GVO zu. Bei technisch notwendigen Cookies haben wir allerdings zwingende schutzwürdige Gründe für die Verarbeitung der Daten, denn ohne Verarbeitung dieser Daten können wir unsere Website bzw. die jeweilige Funktionalität nicht oder nicht ordnungsgemäß bereitstellen.
 
 #### Statistik-Cookies
 
@@ -136,7 +136,7 @@ Statistik-Cookies sammeln Informationen über die Nutzungsweise einer Website um
 * Anteil von mobilen Endgeräten, die auf unsere Websiten zugreifen
 * Analyse, welche Bereiche unserer Website Sie besonders interessieren
 
-Rechtsgrundlage für die Verarbeitung dieser personenbezogenen Daten ist Ihre Einwilligung gemäß § 25 Abs. 1 S. 1 TTDSG in Verbindung mit Art. 4 Nr. 11, 7 DS-GVO bzw. Art. 6 Abs. 1 S. 1 lit. a DS-GVO für die nachfolgende Verarbeitung personenbezogener Daten. Sobald die Cookies für die beschriebenen Zwecke nicht mehr erforderlich sind, die Speicherdauer endet oder Sie Ihre Einwilligung widerrufen, werden diese Cookies gelöscht.
+Rechtsgrundlage für die Verarbeitung dieser personenbezogenen Daten ist Ihre Einwilligung gemäß § 25 Abs. 1 S. 1 TDDDG in Verbindung mit Art. 4 Nr. 11, 7 DS-GVO bzw. Art. 6 Abs. 1 S. 1 lit. a DS-GVO für die nachfolgende Verarbeitung personenbezogener Daten. Sobald die Cookies für die beschriebenen Zwecke nicht mehr erforderlich sind, die Speicherdauer endet oder Sie Ihre Einwilligung widerrufen, werden diese Cookies gelöscht.
 
 6\. Dienste mit erforderlichen Cookies
 --------------------------------------
