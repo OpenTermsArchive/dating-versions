@@ -1,7 +1,7 @@
 Cookie Policy
 =============
 
-Effective date: Nov 10, 2023
+Effective date: Aug 29, 2024
 
 This Cookie Policy (the “Policy”) is an integral part of the [Hily’s Terms of Use](https://hily.com/terms?locale=EN) (the “Terms”) and [Privacy Policy](https://hily.com/privacypolicy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
 
@@ -68,6 +68,7 @@ Any translation from English version is provided for your convenience only. In t
 | YSC | This cookie is used by YouTube to remember user input and associate a user’s actions. “YSC” cookies ensure that requests within a browsing session are made by the user and not by other sites | Targeting/<br><br>Advertising | When the browsing session ends | google.com |
 | \_\_Secure-1PAPISID<br><br>\_\_Secure-3PAPISID<br><br>\_\_Secure-1PSID<br><br>\_\_Secure-3PSID | Used by for targeting purposes to build a profile of the website visitor’s interests in order to show relevant and personalised Google advertising. | Targeting/<br><br>Advertising | 2 years | google.com |
 | \_\_Secure-3PSIDCC | Used by for targeting purposes to build a profile of the website visitor’s interests in order to show relevant and personalised Google advertising | Targeting/<br><br>Advertising | 1 year | google.com |
+| \_ga  <br>(\_ga\_154EKDNFWE, \_ga\_5QGFXYQ2TL, \_ga\_8K0TFDEW7S, \_ga\_GGKXBQ1QBL, \_ga\_Q60SJYZME9) | Google Universal Analytics used to track unique visitors to collect information about traffic and navigation. | Targeting/<br><br>Advertising | 2 years | [analytics.google.com](https://policies.google.com/technologies/cookies?hl=en-US) |
 
 4\. Social Cookies
 ------------------
