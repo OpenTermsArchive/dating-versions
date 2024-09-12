@@ -27,7 +27,7 @@ DE238472376
 Nutzeranfragen und Support
 --------------------------
 
-Zu den häufigsten Fragen – z. B. zu Features, zur Mitgliedschaft und zu vielen weiteren Themen – findest du Antworten und Unterstützung auf unseren [Hilfe-Seiten](https://www.finya.de/Help/faq).
+Zu den häufigsten Fragen – z. B. zu Features, zur Mitgliedschaft und zu vielen weiteren Themen – findest du Antworten und Unterstützung auf unseren [Hilfe-Seiten](https://www.finya.de/Help/faq). Unsere allgemeine E-Mail-Adresse lautet kontakt(at)finya.de.
 
 Behördenanfragen
 ----------------
