@@ -3,7 +3,7 @@ Informations sur les cookies et les technologies de suivi lors de l’utilisatio
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/cookies-and-tracking/)
 
-Dernière mise à jour: 02.02.2024
+Dernière mise à jour: 17.09.2024
 
 **Aperçu de la gestion des cookies et des technologies de suivi ou de la révocation du consentement accordé**
 -------------------------------------------------------------------------------------------------------------
