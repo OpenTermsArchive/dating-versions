@@ -3,7 +3,7 @@ Politique de protection des données pour l’utilisation de Parship – France
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/privacy-policy/)
 
-Dernière mise à jour : 03.06.2024
+Dernière mise à jour : 18.09.2024
 
 Merci d’utiliser Parship ! Vous trouverez ici des informations concernant les données à caractère personnel recueillies par Parship, la façon dont nous traitons ces données et les options dont vous disposez en tant qu’utilisateur.
 
@@ -71,10 +71,12 @@ Afin de fournir les services décrits plus en détail dans les [Conditions Gén
 Lors de l’inscription initiale gratuite (souscription d’un « Abonnement Basic »), il est demandé à l’utilisateur (ou « Membre Basic ») de fournir quelques informations minimales sans lesquelles l’inscription ne peut pas être finalisée. Ces données sont :
 
 * Propre sexe et sexe de la personne recherchée (comme une donnée d’orientation sexuelle, et donc une donnée à caractère personnel de catégorie particulière).
+* Réponse à la question : « Avez-vous déjà testé la recherche de partenaire en ligne ? » (expériences dans la recherche de partenaires en ligne)
+* Réponse à la question : « Que recherchez-vous » (objectif de la recherche)
 * Adresse e-mail
 * Un mot de passe choisi par l’utilisateur.
 
-Si vous avez choisi de vous connecter via des fournisseurs tiers tels que Google, Facebook ou Apple, il n’est pas nécessaire de fournir d’adresse e-mail ou de mot de passe lors de la procédure d’inscription.
+Si vous avez choisi de vous connecter via des fournisseurs tiers tels que Google ou Apple, il n’est pas nécessaire de fournir d’adresse e-mail ou de mot de passe lors de la procédure d’inscription.
 
 L’accès à Parship s’effectue alors par l’intermédiaire de l’adresse e-mail et du mot de passe (« données de connexion ») choisis par l’utilisateur ou via les identifiants de connexion du fournisseur tiers.
 
@@ -97,16 +99,6 @@ Nous n’avons aucune influence sur le volume de données recueillies par Apple 
 Vous pouvez à tout moment dissocier votre compte Parship de votre compte Apple sur notre site. Dans ce cas, nous avons besoin de vos données d’accès décrites ci-dessus, **c’est-à-dire que vous devez établir des données d’accès alternatives, comme décrit ci-dessus.**
 
 Vous retrouverez d’autres informations sur la finalité et le volume de la collecte des données, le traitement et l’utilisation ultérieurs de ces dernières par Apple ainsi que sur vos droits et possibilités de paramétrages pour protéger vos données dans l’engagement de confidentialité d’Apple : [https://www.apple.com/fr/legal/privacy/fr-ww/.](https://www.apple.com/fr/legal/privacy/fr-ww/)
-
-**Lors de l’inscription via Facebook (« Facebook Login »)**
-
-Parship utilise l’outil « Inscrire avec Facebook » avec la fonction « Data Access ». Parship vous offre ainsi la possibilité de vous inscrire via votre compte Facebook. Si vous utilisez cette fonction, Facebook nous transmettra les données d’authentification suivantes pour l’inscription : l’adresse e-mail que vous lui avez fournie, votre nom de profil et votre photo de profil. Seule votre adresse e-mail enregistrée sera stockée et utilisée par Parship. À cet égard, un transfert des données a donc lieu. Le nom et la photo de votre profil Facebook ne seront ni stockés ni traités par Parship, mais automatiquement supprimés.
-
-Si vous utilisez le login Facebook sur notre site web ou notre application, Facebook recueillera également des données par le biais de scripts tiers, les traitera à des fins d’analyse Facebook Analytics ou les transmettra à des tiers. Nous n’avons aucune influence sur la portée des données collectées par Facebook via le login Facebook. La Politique de confidentialité de Facebook mentionne les données qui peuvent être collectées par le biais de la connexion à Facebook. Ceci comprend les données relatives à votre appareil, votre utilisation de Parship, les sites web que vous avez visités et les publicités que vous avez consultées. Malheureusement, il n’est techniquement pas possible pour Parship de refuser ce traitement. Si vous ne souhaitez pas que Facebook recueille des informations vous concernant et les utilise à ses propres fins dans le cadre de votre utilisation de notre service en ligne, vous ne devez pas utiliser le login Facebook.
-
-Vous pouvez à tout moment dissocier votre compte Parship de votre compte Facebook sur notre site. Dans ce cas, nous avons besoin de vos données d’accès décrites ci-dessus, **c’est-à-dire que vous devez établir des données d’accès alternatives, comme décrit ci-dessus.**
-
-Vous retrouverez d’autres informations sur la finalité et le volume de la collecte des données, le traitement et l’utilisation ultérieurs de ces dernières par Facebook ainsi que sur vos droits et possibilités de paramétrages pour protéger vos données dans la Politique d’utilisation des données de Facebook : [http://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
 **Informations requises dans le cadre d’un Abonnement Basic**
 
@@ -152,7 +144,7 @@ Parship enregistre les communications des membres entre eux qui ont lieu via la 
 
 Veuillez prendre note des informations suivantes concernant la communication avec notre service clientèle : Lorsque vous communiquez avec notre service clientèle
 
-1. par l’intermédiaire du formulaire de contact, la transmission du formulaire est cryptée. La transmission de notre réponse à votre demande est cryptée, dans la mesure où votre fournisseur de messagerie prend en charge le cryptage de transport Transport Layer Security (TLS),
+1. par lʼintermédiaire du formulaire de contact, cette transmission est chiffrée ; notre réponse à votre requête vous parvient par e-mail et est chiffrée pendant le transport si votre fournisseur de messagerie prend en charge le protocole de chiffrement de transport Transport Layer Security (TLS),
 2. par e-mail, la transmission de l’e-mail est cryptée, dans la mesure où votre fournisseur de messagerie prend en charge le cryptage de transport (TLS).
 3. – si la fonction est proposée – via la fonction de chat pour les membres connectés au portail du service client, la transmission de la communication par chat est également chiffrée en TLS (le TLS est un chiffrement de la couche de transport). Si la fonction de chat est utilisée pour communiquer avec le service client, un protocole de chat correspondant peut être mis à disposition.
 
@@ -170,7 +162,7 @@ Si un utilisateur signale d’éventuels contenus illégaux ou des violations de
 
 **E-mails publicitaires – Newsletters – Messages**
 
-Lors de la souscription de l’Abonnement Basic gratuit, vous saisissez votre adresse électronique, ou cette dernière est fournie par Apple/Facebook/Google (en cas d’inscription via ces derniers). Cette adresse e-mail, ou les éventuelles adresses que vous auriez fournies ultérieurement, seront également utilisées pour envoyer des e-mails publicitaires faisant la promotion de produits gratuits et payants de la société PE Digital GmbH, sans qu’il soit nécessaire d’obtenir votre consentement.
+Lors de la souscription de l’Abonnement Basic gratuit, vous saisissez votre adresse électronique, ou cette dernière est fournie par Apple ou Google (en cas d’inscription via ces derniers). Cette adresse e-mail, ou les éventuelles adresses que vous auriez fournies ultérieurement, seront également utilisées pour envoyer des e-mails publicitaires faisant la promotion de produits gratuits et payants de la société PE Digital GmbH, sans qu’il soit nécessaire d’obtenir votre consentement.
 
 Sur le site Parship, il est par ailleurs possible, en cliquant sur une case à cocher, de s’abonner à une newsletter gratuite. Pour ce faire, l’adresse e-mail associée à votre profil est également utilisée.
 
@@ -262,10 +254,11 @@ Parship traite les données à caractère personnel de ses utilisateurs aux fins
 * (La base juridique du traitement est l’exécution du contrat avec vous. Dans certains cas, la base juridique est votre consentement. Notre obligation légale ainsi que notre intérêt légitime à proposer un service client et à améliorer l’expérience client peuvent également constituer la base juridique.)
 * Le cas échéant, anonymisation en amont des ensembles de données à des fins de formation de nos systèmes d’intelligence artificielle (l’article 6, paragraphe 4 du RGPD s’applique ici.)
 * Pour les tests A/B. La base juridique de l’utilisation des tests A/B est l’intérêt légitime de Parship. Cet intérêt légitime consiste à améliorer la convivialité et l’attractivité de notre site web.
-* Pour la mise à disposition d’une connexion via la plate-forme Parship, le login Facebook ou le login Apple. (La base juridique du traitement est l’exécution de notre contrat.)
+* Pour la mise à disposition d’une connexion via la plate-forme Parship, le login Google ou le login Apple. (La base juridique du traitement est l’exécution de notre contrat.)
 * Afin de prévenir et protéger contre tout abus. Parship collecte, traite et utilise les données à caractère personnel et les données géographiques recueillies dans le cadre de votre inscription et lorsque vous renseignez le test de personnalité Parship et le profil Parship afin de vérifier automatiquement s’il existe des indices ou des données indiquant une utilisation abusive de Parship. Les données sont stockées dans une base de données et comparées à des valeurs empiriques. Si le traitement automatisé révèle une suspicion d’abus, un employé de Parship analyse les résultats de la vérification et les indices sous-jacents, puis les éventuelles informations en texte libre et photos de profil enregistrées. Par ailleurs, Parship fournit à ses membres une fonctionnalité dénommée « Signaler ce profil », et procède à des contrôles de profil par les collaborateurs du service clientèle lorsque d’autres membres ont signalé des violations du contrat. En outre, Parship utilise le numéro de téléphone portable fourni à titre volontaire pour vérifier l’identité de la personne en envoyant un SMS sur le téléphone portable. (L’intérêt légitime de Parship et des membres de Parship à ce que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d’accès ou des accès non autorisés. De plus, la base juridique de mise en œuvre de la procédure de notification ainsi que de réclamation (« Signaler un profil ») et le traitement des notifications qui y est associé constituent l’accomplissement d’une obligation légale.)
 * En outre, pour la sécurité des données (en particulier la disponibilité conformément aux obligations de l’article 5, paragraphe 1, point f), et de l’article 32 paragraphe 1 lettre d du RGPD). (L’intérêt légitime de Parship à garantir la sécurité des données et des membres de Parship pour que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d’accès ou des accès non autorisés.)
-* Pour proposer des offres personnalisées (par ex. pour le calcul automatisé des prix). Par principe, nous n’avons pas recours à la prise de décision entièrement automatisée selon l’article 22 du RGPD, mais nous traitons vos données de manière partiellement automatisée afin de pouvoir vous proposer des offres de produits adaptées. Les données suivantes sont utilisées à cette fin : âge, sexe, revenus et code postal. (La base juridique est la réalisation de la relation contractuelle ainsi que notre intérêt légitime à nous adresser à nos utilisateurs de manière ciblée et personnalisée.)
+* Pour proposer des offres personnalisées (par ex. pour le calcul automatisé des prix). Par principe, nous n’avons pas recours à la prise de décision entièrement automatisée selon l’article 22 du RGPD, mais nous traitons vos données de manière partiellement automatisée afin de pouvoir vous proposer des offres de produits adaptées. Les données suivantes sont utilisées à cette fin : âge, sexe, objectif de la recherche, expériences dans la recherche de partenaire en ligne, revenus et code postal. (La base juridique est la réalisation de la relation contractuelle ainsi que notre intérêt légitime à nous adresser à nos utilisateurs de manière ciblée et personnalisée.)
+* Pour l’amélioration de l’expérience utilisateur (interrogation de l’objectif de la recherche et interrogation des expériences dans la recherche de partenaire en ligne). (La base juridique est lʼexécution du contrat, ainsi que notre intérêt légitime à fournir à nos utilisateurs des fonctionnalités ciblées et personnalisées.)
 * Afin de garantir l’exécution de vos obligations découlant de la relation contractuelle en cas de défaut de paiement (ceci ne s’applique qu’à l’achat via Parship). Si, malgré des rappels répétés, vous ne réglez pas les factures / les paiements partiels en souffrance, nous transmettons les données nécessaires à l’exécution d’une procédure de recouvrement à un prestataire de services de recouvrement dans le but d’un recouvrement fiduciaire. En cas de demandes de paiements litigieuses, nous transmettons également les données nécessaires correspondantes à nos prestataires de paiement pour faire valoir nos droits (ou en cas d’obligations de paiement litigieuses, de demandes de banques et/ou dans le cadre de la résolution de conflits en cas de rétro-facturation). (Outre l’exécution de la relation contractuelle, l’intérêt légitime de Parship au paiement de la rémunération convenue dans le contrat constitue la base juridique.)
 * Pour la protection et la défense de nos droits et le respect des obligations légales. (La base juridique est, outre le respect d’une obligation légale, notre intérêt légitime à faire valoir et à défendre nos droits).
 * Pour l’exploitation de notre site web, de nos applications et la mise à disposition de services en ligne expressément demandés par les utilisateurs (base juridique : l’article 82 de la loi Informatique et Libertés).
@@ -362,7 +355,7 @@ Parship utilise le service de géolocalisation GeoIP2 Precision City de MaxMind,
 
 Pour protéger la plate-forme Parship et les utilisateurs Parship contre les fraudes et les abus, Parship utilise le service de prévention des usages abusifs de la société iovation Inc sise 555 SW Oak Street #300, Portland, OR 97204 aux États-Unis. Lorsque vous accédez à la plate-forme Parship, le service iovation vérifie votre adresse IP, la date et l’heure d’accès, l’URL de référence et les informations du navigateur afin de déterminer la probabilité de fraude. Toutes les données personnelles obtenues par iovation sont pseudonymisées, chiffrées et soumises aux principes de minimisation des données.
 
-Nous avons conclu un accord avec iovation dans le cadre de l’Independent Controlling sur la base des clauses contractuelles types de l’UE (module 1).
+Nous avons conclu un accord avec iovation dans le cadre du contrôle indépendant basé sur les clauses contractuelles types européennes de la Commission européenne du 04/06/2021 (module 1) et des ajouts au contrat nécessaires pour les transferts dans des pays tiers de données à caractère personnel des utilisateurs issus de Suisse ou du Royaume-Uni.
 
 Vous trouverez plus de renseignements sur iovation [ici](https://www.transunion.com/privacy/iovation).
 
@@ -373,7 +366,7 @@ Nous conservons vos données aussi longtemps que nécessaire pour la mise à dis
 
 Nous verrouillons les données, soumises à un délai de conservation, jusqu’à l’écoulement du délai.
 
-Pour les Membres Basic, les règles suivantes s’appliquent : vous avez à tout moment la possibilité de vous opposer, avec effet pour l’avenir, au stockage des données à caractère personnel contenues dans votre profil. Si vous ne disposez d’aucun Abonnement Premium ni de Match Unlocks, vous pouvez également supprimer vous-mêmes les données de votre profil (à condition d’avoir finalisé le questionnaire Parship) en vous connectant au site web Parship, ou à l’application iOS dans la rubrique « Paramètres du profil », et en lançant le processus de suppression. Parship supprime automatiquement les données du profil personnel des membres Basic restés inactifs pendant 24 mois consécutifs.
+Pour les Membres Basic, les règles suivantes s’appliquent : vous avez à tout moment la possibilité de vous opposer, avec effet pour l’avenir, au stockage des données à caractère personnel contenues dans votre profil. Si vous ne disposez d’aucun Abonnement Premium ni de Match Unlocks, vous pouvez également supprimer vous-mêmes les données de votre profil (à condition d’avoir finalisé le questionnaire Parship) en vous connectant au site web Parship, ou à l’application iOS ou Android dans la rubrique « Paramètres du profil », et en lançant le processus de suppression. Parship supprime automatiquement les données du profil personnel des membres Basic restés inactifs pendant 24 mois consécutifs.
 
 Les données de profil liées aux Match Unlocks sont supprimées après deux ans d’inactivité, ou au plus tard quatre ans après la date d’achat.
 
@@ -432,7 +425,7 @@ Nous sommes en droit de ne pas donner une suite favorable à ce type de demande,
 * à des fins d’archivage dans l’intérêt public, de recherche scientifique ou historique ou à des fins statistiques ;
 * dans une démarche visant à faire valoir ou défendre des droits légaux.
 
-Si vous ne possédez pas d’Abonnement Premium ou de Match Unlocks, vous pouvez également supprimer vous-même les données de votre Abonnement Basic chez Parship (à condition que vous ayez finalisé le questionnaire Parship). Pour ce faire, connectez-vous à votre profil sur le site web de Parship ou dans l’appli iOS de Parship, et supprimez votre profil sous Mes données / Gestion de mon profil. Les Membres Basic peuvent également contacter le service clientèle et demander la suppression de leurs données. Veuillez pour ce faire utiliser les coordonnées de la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07). La suppression des données dans le cadre d’un abonnement Premium ou d’un Abonnement Basic avec des Match Unlocks actifs ne peut être effectuée que par l’intermédiaire du service clientèle de Parship. Veuillez noter que vos données sont dans un premier temps seulement verrouillées si leur suppression fait obstacle au respect des obligations de conservation.
+Si vous ne possédez pas d’Abonnement Premium ou de Match Unlocks, vous pouvez également supprimer vous-même les données de votre Abonnement Basic chez Parship (à condition que vous ayez finalisé le questionnaire Parship). Pour ce faire, connectez-vous à votre profil sur le site web de Parship ou dans l’appli iOS ou Android de Parship, et supprimez votre profil sous Mes données / Gestion de mon profil. Les Membres Basic peuvent également contacter le service clientèle et demander la suppression de leurs données. Veuillez pour ce faire utiliser les coordonnées de la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07). La suppression des données dans le cadre d’un abonnement Premium ou d’un Abonnement Basic avec des Match Unlocks actifs ne peut être effectuée que par l’intermédiaire du service clientèle de Parship. Veuillez noter que vos données sont dans un premier temps seulement verrouillées si leur suppression fait obstacle au respect des obligations de conservation.
 
 **Votre droit à la limitation du traitement**
 
