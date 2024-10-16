@@ -114,33 +114,77 @@ Vous disposez uniquement de droits sur le Contenu que vous soumettez à Badoo. A
 3\. Services payants
 --------------------
 
-### Que puis-je acheter sur Badoo ?
+### Que puis-je acheter sur Badoo ?
 
-Badoo vous propose sur son site un certain nombre de services payants. Les services premium de Badoo offrent différents moyens pour trouver et rencontrer plus de personnes, de personnaliser votre profil et d’augmenter votre popularité afin d’être plus visible sur le site. Divers jeux sont également proposés sur le site. Vous pouvez acheter tous ces services premium après votre inscription, et des abonnements de différentes durées sont disponibles.
+Badoo vous offre la possibilité de payer certains services proposés sur Badoo (« **Services Premium** »). Les services Premium de Badoo proposent différentes possibilités de trouver et de rencontrer de nouvelles personnes, de personnaliser votre profil et de le booster afin que davantage de personnes vous trouvent. Vous pouvez acheter tous ces Services Premium après votre inscription et vous pouvez vous abonner aux Services Premium pour différentes durées, comme décrit sur Badoo.
 
-Une fois que vous avez payé pour l’un des services premium, vous avez le droit d'annuler et d'être remboursé(e) pour tout paiement reçu dans les 14 jours précédents. Si vous désirez annuler, veuillez nous le faire savoir via notre page [Contact](https://badoo.com/feedback). Si vous téléchargez du Contenu faisant partie d'un service payé dans la période de 14 jours, vous pourrez perdre ce droit. Passés 14 jours, tout service payé ne sera pas remboursable.
-
-Vous pouvez désactiver la recharge automatique à tout moment, en vous rendant dans vos paramètres de facturation sur votre profil. Les prix peuvent varier en fonction d'un certain nombres de facteurs, y compris (mais sans s'y limiter) les offres promotionnelles, les récompenses de fidélité et les éventuelles promotions.
+Vous pouvez aussi acheter des crédits pouvant être utilisés pour des services Premium (chacun, un “**Crédit**”).
 
 Les services payants ne sont pas disponibles dans les pays sanctionnés.
 
-### Comment puis-je renouveler mes services premium sur Badoo ?
+### Comment fonctionnent les paiements de manière générale ?
 
-Lorsque vous vous abonnez à un service premium de Badoo, vous autorisez Badoo à vous facturer en fonction du mode de paiement choisi. À tout moment, vous pouvez, si vous le souhaitez, annuler ou modifier votre mode de paiement, en vous rendant dans vos « Paramètres de facturation » sur votre profil ou en contactant votre opérateur de téléphonie mobile. Si vous avez opté pour le paiement par l'intermédiaire de votre fournisseur de téléphonie mobile, merci de prendre connaissance de ses conditions de paiement. En effet, ces conditions de paiement régissent les paiements auprès de Badoo, ainsi que la façon dont les paiements peuvent être modifiés ou annulés. Votre abonnement aux services premium de Badoo est automatiquement renouvelé jusqu'à ce que vous décidiez de l’arrêter. De plus, si vous avez activé la fonction de recharge automatique lors de l’achat de crédits, votre compte sera automatiquement rechargé jusqu'à ce que vous décidiez de désactiver cette fonctionnalité.
+Si vous commandez des Services Premium ou des Crédits sur Badoo, vous acceptez de les payer conformément aux conditions de facturation en vigueur au moment de l'achat. Vous pouvez acheter des Services Premium ou des Crédits via les méthodes de paiement suivantes (chacune, une « **Méthode de paiement Premium** ») : (a) en effectuant un achat via une plateforme tierce telle que l'App Store d'Apple ou Google Play Store (chacun, une « **Boutique tierce** »), ou (b) payer avec une carte de crédit ou de débit que nous acceptons, ou (c) un compte PayPal, ou (d) tout autre mode de paiement disponible pour vous à votre emplacement actuel de temps en temps. Une fois que vous avez demandé un service Premium ou un crédit, vous nous autorisez à facturer le mode de paiement premium choisi. Si nous ne recevons pas de paiement de la méthode de paiement Premium choisie, vous acceptez de payer rapidement tous les montants dus sur demande de notre part.
 
-### Puis-je transférer les services que j'ai acheté à un autre utilisateur de Badoo ?
+### Puis-je recharger automatiquement mes crédits ?
 
-Si vous choisissez de participer à l'un des jeux, services premium ou une gamme de services conçus pour améliorer votre expérience sur Badoo, vous vous engagez à utiliser vous-même ces services et à ne pas les transférer (à titre gratuit ou dans le cas d’une revente), et à ne pas acheter ou vendre de tels services auprès d'autres utilisateurs de Badoo. Badoo se réserve le droit d’annuler les services payants que vous tenteriez de transférer ou d’acheter à un autre utilisateur. Les services payants ne seront délivrés par Badoo qu’à qui de droit.
+Oui. Badoo peut également offrir aux utilisateurs la possibilité de recharger automatiquement leurs crédits avec notre fonction de recharge automatique (« **Recharge automatique** »). Par défaut, notre fonction de recharge automatique est activée, vos crédits seront automatiquement rechargés à un montant égal au montant que vous avez initialement payé en utilisant cette fonctionnalité, et votre mode de paiement Premium sera automatiquement facturé lorsque votre compte atteindra 200 crédits ou moins. Vous pouvez modifier votre recharge automatique à tout moment dans vos paramètres de paiement sur la page de profil de votre compte. Les prix peuvent varier en raison d'un certain nombre de facteurs, tels que (mais sans s'y limiter) les offres promotionnelles, les primes de fidélité et autres remises.
+
+### Comment puis-je annuler le renouvellement automatique de mes services Premium avec Badoo ?
+
+Les services Premium peuvent être fournis sous formes d'abonnements à renouvellement automatique (par exemple, un abonnement d'une semaine, d'un mois ou de trois mois à renouvellement automatique). SI VOUS ACHETEZ UN ABONNEMENT À RENOUVELLEMENT AUTOMATIQUEMENT, VOTRE ABONNEMENT SERA RENOUVELÉ À LA FIN DE LA PÉRIODE D'ABONNEMENT INITIALE ET À CHAQUE PÉRIODE DE RENOUVELLEMENT SUIVANTE AUPRÈS DE BADOO, PUIS AU PRIX ACTUEL POUR CET ABONNEMENT, SAUF SI VOUS ANNULEZ. Pour éviter des frais pour une nouvelle période d'abonnement, vous devez annuler au moins vingt-quatre (24) heures avant la fin de la période d'abonnement précédente comme décrit ci-dessous. La suppression de votre compte ou la suppression de l'application de votre appareil N'ANNULE PAS votre abonnement. Vous serez informé(e) des changements dans la tarification des Services Premium pour lesquels vous avez des abonnements, et si vous avez la possibilité d'annuler. Si le groupe Badoo modifie ces prix et que vous n'annulez pas votre abonnement, vous acceptez d'être facturé(e) au prix d'abonnement alors en vigueur chez le groupe Badoo.
+
+Si vous avez acheté des services Premium ou un abonnement directement auprès du groupe Badoo, vous pouvez modifier votre méthode de paiement Premium via l'option des paramètres de paiement sous votre profil. Si vous avez acheté un abonnement directement auprès du groupe Badoo ou du Google Play Store et que vous souhaitez annuler votre abonnement, vous pouvez le faire en suivant les instructions de l'application. L'annulation de votre méthode de paiement Premium N'ANNULE PAS l'abonnement. Si vous avez acheté un abonnement via l'App Store d'Apple, vous devrez accéder à votre compte Apple et suivre les instructions pour modifier ou annuler votre abonnement. Si vous annulez votre abonnement, vous pouvez utiliser votre abonnement jusqu'à la fin de la dernière période pour laquelle vous avez payé, mais votre abonnement ne sera pas renouvelé à l'expiration de cette période et vous ne pourrez alors plus utiliser les services Premium activés par votre abonnement.
+
+Puisque l'application Badoo peut être utilisée sans abonnement, l'annulation de votre abonnement aux services Premium ne veut pas dire que votre profil est supprimé. Si vous souhaitez résilier complètement votre compte, vous devez le faire conformément aux dispositions de la Section 5.
+
+Le Groupe Badoo est actif à l'échelle mondiale et nos tarifs varient en fonction de plusieurs facteurs. Nous proposons fréquemment des tarifs promotionnels - qui peuvent varier en fonction de la région, de la durée de l'abonnement, de la taille du forfait et d'autres critères. Nous testons également régulièrement de nouvelles fonctionnalités et options de paiement. Le Groupe Badoo se réserve le droit, sans préavis, de limiter la quantité disponible de tout produit, fonctionnalité, service ou autre offre, ou de cesser de les proposer ; d'imposer des conditions pour honorer toute réduction, offre ou autre promotion ; d'interdire à tout utilisateur de réaliser une transaction ; et de refuser de fournir à tout utilisateur un produit, un service ou une autre offre, ou d'honorer toute offre.
+
+**Essais gratuits.** Si vous vous inscrivez pour un essai gratuit et que vous n'annulez pas, votre essai peut se convertir en abonnement payant et votre mode de paiement sera facturé au prix alors en vigueur pour cet abonnement. Une fois votre essai gratuit converti en abonnement payant, votre abonnement payant continuera à se renouveler automatiquement à la fin de chaque période, et votre mode de paiement sera facturé jusqu'à ce que vous l'annuliez. Pour éviter des frais pour une nouvelle période d'abonnement, vous devez annuler avant la fin de la période d'abonnement alors en cours ou de la période d'essai gratuite comme décrit ci-dessus. La suppression de votre compte ou la suppression de l'application de votre appareil n'annule pas votre essai gratuit. Si vous vous êtes déjà inscrit(e) à un essai gratuit de Badoo via l'Apple Store ou le Google Play Store, vous ne serez pas éligible pour un autre essai gratuit, et serez alors automatiquement inscrit(e) à un abonnement et facturé(e) comme décrit dans ce paragraphe.
+
+### Quand puis-je demander un remboursement ?
+
+En règle générale, tous les frais d'achat sont non-remboursables et aucun remboursement ou crédit pour les périodes partiellement utilisées n'est possible.
+
+Cependant :
+
+pour les abonnés résidant en dehors des États-Unis :
+
+Les abonnés qui achètent des abonnements hebdomadaires ont droit à un remboursement du prix de l'abonnement (moins la valeur de toute portion de l'abonnement utilisée à la date à laquelle la demande de remboursement est faite) s'ils en font la demande dans les 6 premiers jours suivant le début de l'abonnement.
+
+Les abonnés qui achètent des abonnements mensuels ou plus longs ont droit à un remboursement du prix de l'abonnement (moins la valeur de toute portion de l'abonnement utilisée à la date à laquelle la demande de remboursement est faite) s'ils en font la demande dans les 14 premiers jours suivant le début de l'abonnement.
+
+Il n'y a pas de remboursements pour les renouvellements d'abonnement. Les membres bloqués n'ont pas droit à des remboursements.
+
+Pour demander un remboursement :
+
+En plus d'annuler, les abonnés éligibles doivent demander un remboursement pour en recevoir un.
+
+Si vous vous êtes abonné(e) via Google et que vous résidez en dehors des États-Unis, les remboursements sont gérés par Google et non par Badoo. Pour demander un remboursement, allez dans l'application Google Play Store, sélectionnez votre historique des commandes, recherchez la transaction, sélectionnez « Signaler un problème » et soumettez votre demande de remboursement.
+
+Si vous vous êtes abonné(e) à l'aide de votre identifiant Apple, les remboursements sont gérés par Apple (quel que soit votre lieu de résidence) et non par Badoo. Pour demander un remboursement, rendez-vous sur iTunes, cliquez sur votre identifiant Apple, sélectionnez « Historique des achats », trouvez la transaction et appuyez sur « Signaler un problème ». Vous pouvez également soumettre une demande à l'Apple Support.
+
+Pour tout autre achat, merci de contacter le service client avec votre numéro de commande (vous pouvez trouver votre numéro de commande dans l'e-mail de confirmation de commande, ou bien si vous avez effectué un achat depuis le Google Play Store, en vous identifiant dans le Google Wallet).
+
+### Puis-je transférer l'un de mes Services Premium ou Crédits à un autre utilisateur Badoo ?
+
+Les Services Premium et les Crédits ne sont pas transférables, que ce soit à titre gratuit ou sous forme de transaction de vente ou d'échange, et Badoo ne reconnaît aucun transfert supposé de services ou de crédits Premium. Par conséquent, vous ne pouvez pas échanger, vendre, offrir ou tenter de vendre des Services Premium ou des Crédits pour une valeur de quelque nature que ce soit. Un tel transfert ou une telle tentative de transfert est interdit(e) et nul(le) et aura pour conséquence la résiliation de votre compte.
 
 ### Mes crédits sont-ils acquis pour une durée indéterminée ?
 
-Non. Nous nous réservons le droit de faire expirer les crédits inutilisés au bout de 6 mois à compter de la date d'achat (à moins que les crédits aient été achetés via iTunes). Si vous supprimez votre compte ou si votre compte est résilié en raison d'une violation de ces Conditions, vous perdrez tous les crédits accumulés. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les faire expirer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire de notre part, à moins que nous en convenions autrement par écrit.
+Non. Les crédits inutilisés expirent 6 mois après la date d'achat (sauf si les crédits ont été achetés via l'App Store d'Apple). Si vous supprimez votre compte ou si votre compte est résilié par nous en raison d'une violation de ces Conditions, vous perdrez tous les crédits accumulés. Si vous recevez des crédits gratuits ou promotionnels, nous pouvons les faire expirer à tout moment. Les crédits ne sont pas échangeables contre une somme d'argent ou une valeur monétaire de notre part, sauf si nous en convenons autrement par écrit.
 
-### Crédits bonus sous abonnements premium
+### Crédits bonus avec un abonnement Premium
 
-Si vous recevez des crédits bonus sur des packs de crédits achetés dans le cadre d'une fonctionnalité premium (par exemple, en tant qu'abonné Extra ou Premium), nous nous réservons le droit de modifier le pourcentage de crédits bonus disponibles dans le cadre de cette fonctionnalité à notre discrétion. Les crédits bonus ne s'appliquent qu'aux packs de crédits à plein tarif.
+Si vous recevez des crédits bonus sur des packs de crédits achetés dans le cadre d'une fonctionnalité premium (par exemple, en tant qu'abonné(e) Extra ou Premium), nous nous réservons le droit de modifier le pourcentage de crédits bonus disponibles dans le cadre de cette fonctionnalité, à notre discrétion. Les crédits bonus ne s'appliquent qu'aux packs de crédits à plein tarif.
 
-Pour plus d’informations relatives aux conditions de paiement, merci de consulter nos Conditions de service sur la page "recharge".
+### Les taxes de vente s'appliquent-elles ?
+
+Si le groupe Badoo détermine qu'il a l'obligation légale de percevoir une taxe de vente auprès de vous, le groupe Badoo devra percevoir cette taxe de vente en plus des paiements exigés en vertu de l'article 3 des présentes conditions. Si des services Premium, ou des paiements pour des services Premium, en vertu des présentes conditions sont assujettis à une taxe de vente dans une juridiction quelconque et que vous n'avez pas versé la taxe de vente applicable au groupe Badoo, vous serez responsable du paiement de cette taxe de vente et de toute pénalité ou intérêt connexe à l'autorité fiscale compétente, et vous indemniserez le groupe Badoo pour toute responsabilité ou dépense que le groupe Badoo pourrait encourir en rapport avec ces taxes de vente. À la demande du groupe Badoo, vous nous fournirez les reçus officiels délivrés par l'autorité fiscale compétente ou toute autre preuve que vous avez payé toutes les taxes applicables. Aux fins du présent article, nous entendons par « taxe de vente » toute taxe de vente ou d'utilisation et toute autre taxe mesurée en fonction du produit des ventes qui est l'équivalent fonctionnel d'une taxe de vente lorsque l'autorité fiscale compétente n'impose pas de taxe de vente ou d'utilisation.
+
+### Qu'en est-il des retenues à la source ?
+
+Vous acceptez d'effectuer tous les paiements de frais au groupe Badoo gratuitement et sans réduction de toute retenue d'impôt. Toutes les taxes imposées sur les paiements de frais au groupe Badoo seront de votre seule responsabilité et vous fournirez au groupe Badoo les reçus officiels émis par l'autorité fiscale appropriée, ou toute autre preuve que nous pouvons raisonnablement demander, pour établir que ces taxes ont été payées.
 
 4\. Accès au site et à l’application
 ------------------------------------
@@ -267,4 +311,4 @@ Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d’utilisation : 18 septembre 2024.
+Dernière mise à jour des Conditions générales d’utilisation : 16 octobre 2024.
