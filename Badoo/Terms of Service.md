@@ -280,18 +280,27 @@ Si nous sommes poursuivis en raison de votre utilisation de Badoo, nous avons le
 
 Vous acceptez de dégager de toute responsabilité et de dédommager la société Badoo et ses dirigeants, administrateurs, employés, agents, représentants et concédants en cas de réclamations de tiers, de dommages (directs et/ou indirects), d’actions, de procédures, de demandes, de pertes, de responsabilités, de coûts et dépenses (y compris des honoraires d'avocat raisonnables) subis ou engagés par la société, en relation avec votre accès à Badoo et son utilisation, le téléchargement ou la publication de Contenu sur Badoo par vous, et votre conduite, si ceux-ci ne sont pas conformes aux présentes Conditions ou à toute loi ou réglementation en vigueur (« **Réclamation** »). Badoo se réserve le droit exclusif de régler, de proposer un compromis et de négocier une contrepartie financière pour toute réclamation ou cause d’action à son encontre, sans votre consentement préalable.
 
-11\. Divers
+11\. Programmes Bêta
+--------------------
+
+Vous pourriez être invité(e) à participer à un programme bêta. La participation à un programme bêta est optionnelle et à vos risques et périls. Les Conditions générales d'utilisation et la [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/) de Badoo continuent de s'appliquer à tout programme bêta. Des conditions supplémentaires peuvent s'appliquer. Badoo se réserve le droit de vous retirer d'un programme bêta à tout moment et peut suspendre ou mettre fin à un programme bêta à tout moment sans vous en informer.
+
+Pour participer au programme bêta de Badoo avec Apple TestFlight, vous devrez installer l'application Apple TestFlight et accepter ses [Conditions générales d'utilisation (ouvre une nouvelle fenêtre)](https://www.apple.com/legal/internet-services/itunes/testflight/sren/terms.html) et [Avis de confidentialité (ouvre une nouvelle fenêtre)](https://www.apple.com/legal/privacy/data/en/test-flight/). Une seule version de Badoo (la version normale de l'App Store ou la version TestFlight) peut être installée sur votre appareil à la fois. Si la version App Store est installée sur votre appareil et que vous installez la version TestFlight, les données de votre application risquent d'être corrompues ou perdues et de ne pas pouvoir être récupérées. Vous devez sauvegarder vos informations avant d'installer l'application bêta. Vous pouvez cesser de participer au programme bêta à tout moment en suivant les instructions des Conditions générales d'utilisation de TestFlight. L'interruption de votre participation au programme bêta ne supprime pas votre compte Badoo. Vous pourrez continuer à utiliser la version normale de Badoo sur l'App Store en la réinstallant et en vous connectant à votre compte. Veuillez noter que vos données peuvent ne pas rester disponibles dans la version App Store. Nous vous recommandons de sauvegarder vos données avant de supprimer l'application bêta ou de réinstaller la version complète à partir de l'App Store. Les achats effectués dans l'application lors de la participation à un programme bêta via Apple TestFlight sont gratuits. Cependant, les abonnements et les consommables (y compris les crédits) obtenus pendant le programme bêta ont des taux d'expiration accélérés et expireront dans un certain nombre de minutes après la sélection. Les abonnements seront renouvelés automatiquement un nombre limité de fois. Apple et/ou Badoo peuvent modifier les périodes d'expiration et les taux de renouvellement à leur discrétion. Les abonnements et consommables obtenus dans le cadre du programme bêta ne seront pas reportés sur la version App Store de Badoo, à moins que l'on n'accède à cette version pendant la période au cours de laquelle ils sont en ligne. Séparément, les participants peuvent recevoir un certain nombre de crédits par jour pour leur participation au programme bêta ; ces crédits n'auront pas de taux d'expiration accéléré, mais ils ne seront pas reportés sur la version App Store de Badoo et Badoo peut expirer ces crédits à tout moment.
+
+12\. Divers
 -----------
 
-### Autres clauses types relatives aux Conditions générales d’utilisation
+### Qu'en est-il de toutes ces clauses standard que l'on trouve à la fin de la plupart des contrats ? Ce sont tous simplement les meilleures !
 
-Les Conditions, ainsi que tout litige ou plainte en rapport avec elles (dont les litiges et plaintes non contractuelles), sont régies selon la loi anglaise. En cas de différence entre la version anglaise et la version traduite des Termes et Conditions, la version anglaise prévaut.
+Puisque vous le demandez si gentiment...
 
-Nous nous réservons le droit de modifier ou de mettre à jour les présente Conditions à tout moment (une «**Modification**»). Dans ce cas, les Modifications seront publiées sur cette page et nous indiquerons la date d’entrée en vigueur de la mise à jour au bas des présentes Conditions. Dans certaines circonstances, nous vous enverrons un e-mail pour vous informer de Modifications. Nous vous conseillons de consulter régulièrement cette page afin de prendre connaissance de toute Modification.
+Les Conditions, ainsi que tout litige ou plainte en rapport avec elles (dont les litiges et plaintes non contractuelles), sont régies selon la loi anglaise. En cas de différence entre la version anglaise et la version traduite des Conditions générales, la version anglaise prévaut.
 
-En cas de désaccord avec une Modification apportée aux présentes Conditions, veuillez cesser d’utiliser Badoo immédiatement. Après toute Modification, la poursuite de l’utilisation de Badoo signifie que vous acceptez ce Changement et vous serez légalement lié aux nouvelles Conditions.
+Nous nous réservons le droit de modifier ou de mettre à jour les présentes Conditions à tout moment (une «**Modification**»). Dans ce cas, les Modifications seront publiées sur cette page et nous indiquerons la date d’entrée en vigueur de la mise à jour au bas des présentes Conditions. Dans certaines circonstances, nous vous enverrons un e-mail pour vous informer de Modifications. Nous vous conseillons de consulter régulièrement cette page afin de prendre connaissance de toute Modification.
 
-Si, pour une raison quelconque, l'une des Conditions est déclarée illégale, non valide ou autrement inapplicable par un tribunal ou une juridiction compétente, elle sera supprimée et les autres Conditions demeureront en vigueur, de plein effet, obligatoires et applicables.
+En cas de désaccord avec une Modification apportée aux présentes Conditions, veuillez cesser d’utiliser Badoo immédiatement. Après toute Modification, la poursuite de l’utilisation de Badoo signifie que vous acceptez tacitement ce Changement et que vous serez légalement lié(e) par les nouvelles Conditions.
+
+If Si, pour une raison quelconque, l'une des Conditions est déclarée illégale, non valide ou autrement inapplicable par un tribunal ou une juridiction compétente, elle sera supprimée et les autres Conditions demeureront en vigueur, de plein effet, obligatoires et applicables.
 
 Les présentes Conditions constituent l’intégralité de l’accord et de l’entente entre nous et vous par rapport à votre utilisation de Badoo, et remplacent tous les accords, déclarations et arrangements antérieurs entre nous (oraux ou écrits). Aucun élément de la présente clause ne peut limiter ou exclure la responsabilité en cas de déclarations frauduleuses.
 
@@ -311,4 +320,4 @@ Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d’utilisation : 16 octobre 2024.
+Dernière mise à jour des Conditions générales d’utilisation : 5 novembre 2024.
