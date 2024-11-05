@@ -58,9 +58,9 @@ Quand vous partagez des informations vous concernant ou utilisez le service de m
 
 ### Informations de vérification du profil (y compris les informations biométriques)
 
-Pour des raisons de sécurité, et afin d’assurer la meilleure expérience utilisateur possible, nous pouvons demander à nos Uilisateurs de faire vérifier leur compte pour nous assurer qu’il ne s’agit pas de robots. Dans ce but, nous pouvons vous demander votre numéro de téléphone et, dans certains cas, nous pouvons également vous demander d'effectuer la [vérification par photo (ouvre une nouvelle fenêtre)](https://badoo.com/help/?section=265). Nous cherchons également à éviter la création de faux comptes Badoo, qui peuvent être utilisés à des fins frauduleuses ou criminelles, car ce sont des menaces envers la communauté Badoo. Nous pouvons exiger cette vérification dans le cadre de la lutte contre la fraude. Vous pouvez également demander vous-même la vérification de votre photo (pour obtenir la coche bleue qui prouve que votre profil a été vérifié).
+Pour des raisons de sécurité, et afin d’assurer la meilleure expérience utilisateur possible, nous pouvons demander à nos Utilisateurs de faire vérifier leur compte et pouvons vous demander votre numéro de téléphone. Nous pouvons également vous demander d'effectuer la [vérification par photo (ouvre une nouvelle fenêtre)](https://badoo.com/help/?section=265#settings-help-question/271/3441).Nous voulons nous assurer que vous n'êtes pas un robot ! Nous voulons également éviter la création de faux comptes Badoo qui peuvent être utilisés pour des activités malveillantes et la cybercriminalité. Ceux-ci menacent le réseau Badoo et nuisent à tout le monde. Cette vérification peut être exigée par nous dans le cadre de la prévention des fraudes. Vous pouvez également vérifier votre photo sur une base volontaire (pour ajouter le badge bleu « vérifié » à votre profil).
 
-Si vous choisissez de faire vérifier votre photo de profil, nous scannerons chaque photo que vous soumettez. Ce scan peut inclure l'utilisation d'une technologie de reconnaissance faciale afin que nous puissions comparer la photo que vous soumettez à votre photo de profil, pour nous aider à nous assurer que vous êtes bien la personne que vous prétendez être. Nous n'ajoutons pas les photos de vérification à votre profil. Nous conservons les scans afin de pouvoir vérifier votre profil à l'avenir et à des fins d'archivage jusqu'à ce que nous n'en ayons plus besoin à ces fins ou jusqu'à trois ans après votre dernière interaction avec nous, selon ce qui se produit en premier. Après l'expiration de la période de conservation applicable, nous prenons des mesures commercialement raisonnables pour supprimer définitivement et en toute sécurité les scans de nos systèmes.
+Si vous choisissez de vérifier votre photo de profil, nous analyserons chaque photo que vous soumettez. L'analyse peut inclure l'utilisation d'une technologie de reconnaissance faciale afin que nous puissions comparer la photo que vous soumettez à votre photo de profil, pour nous assurer que vous êtes bien la personne que vous prétendez être. Nous n'ajoutons pas les photos de vérification à votre profil. Nous conservons votre photo pour la comparer à toutes les photos que vous ajouterez ultérieurement à votre profil. Votre photo de vérification ne sera pas visible sur votre profil.
 
 ### Informations sur les achats
 
@@ -337,11 +337,16 @@ Lorsque vous supprimez votre compte, nous nous assurons qu'il n'est plus visible
 
 **Avertissement :** Même après avoir supprimé des informations de votre profil ou supprimé votre compte, des copies de ces informations peuvent toujours être visibles et/ou accessibles dans la mesure où ces informations ont déjà été partagées avec d'autres, ou copiés ou stockés par d'autres. Nous ne pouvons pas contrôler cela, et nous n'acceptons aucune responsabilité pour cela. Si vous avez autorisé des applications ou des sites web tiers à accéder à vos informations personnelles, ils peuvent conserver ces informations dans la mesure permise par leurs conditions d'utilisation ou leurs politiques de confidentialité.
 
+12\. PROGRAMMES BÊTA.
+---------------------
+
+Si vous choisissez de participer au programme de test bêta via le programme TestFlight d’Apple, veuillez consulter ici les informations supplémentaires sur la manière dont vos données seront traitées.
+
 Merci d'avoir pris le temps de lire ces Conditions Générales.
 
-12\. MODIFICATIONS DE CETTE POLITIQUE.
+13\. MODIFICATIONS DE CETTE POLITIQUE.
 --------------------------------------
 
 Au fur et à mesure que Badoo évolue, nous pouvons réviser cette Politique de Confidentialité de temps à autre. La version la plus récente de la politique régira notre utilisation de vos informations et sera toujours disponible sur https://am1.badoo.com/fr/privacy/. Si nous apportons une modification à cette politique qui, à notre seule discrétion, est importante, nous vous en informerons, par exemple, via un e-mail à l'adresse e-mail associée à votre compte ou en publiant un avis dans Badoo.
 
-**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 2 août 2024.
+**Date d'entrée en vigueur.** Cette Politique de Confidentialité a été mise à jour pour la dernière fois le 5 novembre 2024.
