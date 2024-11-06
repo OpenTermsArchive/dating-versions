@@ -23,9 +23,9 @@ Das für Ihre Daten verantwortliche Unternehmen (der „Datenverantwortliche“)
 
 FriendScout24 GmbH  
 LOVESCOUT24  
-c/o WeWork  
-Neuturmstraße 5  
-80331 München  
+Weihenstephaner Str. 12  
+Design Offices München Macherei  
+81673 München  
 Deutschland
 
 ### 2\. Wo diese Datenschutzbestimmungen gelten
@@ -162,9 +162,9 @@ Per Post:
 
 FriendScout24 GmbH  
 LOVESCOUT24, Datenschutzbeauftragter  
-c/o WeWork  
-Neuturmstraße 5  
-80331 München  
+Weihenstephaner Str. 12  
+Design Offices München Macherei  
+81673 München  
 Deutschland
 
 Wenn Sie weitere Informationen darüber wünschen, wie Sie den Datenschutzbeauftragten kontaktieren können, klicken Sie bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
