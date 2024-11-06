@@ -340,7 +340,7 @@ Lorsque vous supprimez votre compte, nous nous assurons qu'il n'est plus visible
 12\. PROGRAMMES BÊTA.
 ---------------------
 
-Si vous choisissez de participer au programme de test bêta via le programme TestFlight d’Apple, veuillez consulter ici les informations supplémentaires sur la manière dont vos données seront traitées.
+Si vous choisissez de participer au programme de test bêta via le programme TestFlight d’Apple, veuillez consulter [ici (ouvre une nouvelle fenêtre)](https://www.apple.com/legal/privacy/data/en/test-flight/) les informations supplémentaires sur la manière dont vos données seront traitées.
 
 Merci d'avoir pris le temps de lire ces Conditions Générales.
 
