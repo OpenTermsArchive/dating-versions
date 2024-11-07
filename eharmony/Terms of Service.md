@@ -304,3 +304,6 @@ Your service password
 (\*) Your profile ID and service password were assigned to you when you registered to eharmony. You can access these at any time in your online profile in the section entitled “My Data & Settings” > “Manage Profile”.
 
 [Print or download as pdf file](https://www.eharmony.co.uk/legal/terms-conditions/)
+
+* Sources
+* History
