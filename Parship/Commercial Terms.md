@@ -11,7 +11,7 @@ Quelles sont mes possibilités en tant que membre basic ? Quels sont les avanta
 
 #### Échange de messages illimité
 
-En tant que membre Premium, vous pouvez nouer des contacts et recevoir, consulter et envoyer des messages en illimité. Dans le cadre de l’abonnement basic gratuit, vous pouvez répondre une seule fois au message ou à la sollicitation d’un membre Premium.
+En tant que membre Premium, vous pouvez nouer des contacts et recevoir, consulter et envoyer des messages en illimité.
 
 #### Découvrez toutes les photos
 
