@@ -1,7 +1,7 @@
 HER terms and conditions
 ------------------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iNjI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 **Effective date:** May 25, 2018
 
@@ -42,7 +42,7 @@ If you do not agree with all of the provisions of these terms, do not access and
 
 [Meet your person today](https://links.weareher.com/YPOiUdsndvb)
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iNjI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Contact details
 ---------------
@@ -84,7 +84,7 @@ Persons under 18 are prohibited from providing personal information on our Websi
 Acceptable use
 --------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iMTA4NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCTxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 You are responsible for your use of the Services, and for any use of the Services made using your Account. Our goal is to create a positive experience in connection with our Services. To promote this goal, we prohibit certain kinds of conduct that may be harmful to other Users or to HER.
 
@@ -106,7 +106,7 @@ When you use the Services, you agree that you will not:
 
 [Join HER today](https://links.weareher.com/YPOiUdsndvb)
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iMTA4NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCTxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 License
 -------
@@ -118,7 +118,7 @@ Furthermore, with respect to any App accessed through or downloaded from an App 
 Payments, HER premium plans and cancellation
 --------------------------------------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjY0OSIgaGVpZ2h0PSI1ODciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+Cgk8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwIi8+Cjwvc3ZnPg==)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 **HER Free Services:** If you don’t choose to purchase HER Premium, you can simply use HER for free. HER operates a global business, and our pricing varies by a number of factors. We frequently offer promotional rates – which can vary based on region, length of subscription, bundle size and more. We also regularly test new features and payment options.
 
@@ -134,12 +134,12 @@ You represent and warrant that you have the legal right to use any payment card(
 
 [Find My Person Today](https://links.weareher.com/YPOiUdsndvb)
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjY0OSIgaGVpZ2h0PSI1ODciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+Cgk8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwIi8+Cjwvc3ZnPg==)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Ownership & copyright
 ---------------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iMTA4NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCTxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 The parties agree that all proprietary rights in the Services are and will remain the property of HER. This includes non-personally identifiable aggregate data collected by HER in connection with providing the Services, as well as usage statistics and traffic patterns, any and all rights, title and interest to which are hereby assigned to HER by you.
 
@@ -159,12 +159,12 @@ You agree not to interfere or take action that results in interference with or d
 
 • You acknowledge and agree that you are solely responsible for all of your materials that you make available through the Services. You represent and warrant that: (1) you either are the sole and exclusive owner of all of Your Materials that you make available through the Services, or you have all rights, licenses, consents and releases that are necessary to grant to HER (or any other User as applicable) the rights in Your Materials
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjExNjAiIGhlaWdodD0iMTA4NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCTxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Disclaimer; limitation of liability and indemnification
 -------------------------------------------------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9Ijg5OCIgaGVpZ2h0PSIxMDg0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 **Disclaimer; limitation of liability and indemnification**
 
@@ -226,12 +226,12 @@ Nothing in these terms shall limit or exclude our liability for:
 
 The Services are controlled by the dating app from its facilities in the United States of America. The dating app makes no representations or warranties that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with all applicable local laws and regulations.
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9Ijg5OCIgaGVpZ2h0PSIxMDg0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Third party links & the App Store
 ---------------------------------
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjEwNTAiIGhlaWdodD0iNzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 **Third-party links & ads**
 
@@ -263,7 +263,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 
 [Download HER](https://links.weareher.com/YPOiUdsndvb)
 
- ![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjEwNTAiIGhlaWdodD0iNzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMCIvPgo8L3N2Zz4=)
+ ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Termination
 -----------
