@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated April 2, 2024._
+_Last updated December 3, 2024._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
@@ -17,7 +17,7 @@ We receive or collect various personal data when you install and use the Service
 
 **Account Credentials**
 
-To use the App, you must create an account. When you create an account, we require you to provide your mobile phone number or your Instagram handle. Once you create an account, we require you to provide your first name, email address, and preferred pronoun(s), as well as to select a username and password. You can also choose to link your App account with your Instagram account. You may also have the option to upload an image to your App account, and may need to allow the App to access the camera and/or photo album on the your phone to do so. Any image you upload will be visible to other users of the App.
+To use the App, you must create an account. When you create an account, we require you to provide your mobile phone number. Once you create an account, we require you to provide your first name, email address, and preferred pronoun(s), as well as to select a username and password. You can also choose to link your App account with your Instagram account. You may also have the option to upload an image to your App account, and may need to allow the App to access the camera and/or photo album on the your phone to do so. Any image you upload will be visible to other users of the App.
 
 **Your Location**
 
@@ -85,10 +85,8 @@ You can find information about these service providers’ privacy policies and p
 | **Service Provider** | **Privacy Policy** |
 | [Google Analytics and Google Cloud Platform](https://policies.google.com/privacy) | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | [Amplitude](https://amplitude.com/privacy) | [https://amplitude.com/privacy](https://amplitude.com/privacy) |
-| [Algolia](https://www.algolia.com/policies/privacy) | [https://www.algolia.com/policies/privacy](https://www.algolia.com/policies/privacy) |
 | [Apps Flyer](https://www.appsflyer.com/legal/privacy-policy/) | [https://www.appsflyer.com/legal/privacy-policy/](https://www.appsflyer.com/legal/privacy-policy/) |
 | [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/) | [https://www.sendinblue.com/legal/privacypolicy/](https://www.sendinblue.com/legal/privacypolicy/) |
-| [Instabug](https://instabug.com/privacy) | [https://instabug.com/privacy](https://instabug.com/privacy) |
 | [Cloudinary](https://cloudinary.com/privacy) | [https://cloudinary.com/privacy](https://cloudinary.com/privacy) |
 | [AWS](https://aws.amazon.com/privacy/) | [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/) |
 | [RevenueCat](https://www.revenuecat.com/privacy/) | [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/) |
