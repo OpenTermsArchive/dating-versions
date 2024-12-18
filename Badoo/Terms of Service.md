@@ -30,9 +30,9 @@ SI VOUS N'ÊTES PAS D'ACCORD ET N'ACCEPTEZ PAS LES CONDITIONS, VOUS NE DEVEZ PAS
 
 ### Qui peut utiliser Badoo ?
 
-Badoo est un lieu de rencontre pour les adultes. Vous ne pouvez utiliser Badoo, y compris l'une de ses fonctionnalités, ou devenir membre enregistré(e) que si vous avez (i) 18 ans ou plus et (ii) êtes légalement autorisé(e) à utiliser Badoo par les lois de votre pays d'origine.
+Badoo est un lieu de rencontre pour les adultes. Vous pouvez utiliser Badoo et ses fonctionnalités, ou vous y inscrire, uniquement si vous avez 18 ans ou plus et (ou l'âge de majorité de votre pays de résidence, si cet âge est supérieur à 18 ans).
 
-Vous garantissez que : (i) vous avez le droit, l'autorité et la capacité d'être lié(e) par les Conditions, (ii) toutes les informations d'inscription que vous fournissez sont exactes et complètes, et (iii) qu'en utilisant Badoo vous ne violerez aucune loi ou réglementation du pays dans lequel vous résidez. Vous êtes l'unique responsable de votre conformité à toutes les lois et réglementations locales applicables.
+Vous garantissez que vous avez le droit, l'autorité et la capacité d'être lié(e) par les Conditions, et qu'en utilisant Badoo vous ne violerez aucune loi ou réglementation du pays dans lequel vous résidez. Vous êtes l'unique responsable de votre conformité vis-à-vis de toutes les lois et réglementations locales applicables. Nous ne sommes pas en mesure de vous autoriser à utiliser le profil Badoo d'une autre personne, ni de partager votre compte Badoo avec une autre personne sans autorisation. Il est de votre responsabilité d'assurer que toute utilisation de votre compte est conforme à ces Conditions.
 
 Vous garantissez en outre que vous n’avez pas été condamné(e) ni soumis(e) à une décision judiciaire relative à des voies de fait, de la violence, de l’inconduite sexuelle ou du harcèlement.
 
