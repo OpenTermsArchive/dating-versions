@@ -40,8 +40,6 @@ The key terms that you should consider in particular detail are Sections:
 
 If you do not agree with all of the provisions of these terms, do not access and/or use the Services.
 
-[Meet your person today](https://links.weareher.com/YPOiUdsndvb)
-
  ![](http://weareher.com/wp-content/uploads/blank.png)
 
 Contact details
@@ -50,8 +48,6 @@ Contact details
 HER Inc. is a Delaware corporation located in California, USA. You can contact us by writing to us at 1760 Mission Street, San Francisco, California, 94103. If we have to contact you, we may do so by text or email to the number and/or address you provided when you registered for an Account.
 
 Email counts as “in writing”. When we use the words “writing” or “written” in these Terms, this includes emails. For contractual purposes, you consent to receive communications from HER by email.
-
-[Contact us via your account](https://links.weareher.com/YPOiUdsndvb)
 
 Changes to the serves and these terms
 -------------------------------------
