@@ -95,6 +95,8 @@ Les abonnements Premium offrent en plus des services gratuits :
 
 • Enregistrer et gérer les recherches personnalisées
 
+• Utiliser la fonctionnalité d'appel audio via l'application mobile, permettant une communication directe avec d'autres utilisateurs
+
 • Gérer les messages (supprimer, restaurer, marquer non-lu, etc.)
 
 • Accéder à certaines options supplémentaires selon l’abonnement choisit
