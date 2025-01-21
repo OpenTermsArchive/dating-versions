@@ -1,9 +1,12 @@
+* [Home](https://hily.com/) 
+* Privacy Policy
+
 Privacy Policy
 ==============
 
-Effective date: Aug 09, 2024
+Effective date: Dec 10, 2024
 
-Hily Privacy Policy (the “Policy”) explains all the privacy matters you may face when using our website, [https://hily.com](https://hily.com/) and other websites run by Hily (the “Website”) and Hily’s mobile and web-based applications (the “App”), jointly the “Service”, operated by Hily Corp. (“Hily” or “we”).
+Hily Privacy Policy (the “Policy”) explains all the privacy matters you may face when using our website, [https://hily.com](https://hily.com/) and other websites run by Hily (the “Website”) and Hily’s mobile and web-based applications (the “App”), jointly the “Service”, operated by Hily Corp. (“Hily” or “we”). 
 
 This Policy is an integral part of the [Hily’s Terms of Use](https://hily.com/terms?locale=EN) (the “Terms”) and incorporated by reference into them. Please read this Policy carefully and if you have any questions, feel free to contact us at [legal@hily.com](mailto:legal@hily.com). In case you have any ongoing questions about how to exercise your rights, etc., you may also contact us at [support@hily.com](mailto:support@hily.com).
 
@@ -18,9 +21,9 @@ Any translation from English version is provided for your convenience only. In t
 1. Initial Notice to Users
 --------------------------
 
-**1.1. Here, at Hily, we strive to protect your privacy. It goes without saying, by being a place for building the best connections between people, that the App exists as a vast social network, where users may share their experiences, show emotions and just be themselves. All of those actions are connected to personal data sharing. Your “personal data” or just “data” means any information linked with you or the one that may identify you directly or indirectly as a person.**
+**1.1.** Here, at Hily, we strive to protect your privacy. It goes without saying, by being a place for building the best connections between people, that the App exists as a vast social network, where users may share their experiences, show emotions and just be themselves. All of those actions are connected to personal data sharing. Your “personal data” or just “data” means any information linked with you or the one that may identify you directly or indirectly as a person.
 
-**1.2. **Privacy tips**. Despite our best efforts, we cannot control how other users or third-party services may use your data. When using Hily, you should presume that everything you post, share or message on the App may be publicly viewable and accessible, both by Hily users and people outside the App. We want you to be careful about going public with your data, thus, we kindly ask you to follow our privacy recommendations as below:**
+**1.2. **Privacy tips**.** Despite our best efforts, we cannot control how other users or third-party services may use your data. When using Hily, you should presume that everything you post, share or message on the App may be publicly viewable and accessible, both by Hily users and people outside the App. We want you to be careful about going public with your data, thus, we kindly ask you to follow our privacy recommendations as below:
 
 (a) when you post information about yourself or use the messaging function, the amount of personal information you share is determined at your own risk.
 
@@ -42,13 +45,11 @@ Any translation from English version is provided for your convenience only. In t
 
 (j) we kindly draw your attention to the fact that you are the only person who must care about your access credentials’ safety. Remember that in the event they are compromised, a third party may get your data. We cannot guarantee your data security if you lose control of your account and do not notify Hily about the issue.
 
-**1.3. **Hily tags and Information filled by you, including sensitive data and location**.**
+**1.3. **Hily tags and Information filled by you, including sensitive data and location**.** Instead of sharing some of your data in a text description of your profile, we recommend that you use Hily tags to identify you as a person of a specific style. We find it a more secure and beneficial option since you may change them or hide them anytime you choose. Meanwhile, Hily tags allow you to create better connections with people who may share your views and are more likely to say “hello”. 
 
-Instead of sharing some of your data in a text description of your profile, we recommend that you use Hily tags to identify you as a person of a specific style. We find it a more secure and beneficial option since you may change them or hide them anytime you choose. Meanwhile, Hily tags allow you to create better connections with people who may share your views and are more likely to say “hello”.
+Hily allows you to share information about yourself with, including your location and information that may be deemed “sensitive” or “special category” in certain jurisdictions such as religion, political opinions, philosophical belief. Such information will be collected by Hily and publicly available in your profile only after your explicit consent.  If you do not give your explicit consent to process such sensitive data, we will not show you the tags relating religion, political opinions, philosophical belief to choose. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile settings, restricting some users from accessing your profile (in this case just blocked users will not see your data) or requesting the deletion of your sensitive data or other data by contacting at [support@hily.com](mailto:support@hily.com). 
 
-Hily allows you to share information about yourself with, including your location and information that may be deemed “sensitive” or “special category” in certain jurisdictions such as religion, political opinions, philosophical belief. Such information will be collected by Hily and publicly available in your profile only after your explicit consent.  If you do not give your explicit consent to process such sensitive data, we will not show you the tags relating religion, political opinions, philosophical belief to choose. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile settings, restricting some users from accessing your profile (in this case just blocked users will not see your data) or requesting the deletion of your sensitive data or other data by contacting at [support@hily.com](mailto:support@hily.com).
-
-Hily also collects your location to determine your distance from other users (“Distance Information”). Hily app is designed to allow users to share Distance Information. Your Distance Information will be displayed in your profile in those users’ search results should you elect to display your relative distance. Note that if you choose not to allow Hily to access your location certain features of the Hily app will not function properly. Sophisticated users who use the Hily app  in an unauthorized manner, or other users who change their location while you remain in the same location, may use Distance Information to determine your exact location.
+Hily also collects your location to determine your distance from other users (“Distance Information”). Hily app is designed to allow users to share Distance Information. Your Distance Information will be displayed in your profile in those users’ search results should you elect to display your relative distance. Note that if you choose not to allow Hily to access your location certain features of the Hily app will not function properly. Sophisticated users who use the Hily app  in an unauthorized manner, or other users who change their location while you remain in the same location, may use Distance Information to determine your exact location. 
 
 If you have given Hily access to your location, but wish to turn this off, you can do so by the following methods:
 
@@ -60,12 +61,12 @@ If you have given Hily access to your location, but wish to turn this off, you c
 
 **2.1.** **Reasons of Updates**. We may revise the Policy according to new developments or advances in legislation and the broader data protection landscape from time to time, so please check this page regularly to ensure you’re always up-to-date with any changes.
 
-**2.2.** **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Hily Services or make a notification appear in your profile when you next log in to Hily before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://hily.com/privacypolicy](https://hily.com/privacypolicy).
+**2.2.** **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Hily Services or make a notification appear in your profile when you next log in to Hily before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://hily.com/privacypolicy](https://hily.com/privacypolicy). 
 
-3. Your Data Controller and Data Processors; Service providers, Contractors and Third Parties Accessing Data
-------------------------------------------------------------------------------------------------------------
+3\. Your Data Controller and Data Processors; Service Providers, Contractors and Third Parties Accessing Data
+-------------------------------------------------------------------------------------------------------------
 
-**3.1. Information about who processes your data and with whom we may share your data is considered to be one of the most vital points you should know, so we place this section here, in the Policy’s beginning. In this section, we also explain what third-party sources we may use to receive your data.**
+**3.1.** Information about who processes your data and with whom we may share your data is considered to be one of the most vital points you should know, so we place this section here, in the Policy’s beginning. In this section, we also explain what third-party sources we may use to receive your data.
 
 **3.2.** **Roles and Definitions**. The first you should know is information about your data controller and processors. The data controller is an entity that determines the purposes and means of processing of the data. The data processor is an entity that processes the data on behalf of the controller. A third party is a person whose access to the data depends on their rights or duties.
 
@@ -111,13 +112,13 @@ If you have given Hily access to your location, but wish to turn this off, you c
 | Processor | Plivo Inc. |
 | Processor\`s Privacy Policy | [https://www.plivo.com/legal/privacy/](https://www.plivo.com/legal/privacy/) |
 | Data Collected | Phone numbers |
-| Purpose | Send verivication codes |
+| Purpose | Send verification codes |
 |     |     |
 | Type | Analytical tool |
 | Processor | SplitMetrics Inc. |
 | Processor\`s Privacy Policy | [https://splitmetrics.com/legal/privacy-policy/](https://splitmetrics.com/legal/privacy-policy/) |
 | Data Collected | technical data ‒ events from MMPs: mobile apps version, operating system version, type of device |
-| Purpose | Automatization and optimization of advertising accounts (including campaigns,  <br>ad groups and keywords), A/B testing |
+| Purpose | Automatization and optimization of advertising accounts (including campaigns, ad groups and keywords), A/B testing |
 |     |     |
 | Type | Advertising tool |
 | Processor | Moloco Inc. |
@@ -142,12 +143,6 @@ If you have given Hily access to your location, but wish to turn this off, you c
 | Processor\`s Privacy Policy | [https://www.ding.com/privacy-statement](https://www.ding.com/privacy-statement) |
 | Data Collected | Phone number, IP address, kind of platform |
 | Purpose | Send SMS |
-|     |     |
-| Type | Moderation tool |
-| Processor | Amazon Web Services, Inc., Amazon Rekognition |
-| Processor\`s Privacy Policy | [https://aws.amazon.com/privacy/?nc1=f\_pr](https://aws.amazon.com/privacy/?nc1=f_pr) |
-| Data Collected | Profile photos |
-| Purpose | Automoderate content |
 
 Additional processor: Lathinol Limited, a company with its registered address at 705, Spyrou Araouzou & Koumantarias, Fayza House, 5th floor, office No.: 2, 3036, Limassol, Cyprus;
 
@@ -165,11 +160,11 @@ Additional processor: Lathinol Limited, a company with its registered address at
 | AppLovin Software Development Kit | AppLovin Corporation | [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/) | Device identifiers, including your IP address, iOS Identifier for Advertising (IDFA), iOS Identifier for Vendors (IDFV), Android Advertising ID and a AppLovin-specific identifier; your approx geolocation (when location services have been enabled for an app on your device that has integrated the Applovin SDK and APIs); demographic information (e.g., your age or gender) or information about your interests; information about your device, including the type and model, manufacturer, operating system (e.g., iOS or Android), carrier name, mobile browser (e.g., Chrome, Safari), and screen size; information about your app usage; information about ads served, viewed, or clicked on, including the type of ad, where the ad was served, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s app. | We use AppLovin to show you more relevant ads that will not annoy you. |
 | Google Mobile Ads SDK | Google LLC | [https://developers.google.com/ad-manager/mobile-ads-sdk/android/privacy/play-data-disclosure](https://developers.google.com/ad-manager/mobile-ads-sdk/android/privacy/play-data-disclosure) | IP address, User product interactions (app launch, taps, and video views), Diagnostic information (crash logs, app launch time, hang rate, and energy usage), Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device. | We use it to show you more relevant ads that will not annoy you. |
 
-**3.6.** **Additional Data Processors**. Where there is a necessity, we may also engage additional service providers, contractors and third parties services and may share the data with them. That will help us operate, provide, improve, integrate, customize, support, and market our Service and the Website. We share the data, in particular, for purposes indicated herein. The types of service providers we may share information with include, in particular: cloud storage providers, data analytics providers, measurement partners, marketing partners, payment processing providers, communication services providers, etc.
+**3.6.** **Additional Data Processors**. Where there is a necessity, we may also engage additional service providers, contractors and third parties services and may share the data with them. That will help us operate, provide, improve, integrate, customize, support, and market our Service and the Website. We share the data, in particular, for purposes indicated herein. The types of service providers we may share information with include, in particular: cloud storage providers, data analytics providers, measurement partners, marketing partners, payment processing providers, communication services providers, etc. 
 
-**3.7. Sharing consumer information with the App Store.** By registering on our Taimi app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.
+**3.7. Sharing consumer information with the App Store.** By registering on our Hily app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.
 
-You can withdraw your consent at any time, please contact us at [support@hily.com](mailto:support@hily.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
+You can withdraw your consent at any time, please contact us at [support@hily.com](mailto:support@taimi.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
 
 **3.8.** **Moderation Practices.** We use moderators to monitor and review accounts (including name and any other information uploaded onto user profiles). If the user\`s profile meets certain criteria that demonstrate that the user is likely to breach the Terms of Use, the relevant profile will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Hily to contest the decision.
 
@@ -178,7 +173,7 @@ You can withdraw your consent at any time, please contact us at [support@hily.co
 * Name;
 * Username;
 * Email address;
-* Phonel number;
+* Phone number;
 * Gender identity;
 * Date of birth;
 * Photographs;
@@ -198,7 +193,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (f) if you do not want to have your Hily profile linked to your profile on the third-party websites, please visit your Facebook, Snapchat or Apple profile and follow the instructions of those social media to remove the Hily access permissions.
 
-**3.10. Please note we collect personal data directly from you and we may also receive some of your personal data from third parties. For example:**
+**3.10.** Please note we collect personal data directly from you and we may also receive some of your personal data from third parties. For example:
 
 (a) From other social networks: when you connect to your Hily mobile application user account through one of your other social network accounts (e.g. Facebook account);
 
@@ -206,7 +201,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (c) From other users: other users of the Hily mobile application may provide us with personal data about you when they use our services (for example, when they contact us about you or mention information about you in their discussions with other users).
 
-**3.11.** **Third Parties: Law Protection and Enforcement Bodies; Attorneys-at-Law. Hily is a place free of any kind of abuse, violence, laws and third-party rights infringement. We designed Hily as a safe harbor for people to be themselves and express their emotions. We do our utmost to protect our biggest value, sense of security of our users, so we may disclose your data to third parties in the following cases:**
+**3.11.** **Third Parties: Law Protection and Enforcement Bodies; Attorneys-at-Law.** Hily is a place free of any kind of abuse, violence, laws and third-party rights infringement. We designed Hily as a safe harbor for people to be themselves and express their emotions. We do our utmost to protect our biggest value, sense of security of our users, so we may disclose your data to third parties in the following cases:
 
 (a) we will cooperate with law enforcement inquiries from within or outside your country of residence where we are required to by law, where there is an investigation into alleged criminal behaviour or to protect the vital interests of a person. We may share any personal data that we hold about you, depending on the nature of the request or the issue that we are dealing with;
 
@@ -216,7 +211,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (d) society may be cruel at times; wrong words or actions of others may hurt. Still, this is not a reason to harm yourself. Here, at Hily, we believe that every issue can be fixed, and we are ready to share contact details of our partners who may offer professional help. If we detect suicidal behavior by our users, we may report such a case to the police or professional non-governmental organization, so as to prevent our users from making the biggest mistake of their lives. We may share your name, contact details and geolocation with those bodies;
 
-(e) we may transfer your data to a respective law protection or enforcement body if we detect illegal activity or we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person. We may share any personal data that we hold about you, depending on the nature of the violation or the issue that we are dealing with; and finally;
+(e) we may transfer your data to a respective law protection or enforcement body if we detect illegal activity or we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person. We may share any personal data that we hold about you, depending on the nature of the violation or the issue that we are dealing with; and finally
 
 (f) we will share your data with our lawyers, a court, arbitrators, or any authorized professional etc. if we detect your conduct is in breach of [Hily’s Terms of Use](https://hily.com/terms?locale=EN) or any integral parts thereto or in order to protect the rights and property of Hily, its affiliates, or the public or to comply with legal and regulatory obligations.
 
@@ -232,11 +227,11 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 5. Collection of Personal Data
 ------------------------------
 
-**5.1. In this section, we explain what data (in addition to the data we collect as set forth in section 3.5) we collect (categories and a full list of data), sources we get your data from, purposes for which the data is used and our legal basis to process your data. Here, we also share some useful data privacy tips with you.**
+**5.1.** In this section, we explain what data (in addition to the data we collect as set forth in section 3.5) we collect (categories and a full list of data), sources we get your data from, purposes for which the data is used and our legal basis to process your data. Here, we also share some useful data privacy tips with you.
 
-**5.2. In the event you are a European Union resident, you may find data on categories of your personal data that we may collect in accordance with GDPR following the previous list. In particular, the personal data that falls within the special categories (ethnic origin, political opinions, religious or philosophical beliefs) will only be collected if you choose to provide them and expressly consent so (as considered in GDPR Article 9.2.a).**
+**5.2.** In the event you are a European Union resident, you may find data on categories of your personal data that we may collect in accordance with GDPR following the previous list. In particular, the personal data that falls within the special categories (ethnic origin, political opinions, religious or philosophical beliefs) will only be collected if you choose to provide them and expressly consent so (as considered in GDPR Article 9.2.a).
 
-**5.3. For the users who are California residents, you may find more information about the collection of categories of personal information and sensitive personal information in section 9.1-9.2. hereof.**
+**5.3.** For the users who are California residents, you may find more information about the collection of categories of personal information and sensitive personal information in section 9.1-9.2. hereof.
 
 **5.4.** **Purposes of Data Processing; Personal Data Collected; Source; Legal Basis**:
 
@@ -280,18 +275,17 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 
 (d) consent — we may process some of your data when we have your consent to do so. Where the legal basis is consent, you can withdraw consent at any time. Please see section 8 to find out more.
 
-**5.6. You hereby acknowledge and agree that we may receive your personal data from any third parties (other users, any official bodies, third-party providers, etc.) when you connect your Hily profile with other services, when we receive inquiries, court orders, subpoenas, claims, etc.**
+**5.6.** You hereby acknowledge and agree that we may receive your personal data from any third parties (other users, any official bodies, third-party providers, etc.) when you connect your Hily profile with other services, when we receive inquiries, court orders, subpoenas, claims, etc.
 
-**5.7. We do not collect or store full credit card number information, though we may receive credit card-related information to help process future payments and summary information about transactions that do not include credit card or bank account numbers.**
+**5.7.** We do not collect or store full credit card number information, though we may receive credit card-related information to help process future payments and summary information about transactions that do not include credit card or bank account numbers.
 
-**5.8. From time to time, we may start surveys/feedback for research purposes and we may contact you to find out if you would like to take part. We may also contact you to find out if you would like to take part in marketing campaigns. Such activities are optional. If you do not wish to be contacted to take part in a survey or marketing campaign, please contact us at [support@hily.com](mailto:support@hily.com) or via the respective in-App feature. If you do not want to contact us but you also do not want to participate in our activities, please ignore our messages.**
+**5.8.** From time to time, we may start surveys/feedback for research purposes and we may contact you to find out if you would like to take part. We may also contact you to find out if you would like to take part in marketing campaigns. Such activities are optional. If you do not wish to be contacted to take part in a survey or marketing campaign, please contact us at [support@hily.com](mailto:support@hily.com) or via the respective in-App feature. If you do not want to contact us but you also do not want to participate in our activities, please ignore our messages.
 
-**5.9. **Behavioral Advertising.** Since we rely on your consent to show you personalized ads, you are entitled to revoke your consent anytime and request that we stop using personalized ads towards you. Please contact us at [support@hily.com](mailto:support@hily.com) to strike off your consent.  
-**
+**5.9. **Behavioral Advertising.**** Since we rely on your consent to show you personalized ads, you are entitled to revoke your consent anytime and request that we stop using personalized ads towards you. Please contact us at [support@hily.com](mailto:support@hily.com) to strike off your consent. 
 
-Before creating your Hily account, users in the EEA/UK will be presented with a consent preference screen where they can control if their personal information can be used for advertising by our ad/marketing partners. Users in the EEA/UK can also access the Privacy Preference Center from within the settings menu of the Hily app at any time. If you are a California or Virginia resident see section 9.3. and 10.4. on how to opt out of personalized/targeted advertising.
+Before creating your Hily account, users in the EEA/UK will be presented with a consent preference screen where they can control if their personal information can be used for advertising by our ad/marketing partners. Users in the EEA/UK can also access the Privacy Preference Center from within the settings menu of the Hily app at any time. To opt out of personalized/targeted advertising please see section 9.3.  if you are a California resident and section 10.4. if Virginia or Texas resident.
 
-Meanwhile, if you opt-out of targeted/personalized advertising you will still see ads, but non-personalized advertising.  Such non-personalized advertising may be based on location data that is not linked  to the identity of the user  and is not classified as personal data itself. 
+Meanwhile, if you opt-out of targeted/personalized advertising you will still see ads, but non-personalized advertising.  Such non-personalized advertising may be based on location data that is not linked  to the identity of the user  and is not classified as personal data itself.
 
 We may use your device location data for personalized advertising. This data is collected with your explicit consent and shared with third-party ad networks for targeted/personalized advertising purposes. The third parties we work with, their use of location data, and their privacy policy links are listed below:
 
@@ -299,11 +293,13 @@ We may use your device location data for personalized advertising. This data is 
 
 (b) Facebook Inc.(Facebook Audience Network Software Development Kit SDK) ([Privacy Policy](https://www.facebook.com/privacy/policy)): uses your location data to enhance ad relevance for you.
 
-(c) AppLovin Corporation ( AppLovin Software Development Kit) ([Privacy Policy](https://www.applovin.com/privacy/)): uses your location data to enhance ad relevance for you.
+(c) AppLovin Corporation ( AppLovin Software Development Kit) ([Privacy Policy](https://www.applovin.com/privacy/)): uses your location data to enhance ad relevance for you
 
-**5.10. **Push Notifications.**  We use push notifications to keep you informed about your activity within our Services. These notifications may include reminders, motivational prompts to encourage engagement, or other relevant information. For instance, you might receive a notification informing you of a new message, reaction, or match. To stop receiving push notifications (opt-out), you can adjust the settings on your device.**
+**5.10. **Push Notifications.**** We use push notifications to keep you informed about your activity within our Services. These notifications may include reminders, motivational prompts to encourage engagement, or other relevant information. For instance, you might receive a notification informing you of a new message, reaction, or match. To stop receiving push notifications (opt-out), you can adjust the settings on your device. 
 
 Users in the EU/UK also have the option to opt of receiving push notifications in Hily app’s Notification settings.
+
+**5.11. **Purchase Information from Third-Party Payment Processors****.****We use various third-party payment processors, including Google Play, Apple, and Solidgate. When you choose to make a purchase, you submit Personal Information such as your name, payment card information, billing information, address, telephone number, and e-mail address to one of our third-party payment processors. Hily does not process payment card information directly; however, our third-party payment processors may provide certain information to us (e.g., your name, address, partial payment card number, and e-mail address).
 
 6. Duration and Location of Processing; Cross-Border Data Transfer
 ------------------------------------------------------------------
@@ -324,7 +320,7 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 **6.3.** **Terms of Deletion**. All your data is to be fully erased (or anonymized) within 7 calendar days following deletion of your Hily profile, except:
 
-(a)in-app features and subscription purchases which are being retained during the term of your subscription and 5 years from the deletion of your user account;
+(a) in-app features and subscription purchases which are being retained during the term of your subscription and 5 years from the deletion of your user account;
 
 (b) messages between users and support team, support tickets, emails with our support team (as identified in your email), as part of support tickets data that are being retained during the term of your subscription and 5 years from the deletion of your user account;
 
@@ -332,9 +328,9 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 **6.4.** **Leftovers**. When your account is deleted (as well as your data) from the Services, copies of your data may still be viewable, if your data has been previously shared with others, or copied or stored by other users or other third parties. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your data, they may retain such information to the extent permitted under their own privacy policies.
 
-**6.5. Removed and deleted data may be hosted in backup copies for up to 30 days, but will not be available to others in the meantime. We put that backup data ‘beyond use’. At the end of this period, these data will be permanently deleted.**
+**6.5.** Removed and deleted data may be hosted in backup copies for up to 30 days, but will not be available to others in the meantime. We put that backup data ‘beyond use’. At the end of this period, these data will be permanently deleted.
 
-**6.6. At all times, you are entitled to restrict us from processing your data by sending to us a data erasure request or a notice of prohibition to process your data. Please be warned that:**
+**6.6.** At all times, you are entitled to restrict us from processing your data by sending to us a data erasure request or a notice of prohibition to process your data. Please be warned that:
 
 (a) such action prohibits us from processing your data and/or making us delete your data so you will lose your access to the Website and Services;
 
@@ -348,7 +344,7 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 (b) our legitimate interest does not outweigh your right to privacy, because the way that we use the technical data does not significantly impact your privacy, and we have a compelling reason to do so (recital 47 of the GDPR). This reason is to restrict you from breaching yet another obligation under the [Hily’s Terms of Use](https://hily.com/terms?locale=EN) and potentially harming us or our users.
 
-**6.8.** **Location of Servers. Our servers are based in the USA and EU, so your data may be processed and hosted outside the EU. We inform you that we use EU servers to collect and process EU and UK residents’ data and we use USA servers to collect and process data of users from the rest of the countries. If you are located outside the United States, your information is collected in your country and then transferred to the United States — or to another country in which we (or our affiliates or service providers) operate.**
+**6.8.** **Location of Servers.** Our servers are based in the USA and EU, so your data may be processed and hosted outside the EU. We inform you that we use EU servers to collect and process EU and UK residents’ data and we use USA servers to collect and process data of users from the rest of the countries. If you are located outside the United States, your information is collected in your country and then transferred to the United States — or to another country in which we (or our affiliates or service providers) operate.
 
 **6.9.** **Cross-Border Data Transfer**. The sharing of information laid out in section 5.4 hereof involves cross-border data transfers to the United States of America and other jurisdictions that may have different laws about data processing. if we transfer personal data collected within the EEA to countries with not adequate level of data protection, we use one of the following legal bases: (i) Standard Contractual Clauses approved by the European Commission (details available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en) (or any new version of contractual clauses issued by a data protection body (if any), or (ii) the European Commission adequacy decisions about certain countries (details available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)). We take steps to ensure that the recipient is bound by E.U. Standard Contractual Clauses together with additional safeguards to protect your personal data. You can see a copy of these clauses. In certain situations, the courts, law enforcement agencies, regulatory agencies or security authorities in those countries might be entitled to access your personal information.
 
@@ -364,7 +360,7 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 (a) a right to request access to your data: you can ask us what personal information of yours is being processed, as well as for clarifications on the information described above, i.e., purpose of collecting and processing, period of processing, third parties that have access to information. To exercise this right, please contact us at [support@hily.com](mailto:support@hily.com). Please find more details in section 11 hereof;
 
-(b) a right to request us to rectify your personal information: you can ask all the inaccurate personal information concerning you been corrected. You can also complete the personal information if you feel there is a need to do so. To exercise this right, please contact us at [support@hily.com](mailto:support@hily.com) or use a specific area of your profile. Additionally, we are happy to note that there is the alternative way to amend your data. You control your Hily profile, so are able to correct or update (other than your mobile number and location (the latter is automatically updated)) your information at any time by just logging in to Hily and using the respective settings;
+(b) a right to request us to rectify your personal information: you can ask all the inaccurate personal information concerning you been corrected. You can also complete the personal information if you feel there is a need to do so. To exercise this right, please contact us at [support@hily.com](mailto:support@hily.com) or use a specific area of your profile. Additionally, we are happy to note that there is the alternative way to amend your data. You control your Hily profile, so are able to correct or update (other than your mobile number and location (the latter is automatically updated)) your information at any time by just logging in to Hily and using the respective settings; 
 
 (c) a right to request us to erase personal information: you can request us to erase such data in the following circumstances: (i) where you believe it is no longer necessary for us to hold that personal data, (ii) where we process it on the basis of your consent and you wish to withdraw your consent, (iii) where we process your personal data on the basis of our legitimate interest and you object to such processing, (iv) where you no longer wish us to use your personal data to solicit you commercially, or (v) where you believe that we are unlawfully processing your personal data. In most cases we will erase it ourselves, unless otherwise required by legislation. To exercise this right, please contact us at [support@hily.com](mailto:support@hily.com);
 
@@ -380,12 +376,12 @@ Users in the EU/UK also have the option to opt of receiving push notifications i
 
 (i) The right to give post-mortem instructions: you have the right to set out instructions for the retention, deletion and disclosure of your data after your death.
 
-**8.2. We will provide information on action taken on your request related to your rights specified above within one month of receipt of the request, at the longest. That period may be extended by two additional months if we are overwhelmed by the number of requests. We will inform you of any such extension within one month of receipt of the request, together with the reasons for the delay. Please find more details in section 11 hereof.**
+**8.2.** We will provide information on action taken on your request related to your rights specified above within one month of receipt of the request, at the longest. That period may be extended by two additional months if we are overwhelmed by the number of requests. We will inform you of any such extension within one month of receipt of the request, together with the reasons for the delay. Please find more details in section 11 hereof.
 
 9. Notice to California Residents
 ---------------------------------
 
-This Section here applies to California consumers only. This section also provides additional details about how we process your personal data of California consumers and the rights available to them under the California Consumer Privacy Act of 2018, Cal. Civ. Code §§ 1798.100–1798.199, the California Privacy Rights Act, and the associated regulations (collectively, the “CPPA”).
+This Section here applies to California consumers only. This section also provides additional details about how we process your personal data of California consumers and the rights available to them under the California Consumer Privacy Act of 2018, Cal. Civ. Code §§ 1798.100–1798.199, the California Privacy Rights Act, and the associated regulations (collectively, the “CPPA”). 
 
 **9.1.** **Categories of Personal Data**. For the users who are California residents, you may find the categories of personal information Hily collects and the business purposes and the sources for which your personal information is collected in section 5.4 hereof. You also may find the categories of your personal data from a statutory list set forth under the CCPA that we may collect:
 
@@ -407,30 +403,28 @@ This Section here applies to California consumers only. This section also provid
 
 (i) inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics or a summary of these characteristics (CCPA category K).
 
-**9.2.** **Sensitive personal information. In addition to the collection of personal data listed in section 5.4. You also may find the categories of your sensitive personal information under the CPPA and the business purposes for which such information is collected.**
+**9.2.** **Sensitive personal information.** In addition to the collection of personal data listed in section 5.4. You also may find the categories of your sensitive personal information under the CPPAand the business purposes for which such information is collected.
 
 |     |     |
 | --- | --- |
 | **Categories of sensitive information collected** | **Purpose** |
 | social security, driver’s license, state identification card, or passport number | to verify your Hily profile/your identity/age; to prevent, detect and fight fraud or other illegal or unauthorized activities |
-| account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account | to provide you with paid features; to provide you with a remuneration |
-| precise geolocation | to provide you with networking services; to help you connect with other users |
-| email and text messages | to allow you to create a Hily profile with Facebook profile; to process your requests and claims in the App; to carry out anti-fraud and anti-spam procedures; to process complaints against you |
-| ethnic origin, political opinions, religious beliefs | to help you to connect with other users and<br><br>to allow you to create a Hily profile |
+| content of messages | to help you to connect with other users. When you send a message to other users (which could include content such as photos, video, emojis, giphys, reactions, etc.), we may collect Personal Information that includes the content of the message. If you send messages, you will be providing the user who views your message (and Hily) with your personal data. Don’t send messages or share content that you wouldn’t want someone to save or share. We store content of messages on our servers in accordance with our retention rules indicated herein. |
+| ethnic origin, political opinions, religious beliefs | to help you to connect with other users and to allow you to create a Hily profile |
 
-We may collect your personal information concerning ethnic origin, political opinions, religious beliefs,only if you add to choose by clicking a tag as indicated in section 1.3. hereof. Please be aware that only your precise geolocation and personal information concerning racial or ethnic origin, religious or philosophical beliefs may be publicly viewable and accessible both by users and non-users of the App.
+We may collect your personal information concerning ethnic origin, political opinions, religious beliefs only if you add to choose by clicking a tag as indicated in section 1.3. hereof. Please be aware that only your approx geolocation and personal information concerning racial or ethnic origin, religious or philosophical beliefs may be publicly viewable and accessible both by users and non-users of the App.
 
-If you want to limit the use of your sensitive personal information to that which is necessary to perform our Service, please see section 9.4.4. below. Please note that using your personal information concerning precise geolocation or financial details is necessary to actually provide our Service and connect you with other users.
+If you want to limit the use of your sensitive personal information to that which is necessary to perform our Service, please see section 9.4.4. below.
 
 **9.3.** **Selling/Sharing of your personal information.** The definition of “sale” under CPPA is broad and covers many common business activities, even when the personal Information is not exchanged for money. Hily does not sell personal information for monetary consideration; however, we may share certain personal information with third parties under circumstances which might be deemed a “sale” or “share” under CPPA for “interest-based advertising” or “cross-context behavioral advertising.” In other words, Hily may share your personal information with a third party to help serve you with personalized content or ads that may be more relevant to your interest.
 
 The third parties, service providers and other processors with which we may share or disclose specific pieces of personal information over the 12-month period prior to the effective date of our Privacy Policy are indicated in sections 3.4-3.10. hereof. We disclose your personal information, including sensitive information, with processors, service providers and contractors indicated in sections 3.4-3.10. hereof for business purposes that it is not defined as a “sale” or “share” under CPPA. We enter a contract with them that describes the purpose and requires the recipient to both keep that personal Information, including sensitive personal information, confidential and not use it for any purpose except as described in the contract.
 
-Hily may share in the sense of CPPA certain personal information (Advertising identifier; localization data; IP Address, Referrer; Internet connection type, Application version, Device model, Manufacturer, Operating system, Operating system version, Screen size (height, width), Screen resolution, Mobile network status; user ID; channel mode; SDK version; network type; App ID; email; localization data; precise geolocation) with our ad/ marketing partners. These third-parties may also collect information directly from you through tracking technologies such as cookies or SDKs. You may request to opt-out of the sale/sharing of your personal information, please see section 9.4.3 below on how to submit such request.
+Hily may share in the sense of CPPA certain personal information (Advertising identifier; localization data; IP Address, Referrer; Internet connection type, Application version, Device model, Manufacturer, Operating system, Operating system version, Screen size (height, width), Screen resolution, Mobile network status; user ID; channel mode; SDK version; network type; App ID; email; localization data; approx geolocation) with our ad/ marketing partners. These third-parties may also collect information directly from you through tracking technologies such as cookies or SDKs. You may request to opt-out of the sale/sharing of your personal information, please see section 9.4.3 below on how to submit such request.
 
-**9.4.** **Your rights. For the users who are California residents, you have the following rights in addition to those listed in section 8.1 above.**
+**9.4.** **Your rights.** For the users who are California residents, you have the following rights in addition to those listed in section 8.1 above.
 
-**9.4.1 The right to know what personal information is being collected and the right to know what personal information is sold or shared. You have the right to request, twice within a 12-month period, the following information about the data:**
+**9.4.1** The right to know what personal information is being collected and the right to know what personal information is sold or shared. You have the right to request, twice within a 12-month period, the following information about the data: 
 
 * a) The categories of personal information Hily has collected about you.
 * b) The categories of sources from which the personal information is collected.
@@ -439,50 +433,51 @@ Hily may share in the sense of CPPA certain personal information (Advertising id
 * e) The categories of third parties to whom Hily discloses personal information.
 * f) The specific pieces of personal information it has collected about that consumer.
 
-**9.4.2. The right to delete your personal information or correct inaccurate personal information. You  may request Hily to delete any personal information about you which Hily has collected. You also have the right to request Hily to correct inaccurate personal information about you, taking into account the nature of the personal information and the purposes of the processing of the personal information.**
+**9.4.2.** The right to delete your personal information or correct inaccurate personal information**.**You may request Hily to delete any personal information about you which Hily has collected. You also have the right to request Hily to correct inaccurate personal information about you, taking into account the nature of the personal information and the purposes of the processing of the personal information.
 
-**How to Submit a Request.** To submit a request for information required to be disclosed and a request for deletion or correction, please contact us by email [support@hily.com](mailto:support@hily.com) or go through our website at this available link  [https://hily.com/support#donotshare](https://hily.com/support#donotshare).
+**How to Submit a Request. To submit a request for information required to be disclosed and a request for deletion or correction, please contact us by email [support@hily.com](mailto:support@hily.com) or go through our website at this available link  [https://hily.com/support#donotshare](https://hily.com/support#donotshare).**
 
-**9.4.3. Right to opt out of sale or sharing of personal information. You may direct Hily, that may sell or share your personal information to third parties, not to sell or share your personal information. Please note that Hily may stop to share your personal information only with third parties, Hilly may continue to share your personal information with service providers and contractors to provide you Service.**
+**9.4.3.** Right to opt out of sale or sharing of personal information.You may direct Hily, that may sell or share your personal information to third parties, not to sell or share your personal information. Please note that Hily may stop to share your personal information only with third parties, Hilly may continue to share your personal information with service providers and contractors to provide you Service.
 
-**9.4.4. Right to limit the use of your sensitive personal information. You may direct Hily, that collects your sensitive personal information indicated in section 9.2. hereof, to limit the use or disclosure to that use which is necessary to perform Service.**
+**9.4.4.** Right to limit the use of your sensitive personal information. You may direct Hily, that collects your sensitive personal information indicated in section 9.2. hereof, to limit the use or disclosure to that use which is necessary to perform Service.
 
-**How to Submit a Request.** To submit a request not to sell or share your personal information or to limit the use of your sensitive information, please contact us by email [support@hily.com](mailto:support@hily.com) or by clicking the link [“**Your Privacy Choices**”](https://hily.com/support#donotshare) which is located at the footer of Hily\`s website.
+**How to Submit a Request. To submit a request not to sell or share your personal information or to limit the use of your sensitive information, please contact us by email [support@hily.com](mailto:support@hily.com) or by clicking the link [“Your Privacy Choices”](https://hily.com/support#donotshare) which is located at the footer of Hily’s website.**
 
-**9.5. If you choose to exercise any of your privacy rights under the CPPA, you have the right not to receive discriminatory treatment by Hily.**
+**9.5.** If you choose to exercise any of your privacy rights under the CPPA, you have the right not to receive discriminatory treatment by Hily.
 
-**9.6. You are always welcome to request “pdf” copy of this Policy or any other integral part of [Hily’s Terms of Use](https://hily.com/terms?locale=EN) (as well as Hily’s Terms of Use themselves); just let us know by sending your request to [support@hily.com](mailto:support@hily.com).**
+**9.6.** You are always welcome to request “pdf” copy of this Policy or any other integral part of [Hily’s Terms of Use](https://hily.com/terms?locale=EN) (as well as Hily’s Terms of Use themselves); just let us know by sending your request to [support@hily.com](mailto:support@hily.com).
 
-**9.7. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your data or complying with your request. If requests from a consumer are manifestly unfounded or excessive, in particular because of their repetitive character, we may either charge a reasonable fee, taking into account the administrative costs of providing the information or communication or taking the action requested, or refuse to act on the request and notify you the reason for refusing the request.**
+**9.7.** To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your data or complying with your request. If requests from a consumer are manifestly unfounded or excessive, in particular because of their repetitive character, we may either charge a reasonable fee, taking into account the administrative costs of providing the information or communication or taking the action requested, or refuse to act on the request and notify you the reason for refusing the request.
 
-**9.8. You may also use an authorized agent to submit your request. If you do, we may ask for evidence that you have provided the agent valid power of attorney or other written permission to submit requests on your behalf, and we may also take steps to verify your identity. Owing to a sensitive nature of your data, we reserve the right to reject, at any time, requests concerning your data submitted by any third party.**
+**9.8.** You may also use an authorized agent to submit your request. If you do, we may ask for evidence that you have provided the agent valid power of attorney or other written permission to submit requests on your behalf, and we may also take steps to verify your identity. Owing to a sensitive nature of your data, we reserve the right to reject, at any time, requests concerning your data submitted by any third party.
 
-10. Notice to Virginia Residents
---------------------------------
+10\. Notice to Virginia and Texas Residents
+-------------------------------------------
 
-Consumers residing in Virginia are afforded certain additional rights with respect to their personal information under the Virginia Consumer Data Protection Act (VCDPA). If you are a Virginia resident, this section applies to you.
+Consumers residing in Virginia or Texas are afforded certain additional rights with respect to their personal information under the Virginia Consumer Data Protection Act (VCDPA) and the Texas Data Privacy and Security Act (TDPSA), respectively. If you are a Virginia or Texas resident, this section applies to you.
 
-**10.1.** **Our collection and use of personal information** **You may find the categories of personal information Hily collects and the purposes and sources for which your personal information is collected in section 5.4 hereof.**
+**10.1.** **Our collection and use of personal information** You may find the categories of personal information Hily collects and the purposes and sources for which your personal information is collected in section 5.4 hereof.
 
-**10.2.** **Process your sensitive data. We do process your sensitive data concerning ethnic origin, political opinions, religious beliefs and precise geolocation data. We may ask to give your consent to process and these categories of your sensitive information and make them public to other users. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile setting. You give us consent to process your precise geolocation data when you allow through your mapping phone service as Google Maps to access your location while you are using our App. Please see section 8. 1 (d) above on how to restrict the processing of your geolocation data.**
+**10.2.** **Process your sensitive data.** We do process your sensitive data concerning ethnic origin, political opinions and religious beliefs. We may ask to give your consent to process and these categories of your sensitive information and make them public to other users. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile setting.
 
 **10.3.** **Exercising your** **consumer rights:** You have the right to request (1) to confirm whether or not a controller is processing the consumer’s personal data and to access such personal data; (2) To correct inaccuracies in the consumer’s personal data, taking into account the nature of the personal data and the purposes of the processing of the consumer’s personal data; (3) To delete personal data provided by or obtained about the consumer; (4) To obtain a copy of the consumer’s personal data that the consumer previously provided to the controller in a portable and, to the extent technically feasible, readily usable format that allows the consumer to transmit the data to another controller without hindrance, where the processing is carried out by automated means; (5) to opt out of the processing of the personal data for purposes of targeted advertising.
 
-You may exercise your rights by contacting us at [support@hily.com](mailto:support@hily.com). See more details in section 11 below. We will not discriminate against you if you exercise your rights under the VCDPA. You may contact us at [support@hily.com](mailto:support@hily.com) if you want to appeal Hily\`s refusal to take action on your request. The appeal process is conspicuously available and similar to the process for submitting requests. Hily will have 60 days of receipt of an appeal to inform you in writing of any action taken or not taken in response to the appeal. 
+You may exercise your rights by contacting us at [support@hily.com](mailto:support@hily.com). See more details in section 11 below. We will not discriminate against you if you exercise your rights under the VCDPA or TDPSA. You may contact us at [support@hily.com](mailto:support@hily.com) if you want to appeal Hily\`s refusal to take action on your request. The appeal process is conspicuously available and similar to the process for submitting requests. Hily will have 60 days of receipt of an appeal to inform you in writing of any action taken or not taken in response to the appeal.
 
-If the appeal is denied, you may contact the Attorney General to submit a complaint.
+If the appeal is denied, you may contact the Attorney General of your state to submit a complaint. For Texas, you can do so at [https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint), and for Virginia at [https://www.oag.state.va.us/consumer-protection/file-a-complaint](https://www.oag.state.va.us/consumer-protection/file-a-complaint)
 
 **10.4.** **S****ale of personal information** **and process of personal information for targeted advertising.** We do not sell your personal information. We do not exchange your personal data for monetary consideration with third parties, so no opt-out choice is necessary for that. However, we do process your personal information for targeted advertising in the sense of VCDPA. We display advertisements to you where such adds are based on personal data obtained from nonaffiliated websites or online applications. You can opt out of the processing of the personal data for purposes of targeted advertising by contacting us at [support@hily.com](mailto:support@hily.com).
 
-**11.** **Data Subjects’ Access and Erasure Requests**
+11. Data Subjects’ Access and Erasure Requests
+----------------------------------------------
 
-**11.1.** **Method for Submitting Requests**. If you are an EU user, you may exercise your right to file a request to access or delete your data by contacting us at [support@hily.com](mailto:support@hily.com) or via the App. In the event you are a California or Virginia consumer, you may exercise your privacy rights according to section 9 and 10 accordingly.
+**11.1.** **Method for Submitting Requests**. If you are an EU user, you may exercise your right to file a request to access or delete your data by contacting us at [support@hily.com](mailto:support@hily.com) or via the App. If you are a California consumer, you may exercise your privacy rights according to Section 9. For Virginia and Texas consumers, please refer to Section 10.
 
 **11.2.** **Timeframes**. In the event you submit your request to us, we will act as follows:
 
-(a) within 10 business days following а confirmation of receipt of your letter, we shall request that you provide us with relevant data for a verification procedure;
+(a) within 10 business days following а confirmation of receipt of your request, we may askyou to provide us with relevant data for a verification procedure;
 
-(b) if you are a California or Virginia consumer, we will have 45 calendar days following the date of your request to process your request. In the event of your failure to pass the verification process within 45 calendar days, we may deny your request or prolong the term of processing up to additional 45 calendar days; please be sure that we will notify you about our decision;
+(b) if you are a California, Virginia or Texas resident, we will have 45 calendar days following the date of your request to process your request. We may extend this period for 45 additional calendar days when reasonably necessary, taking into account the complexity and number of the requests. In the event of your failure to pass the verification process within 45 calendar days, we may deny your request or prolong the term of processing up to additional 45 calendar days; please be sure that we will notify you about our decision;
 
 (c) if you are an EU or UK user, we will have 30 calendar days following the date that you provide us with the data required for verification to process your request. In the event of your failure to pass the verification process, we may deny your request. We are entitled to prolong the response term up to 2 months by giving you a notification.
 
@@ -490,17 +485,29 @@ If the appeal is denied, you may contact the Attorney General to submit a compla
 
 Hily employs automated decision-making as part of our moderation efforts to detect and remove spammers, non-compliant images, messages, bots, etc. through artificial intelligence. This processing may lead to blocking or suspension of your account on the mobile application and the restriction of your further use of the mobile application, without prejudice to other legal actions we could take.
 
-If we have good grounds to doubt your identity, we may ask you to provide additional evidence we reasonably need to confirm your identity (human verification). For example, we may ask you for a piece of information held in your profile that we would expect you to know: your location, last 5 connections, etc. If we have serious doubts about your identity, we may ask you to share with Hily your photo with your ID document or an image of your ID document. In the event you fail the verification process, your request will be rejected.As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@hily.com.](mailto:support@hily.com)
+If we have good grounds to doubt your identity, we may ask you to provide additional evidence we reasonably need to confirm your identity (human verification). For example, we may ask you for a piece of information held in your profile that we would expect you to know: your location, last 5 connections, etc. If we have serious doubts about your identity, we may ask you to share with Hily your photo with your ID document or an image of your ID document. In the event you fail the verification process, your request will be rejected.
+
+As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@hily.com](mailto:support@hily.com).
+
+**Photo Verification Information.** If you participate in a photo verification (via pantomime), it involves the collection of a photo without any face geometry (which may be considered biometric data in some jurisdictions anyway). In our app, photo verification is as simple as taking a selfie. 
+
+After submitting a photo, the automated system indicates if it consists of a human in general. Then, moderators (human verification) can compare the photo you submit to your profile photo to help ensure that you are who you say you are. We do not add the verification photos to your profile.
+
+Before participating in the photo verification, you consent via pop-up that Hily uses photo verification information (which may be considered biometric data in some jurisdictions) to detect and remove spammers, non-compliant images, messages, bots. 
+
+**Purpose of using photo verification.** Hily uses photo verification information solely for photo verification and security purpose. To perform the Photo Verification process, we store photo verification information on our Amazon Web Services (AWS).
+
+**Retention period of photo verification Information.** We may retain the photos so that we can verify you in the future and for our record-keeping purposes. We delete photo verification information upon the termination of your profile or after two years of your continuous inactivity in our app. You can request deletion of the photo verification information by writing at [support@hily.com](mailto:support@hily.com). 
 
 12. Third-Party Websites
 ------------------------
 
-**12.1. The Services may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies of such linked websites may be different from this Policy. You access such linked websites at your own risk. Similarly, the Service may be accessed and used by third-party websites that we do not control. We have no control over the privacy policies of such third-party websites, and you access such third-party websites at your own risk**.
+**12.1.** The Services may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies of such linked websites may be different from this Policy. You access such linked websites at your own risk. Similarly, the Service may be accessed and used by third-party websites that we do not control. We have no control over the privacy policies of such third-party websites, and you access such third-party websites at your own risk.
 
 13. Data Protection; Security
 -----------------------------
 
-**13.1. We incorporate commercially reasonable safeguards to help protect and secure your data. At Hily, we prioritize the privacy and security of your personal information through robust measures and continuous improvements. Our security setup is built to keep your data safe and includes these key components:**
+**13.1.** We incorporate commercially reasonable safeguards to help protect and secure your data. At Hily, we prioritize the privacy and security of your personal information through robust measures and continuous improvements. Our security setup is built to keep your data safe and includes these key components:
 
 (a) **Data Retention Policy**: We retain your personal information only as long as necessary to fulfill the purposes for which it was collected or as required by applicable laws and regulations. This ensures that your data is managed responsibly and deleted securely when no longer needed. For more information on data retention and deletion,  please refer to Section 6. hereof.
 
@@ -522,11 +529,11 @@ If we have good grounds to doubt your identity, we may ask you to provide additi
 
 (j) **Data transfer control:** Measures that ensure that during electronic transmission, transport or storage on data carriers data cannot be read, copied, modified or deleted without authorization, and that it can be established and verified to which entities a transfer of data by means of data transmission facilities is planned. All employees have undertaken to comply with the principle of data secrecy and there are capacities for encrypted data transmissions. Furthermore, the data is deleted in accordance with data protection laws after the end of the commission.
 
-(k) **Availability control:** Measures that ensure that the data is protected against accidental destruction or loss. Backup and recovery procedures with a daily mirroring of the data have been implemented. In addition, there is uninterruptible power supply and a firewall system as well as port regulations are in place.
+(k) **Availability control: Measures that ensure that the data is protected against accidental destruction or loss. Backup and recovery procedures with a daily mirroring of the data have been implemented. In addition, there is uninterruptible power supply and a firewall system as well as port regulations are in place.**
 
-(l) **Data protection by design and default:** Hily only collects data that is mandatory for the provision of the Services.
+(l) **Data protection by design and default: Hily only collects data that is mandatory for the provision of the Services.**
 
-**13.2. To protect you and others, we may monitor your use of the Services and use your personal data and/or other information we collect in order to:**
+**13.2.** To protect you and others, we may monitor your use of the Services and use your personal data and/or other information we collect in order to:
 
 * identify and prevent fraudulent activities and transactions, 
 * prevent abuse of and investigate and/or prosecute potential threats to or misuse of the Service, 
@@ -535,11 +542,11 @@ If we have good grounds to doubt your identity, we may ask you to provide additi
 
 This security monitoring may result in the collection, recording, and analysis of online activity or communications through the Services. If you do not consent to these conditions, you must discontinue your use of the Services.
 
-**13.3. We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organizational security measures.**
+**13.3.** We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organizational security measures.
 
-**13.4. **TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ANY BREACHES OF SECURITY, DAMAGE TO YOUR DEVICE, OR ANY LOSS OR UNAUTHORISED USE OF YOUR REGISTRATION INFORMATION OR OTHER DATA.****
+**13.4. TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ANY BREACHES OF SECURITY, DAMAGE TO YOUR DEVICE, OR ANY LOSS OR UNAUTHORISED USE OF YOUR REGISTRATION INFORMATION OR OTHER DATA.**
 
-14. Reach us Out
-----------------
+14\. Reach Us Out
+-----------------
 
-**14.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@hily.com](mailto:support@hily.com) or [legal@hily.com](mailto:legal@hily.com).**
+**14.1.** We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@hily.com](mailto:support@hily.com) or [legal@hily.com](mailto:legal@hily.com).
