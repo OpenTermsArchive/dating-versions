@@ -1,7 +1,8 @@
+* [Home](https://hily.com/) 
+* Cookie Policy
+
 Cookie Policy
 =============
-
-Effective date: Aug 29, 2024
 
 This Cookie Policy (the “Policy”) is an integral part of the [Hily’s Terms of Use](https://hily.com/terms?locale=EN) (the “Terms”) and [Privacy Policy](https://hily.com/privacypolicy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
 
