@@ -82,11 +82,8 @@ By post:
 Data Protection Officer
 
 Match.com International Limited  
-MATCH  
-c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
-22 Bishopsgate  
-London, EC2N 4BQ  
-United Kingdom
+MATCH, DPO Office  
+27 Old Gloucester Street, London, United Kingdom, WC1N 3AX
 
 **Or, if you live in the European Union:**
 
