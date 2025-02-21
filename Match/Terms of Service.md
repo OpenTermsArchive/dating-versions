@@ -22,14 +22,14 @@ By creating an account on our Services, you agree to be bound by our (i) Terms 
 
 You can only use our Services under the following conditions. You represent and warrant at all times that:
 
-* You are over 18 and can enter into a legally binding contract with us.
-* You meet the conditions for registration stated on the Services.
-* You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/safety/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
-* You will provide correct, accurate and true information that is not misleading. In particular, you must be truthful and honest when completing your profile and in your interactions with other users and with us.
-* You acknowledge and agree that the Services’ purpose is to enable single individuals to connect on a personal, non-commercial and non-financial basis, with the primary goal of forming committed relationships as a couple.
-* You must respect and comply with  the purposes of the Services at all times.
-* You are not currently registered on a Sex Offender Register.
-* You have never been convicted of an unlawful act involving fraud, a sexual offence, violence (including domestic violence), harassment, terrorism or a hate crime.
+*   You are over 18 and can enter into a legally binding contract with us.
+*   You meet the conditions for registration stated on the Services.
+*   You will comply with these Terms of Use, including our [Safety Tips](https://uk.match.com/safety/), [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/) and all applicable laws and regulations.
+*   You will provide correct, accurate and true information that is not misleading. In particular, you must be truthful and honest when completing your profile and in your interactions with other users and with us.
+*   You acknowledge and agree that the Services’ purpose is to enable single individuals to connect on a personal, non-commercial and non-financial basis, with the primary goal of forming committed relationships as a couple.
+*   You must respect and comply with  the purposes of the Services at all times.
+*   You are not currently registered on a Sex Offender Register.
+*   You have never been convicted of an unlawful act involving fraud, a sexual offence, violence (including domestic violence), harassment, terrorism or a hate crime.
 
 We reserve the right to decline, suspend or terminate your access or membership at any time if you do not meet any of these conditions.
 
@@ -57,28 +57,28 @@ The quality of interactions expected by both us and other users of the Services 
 
 As a user, you must abide by the following rules of conduct at all times and agree that you will not:
 
-* violate our [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), as updated from time to time;
-* post any of your personal contact details or disseminate another person’s personal information (e-mail address, postal address, telephone number, etc.) in any manner whatsoever (in a Profile description, in a photo, etc.);
-* post any content that infringes anyone’s rights, including rights of publicity, private life, copyright, trademark or other intellectual property or contract right;
-* impersonate any person or entity;
-* solicit passwords for any purpose or solicit personal identifying information for commercial or unlawful purposes from other users;
-* solicit money from or defraud any user;
-* mass sending messages, spamming ;
-* post any content that is hate speech, threatening, sexually explicit or pornographic; incites violence; or contains nudity or graphic or gratuitous violence;
-* post any content that promotes racism, bigotry, hatred, terrorism, discrimination or physical harm of any kind against any group or individual;
-* publish any content constituting sexual harassment or cyber-harassment of any person; publish any content showing offences against minors;
-* publish any illicit content or content offering illicit products or services;
-* insult, bully, “stalk,” intimidate, assault, harass, mistreat or defame any person;
-* use the Services for any harmful or nefarious purpose;
-* use the Services in order to damage us or our Group;
-* use the Services for purposes contrary to the purpose of the Services, in particular for commercial or political purposes;
-* use the Services for any purpose that is illegal or prohibited by these Terms of Use;
+*   violate our [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/), as updated from time to time;
+*   post any of your personal contact details or disseminate another person’s personal information (e-mail address, postal address, telephone number, etc.) in any manner whatsoever (in a Profile description, in a photo, etc.);
+*   post any content that infringes anyone’s rights, including rights of publicity, private life, copyright, trademark or other intellectual property or contract right;
+*   impersonate any person or entity;
+*   solicit passwords for any purpose or solicit personal identifying information for commercial or unlawful purposes from other users;
+*   solicit money from or defraud any user;
+*   mass sending messages, spamming ;
+*   post any content that is hate speech, threatening, sexually explicit or pornographic; incites violence; or contains nudity or graphic or gratuitous violence;
+*   post any content that promotes racism, bigotry, hatred, terrorism, discrimination or physical harm of any kind against any group or individual;
+*   publish any content constituting sexual harassment or cyber-harassment of any person; publish any content showing offences against minors;
+*   publish any illicit content or content offering illicit products or services;
+*   insult, bully, “stalk,” intimidate, assault, harass, mistreat or defame any person;
+*   use the Services for any harmful or nefarious purpose;
+*   use the Services in order to damage us or our Group;
+*   use the Services for purposes contrary to the purpose of the Services, in particular for commercial or political purposes;
+*   use the Services for any purpose that is illegal or prohibited by these Terms of Use;
 
-* use the Services in order to promote or to facilitate personal relationships of a transactional nature and/or services of a sexual nature and/or non-consensual sexual acts;
-* use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or other automatic device, method, process to access, retrieve, index, “data mine”, or in any way reproduce or circumvent the navigational structure or presentation of the Services or its contents;
-* use another user’s account, share an account with another user, or maintain more than one account;
-* create another account if we or our Group have already terminated your account, unless you have our permission;
-* make a false, misleading or manifestly unfounded report of a user’s behaviour or content, or misuse the internal reporting or appeal system available to users.
+*   use the Services in order to promote or to facilitate personal relationships of a transactional nature and/or services of a sexual nature and/or non-consensual sexual acts;
+*   use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or other automatic device, method, process to access, retrieve, index, “data mine”, or in any way reproduce or circumvent the navigational structure or presentation of the Services or its contents;
+*   use another user’s account, share an account with another user, or maintain more than one account;
+*   create another account if we or our Group have already terminated your account, unless you have our permission;
+*   make a false, misleading or manifestly unfounded report of a user’s behaviour or content, or misuse the internal reporting or appeal system available to users.
 
 Your breach of any of these rules of conduct constitutes a serious material breach of your contractual obligations under these Terms of Use.
 
@@ -106,17 +106,17 @@ We encourage all our users to report content and/or profiles that may violate ou
 
 To report a profile, behavior or private content contrary to our rules of conduct, please :
 
-* Click on the three-dot icon present on all profiles;
-* Select “Report” and the reason for reporting;
-* Send us all the information we need to process your report.
+*   Click on the three-dot icon present on all profiles;
+*   Select “Report” and the reason for reporting;
+*   Send us all the information we need to process your report.
 
 To report illegal content that is publicly visible to all users, you must :
 
-1. Click on the three-dot icon present on all profiles;
-2. Select “Report” and “If illegal content”:
-3. Select the reason for reporting;
-4. Send us all the information we need to process your report.
-5. The reporting form is also available at the bottom of the “Report illegal content” page.
+1.  Click on the three-dot icon present on all profiles;
+2.  Select “Report” and “If illegal content”:
+3.  Select the reason for reporting;
+4.  Send us all the information we need to process your report.
+5.  The reporting form is also available at the bottom of the “Report illegal content” page.
 
 ### 4.3 Consequences of non-compliance with our terms of use
 
@@ -299,8 +299,8 @@ All of our rights and obligations under these Terms of Use are freely assignable
 
 For every request or claim regarding your use of the Services, you may consult our [Help page](https://uk.match.com/faq/). If you need further help, you may contact our Customer Care team by email:
 
-* For Match: [customercare@help.match.co.uk](mailto:customercare@help.match.co.uk)
-*  For Ourtime: [customercare@help.ourtime.co.uk](mailto:customercare@help.ourtime.co.uk)
+*   For Match: [customercare@help.match.co.uk](mailto:customercare@help.match.co.uk)
+*    For Ourtime: [customercare@help.ourtime.co.uk](mailto:customercare@help.ourtime.co.uk)
 
 18\. Applicable law – Disputes
 ------------------------------
