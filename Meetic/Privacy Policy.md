@@ -59,14 +59,14 @@ Il va sans dire qu’il nous est impossible de vous aider à bâtir des relation
 | --- | --- |
 | Catégories | Description |
 | --- | --- |
-| Données de géométrie faciale | Vous pouvez choisir de participer à certaines de nos fonctionnalités, comme la vérification par photo, qui implique la collecte de données de géométrie faciale considérées comme des données biométriques dans certaines juridictions.[En savoir plus](http://www.meetic.fr/faq/?answer=0309_ProfileVerifiedPhoto) sur notre fonction de vérification et sur la façon dont nous traitons les données de géométrie faciale. |
+| Données de géométrie faciale | Vous pouvez choisir de participer à certaines de nos fonctionnalités, comme la vérification par photo, qui implique la collecte de données de géométrie faciale considérées comme des données biométriques dans certaines juridictions.[En savoir plus](https://www.meetic.fr/faq/surete/comment-fonctionne-la-verification-de-photos/) sur notre fonction de vérification et sur la façon dont nous traitons les données de géométrie faciale. |
 | Données d’identification | Vous pouvez nous fournir une copie de votre pièce d’identité officielle pour nous permettre de vérifier que vous êtes bien la personne que vous prétendez être. |
 
 ### 4\. Pourquoi et comment nous utilisons vos données
 
 Le motif principal du traitement de vos données est la prestation du service et son amélioration au fil du temps. Cela inclut la mise en relation avec des membres susceptibles de vous faire battre la chamade, la personnalisation de votre expérience et la possibilité de tirer le meilleur parti de notre service. Nous traitons également vos données pour assurer votre sécurité et celle de tous nos membres lorsque vous utilisez notre service. Nous prenons cette responsabilité très au sérieux et nous nous efforçons d’améliorer constamment nos systèmes et nos processus afin de vous protéger. Et nous traitons effectivement vos données afin de vous présenter des publicités pertinentes – vous pouvez contrôler cela dans vos paramètres. Poursuivez votre lecture pour obtenir une explication plus détaillée.
 
-Pour plus d’informations sur la manière dont nous traitons les données à caractère personnel par le biais du « profilage » et de la « prise de décision automatisée », veuillez consulter notre [FAQ](https://www.meetic.fr/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
+Pour plus d’informations sur la manière dont nous traitons les données à caractère personnel par le biais du « profilage » et de la « prise de décision automatisée », veuillez consulter notre [FAQ](https://www.meetic.fr/faq/surete/meetic-utilise-t-il-le-profilage-et-a-la-prise-de-decision-individuelle-automatisee/).
 
 | Finalités du traitement de vos données | Motifs de traitement de vos données | Catégories de données traitées<br><br>_(Ces points sont décrits à la section 3 de la présente Politique)_ |
 | --- | --- | --- |
