@@ -102,7 +102,7 @@ Nous pouvons partager des données vous concernant avec nos Sociétés affiliée
 * Lorsque la loi en vigueur l’autorise, pour mieux comprendre comment les gens utilisent les services de Match Group dans leur ensemble, pour personnaliser votre expérience des services de Match Group et pour améliorer les campagnes marketing et publicitaires.
 * À d’autres fins commerciales légitimes, notamment l’audit d’entreprise, l’analyse et les rapports consolidés.
 
-[En savoir plus](https://www.meetic.fr/faq/?answer=0332_DataAcrossMG) sur la manière dont les sociétés du Groupe Match travaillent ensemble.
+[En savoir plus](https://www.meetic.fr/faq/gestion-du-profil/pourquoi-nous-partageons-les-donnees-avec-les-autres-entreprises-de-match-group/) sur la manière dont les sociétés du Groupe Match travaillent ensemble.
 
 ### 7\. Transferts de données transfrontaliers
 
