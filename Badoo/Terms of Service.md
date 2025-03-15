@@ -44,7 +44,7 @@ Il existe cependant certaines règles concernant ce qui est acceptable, ainsi lo
 
 1. est illégal ou encourage, fait la promotion ou incite à des activités illégales ;
 2. nuit aux mineurs ;
-3. est diffamatoire ou calomnieuse ;
+3. est diffamatoire ou calomnieux ;
 4. en soi ou par sa publication, porte atteinte aux droits d'un tiers (y compris, mais sans s'y limiter, les droits de propriété intellectuelle et les droits relatifs à la vie privée) ;
 5. montre une autre personne alors que cette personne n’y a pas consenti ;
 6. contient un langage et/ou des images qui pourraient être considérés comme offensants ou qui sont de nature à harceler, perturber, embarrasser, effrayer ou gêner toute autre personne ;
@@ -62,9 +62,7 @@ Nous utilisons un ensemble de systèmes automatisés, de rapports d'utilisateurs
 
 Pour les utilisateurs résidant dans l'Union européenne (« UE »), nous vous informerons lorsque nous prendrons des mesures à l'encontre de votre compte ou de votre contenu, à moins qu'il ne soit pas approprié pour nous de le faire (par exemple, nous n'y sommes pas autorisés par les autorités chargées de l'application de la loi). Pour tous les autres utilisateurs, nous nous réservons le droit (sans obligation), à notre seule discrétion et sans vous en avertir, de supprimer ou d'éditer, de limiter ou de bloquer l'accès à tout contenu que vous téléchargez ou soumettez à Badoo, sans encourir de responsabilité à votre égard. Si vous estimez que nous avons commis une erreur en prenant une telle mesure, vous avez la possibilité de faire appel de notre décision **dans un délai de six mois**. Si vous souhaitez faire appel d'une décision, commencez par prendre le temps de lire la section correspondante de nos [Règles de la communauté](https://badoo.com/guidelines). Si vous pensez toujours qu'il y a eu une erreur concernant les mesures prises sur votre compte ou votre contenu, la meilleure façon de faire appel est de remplir le formulaire d'appel associé à la notification qui vous est présentée dans l'application à ce moment-là. Vous pouvez également nous contacter [ici](https://badoo.com/feedback) (veuillez expliquer pourquoi vous faites appel de notre décision, en donnant le plus de détails possible).
 
-Les utilisateurs résidant dans l'Union européenne disposent de droits supplémentaires en vertu de la loi sur les services numériques (Digital Services Act) : (i) accéder à des procédures de règlement extrajudiciaire des litiges par des tiers ; (ii) demander réparation auprès des tribunaux de l'État membre de l'UE dans lequel vous vivez ; et (iii) déposer une plainte auprès de l'autorité de régulation de l'UE de votre pays. Pour les utilisateurs résidant au Royaume-Uni, vous avez le droit, en vertu de la législation locale, de déposer une plainte pour rupture de contrat si vous estimez que nous avons enfreint les conditions en supprimant, restreignant ou limitant l'accès à votre contenu ou sa diffusion, ou en suspendant ou résiliant votre compte.
-
-Nous n'avons aucune obligation d'afficher le contenu que vous soumettez à Badoo, ni de vérifier l'exactitude ou la véracité du contenu soumis à Badoo, ni de superviser votre utilisation ou celle des autres utilisateurs de Badoo.
+Les utilisateurs résidant dans l'Union européenne disposent de droits supplémentaires en vertu de la loi sur les services numériques (Digital Services Act) : (i) accéder à des procédures de règlement extrajudiciaire des litiges par des tiers ; (ii) demander réparation auprès des tribunaux de l'État membre de l'UE dans lequel vous vivez ; et (iii) déposer une plainte auprès de l'autorité de régulation de l'UE de votre pays. Pour les utilisateurs résidant au Royaume-Uni, vous avez le droit, en vertu de la législation locale, de déposer une plainte pour rupture de contrat si vous estimez que nous avons enfreint les conditions en supprimant, restreignant ou limitant l'accès à votre contenu ou sa diffusion, ou en suspendant ou résiliant votre compte. Les utilisateurs résidant au Royaume-Uni peuvent également cliquer [ici (ouvre une nouvelle fenêtre)](https://badoo.com/help#settings-help-question/585/4813) pour en savoir plus sur (i) les mesures que nous prenons pour protéger les individus contre les contenus qui peuvent s’avérer contraires à nos [Règles de la communauté](https://badoo.com/guidelines), aux présentes Conditions, ou autrement préjudiciables ou illégales (ci-après « contenus illégaux ») ; (ii) la façon dont nous appréhendons les signalements de contenus illégaux et les plaintes pour non-conformité ; et (iii) la façon dont nous utilisons une technologie proactive pour identifier et supprimer les contenus illégaux sur Badoo.
 
 ### Y a-t-il des règles relatives aux données personnelles comme mon adresse e-mail ?
 
@@ -320,4 +318,4 @@ Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d’utilisation : 5 novembre 2024.
+Dernière mise à jour des Conditions générales d’utilisation : 14 mars 2025.
