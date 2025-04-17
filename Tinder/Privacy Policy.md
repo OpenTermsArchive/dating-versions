@@ -160,7 +160,52 @@ We may share data about you with our Affiliates and they may share data about yo
 
 [Learn more](https://www.help.tinder.com/hc/articles/25749901453197) about how Match Group companies work together.
 
-### **10\. Children's Privacy**
+**7\. Cross-Border Data Transfers**
+-----------------------------------
+
+Because we operate a global service, the sharing of your data laid out in Section 5 involves cross-border data transfers to the United States of America and other countries that may have different laws about data processing. When we transfer personal data outside of the EEA, the United Kingdom, Switzerland or other countries whose data protection laws have been deemed adequate by the European Commission or other competent governmental bodies, we typically rely on what are called [standard contract clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). These standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data. [Contact us](https://www.help.tinder.com/hc/requests/new) for a copy.
+
+### **8\. Your Rights**
+
+We want you to be in control of your data, so we want to remind you of the following rights, options and tools available to you. Depending on where you live, you may not have the same rights or they may be named differently. If you have any questions on your rights and how to exercise them, please contact us [here.](https://gotinder.com/help)
+
+|     |     |
+| --- | --- |
+| **Your Rights** | **How to exercise it** |
+| **Access, Portability or To Know**<br><br>_Right to be informed of the personal data we process about you and/or ask for a copy of it_ | You can access and review some data directly by logging into your account. You can also retrieve a copy of your data by following the process explained [here](https://www.help.tinder.com/hc/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data). |
+| **Rectification or Correction** <br><br>_Right to amend or update your personal data where it’s inaccurate or incomplete_ | You can update your data directly within the service by simply updating your profile. If you wish to rectify other data, please contact us [here](https://www.help.tinder.com/hc/requests/new) . |
+| **Deletion or Erasure**<br><br>_Right to delete personal data_ | You can delete some of the data you provided us directly within the service. You can also close your account as explained [here](https://www.help.tinder.com/hc/articles/6956972185229-Delete-Your-Tinder-Account) and we’ll delete your data as laid out in this Privacy Policy. In any event, you can always contact us [here](https://www.help.tinder.com/hc/requests/new). |
+| **Objection (Opt-out) or Restriction**<br><br>_Right to object to us processing personal data or to request that we temporarily or permanently stop processing personal data_ | You can directly opt-out from certain of your personal data processing in your account settings. Otherwise you can contact us [here](https://www.help.tinder.com/hc/requests/new) should you wish to object to or restrict a data processing we’ve listed throughout this Privacy Policy. |
+| **Consent Withdrawal  <br>**_Right to withdraw a consent you’ve given us to process your personal data for a specific purpose_ | You can directly withdraw consent you’ve given us either by updating your account setting or removing Device Permissions you’ve agreed to in your device settings (e.g., access to specific types of device data such as phone contacts, pictures, advertising identifiers and location services or consent to receive push notifications). When you withdraw consent, certain services may lose functionality. You can always contact us [here](https://www.help.tinder.com/hc/en-us/requests/new) for more information. |
+
+For your protection and the protection of all of our members, we may ask you for information to verify your identity or authority to act on behalf of a member before we can answer the above requests. We wouldn’t want someone else to get in control of your data! 
+
+Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
+
+If you are located in Brazil, please contact us via email: dpobrazil@gotinder.com.
+
+If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
+
+In certain countries, including in the European Economic Area and the United Kingdom, you have a right to a judicial remedy and to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
+
+### **9\. How Long We Retain Your Data**
+
+We want the connections you make through our service to last forever, but we keep your personal data only as long as necessary for legitimate business reasons (as laid out in Section 4) and as permitted by applicable law. 
+
+If you decide to stop using our service, you can close your account and your profile will no longer be visible to other members. Note that we will close your account automatically if you are inactive for two years. 
+
+Following account closure, we delete your data as laid out below: 
+
+1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure or one year following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims. 
+    
+2. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
+    
+3. We maintain limited data on the basis of our legitimate interest: we keep customer care exchanges with you for 6 years from the date of the communication, customer care records and supporting data, as well as imprecise location of download/purchase, for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, information on the existence of past accounts and subscriptions, which we delete three years after the closure of your last account to ensure proper and accurate financial forecasting and reporting, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
+    
+4. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
+    
+
+Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies and services and keep Match Group services safe. ### **10\. Children's Privacy**
 
 Our service is restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a member is under the age of 18, please use the reporting mechanism available on the service. You can learn more about Tinder’s age verification practices [here](https://www.help.tinder.com/hc/articles/360040592691-Why-do-I-need-to-verify-my-age-).
 
