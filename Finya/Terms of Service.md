@@ -172,7 +172,3 @@ Muster-Widerrufsformular
 12.4. Die EU-Kommission bietet die Möglichkeit zur Online-Streitbeilegung auf einer von ihr betriebenen Online-Plattform. Diese Plattform ist über den externen Link http://ec.europa.eu/consumers/odr/ zu erreichen. Finya nimmt derzeit nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstellen teil. Eine Rechtspflicht besteht insofern nicht.
 
 Stand: 18. März 2025
-
-### Aktualisierungshinweis
-
-Für Nutzer, die sich vor dem 18.03.2025 registriert haben, gelten für einen Übergangszeitraum ggf. noch die Nutzungsbedingungen mit Stand 07.05.2014. [Ältere Fassung](https://www.finya.de/Legal/terms/?v=sunset) anzeigen.
