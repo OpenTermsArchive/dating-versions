@@ -86,7 +86,7 @@ We don’t permit violent, graphic, or gory content. This includes descriptions 
 
 ### Platform Manipulation
 
-We prioritise fostering a community built on genuine connections, so any attempts to artificially influence connections, matching, conversations, or engagement through the use of automation or scripting is strictly prohibited.
+We foster a community built on genuine connections. To protect our community, we don’t allow unauthorised automated behaviours that undermine or interfere with our platform. These behaviours can include scraping, scripting, or artificially influencing connections or interactions of our member experience, including automations that may interact with profiles or messages.
 
 ### Safety Reporting
 
