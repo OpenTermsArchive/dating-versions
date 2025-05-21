@@ -157,6 +157,6 @@ ROMEO B.V.
 De Ruijterkade 7  
 1013AA Amsterdam
 
-E-mail address DPO: [legal@planetromeo.com](mailto:legal@planetromeo.com)
+E-mail address DPO: [privacy@planetromeo.com](mailto:privacy@planetromeo.com)
 
 Chamber of Commerce: 70533512
