@@ -53,11 +53,11 @@ Veuillez noter que si vous choisissez de ne pas autoriser les cookies, certaines
 4\. Comment nous contacter ?
 ----------------------------
 
-Badoo a désigné un responsable de la protection des données qu'il est possible de contacter en envoyant un e-mail à DPO@corp.badoo.com ou par courrier postal à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A.
+Badoo a désigné un Responsable de la protection des données qu'il est possible de contacter en envoyant un e-mail à DPO@corp.badoo.com ou par courrier postal à l'adresse suivante : The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
 
-Si vous avez des questions concernant cette Politique en matière de cookies, veuillez visiter notre page [Contact](https://badoo.com/fr/feedback/) ou nous envoyer un e‑mail à l'adresse suivante : DPO@corp.badoo.com. Vous pouvez également nous contacter par courrier à l'adresse ci-dessus.
+Si vous avez des questions relatives à cette Politique en matière de cookies, veuillez visiter [notre page Feedback](https://badoo.com/fr/feedback/) ou nous envoyer un e‑mail à l'adresse suivante : DPO@corp.badoo.com. Vous pouvez également nous contacter par courrier à l'adresse ci-dessus.
 
 Date d'entrée en vigueur
 ------------------------
 
-Cette Politique des cookies a été mise à jour le 17 janvier 2022.
+Cette Politique relative aux cookies a été mise à jour le 16 juin 2025.
