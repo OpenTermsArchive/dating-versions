@@ -72,7 +72,7 @@ If you have given Hily access to your location, but wish to turn this off, you c
 
 **3.3.** **Data Controller; EU Representative; Data Protection Officers**:
 
-(a) in this current case, your data controller is Hily Corp., a company with its registered address at 3172 North Rainbow Boulevard #1132, Las Vegas, NV 89108, United States of America; email: [legal@hily.com](mailto:legal@hily.com);
+(a) data controller is LATHINOL LIMITED, 705, Spyrou Araouzou & Koumantarias, Fayza House, 5th floor, office No.: 2, 3036, Limassol, Cyprus;
 
 (b) our EU Representative – for General Data Protection Regulation (GDPR) compliance purposes – is Risovel Limited, a company with its registered address at 705, Spyrou Araouzou & Koumantarias, Fayza House, 5th floor, office No.: 2, 3036, Limassol, Cyprus, email: [eu@hily.com](mailto:eu@hily.com);
 
