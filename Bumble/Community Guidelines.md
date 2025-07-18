@@ -86,7 +86,9 @@ We don’t permit violent, graphic, or gory content. This includes descriptions 
 
 ### Platform Manipulation
 
-We foster a community built on genuine connections. To protect our community, we don’t allow unauthorised automated behaviours that undermine or interfere with our platform. These behaviours can include scraping, scripting, or artificially influencing connections or interactions of our member experience, including automations that may interact with profiles or messages.
+We foster a community built on genuine connections. To protect our community, we don’t allow unauthorized automated behaviors that undermine or interfere with our platform. These behaviors can include scraping, scripting, or artificially influencing connections or interactions of our member experience, including automations that may interact with profiles or messages.
+
+We also prohibit ban evasion. To protect our community, we don’t allow the creation of new accounts or use of VPNs or other methods to circumvent a restriction or ban applied to an account. We remove accounts that attempt to circumvent bans when identified.
 
 ### Safety Reporting
 
