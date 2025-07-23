@@ -9,7 +9,7 @@ CGU
 
 Personne n’aime lire les petits caractères – néanmoins, nous vous demandons de jeter également un coup d’œil à nos CGU en vigueur. Merci beaucoup.
 
-Dernière mise à jour : 25.09.2024
+Dernière mise à jour : 22.07.2025
 
 **Les présentes Conditions générales régissent la relation contractuelle payante ou non payante entre Parship (le contractant est PE Digital GmbH, Speersort 10, 20095 Hambourg, Allemagne) et ses clients, que vous accédiez à Parship via le site web ou les applications mobiles.**
 
@@ -196,7 +196,7 @@ L’identifiant Parship et le mot de passe « service » sont attribués au clie
 
 10.1 Au regard des présentes Conditions Générales et pour les relations entre Parship et ses utilisateurs, le droit applicable est le droit français à l’exclusion de toutes autres règles en matière de conflit des lois. Si le client est un consommateur résidant dans l’Union européenne, le droit du pays dans lequel il réside peut également être applicable dans la mesure où il s’agit de dispositions d’ordre public.
 
-10.2 En vue du règlement amiable d’un litige opposant Parship et un client, et conformément aux règles applicables à la médiation de la consommation, le client doit s’adresser en priorité par écrit au service clientèle de Parship (par voie postale: PE Digital GmbH – Service Clientèle Parship France -, Speersort 10, 20095 Hambourg, Allemagne, ou par fax: +49 (0) 40 46 00 26-165 ou par e-mail: resiliation@parship.fr). Si une solution amiable n’a pas pu ainsi être trouvée, le client peut déposer une demande de médiation sur la [plateforme de règlement en ligne des litiges de consommation](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR) proposée par la Commission Européenne. La réclamation du client auprès du service clientèle de Parship doit contenir les deux informations suivantes: (1.) l’adresse e-mail indiquée dans le profil ou le numéro d’identifiant Parship, et (2.) le mot de passe « service ».
+10.2 En vue du règlement amiable d’un litige opposant Parship et un client, et conformément aux règles applicables à la médiation de la consommation, le client doit s’adresser en priorité par écrit au service clientèle de Parship (par voie postale: PE Digital GmbH – Service Clientèle Parship France -, Speersort 10, 20095 Hambourg, Allemagne, ou par fax: +49 (0) 40 46 00 26-165 ou par e-mail: resiliation@parship.fr). La réclamation du client auprès du service clientèle de Parship doit contenir les deux informations suivantes: (1.) l’adresse e-mail indiquée dans le profil ou le numéro d’identifiant Parship, et (2.) le mot de passe « service ».
 
 ### 11\. Droit de rétractation
 
