@@ -1,7 +1,4 @@
 Privacy policy
-==============
-
-Privacy policy
 
 Updated: 01/08/2024
 
