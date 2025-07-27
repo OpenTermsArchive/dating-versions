@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last updated December 3, 2024._
+_Last updated July 26, 2025._
 
 [Privacy Notice for California Residents](https://lex.helpscoutdocs.com/article/67-ccpa)
 
@@ -22,6 +22,30 @@ To use the App, you must create an account. When you create an account, we requi
 **Your Location**
 
 When you create an account, we ask you to share your location with us through the App in order to use all features. We use your location to determine your distance from other users and to help you find personals and missed connections in your area. We collect this information automatically by collecting your Internet Protocol address and your Unique Device ID. It is possible to opt out of sharing your location at sign up, but app functionality is limited. Read more [here](https://help.thisislex.app/article/87-do-i-have-to-share-my-location).  
+
+If you opt in to Lex’s location-sharing features, we collect your precise geographic location using your device's GPS data. However, when your location is displayed to other users, it is obfuscated to show only an approximate area for your privacy.
+
+You may choose from the following location settings:
+
+* Share location continuously (even in the background)
+* Share location only while using the app
+* Do not share location
+
+You may change your location preferences at any time in your app settings. If you disable location sharing, we will no longer collect or display your location, and any previously collected location data will be discarded once no longer needed for real-time display.
+
+### **Map Feature Visibility**
+
+Users who opt in to location sharing may:
+
+* See user-created events on the map, displayed at the location provided by the event creator.
+* View other nearby users who have chosen to appear on the map.
+* Choose whether they want to appear on the map themselves, and control their visibility at any time.
+
+When you appear on the map, your username, profile photo, and approximate location may be visible to other users in your area.
+
+Location data is used solely for the purpose of operating and improving the in-app map experience and for internal analytics. Lex does not share your real-time location with third parties for advertising or tracking purposes.
+
+We retain location data only long enough to facilitate the map feature, after which it is deleted or anonymized.
 
 **Your Posts**
 
