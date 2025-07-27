@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-_Last updated August 18, 2023._
+_Last updated July 26, 2025._
 
 **Lex does not sell any of your data nor use it for advertising.**
 
@@ -143,6 +143,22 @@ You may not copy or download any Member Content or use any Member Content for an
 **OUR CONTENT**
 
 Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, images, and other intellectual property appearing on our Services is owned, controlled or licensed by us and protected by copyright, trademark and other intellectual property law rights. All rights, title, and interest in and to Our Content remains with us at all times
+
+  
+
+### **Map and Location-Based Features**
+
+Lex offers a map feature that enables users to:
+
+* View local events created by users
+* See other users in the vicinity
+* Appear on the map if they choose to be visible
+
+By opting in to location sharing, you consent to Lex collecting and using your location data in accordance with our Privacy Policy.
+
+You are solely responsible for any **content or information** (including event locations) that you share via the map. You may not use the map feature to harass, stalk, or harm other users or to display misleading or unsafe locations.
+
+Lex reserves the right to **suspend or restrict use of the map feature** in cases of abuse, inappropriate conduct, or violation of our Community Guidelines.
 
   
 
