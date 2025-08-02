@@ -1,163 +1,194 @@
-Privacy Policy
---------------
+![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png)
 
-##### Last Updated: June 11, 2021
+![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png)
 
-This privacy policy (“Privacy Policy”) describes the information collected by Coffee Meets Bagel, Inc. (“we,” “us,” or “our”), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using our website, located at [http://www.coffeemeetsbagel.com](about:blank) (“Website”), our mobile apps, and/or other services we provide (collectively, “Coffee Meets Bagel”), you agree to the practices set forth in this Privacy Policy.
+![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png)
 
-##### Information we collect and how we collect it:
+**Privacy Policy**
+==================
 
-Information collected automatically:
+**If you live outside of the United States, this Privacy Policy will apply.**
+-----------------------------------------------------------------------------
 
-When you use Coffee Meets Bagel, we automatically collect and store certain information about your computer or mobile device and your activities.  We may use this and other information described in this Privacy Policy to infer information, such as your interests.  
-This information includes:  
-– Mobile Device ID. Your mobile device’s unique ID number (e.g., IMEI, AD ID).  
-– Geolocation. With your permission, your mobile device’s geographic location (GPS) when you first register for Coffee Meets Bagel through our mobile app or when you enable location services within the app.  
-– Device Information/Specifications. Technical information about your computer or mobile device (e.g., type of device, web browser or operating system, IP address) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information.  
-– Usage Information. How long and in what manner you use Coffee Meets Bagel, which services and features you use and any content that you generate through and post on Coffee Meets Bagel.  This includes browsing and search history (including profiles you have viewed). We link your subscriber information with your activity on Coffee Meets Bagel across all your devices using your email, phone number or similar information.  
-– Cookies: We and our service providers and business partners use “cookies” to keep track of some types of information while you are visiting Coffee Meets Bagel or using our services. “Cookies” are very small files placed on your computer, and they allow us to count the number of visitors to our Website and distinguish repeat visitors from new visitors. They also allow us and third parties we work with to save user preferences, track user trends, and advertise to you. We use both session and persistent cookies on our Website; session cookies expire at the end of a particular visit to our Website, while persistent cookies (also called stored cookies) remain active until you disable them through your browser settings, or until a pre-set expiration date. We rely on cookies for the proper operation of Coffee Meets Bagel; therefore if your browser is set to reject all cookies, Coffee Meets Bagel may not function properly. Without this information, we will not be able to provide you with all of the requested services, and any differences in services are related to your information.
+**Effective Date: December 1, 2024**
+------------------------------------
 
-– Web Beacons: “Web beacons” (also known as “clear gifs” and “pixel tags”) are small transparent graphic images that are often used in conjunction with cookies in order to further personalize Coffee Meets Bagel for our users, collect a limited set of information about our visitors, and advertise to our users. We may also use web beacons in email communications in order to understand the behavior of our customers, such as whether an email has been opened or acted upon.
+This Privacy Policy explains the information that Coffee Meets Bagel Pte. Ltd. (“**CMB**” "**we**", “**us**” or "**our**") collect about users of the CMB mobile application (“CMB App”) and websites, how we use that information, and with whom we share it. For the avoidance of doubt, CMB App, websites, software and related services accessed via any platform or device that link to this Privacy Policy shall hereinafter be collectively termed as the "Platform". If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page, and you agree that it is your responsibility to regularly check our website for all updates to this Privacy Policy. 
 
-Information we obtain from other sources:
+This Privacy Policy is read in conjunction with, and is deemed incorporated by reference, to be part of the Terms of Service. Accordingly, if you use our Platform, you must agree with the terms and conditions set out herein this Privacy Policy, and the terms and conditions herein this Privacy Policy shall constitute a binding and enforceable agreement against you. In the event that you do not agree with any provision herein this Privacy Policy, please immediately cease all use of the Platform.
 
-Facebook. In order to register with certain Coffee Meets Bagel apps, you may be asked to sign in using your Facebook login. If you do so, you are authorizing us to access and process certain Facebook account information, including information about you and your Facebook friends who might be common Facebook friends with other Coffee Meets Bagel users. By allowing us to access your Facebook account, you understand that we may obtain and process certain information from your Facebook account, including your name, email address, birthday, work history, education history, current city, pictures stored on Facebook, and the names, profile pictures, relationship status, and information about your Facebook friends. We only obtain information from your Facebook account that you specifically authorize and grant us permission to obtain.
+**1\. Types of Data Collected**
+-------------------------------
 
-Third-Party Services:  We may receive the information described in this Privacy Policy from  third party services, such as analytics providers and advertising partners.
+1.1 When you visit, access or use the Platform, we collect your Personal Data and Anonymised Data to fulfill the purposes we collected it for, and to satisfy our business and/or legal purposes.
 
-Other users.  Users of Coffee Meets Bagel may provide us with information about you, including through customer support inquiries.
+1.2 “Personal Data” refers to information with personal identifiers that can be used separately or collectively to identify an individual, such as name, address, national identity number, mobile number, email address, birthdate, gender, residency status, or photograph. 
 
-Information you choose to provide:
+1.3 "Anonymised Data" refers to information that is not associated with or linked to your Personal Data and cannot be used to identify individual persons.
 
-Information You Provide to Us. When you register with certain Coffee Meets Bagel apps, you must provide certain information, including your username and password, email address, zip code, birthday, gender, and gender preference. We will also ask you to upload photos for your profile and may collect any information (including location metadata and inferred characterizations or data) contained in these files. You may provide additional information about yourself (such as your school, occupation, current city, etc.) in order to build your Coffee Meets Bagel profile. You may also provide “special categories of personal data” under applicable law, such as your race, ethnicity, religion, philosophical or political views, and information relating to your sex life or sexual orientation. By affirmatively providing Coffee Meets Bagel with this information, you explicitly consent to our use of it for the purpose of fine tuning your match criteria with other bagels. Any information that you provide in the non-personally identifiable section of your profile will be viewable by your match. When using Coffee Meets Bagel, you may also provide payment information (where required for the purpose of payment). We collect and process your messages with other users as part of the operation of Coffee Meets Bagel. If you use our video chat feature, you will need to provide the Coffee Meets Bagel app with access to your camera and microphone. We and others you video chat with may collect the content and information you make available using our video chat feature.
+For the purpose of definition under this Privacy Policy, Clause 1.2 is meant for general definition only. We will only collect Personal Data that is necessary for us to fulfill our services to you, it does not mean all types of data specified under Clause 1.2 will be collected.
 
-Referring Your Friends:  We encourage you to refer your friends to Coffee Meets Bagel by sending us your friends’ email addresses or phone numbers. We will keep this information in our database, and enable you to send these friends a one-time email or text message from your device containing your name and inviting them to visit our site. This email will also include instructions on how to opt out and unsubscribe from our email list. You agree that you will not abuse this feature by entering the email addresses or phone numbers of those individuals who would not be interested in Coffee Meets Bagel.
+**2\. Information that We Collect Automatically**
+-------------------------------------------------
 
-Emails: We require an email address from you when you register with certain Coffee Meets Bagel apps. We use your email for both “administrative” (e.g., confirming your registration, notifying of matches) and “promotional” (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. Email messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked. You may opt-out of receiving promotional emails and other promotional communications from us at any time via the opt-out links provided in such communications, or by e-mailing [\[email protected\]](about:blank) with your specific request. However, we reserve the right to send you certain communications relating to Coffee Meets Bagel such as service announcements, security alerts, update notices, or other administrative messages) without affording you the opportunity to opt out of receiving such communications.
+2.1 When you use the Platform, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
 
-SMS Messages: By providing your phone number to Coffee Meets Bagel, you consent to Coffee Meets Bagel sending you SMS messages with security codes.
+* a. Your mobile device's unique ID number.
+    
+* b. Your mobile device's geographic location while the CMB App is actively running
+    
+* c. Your computer's IP address.
+    
+* d. Technical information about your computer or mobile device (such as type of device, web browser or operating system).
+    
+* e. Your preferences and settings (time zone, language, privacy preferences, product preferences, etc.).
+    
+* f. The URL of the last web page you visited before coming to our website or one of our other related websites.
+    
+* g. The buttons, controls and ads you clicked on (if any).
+    
+* h. How long you used the Platform and which services and features you used.
+    
+* i. The online or offline status of the Platform.
+    
 
-Online Survey Data: We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of Coffee Meets Bagel.
+2.2 We allow third party analytics companies to use tracking technologies to collect Anonymised Data about our users' computers or mobile devices and their online activities. These companies analyse this information to help us understand how the Platform are being used. Analytics companies may use mobile device IDs, as described in the paragraph below ("Mobile device IDs"). Mobile device IDs: In order to recognize you, store your preferences, and track your use of our application; we may store your Mobile device IDs (the unique identifier assigned to a device by the manufacturer) when you use the CMB App. Unlike cookies, Mobile device IDs cannot be deleted. What we don't share: We do not provide third parties analytics companies with your name, address, email address, or phone number.
 
-How we use the information
+2.3 We may publicly disclose aggregated information that is Anonymised Data about our users, such as the total number of our users and their overall demographics.
 
-Pursuant to the terms of this Privacy Policy, we may use the information we collect from you for the following business purposes:  
-1. facilitate matches with other Coffee Meets Bagel users;  
-2. respond to your comments and questions and provide customer service;  
-3. to tailor and provide communications to you about Coffee Meets Bagel and related offers, promotions, advertising, news, upcoming events, and other information we think will be of interest to you;  
-4. monitor and analyze trends, usage and activities;  
-5. investigate and prevent fraud and other illegal activities;  
-6. provide, maintain, and improve Coffee Meets Bagel and our overall business;  
-7. where we otherwise have a legitimate interest in doing so, for example, direct marketing, research (including marketing research), network and information security, fraud prevention, and enforcing our terms, conditions and policies or defending against legal claims; and  
-8. for any purposes disclosed to you at the time we collect your information or pursuant to your consent.
+**3\. Information You choose to Provide**
+-----------------------------------------
 
-Use for Research. In addition to the uses outlined above, by using Coffee Meets Bagel, you agree to allow us to anonymously use the information from you and your experiences to continue our research into successful relationships, including how to create and foster these relationships, so that we may continue to improve the Coffee Meets Bagel experience. This research may be published in our blogs or interviews. However, all of your responses will be kept anonymous, and we assure you that no personal information will be published.
+A. Registration and Profile
 
-Sharing Your Information
+3.1 In order to register for an account to use the CMB App, you will be asked to provide your Personal Data for the creation of your user account. 
 
-The information we collect is used to provide and improve the content and the quality of Coffee Meets Bagel, and without your consent we will not otherwise share your personal information to/with any other parties except: (a) to provide Coffee Meets Bagel, (b) when we have your permission, or (c) or under the following instances:
+3.2 Whenever you voluntarily disclose Personal Data on publicly viewable screens or pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Data
 
-Other Users. We may share your profile information with other Coffee Meets Bagel users to facilitate matches in accordance with the functionality of our services. In addition, you may choose to share additional information with users of Coffee Meets Bagel once you have matched with them.
+3.3 You may also (but are not required to) provide additional information about yourself (such as your gender, location, URL, or a biography) to increase your scope of interaction with other Platform users. Any additional image or information you provide may be publicly displayed.
 
-Service Providers and Business Partners. We may share your information with our third-party service providers and business partners that help us to accomplish certain business purposes (e.g., marketing and analytics providers, security and technology providers, advertising partners, and payment processors).
+3.4 Accordingly, you hereby confirm that you grant your specific informed consent to our collection, use, retention, sharing, disclosure and/or transfer of your Personal Data as provided to us pursuant to clauses 3.1 to 3.3 above.
 
-Legal Disclosures and Business Transfers. We may disclose any information without notice or consent from you: (a) in response to a legal request, such as a subpoena, court order, or government demand; (b) to investigate or report illegal activity; or (c) to enforce our rights or defend claims. We may also transfer your information to (a) any affiliate of our corporate group or (b) another company in connection with a merger, financing due diligence, corporate restructuring, sale of any or all of our assets, or in the event of bankruptcy.
+3.5 If you wish, we will delete your account information; to do so, please close your account by following the steps [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
 
-Third-Party Services You Interact With. If you access third-party services, such as Facebook to login to Coffee Meets Bagel, these third-party services may be able to collect information about you, including information about your activity on Coffee Meets Bagel, and they may notify your connections on the third-party services about your use of Coffee Meets Bagel, in accordance with their privacy policies.
+B. Third Party Sites and Mobile Applications
 
-Aggregate Data.   We may aggregate or de-identify the information described in this Privacy Policy.  Aggregated or de-identified data is not subject to this Privacy Policy.
+3.6 The Platform may contain hyperlinks to websites or mobile applications operated by third parties. Such third-party websites or mobile applications are not governed by our Terms of Service or Privacy Policy. We are not responsible for the privacy policies or data security of such third-party websites or mobile applications, even if they are co-branded with our company name or logo, or our CMB App displays products or services originating from such third parties. As such, we urge you to learn about the privacy policies of these third parties before accessing their websites or applications or using any of their services or products, and to be careful about providing any Personal Data to them. You agree that CMB shall not be liable for any acts or omissions of the aforesaid third parties or any loss or damage that you may suffer due to your use or access of such third-party websites, applications, services and products.
 
-Unless otherwise stated in this Privacy Policy, Coffee Meets Bagel does not sell personal information to third parties. Coffee Meets Bagel does permit third parties to collect the personal information described above through our service and shares personal information with third parties for business purposes as described in this Privacy Policy, including but not limited to providing advertising outside of our service based on users’ online activities over time and across different sites, services, and devices (so-called “interest-based advertising”). The information practices of these third parties are not covered by this Policy.
+**4\. How long do we keep your Information**
+--------------------------------------------
 
-Updating or Removing Account Information
+4.1 Your personal information will only be kept for as long as we need it for providing you our services and as permitted by applicable law. If you decide to stop using our services, you can close your account and your profile will no longer be visible to other members. Note that we will close your account automatically if you are inactive, or did not log into your account, for a period of two years. To facilitate potential investigation efforts of unlawful app usage and misuse of user Information, we will retain your personal information for an additional period of three months after your account is closed, or one year in the case of an account ban, before your Information will be deleted. By doing so, we can better protect our users, as well as the company’s interest. Finally, we maintain information on the basis of our company interest where there is an outstanding or potential issue, claim or dispute requiring us to keep information (in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings).
 
-You may review or edit your profile as you wish, by logging into your Coffee Meets Bagel account using the information supplied during the registration process. If you would like to have us delete your account information, we may do so by deactivating your account first and then permanently deleting your account. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for Coffee Meets Bagel services, or to respond to any inquiry or request made by you, as applicable. To opt out of receiving messages concerning Coffee Meets Bagel, you must cease requesting and/or utilizing services from Coffee Meets Bagel, and cease submitting inquiries to Coffee Meets Bagel, as applicable.
+4.2 Upon the final approval by the Data Protection Officer (DPO), your personal information will be deleted at the end of each calendar month after it has been scheduled for deletion. Personal information includes all personal data directly associated with your user profile input personally by you, or accessed from your social media accounts with your consent.
 
-Your Privacy Rights
+**5\. Use of Your Information by Others**
+-----------------------------------------
 
-In accordance with applicable law, you may have the right to:
+5.1 For the purpose of providing the Platform and our other services to you, we engage third party service providers. We may share user information (including your Personal Data) with the following parties: 
 
-* Access Personal Information about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; or (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (aka the right of data portability);
+* **Service Providers**
+    
 
-* Request Correction of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
+We provide personal information and content to service providers who support our business, such as cloud service providers and providers of content moderation services to ensure that the Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform.
 
-* Request Deletion of your personal information;
+* **Payment processors and transaction fulfillment providers**: If you choose to subscribe or conduct other payment related transactions, we will share data with the relevant payment provider to facilitate this transaction. For subscription transactions, we share a transaction ID to enable us to identify you and credit your account with the correct subscription plan once you have made the payment.
+    
+* **Analytics providers:** We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted advertisements.
+    
 
-* Request Restriction of or Object to our processing of your personal information; and
+* **Advertisers, Advertising Networks and Measurement Partners**
+    
 
-* Withdraw Your Consent to our processing of your personal information.
+We share information with advertisers and third-party measurement companies to show how many and which users of the Platform have viewed or clicked on an advertisement.
 
-If you would like to exercise any of these rights, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
 
-Third Party Sites
+* **Our Corporate Group**
+    
 
-Coffee Meets Bagel may contain links to other websites and services. If you choose to click on a third party link, you will be directed to that third party’s website or service. The fact that we link to a website or service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or services. These third parties may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites and services you visit.
+We may also share your Personal Data with other members, subsidiaries, or affiliates of our corporate group, including to provide the Platform, to improve and optimise the Platform, to prevent illegal use and to support users.
 
-Data Retention
+* **For Legal Reasons**
+    
 
-Coffee Meets Bagel retains the personal information we receive as described in this Privacy Policy for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+We will share your Personal Data with law enforcement agencies, public authorities or other organisations if legally required to do so, or if such use is reasonably necessary to:
 
-Securing Your Personal Information
+* comply with legal obligation, process or request;
+    
+* enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof;
+    
+* detect, prevent or otherwise address security, fraud or technical issues; or
+    
+* protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+    
 
-We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.
+* **Public Profiles**
+    
 
-By providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of Coffee Meets Bagel. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing.
+Please note that if your profile is public, your content will be visible to anyone on the Platform and may also be accessed or shared by your friends and followers as well as third parties such as search engines, content aggregators and news sites. For Platinum users, you can change your profile to default private by changing your settings.
 
-Your Choices
+* **Sale, Merger or Other Business Transactions**
+    
 
-Cookies. You may be able to refuse or disable cookies by adjusting your browser settings. Because each browser is different, please consult the instructions provided by your browser. If you choose to refuse, disable, or delete cookies, some of the functionality of Coffee Meets Bagel may no longer be available to you. Without this information, we are not able to provide you with all the requested services, and any differences in services are related to your information.
+We may also disclose your information to third parties:
 
-You can manage third-party advertising preferences for some of the third parties we work with to serve advertising across the Internet by clicking here and by utilizing the choices available at [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
+* in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your personal data to the prospective seller or buyer of such business or assets; or
+    
+* if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets. 
+    
 
-SMS Messages.  You may opt out of receiving SMS messages from us by following the instructions in the SMS message or by otherwise contacting us.
+**6\. Transferring Personal Data out of and into Singapore**
+------------------------------------------------------------
 
-Mobile Devices. We may send you push notifications through our mobile application. You may opt out from receiving these push notifications by changing the settings on your mobile device. Your mobile device may include a feature that allows you to opt out of some types of targeted advertising (“Limit Ad Tracking” on iOS and “Opt out of Interest-Based Ads” on Android). You can switch off GPS location information functionality on your mobile device if you do not wish to share GPS information.
+6.1 Pursuant to the purposes and activities as set out in sections 2 to 5 above, it may be necessary for us to transfer your Personal Data out of Singapore. You hereby agree and consent to the aforesaid transfer, on the understanding that the recipients of such Personal Data are also subject to applicable laws or contractual obligations similar to the obligations as set out in the Personal Data Protection Act 2012.
 
-“Do Not Track.” Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+6.2 If you are residing outside Singapore, your information (including your Personal Data) will be sent to and stored in Singapore, where our servers are located.
 
-Supplemental Notice for California Residents
+**7\. Your Consent**
+--------------------
 
-This Supplemental California Privacy Notice only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA provides California residents with the right to know what categories of personal information Coffee Meets Bagel has collected about them and whether Coffee Meets Bagel disclosed that personal information for a business purpose (e.g., to a service provider) in the preceding twelve months. California residents can find this information below:
+7.1 Based on the information that we have provided herein this Privacy Policy, you agree that by using the Platform, you hereby grant your specific informed consent to our collection, use, retention, disclosure and transfer of your Personal Data as set out in sections 2 to 6 above.
 
-Sensory data
+7.2 You may at any time withdraw your consent to our use, retention, disclosure or transfer of your Personal Data pursuant to this Privacy Policy by emailing our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection). However, please note that any such withdrawal of consent may result in us being unable to continue providing our services or fulfilling our contractual obligations with you, including but not limited to termination of your access to the Platform (and therefore termination of any credits in your CMB App account), termination of any loyalty programme benefits that would otherwise have been available to you, inability to provide you with the opportunity to participate in promotions, and inability to fulfil any purchase orders that you may have submitted to or through the Platform. Accordingly, your withdrawal of consent may also lead to the termination of any contract(s) that you may have with CMB as well as termination of any purchase or subscription orders to third parties submitted through the Platform, for which CMB expressly reserves its rights and remedies thereto. 
 
-|     |     |     |
-| --- | --- | --- |
-| Category of Personal Information Collected by Coffee Meets Bagel | Categories of Third Parties Personal Information is Disclosed to for a Business Purpose |
-| Identifiers | * Other users<br>* Service providers<br>* Advertising partners |
-| Personal information categories listed in Cal. Civ. Code § 1798.80(e) | * Other users<br>* Service providers |
-| Protected classification characteristics under California or federal law | * Other users<br>* Service providers |
-| Commercial information | * Other users<br>* Service providers<br>* Advertising partners |     |
-| Internet or other electronic network activity | * Service providers<br>* Advertising partners |
-| Geolocation data | * Service providers |
-| * Other users<br>* Service providers |     |
-| Professional or employment<br><br>* related information | * Other users<br>* Service providers |
-| Inferences drawn from other personal information to create a profile about a consumer | * Service providers<br>* Advertising partners |
+7.3 Should you wish to unsubscribe to any of our updates sent to you via the Platform or email, please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Please note however that this may result in us being unable to make available to you updates on our CMB App, your CMB App account, benefits under our loyalty programme and any ongoing promotions.
 
-The categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above.
+**8\. Access and Correction of Personal Data**
+----------------------------------------------
 
-Additional Privacy Rights for California Residents
+8.1 Should you wish to access, update or make corrections to your Personal Data held with us, you can do so at any time by accessing your account information via the CMB App or emailing us at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
 
-“Sales” of Personal Information under the CCPA. For purposes of the CCPA, Coffee Meets Bagel does not “sell” personal information, nor do we have actual knowledge of any “sale” of personal information of minors under 16 years of age.
+8.2 There will be no administrative fees or other charges levied for any request to correct or update your Personal Data. However, for all other requests such as accessing your Personal Data held with us (such access not being done by you via the CMB App), obtaining a record of when you accessed our CMB App, visited the Platform, a printout of your previous postings or messages to other CMB App users, etc., a reasonable administrative fee may be levied depending on your request as time and resources will be spent in accommodating your requests.
 
-Nondiscrimination. California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
+8.3 In the event that you wish for your Personal Data to be deleted at any point in time, you may make your request [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
 
-Authorized Agent. Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. To designate an authorized agent, please contact us as set forth below.
+8.4 Should you have any queries or complaints pertaining to this Privacy Policy, our Terms of Service, your Personal Data as registered with us, or in relation to our use, retention, disclosure or transfer of your Personal Data, or should you desire to learn more about our data protection policies and security measures, please email our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
 
-Verification. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include confirming the email address associated with any personal information we have about you.
+**9\. Minor's privacy**
+-----------------------
 
-If you are a California resident and would like to exercise any of your rights under the CCPA, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+9.1 We do not allow persons under 18 to register for any service (including the CMB App), and we do not knowingly collect any personally identifiable information from persons under the age of 18. However, we are not able to ascertain on our end whether persons who register for our services are actually above 18 or under. It is thus the responsibility of parents and legal guardians to ensure that their minors do not register for or access the Platform or to provide us with Personal Data without parental/legal guardian’s consent. If we become aware that a person under 18 has provided us with Personal Data without parental or legal guardian’s consent, we will delete such information from our records and terminate any account registered with us.
 
-“Shine the Light” requests. You have the right to request and obtain from us once a year at no charge a list of all third parties, if any, to which we have disclosed your personal information during the preceding calendar year for those third parties’ direct marketing purposes.  If you would like such a list, please contact us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection) For all such requests, you must put the statement “Shine the Light Request” on your request, as well as your name, street address, city, state, and zip code.  Please note that we will not accept these requests by telephone or fax, and are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+**10\. Do-Not-Call ("DNC") Provisions and Registries**
+------------------------------------------------------
 
-Using Coffee Meets Bagel from outside the United States
+10.1 You should register your mobile number with DNC to minimize unsolicited and unwanted marketing calls.
 
-If you are visiting Coffee Meets Bagel from outside the United States, please be aware that your information may be transferred to, stored, and processed globally, including in the United States where our servers are located and our central database is operated. By using our services, you understand and agree that your information may be transferred to our facilities and those third parties with whom we share it for processing as described in this Privacy Policy. Where required by law, international transfers of personal information will be supported by an adequacy mechanism.
+10.2 We respect your selections in relation to the channels via which you wish to receive our updates and other communications. Therefore, if you have registered your telephone and/or fax number with the Do-Not-Call Registries in relation to telephone calls, text or fax messages, we will not send you any communications via the channels that you have opted out of by registering with the Do-Not-Call Registries. However, if you have previously consented to our sending you communications via your telephone number (calls or text messages) and/or facsimile number, we will continue doing so until you withdraw your consent by contacting our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
 
-Changes to this Privacy Policy
+**11\. Security Measures for Protection of Personal Data**
+----------------------------------------------------------
 
-We may update this Privacy Policy from time to time. If there are any material changes to this Privacy Policy, Coffee Meets Bagel will notify you by email or as otherwise required by applicable law. When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy. We recommend that you check our Website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+11.1 We ensure that the Platform is protected by reasonable security measures afforded by current technology, and that all our data hosts and servers are similarly protected by such security measures, including but not limited to firewalls.
 
-How to Contact Us
+11.2 Your Personal Data is kept securely and protected against unauthorized access and disclosure. We utilize security means such as (without limitation) password protection, encryption, locked and restricted access. We have strict policies in place restricting access to Personal Data to only our authorized personnel on a need-to-know basis.
 
-If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us by email at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection) or by mail at Coffee Meets Bagel, Inc. 391 Grove St, San Francisco, CA.
+11.3 We will take practical steps to ensure that your Personal Data will not be kept longer than as set out herein this Privacy Policy, or for as long as is necessary for fulfilling the purposes for which you have entrusted us with your Personal Data, or as may be required for legitimate business or legal purposes, whichever is the latest.
+
+**12\. Governing Law and Jurisdiction**
+---------------------------------------
+
+12.1 The terms and conditions of this Privacy Policy are governed by the laws of Singapore. In the event of any disputes arising from this Privacy Policy and/or your use of the Platform, you must first contact our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection) regarding your concern and use your best endeavours to amicably settle any dispute in good faith. We on our part will also use our best endeavours to amicably settle your concerns in good faith. However, if no amicable resolution is reached within 60 days, you agree to submit to the exclusive jurisdiction of the Courts of Singapore.
+
+—- End of Privacy Policy
