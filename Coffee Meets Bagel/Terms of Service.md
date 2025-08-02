@@ -1,165 +1,344 @@
+![](https://framerusercontent.com/images/mXIKB0cQ4FFYrrA8WY3XfGRRr7Q.png)
+
+![](https://framerusercontent.com/images/mXIKB0cQ4FFYrrA8WY3XfGRRr7Q.png)
+
 Terms of Service
-----------------
+================
 
-##### Last Updated: July 19, 2022
+Terms of Service
+================
 
-These Terms of Service (this “Agreement”) is between you and Coffee Meets Bagel, Inc. (“Coffee Meets Bagel” “we,” “us,” or “our”). By using our website, located at http://www.coffeemeetsbagel.com (“Website”), our mobile application available on Android and iOS devices (each, our “App”), and/or other services we provide (collectively, the “Services”) you agree to be bound by this Agreement. If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
+**If you live outside of the United States, this Terms of Service will apply.**
+-------------------------------------------------------------------------------
 
-##### 1\. Some initial things we want to make clear.
+**Effective Date: December 1, 2024**
+------------------------------------
 
-While all of these will be discussed in more detail below, we want to make a few important things clear up front:
+**PLEASE READ THIS DOCUMENT CAREFULLY**
+---------------------------------------
 
-* You must be at least 18 to use the Services.
-* You may only create an Account for your actual self and must be truthful in what you put in it.
-* We do not routinely conduct background checks or verify the identity of our Users. But we may do so as part of our fraud detection and prevention process. Methods to verify identity include, but are not limited to, self photographs (“selfies”) with identifying characteristics, and government or military issued identification cards.
-* We do not guarantee anything about the Services, including the actions of our Users. We do not guarantee matches, the frequency of your matches, that you will be compatible with those you match with, or that the people you match with are safe people to meet. You must exercise your own diligence and caution in using the Services and communicating with its Users.
-* You have a right in some states to cancel this Agreement within 3 business days of registering for a premium account and receive a refund of any payments to us if you do so. Please see Section 20for more details.
-* Lastly, by using the Services, you are agreeing (with limited exception) to resolve any dispute between you and us through binding, individual arbitration, rather than in court. Please review Section 19below for details, including the procedure for opting out of arbitration.
+These terms of service (“**Agreement**”) is between you and Coffee Meets Bagel Pte. Ltd. (“**CMB**” “**we**”, “**us**” or “**our**”), which govern the relationship and serve as an agreement between you and us and set forth the terms and conditions by which you may access and use our mobile application, our related websites, services, applications, products and content (collectively, the “**Services**”). By accessing or using our Services in any way, you accept the terms contained herein and agree to be bound by this Agreement. You understand and agree that we will treat your access or use of Services as acceptance of this Agreement from that point onward. For the purpose of this Agreement, “**you**” and “**your**” means you as the user of the Services.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### 2\. Eligibility
+  
+  
 
-* _You must be at least 18, or older if your jurisdiction requires._You must be at least 18 years old (or, if the age of majority is higher than 18 in your jurisdiction, then the age of majority in your jurisdiction) create an Account and use the Services. By creating an Account and/or using the Services, you represent and warrant that you are at least 18 years old (or the minimum age of majority in your jurisdiction, whichever is greater).
-* _You must be unattached and available._You may only use the Services if you are willing and capable of entering into a new romantic relationship and do not have an established monogamous romantic partner (“Unattached”).
-* _You may not have a criminal record._You may not use the Services if you have been convicted of a felony, are required to register as a sex offender with any government entity, and/or are identified as a “Specially Designated National” (as such list may be updated from time to time, available at [https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx)). If any of the foregoing become applicable to you after you have created an Account, you must delete your Account immediately and you may no longer use the Services. We do not conduct criminal background screenings on Users. However, we reserve the right to conduct any criminal background check, at any time and using available public records, to confirm your compliance with this subsection.
+------
 
-##### 3\. Use of the Service
+We reserve the right to amend any provision of this Agreement from time to time in our sole discretion without any prior notice to you, and you agree that it is your responsibility to check for the updated terms of this Agreement on our website regularly. If you do not wish to be bound by this Agreement, do not use our Services.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* _Creating an Account on Coffee Meets Bagel._ In order to use Coffee Meets Bagel, you must create an account with us (an “Account”) by first logging in with your Facebook account or by providing your phone number. If you choose to create an Account by logging in with Facebook, you authorize us to access and use certain Facebook account information, including but not limited to your public Facebook profile photographs, personal information, and Facebook friends (to display common friends with other Users). For more information regarding the information we collect from you and how we use it, please consult our Privacy Policy.
-* _Your Account is only for you._ You may only access and use your Account in accordance with this Agreement and for your personal use to find and communicate with potential dating partners. You may not authorize others to access or use your Account, and you may not assign or otherwise transfer your Account to any other person or entity. You acknowledge that we are not responsible from any third party access to your Account, particularly any such access that results from theft or misappropriation of your Account or Facebook account’s login credentials. You agree to immediately notify Coffee Meets Bagel of any disclosure or unauthorized use of your login credentials at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection).
-* _Accessing the Services from outside the United States._ Using the Service may be prohibited or restricted in certain countries. If you use the Service from outside of the United States, you are fully responsible for complying with the laws and regulations of the territory from which you access or use the Services.
-* _You are responsible for any content you submit._ You are solely responsible for, and assume all liability regarding, any information and content you provide or otherwise make available on the Services, including without limitation text, images and video in your profile and in your communications with other Users (“User Content”).
-* _No contact information in your profile_. You agree not to post any contact information such as your phone number and email address in the body of your profile.
+**Contents**
+------------
 
-##### 4\. Changes to Agreement or Services
+1\. Your Access to and Use of Our Services  
+2\. License to Use
+---------------------------------------------------------------
 
-We may update this Agreement at any time, in our sole discretion. If we do so, we’ll let you know either by posting the updated Agreement on the Site and App or through other communications. It’s important that you review the Agreement whenever we update them or you use the Services. If you continue to use the Services after we have posted an updated Agreement, you are agreeing to be bound by the updated Agreement. If you don’t agree to be bound by the updated Agreement, then, except as otherwise provided in Section 19(f)“Effect of Changes on Arbitration,” you may not use the Services anymore. Because our Services are evolving over time we may change or discontinue all or any part of the Services, at any time and without notice, at our sole discretion.
+3\. Privacy Policy  
+4\. Registration  
+5\. Term and Termination; Account Deletion  
+6\. Disclaimers; Limitation of Liability  
+7\. Code of Conduct; Prohibited Activities  
+8\. Content Restrictions  
+9\. Licenses Granted by You  
+10\. Your Representations and Warranties  
+11\. Indemnification  
+12\. Third Party Copyrights and Other Rights  
+13\. Premium (Paid) Services Subscription, Services App Credits, Promo Codes and In-App Purchases
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### 5\. General Prohibitions
+14\. Personal Data
+------------------
 
-You agree not to do any of the following:
+15\. Third Party Websites
+-------------------------
 
-* Post, upload, or transmit any User Content that (i) is threatening, defamatory, abusive, harassing, degrading, intimidating, fraudulent, false, misleading, deceptive, invasive, racist, or contains any type of offensively suggestive, inappropriate, or explicit language or confidential, non-public information about any third party; (ii) is threatening, vulgar, offensive, or pornographic; promotes or threatens violence or actions that are threatening to any person or entity; or contains nudity or graphic or gratuitous violence; (iii) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (iv) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (v) infringes, misappropriates, or violates a third party’s trademark, patent, trade secret, copyright, moral rights or other proprietary rights, or rights of publicity or privacy; (vi) contains any type of unauthorized or unsolicited advertising or commercial communications (such as spam or multi-level marketing); (vii) impersonates any person or entity, including any Coffee Meets Bagel employees or representatives; or (vii) promotes illegal or harmful activities or substances;
-* Collect User Content, personally-identifiable information or any other information, or otherwise access the Services, using automated means (such as harvesting bots, robots, spiders, scrapers, or other means);
-* Advertise any product or service, including any engagement in multi-level marketing or “pyramid schemes” on the Services;
-* Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
-* Use any meta tags or other hidden text or metadata utilizing our trademarks, logos, URLs or product names without our express written consent;
-* Use the Services, or any portion thereof, for any commercial purpose or for the benefit of any third party or in any manner not permitted by this Agreement;
-* Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Services to send altered, deceptive or false source-identifying information;
-* Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services;
-* Attempt in any way to obtain the login information of or otherwise access an Account belonging to someone else;
-* Bully, intimidate, or harass any User;
-* Use, display, mirror or frame the Services or any individual element within the Services, our name, any Coffee Meets Bagel trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without our express written consent;
-* Impersonate or misrepresent your affiliation with any person or entity;
-* Engage in any activity or use any program that could disable, overburden, or impair the proper working or our set appearance of the Services, such as a denial of service attack, interference with page rendering, or using a program that interferes with other Services functionality; and
-* Encourage or enable any other individual to do any of the foregoing.
+**1\. Who May Use Our Services**
+--------------------------------
 
-Although we’re not obligated to monitor access to or use of the Services or to review or edit any User Content, we have the right to do so for the purpose of operating the Services, to ensure compliance with this Agreement and to comply with applicable law or other legal requirements. We reserve the right, but are not obligated, to remove or disable access to any part of the Services, including any User Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any of the foregoing to be objectionable or in violation of this Agreement. We have the right to investigate violations of this Agreement or conduct that affects the Services. We may also consult and cooperate with law enforcement and other authorities, including by sharing any User Content, as requested by law enforcement or as we, in our sole discretion, deem necessary to protect the safety or wellbeing of our Users or any other person.
+Your access to and use of our Services is also subject to our **Privacy Policy** and **Community Guidelines**, the terms of which can be found directly on our platform, or where the platform is made available for download, on your mobile device’s application app store, and incorporated herein by reference. 
 
-##### 6\. Content Ownership
+  
+  
 
-* _Your license to us of User Content_. By submitting any User Content, you (i) represent and warrant that you have all the appropriate rights and permission (including getting permission from others in photos you provide) to provide such User Content to us, and (ii) grant us a perpetual, irrevocable, non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any such User Content in connection with operating and providing the Services to you and other Users, for marketing and internal research purposes, and for external research purposes (for external research, any information will be provided in anonymized and aggregated form). You also represent and warrant that neither your User Content, nor your use and provision of your User Content to be made available through the Services, nor any use of your User Content by us on or through the Services will infringe, misappropriate or violate a third party’s intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
-* _Deleting your User Content_. You may delete your User Content via the functionality of the Services. However, you understand that removed User Content may persist in backup copies for a reasonable period of time (but will not be available to others).
-* _Our ownership_. We do not claim any ownership rights in any User Content and nothing in this Agreement will be deemed to restrict any rights that you may have to use and exploit your User Content. Subject to the foregoing, We and our licensors exclusively own all right, title and interest in and to the Services, including all associated intellectual property rights. You acknowledge that the Services are protected by copyright, trademark, and other laws of the United States and foreign countries. You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services.
-* _Our license to you_. Subject to your compliance with this Agreement, we grant to you a limited, non-exclusive, non-transferable license, with no right to sublicense, to download, view, and, display the content made available on the Services solely in connection with your permitted use of the Services and solely for your personal and non-commercial purposes.
+You must be at least 18 years old to use the Services. In the event that you are under 18 years old and you wish to use the Services, please seek consent from your parents or legal guardian.  We will not be howsoever whatsoever liable for any results or consequences arising from any prohibited use of the Services. We will immediately suspend your access to the Services without any prior notice if it is suspected that you are below 18 years of age, however, it is the duty of parents and legal guardians to ensure that their children/wards are not using Services without parental/legal guardian consent. Except as represented to us based on the information provided to us, we are not able to verify nor monitor the age of our users. 
 
-#####  7. Feedback
+  
+By using Services, you represent and warrant that you are above 18 years of age, have the right, authority and capacity to enter into this Agreement, be fully bound by and abide by all of the terms and conditions of this Agreement, have never been convicted of a felony, and are not required to register as a sex offender with any government entity. You agree that should any of the foregoing representations be untrue at any point in time, you will fully defend, hold harmless and indemnify Coffee Meets Bagel Pte. Ltd., its parents, subsidiaries, affiliates, related entities, each of their respective officers, directors, employees, shareholders, agents and subcontractors (collectively “**Indemnified Persons**”) from any and all damages, costs and losses howsoever resulting from any claims against any Indemnified Persons arising from your breach of your representations, including but not limited to fines, penalties, settlement amounts, judgements, and legal costs (on a client-solicitor basis).
 
-We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by emailing us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)or via the functionality of the Services. You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
+**2\. Intellectual Property and License to Use Services**
+---------------------------------------------------------
 
-##### 8\. One-Time Payments and Subscriptions
+* _All content, including any write-ups, diagrams, charts, layout, photographs and drawings, as displayed on Services and in the related marketing materials (which shall include but is not limited to electronic mailers and banners) (Services and the related marketing materials shall hereinafter be collectively referred to as our “Materials”) made available to you are protected by copyright, design registrations, trade mark registrations and/or other intellectual property rights (whether owned by us or licensed to us).  You agree therefore that without our prior written consent, you are not permitted to reproduce, copy, download, extract, store, distribute, sell, modify or create derivative works from, any part of the content found in our Materials.  We reserve our rights to take legal action against you for any such unauthorized use of our content and/or Materials._
+    
+* _All company names (including Coffee Meets Bagel Pte. Ltd., the company names of our affiliated entities and our advertisers), logos, trade marks, service marks, brands (collectively the "Branding") represented in the Materials belong to us or to third parties who have agreed to display their Branding in the Materials. You are therefore not permitted to copy, replicate, modify, extract, download or howsoever use any such Branding for any purpose whatsoever without our prior written consent._
+    
+* _Coffee Meets Bagel mobile application is the property and asset of Coffee Meets Bagel Pte. Ltd., including all inherent intellectual property rights. We grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and use our Services for your own personal, non-commercial purposes only. Except as expressly permitted by us in writing, you will not reproduce, redistribute, sell, create derivative works from, decompile, reverse engineer, or disassemble Services (or any part thereof). Nor will you take any measures nor assist any third parties to interfere with or damage our Services, including but not limited to its functions, usability, accessibility and security. All rights not expressly granted by Coffee Meets Bagel Pte. Ltd. in this Agreement are reserved._  
+      
+    
 
-Coffee Meets Bagel may offer from time to time certain premium services for a fee. You have the option of making a one-time payment (“One-Time Payment”) or purchasing a subscription (“Subscription”) for such premium services. By way of example, some of these premium services may include message read receipts, additional matches in a day, or profile picture appraisals.
+**3\. Privacy Policy**
+----------------------
 
-* General. Whether you make a One-Time Payment or purchase a Subscription (each, a “Transaction”), you expressly authorize us (or our third-party payment processor, which may be the applicable App Store (defined below)) to charge you for such Transaction. We may ask you to supply additional information relevant to your Transaction, including your credit card number, the expiration date of your credit card and your email and postal addresses for billing and notification (such information, “Payment Information”). You represent and warrant that you have the legal right to use all payment method(s) represented by any such Payment Information. When you initiate a Transaction, you authorize us to provide your Payment Information to third parties so we can complete your Transaction and to charge your payment method for the type of Transaction you have selected (plus any applicable taxes and other charges). You may need to provide additional information to verify your identity before completing your Transaction (such information is included within the definition of Payment Information).
-* Subscriptions. If you purchase a Subscription, you will be charged the Subscription fee, plus any applicable taxes, and other charges (“Subscription Fee”), at the beginning of your Subscription and each subscription period thereafter (the period of which is communicated to you at the time of your Subscription), at the then-current Subscription Fee. If you purchase a Subscription, unless you cancel your subscription before the end of your current Subscription period, your subscription will automatically renew, and we (or our third-party payment processor) will automatically charge you each year on the commencement of each renewed Subscription period, using the Payment Information you have provided. Your subscription will continue to automatically renew until you cancel your Subscription. By agreeing to this Agreement and electing to purchase a Subscription, you acknowledge that your Subscription has recurring payment features and you accept responsibility for all recurring payment obligations prior to cancellation of your Subscription by you or Coffee Meets Bagel. Your Subscription continues until cancelled by you or we terminate your access to or use of the Services or Subscription in accordance with this Agreement.
-* Cancelling One-Time Payment or Subscription. Except as explicitly set forth in Section 20below, YOUR PURCHASE IS FINAL AND YOU WILL NOT BE ABLE TO CANCEL THE PURCHASE AND/OR RECEIVE A REFUND OF ANY ONE-TIME PAYMENT OR SUBSCRIPTION FEE AT ANY TIME. if something unexpected happens in the course of completing a Transaction, we reserve the right to cancel your Transaction for any reason; if we cancel your Transaction we’ll refund any payment you have already remitted to us for such Transaction. Without limiting the foregoing, you may cancel your Subscription at any time, but please note that such cancellation will be effective at the end of the then-current Subscription period. EXCEPT AS SET FORTH ABOVE, YOU WILL NOT RECEIVE A REFUND OF ANY PORTION OF ANY SUBSCRIPTION FEE PAID FOR ANY SUBSCRIPTION PERIOD AT THE TIME OF CANCELLATION. You will be responsible for all Subscription Fees (plus any applicable taxes and other charges) incurred for the then-current Subscription period. You may cancel your subscription via the functionality of the App Store or the App. If you cancel, your right to use the Subscription features of the Services will continue until the end of your then current subscription period and will then terminate without further charges.
+Your privacy rights are set forth in our Privacy Policy (“**Privacy Policy**”), which forms a part of this Agreement. Please review our Privacy Policy to learn about: What information we may collect about you, What we use that information for What third-party information, if any, you are agreeing to share by using our Services; and With whom we share that information. In the event that you do not agree with any terms of our Privacy Policy, please stop using our Services immediately.
 
-##### 9\. Rights and Terms for Apps
+**4\. Registration**
+--------------------
 
-* Rights in App Granted by Coffee Meets Bagel. Subject to your compliance with this Agreement, Coffee Meets Bagel grants to you a limited non-exclusive, non-transferable license, with no right to sublicense, to download and install a copy of the App on a mobile device or computer that you own or control and to run such copy of the App solely for your own personal non-commercial purposes. You may not copy the App, except for making a reasonable number of copies for backup or archival purposes. Except as expressly permitted in this Agreement, you may not: (i) copy, modify or create derivative works based on the App; (ii) distribute, transfer, sublicense, lease, lend or rent the App to any third party; (iii) reverse engineer, decompile or disassemble the App; or (iv) make the functionality of the App available to multiple users through any means. Coffee Meets Bagel reserves all rights in and to the App not expressly granted to you under this Agreement.
-* Accessing the App from App Store. Certain App Providers require us to pass one certain terms to you. The following terms apply to any App accessed through or downloaded from any app store or distribution platform (like the Apple App Store or Google Play) where the App may now or in the future be made available (each an “App Provider”). You acknowledge and agree that:
-    * This Agreement is concluded between you and Coffee Meets Bagel, and not with the App Provider, and Coffee Meets Bagel (not the App Provider), is solely responsible for the App.
-    * The App Provider has no obligation to furnish any maintenance and support services with respect to the App.
-    * In the event of any failure of the App to conform to any applicable warranty, you may notify the App Provider, and the App Provider will refund the purchase price for the App to you (if applicable) and, to the maximum extent permitted by applicable law, the App Provider will have no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of Coffee Meets Bagel.
-    * The App Provider is not responsible for addressing any claims you have or any claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
-    * In the event of any third party claim that the App or your possession and use of that App infringes that third party’s intellectual property rights, Coffee Meets Bagel will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by this Agreement.
-    * The App Provider, and its subsidiaries, are third-party beneficiaries of this Agreement as related to your license to the App, and that, upon your acceptance of this Agreement, the App Provider will have the right (and will be deemed to have accepted the right) to enforce this Agreement as related to your license of the App against you as a third-party beneficiary thereof.
-    * You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a terrorist-supporting country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-    * You must also comply with all applicable third party terms of service when using the App.
+To use our Services, you must register an account with us using your mobile phone number, meaning you are authorizing us to access certain information in your profile account. By allowing us to access your user account, you expressly acknowledge and agree that we may obtain and share your name and profile picture, as well as the names and profile pictures of other users in your user account, other platforms, network or geolocation. 
 
-##### 10\. Risk Assumption and Precautions
+Please take precautions to safeguard your login credential and ensure your mobile phone number is able to receive SMS for a One-Time Password to access our Services. Please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707) if you believe an unauthorized person has accessed your account.
 
-You assume all risk when using the Services, including but not limited to all of the risks associated with any online or offline interactions with others, including dating. We are not responsible for the conduct of our Users or their compatibility in any capacity with you or other Users. You agree to take all necessary and appropriate precautions when sharing your personal information, communicating with other Users, and meeting other Users in person. You understand that we do not (except as described in this Agreement) conduct background checks, or verify the identity, profile pictures, or any other User Content. You are under no obligation to use the Services, continue to communicate with any User, or to match with or meet anyone from the Services.
+**5\. Term and Termination; Account Deletion**
+----------------------------------------------
 
-##### 11\. No Guarantees
+* This Agreement begins on the date you first use our Services and continues until terminated in accordance with the provisions hereof or when you completely stop all use of our Services (including ceasing to access the website), whichever is the later. We may without prior notice to you suspend, disable, or delete your account (or any part thereof) to the Services or stop your access to the website if we determine that you have violated any provision of this Agreement or that your conduct or content would tend to damage our reputation, goodwill, or security. If we delete your account to the Services for the foregoing reasons; you may not re-register under a different name. 
+    
+* You acknowledge and agree that we may terminate this Agreement at any time for any reason or without any reason.
+    
+* Upon termination, all licenses granted by us hereunder this Agreement will terminate. In the event of account deletion for any reason, content that you submitted may no longer be available. We shall not be responsible for the loss of such content.
+    
+* In the event that you have a paid subscription to the Services or our mobile app which you signed up for via GooglePlay/AppStore, termination of your paid subscription must be done on your end via GooglePlay/AppStore. Should you fail to do so, you will still continue to be charged for your paid subscription for which you are fully responsible for paying.
+    
 
-You understand that Coffee Meets Bagel does not guarantee you any matches, does not guarantee any number or frequency of matches, or the accuracy, availability, or other attributes of any User. You understand that Coffee Meets Bagel makes no guarantees about the Services, either explicit or implied, including your compatibility with any other User.
+**6\. Disclaimers; Limitation of Liability**
+--------------------------------------------
 
-##### 12\. Reporting of Violations; General Contact Info.
+* _You are solely responsible for your interactions with other users of our Services. You understand that we currently do not conduct criminal background checks on our users. We also do not inquire into the backgrounds of all our users or attempt to verify the statements of our users. We make no representations or warranties as to the conduct of users, the messages that a user sends to other users (including icebreakers sent automatically by activating certain app features), or their compatibility with any current or future user. We reserve the right (but are not obligated) to conduct any criminal background check or other screenings (such as sex offender register searches), at any time and using available public records._
+    
+* In no event shall Coffee Meets Bagel Pte. Ltd. be liable for any damages whatsoever, whether direct, indirect, general, special, exemplary, compensatory, consequential, and/or incidental, arising out of or relating to the conduct of you or anyone else in connection with the use of Services, including without limitation, bodily injury, harassment, death, emotional distress, and/or any other damages resulting from communications, icebreaking messages sent automatically via certain app features, or meetings with other users of the Services or persons you meet through our app. You agree to take reasonable precautions in all interactions with other users of the app, particularly if you decide to meet offline or in person. You acknowledge that ultimately you decide on your course of action and scope of interaction in relation to other users of the Services and therefore you agree that you take full responsibility for any and all consequences and will not hold us howsoever whatsoever liable as we are merely providing a social platform.
+    
+* We reserve the right to modify our Services at any time without prior notice to you. You are responsible for providing your own hardware and connectivity to access and use the Services. We have no obligation to screen or monitor any content input by other app users and does not guarantee that any content available on our platform is suitable for or pleasing to all users.
+    
+* We provide the Services on an "as is" and "as available" basis. You therefore use our Services at your own risk. We expressly disclaim any and all warranties of any kind, whether express or implied, including, but not limited to any implied warranties of merchantability, fitness for a particular purpose (even if Coffee Meets Bagel Pte. Ltd. has been advised in advance of such purpose), non-infringement, security, and any other warranty that might arise under any law. Without limiting the foregoing, we make no representations or warranties:
+    
+    1. That our Services will be permitted in your jurisdiction;
+        
+    2. That our Services will be uninterrupted or error-free;
+        
+    3. Concerning any content submitted by any user;
+        
+    4. Concerning any third party's use of content that you submit;
+        
+    5. That any content you submit will be made available on our Services or will be stored by us;
+        
+    6. That we will continue to support any particular feature of the Services;
+        
+    7. That you will meet with like-minded individuals or find a partner by using our Services;
+        
+    8. Concerning sites and resources outside of our Services, even if linked to or from our Services.
+        
+* To the extent any disclaimer or limitation of liability does not apply, all applicable express, implied, and statutory warranties will be limited in duration to a period of thirty (30) days after the date on which you first used our Services, and no warranties shall apply after such period.  Furthermore, in the event that any exclusion of liability herein this Section 6 is not permitted under any applicable law, you agree that our aggregate liability to you for any and all claims howsoever arising from this Agreement or your use of Services shall not exceed S$100, and payment by Coffee Meets Bagel Pte. Ltd. of the said S$100 to you shall satisfy all claims that you may have against us and you will not be entitled to seek any other remedies against us.
+    
 
-If you discover any violation of the Agreement by others, please report it to us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection). You may also use this address to contact us with any questions you may have about the Services.
+**7\. Code of Conduct; Prohibited Activities**
+----------------------------------------------
 
-##### 13\. Third Party Links
+* In using our Services, you must behave in a civil and respectful manner at all times. Further, you will not: Harass or stalk any other person; Harm or exploit minors; Act in a deceptive manner by, among other things, impersonating any person; Collect information about others without their specific consent; You will not express or imply that any statements you make are endorsed by us without our specific prior written consent.
+    
+* You will not distribute spam, and will not use any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, "data mine", or in any way reproduce or circumvent the navigational structure or presentation of the Services or its contents.
+    
+* You will not post, distribute or reproduce in any way any copyrighted material, trademarks, or other proprietary information on, via, or from the Materials or Services without obtaining the prior consent of the owner of such proprietary rights. You will not interfere with or disrupt the services or the Website or the servers or networks connected to the Services.
+    
+* You will not post, upload, email or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment howsoever related to the Services. We have the right, but not the obligation, to monitor all conduct on and content submitted to our platform.
+    
 
-The Services (including the App) may contain links to third-party websites or resources. We provide these links only as a convenience and are not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites. You acknowledge sole responsibility for and assume all risk arising from, your use of any third-party websites or resources.
+**8\. Content Restrictions**
+----------------------------
 
-##### 14\. Disclaimer of Warranty
+1. You are solely responsible for the content that you publish, upload, display or transmit (hereinafter, "post" or “submit”) on our app or platform, or to other users. You will not submit on our app or platform, or to other users, any defamatory, inaccurate, abusive, obscene, profane, offensive, sexually oriented, threatening, harassing, racially offensive, or illegal material, or any material that infringes or violates another party's rights (including, but not limited to, intellectual property rights, and rights of privacy and publicity). You will not provide inaccurate, misleading or false information to us or to any other user. 
+    
+2. If information provided to us, or another user, subsequently becomes inaccurate, misleading or false, you will promptly notify us of such change. The following is a non-exhaustive list of content you may not submit to, on or via our Services: is patently offensive to the online community, such as content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual; harasses or advocates harassment of another person; promotes information that is false, misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous; provides material that exploits people under the age of 18 in a sexual or violent manner, or solicits personal information from anyone under the age of 18; contains sexually explicit content; provides instructional information about illegal activities such as making or buying illegal weapons, violating someone's privacy, or providing or creating computer viruses; involves the transmission of "junk mail", "chain letters," or unsolicited mass mailing or "spamming"; promotes an illegal or unauthorized copy of another person's copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacturer-installed copy-protect devices, or providing pirated images, audio or video, or links to pirated images, audio or video files; solicits passwords or personal identifying information for commercial or unlawful purposes from other users; engages in commercial activities and/or sales without our prior written consent such as contests, sweepstakes, barter, advertising, and pyramid schemes; infringes any third party's copyrights or other rights (e.g., trademark, privacy rights, etc.). 
+    
+3. Your use of our Services, including but not limited to the content you post on our app or platform must be in accordance with any and all applicable laws and regulations. 
+    
+4. You may not include in your user profile any telephone numbers, street addresses, last names, URLs or email addresses.
+    
+5. You understand that you are granted a personal, non-transferable, non-assignable, non-exclusive, non-sublicensable and revocable licence to use our Services for the purpose of allowing you to socialize via our app and as permitted by this Agreement. Accordingly, you hereby undertake not to:
+    
+    * use our app (or any content therein) for any commercial purposes without our prior written consent.
+        
+    * duplicate, copy, amend, modify, vary, transmit, create any derivations or translations from, make use of, or reproduce in any way any part of the Services or its content without our prior written consent.
+        
+    * create any impressions (directly or indirectly) expressly or by implication that any content you post, or that you are, howsoever endorsed by us.
+        
+    * use any spider, crawler, scraper, robot, bot, site searcher, retrieval application, proxy or other manual or automatic device, application, method or process to access, retrieve, index, “data mine,” or in any way reproduce or circumvent the navigational structure or presentation of any part of the Services or any of its contents.
+        
+    * interfere with, interrupt, disrupt or howsoever prejudice the functioning of any part of the Services or its related servers or networks, whether via your use of the Services or otherwise.
+        
+    * introduce viruses, worms, trojans or other malicious code or otherwise compromise the security of any part of the Services or its networks.
+        
+    * falsify titles or otherwise manipulate identifiers in order to disguise the origin of any content uploaded on, transmitted to or through the Services.
+        
+    * “mirror” or “frame” any part or content of the Services without our prior written consent.
+        
+    * use meta tags or code or other devices containing any reference to the Services or Coffee Meets Bagel Pte. Ltd. (or any branding, slogan, trade mark, trade name, service mark, or logo of the Services) to direct any person to any other application or website regardless of purpose.
+        
+    * vary, amend, modify, adapt, sublicense, translate, sell, create derivative works, reverse engineer, decipher, decompile or otherwise disassemble any portion of the Services, or cause or assist others to do so.
+        
+    
+    * use or develop any third-party applications that interact with the Services or the data, information or content of other users without our prior written consent.
+        
+    * utilize, access, or publish the app’s application programming interface without our prior written consent.
+        
+    * probe, scan or test the vulnerability of the Services or its related network or system.
+        
+    * assist, encourage or promote any acts that would likely constitute a breach of any provision of this Agreement.
+        
+    
+    You agree that we are fully entitled to conduct investigations and take any actions against you should you be suspected of any of the above activities and/or other unauthorised or illegal usage of the Services, including but not limited to suspending or terminating your access to the Services immediately without notice to you.
+    
 
-THE SERVICES ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. WITHOUT LIMITING THE FOREGOING, WE EXPLICITLY DISCLAIM ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. We make no warranty that the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. We make no warranty regarding the quality, accuracy, timeliness, truthfulness, completeness or reliability of any Content.
+**9\. Licenses Granted by You**
+-------------------------------
 
-##### 15\. Limitation of Liability
+1. You grant Coffee Meets Bagel Pte. Ltd. and its affiliates a worldwide, perpetual, irrevocable, non-exclusive, royalty-free license and right to copy, duplicate, reproduce, retain, store, use, transmit, transfer overseas, distribute, publicly perform and display (through all media now known or hereafter created), and make derivative works from your content submitted to or transferred through the Services. In addition, you waive any so-called "moral rights" in your content. You further grant all users of the Services permission to view your content for their personal, non-commercial purposes. If you make suggestions to us on improving or adding new features to our Services, we shall have the right to use your suggestions without any compensation to you.
+    
+2. Accordingly, you warrant that all content, information, data and suggestions submitted by you to us fully belongs to you, is accurate and truthful and you have full rights to submit such content, information, data and suggestions to the Services and to grant the licence thereunder Clause 9.a to us.
+    
+3. You understand and agree that we may monitor or review any content, information or data that you upload to or transmit through our Services, and where we are of the opinion (in our sole discretion) that any such content, information or data breaches any provision of this Agreement or any applicable laws or regulations, we are entitled to delete any such content, information or data in whole or in part immediately without prior notice or liability to you.
+    
+4. You agree to be courteous and respectful when communicating with any of our personnel, our agents or other users of the Services. In the event that your conduct or speech (written or spoken) towards any of our personnel, our agents or any other user of the Services is deemed by us (in our sole discretion) to be offensive, disrespectful, threatening or harassing, we reserve the right to immediately suspend or terminate your access to the Services without any prior notice or liability to you.
+    
+5. You agree that we, our affiliates, and our third-party business partners may place advertisements on any part of the Services and you shall raise no objections or complaints thereto. 
+    
+6. You agree that we may access, preserve and disclose your content, data, and information submitted through the Services and/or to us if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce this Agreement; (iii) respond to allegations that any of your content, data or information infringes the rights of third parties; (iv) respond to your requests for services or products; or (v) protect the rights, property or safety of Coffee Meets Bagel Pte. Ltd. or any other person.
+    
 
-* NEITHER COFFEE MEETS BAGEL NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR FROM THE USE OF OR INABILITY TO USE THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT COFFEE MEETS BAGEL OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
-* IN NO EVENT WILL COFFEE MEETS BAGEL’S TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR FROM THE USE OF OR INABILITY TO USE THE SERVICES EXCEED THE AMOUNTS YOU HAVE PAID TO COFFEE MEETS BAGEL FOR USE OF THE SERVICES OR FIFTY DOLLARS ($50), IF YOU HAVE NOT HAD ANY PAYMENT OBLIGATIONS TO COFFEE MEETS BAGEL, AS APPLICABLE.
-* THE EXCLUSIONS AND LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN COFFEE MEETS BAGEL AND YOU.
+**10\. Your Representations and Warranties**
+--------------------------------------------
 
-##### 16\. Indemnification
+For each piece of content that you submit, you represent and warrant that: (i) you have the right to submit the content to us and grant the licenses set forth above in Clause 9; (ii) we will not need to obtain licenses from any third party or pay royalties to any third party; (iii) the content does not infringe any third party's rights, including intellectual property rights and privacy rights; and (iv) the content complies with this Agreement and all applicable laws.
 
-You will indemnify and hold harmless Coffee Meets Bagel and its officers, directors, employees and agents, from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (i) your access to or use of the Services, (ii) your User Content, or (iii) your violation of this Agreement.
+**11\. Indemnification**
+------------------------
 
-##### 17\. Termination
+You will fully indemnify, defend, and hold harmless Coffee Meets Bagel Pte. Ltd., its parents, subsidiaries, affiliates, related entities, and their respective directors, officers, employees, subcontractors and agents, from and against all third party actions that: (i) arise from your activities on the Services; (ii) assert a violation by you of any term of this Agreement; or (iii) assert that any content you submitted to our platform and/or use of our Services violates any law or infringes any third party right, including any intellectual property or privacy right.
 
-We may terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you. You may delete your Account, or put your Account on hold at any time by sending an email to us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection) or via the functionality of the App; deleting your Account is your sole method of terminating this Agreement. Upon termination of this Agreement, the following will survive Sections 3(d),6(c),7,14,15,16,18,19,21, and this sentence of Section 17.
+**12\. Third Party Copyrights and Other Rights Copyright Policy**
+-----------------------------------------------------------------
 
-##### 18\. Governing Law and Forum Choice
+1. We respect the intellectual property rights of others, and we ask our users to do the same. Each user is responsible for ensuring that the content, files and other materials (collectively, “User-Submitted Materials”) they submit through our Services do not infringe any third party copyright. We will promptly remove User-Submitted Materials if properly notified that any of the User-Submitted Materials infringe a third party's copyright. In addition, we may, in appropriate circumstances, terminate the accounts of alleged repeat copyright infringers (whether proven in Court or otherwise).
+    
+      
+    
+2. **Takedown Notice**
+    
+    If any person believes that his/her work has been copied in a way that constitutes copyright infringement, please provide us with a written notice containing the following information:
+    
+    * The full name, address, telephone number, and email address (if any) of the person providing Take down Notice.
+        
+    * A description of the copyrighted work that you claim has been infringed.
+        
+    * A description of where the material that you claim is infringing is located on our Services, sufficient for us to locate the said material.
+        
+    * A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright owner, its agent, or the law.
+        
+    * Your electronic or physical signature or the person authorized to act on behalf of the owner of the copyright interest.
+        
+          
+        You may submit this information [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
+        
+          
+        
+3. Take down Notice Counter-notification
+    
+    If you believe that your User-Submitted Material has been removed by mistake or misidentification, please provide us with a written counter-notification containing the following information:
+    
+    * Your name, address, and telephone number.
+        
+    * A description of your User-Submitted Material that was removed and the location where it previously appeared.
+        
+    * A statement that you have a good faith belief that your User-Submitted Material was removed or disabled as a result of mistake or misidentification.
+        
+    * A statement that you consent to the jurisdiction of any judicial district where Coffee Meets Bagel Pte. Ltd. may be found, and that you will accept service of process from the person who filed the original take down notice or an agent of that person.
+        
+    * Your electronic or physical signature. 
+        
+    
+    You may submit this information [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
+    
+      
+    
 
-This Agreement and any action related thereto will be governed by the Federal Arbitration Act, federal arbitration law, and the laws of the State of California, without regard to its conflict of laws provisions. Except as otherwise expressly set forth in Section 19“Dispute Resolution,” the exclusive jurisdiction for all Disputes (defined below) that you and Coffee Meets Bagel are not required to arbitrate will be the state and federal courts located in the Northern District of California, and you and Coffee Meets Bagel each waive any objection to jurisdiction and venue in such courts.
+Please note that we will provide complete counter notifications to the person making the copyright infringement claim. That person may elect to file a lawsuit against you for copyright infringement. If we do not receive notice that a lawsuit has been filed within ten (10) business days after we provide notice of your counter-notification, we will restore your disabled User-Submitted Materials. Until that time, your User-Submitted Materials will remain disabled. 
 
-##### 19\. Dispute Resolution
+Warning: In filing a takedown notice or counter notification, please make sure that you have complied with all of the above requirements. If we request additional information necessary to make your take down notice or counter-notification complete, please provide that information promptly. If you fail to comply with all of the requirements, your notification or counter-notification may not be processed. In addition, please make sure that all of the information you provide is accurate. PLEASE BE AWARE THAT ANY PERSON WHO KNOWINGLY MISREPRESENTS THAT ANY MATERIAL OR ACTIVITY IS INFRINGING OR CAUSED ANY MATERIALS TO BE REMOVED OR AN ACCOUNT/ACCESS DISABLED BY MISTAKE OR MISIDENTIFICATION MAY BE SUBJECT TO LIABILITY. If you have questions about the legal requirements of a take down notice, please contact an attorney for more information. If you have questions about the legal requirements of a take down counter-notification, please contact an attorney for more information.
 
-* Mandatory Arbitration of Disputes.We each agree that any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof or the use of the Services (collectively, “Disputes”) will be resolved solely by binding, individual arbitration and not in a class, representative or consolidated action or proceeding. You and Coffee Meets Bagel agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Agreement, and that you and Coffee Meets Bagel are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement.
-* Exceptions and Opt-out. As limited exceptions to Section 19(a)above: (i) you may seek to resolve a Dispute in small claims court if it qualifies; and (ii) we each retain the right to seek injunctive or other equitable relief from a court to prevent (or enjoin) the infringement or misappropriation of our intellectual property rights. In addition, you will retain the right to opt out of arbitration entirely and litigate any Dispute if you provide us with written notice of your desire to do so by email at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)within thirty (30) days following the date you first agree to this Agreement.
-* Conducting Arbitration and Arbitration Rules. The arbitration will be conducted by the American Arbitration Association (“AAA”) under its Consumer Arbitration Rules (the “AAA Rules”) then in effect, except as modified by this Agreement. The AAA Rules are available at [www.adr.org](http://www.adr.org/)or by calling 1-800-778-7879. A party who wishes to start arbitration must submit a written Demand for Arbitration to AAA and give notice to the other party as specified in the AAA Rules. The AAA provides a form Demand for Arbitration at [www.adr.org](http://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175).
-* If your claim is for U.S. $10,000 or less, you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic or video-conference hearing, or by an in-person hearing as established by the AAA Rules.  If your claim exceeds U.S. $10,000, the right to a hearing will be determined by the AAA Rules. Any arbitration hearings will take place in the county (or parish) where you live, unless we both agree to a different location. The parties agree that the arbitrator shall have exclusive authority to decide all issues relating to the interpretation, applicability, enforceability and scope of this arbitration agreement.
-* Arbitration Costs. Payment of all filing, administration and arbitrator fees will be governed by the AAA Rules. We’ll pay for all filing, administration and arbitrator fees and expenses if your Dispute is for less than $10,000, unless the arbitrator finds your Dispute frivolous. If we prevail in arbitration we’ll pay all of our attorneys’ fees and costs and won’t seek to recover them from you. If you prevail in arbitration you will be entitled to an award of attorneys’ fees and expenses to the extent provided under applicable law.
-* Class Action Waiver.  YOU AND COFFEE MEETS BAGEL AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, if the parties’ dispute is resolved through arbitration, the arbitrator may not consolidate another person’s claims with your claims, and may not otherwise preside over any form of a representative or class proceeding.  If this specific provision is found to be unenforceable, then the entirety of this Dispute Resolution section shall be null and void.
-* Effect of Changes on Arbitration.Notwithstanding the provisions of Section 4“Changes to Agreement or Services” above, if Coffee Meets Bagel changes any of the terms of this Section 19“Dispute Resolution” after the date you first accepted this Agreement (or accepted any subsequent changes to this Agreement), you may reject any such change by sending us written notice (including by email to [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)) within 30 days of the date such change became effective, as indicated in the “Last Updated” date above or in the date of Coffee Meets Bagel’s email to you notifying you of such change. By rejecting any change, you are agreeing that you will arbitrate any Dispute between you and Coffee Meets Bagel in accordance with the terms of this Section 19“Dispute Resolution” as of the date you first accepted this Agreement (or accepted any subsequent changes to this Agreement).
-* Severability. With the exception of any of the provisions in Section 19(e)of this Agreement (“Class Action Waiver”), if an arbitrator or court of competent jurisdiction decides that any part of this Agreement is invalid or unenforceable, the other parts of this Agreement will still apply.
+**13\. Premium (Paid) Services Subscription, Services App Credits, Promo Codes and In-App Purchases**
+-----------------------------------------------------------------------------------------------------
 
-##### 20\. State-Specific Terms
+1. In the event that you pay for subscription or are rewarded with or purchase any credits from our app for use with the Services or any other functions or features available via our Services or for any products or services or events made available by us and/or its related companies, you must use up all credits within the time-frame stipulated at the time of your purchase or subscription. In the absence of any stipulation of time-frame at the point of purchase or subscription, all credits must be utilized latest within three (3) months from the date that you received the credits in your account.
+    
+2. No refunds (whether in full or in part) will be given for any unutilized expired credits (regardless of whether you were given the credits as a gift or purchased the credits for monetary consideration or otherwise).
+    
+3. In order to access certain premium features of the Services, a paid subscription is required.  In order for you to subscribe to the premium features of the Services, you would have to sign up via AppStore or GooglePlay (whichever is applicable). Accordingly, when you decide to terminate your paid subscription to the Services or your account for the Services, you must terminate your paid subscription via AppStore or GooglePlay (whichever is applicable). We bear no responsibility or liability whatsoever if you fail to terminate your paid subscription via AppStore or GooglePlay (whichever is applicable) and you agree that you will continue to pay all charges incurred until you terminate your paid subscription as per the aforegoing.
+    
+4. Promo codes are not transferable and are not redeemable for cash. Each promo code is valid for a limited time only and expires on the date specified. Promo codes are redeemable to new users and existing users who have not subscribed to the premium features of the Services for the last 30 days. Promo codes may be modified, canceled, terminated or suspended by us without prior notice to you.
+    
 
-* _If you live in certain states, you may cancel this agreement within 3 business days._
+**14\. Personal Data**
+----------------------
 
-The following provisions are added to this Agreement for subscribers residing in Arizona, California, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio and Wisconsin:
+1. For the purpose of definition under this Agreement, Personal Data refers to all information that can be used either separately or collectively with other information, to identify an individual. Personal Data includes, but is not limited to date of birth, name, address, personal identification numbers such as national identity number, email address, telephone number, gender, and other personal identifiers. 
+    
+2. Your Personal Data submitted to us is governed by the Privacy Policy of CMB, a copy of which is accessible on the website. However, as our Services is a social platform, your disclosure of Personal Data to other users of the Services is subject to the risk that your Personal Data may be misused or disclosed to third parties by other users. We are not able to monitor or sanction the acts of other users, therefore any Personal Data that you choose to disclose to other users is entirely at your own risk and responsibility, and you agree not to hold us howsoever liable for any consequences that may ensue.
+    
+3. In addition, you agree and consent that we may share your Personal Data with our related entities or affiliates in order to provide you with offers, updates, promotions and services that are related to dating (offline or online), personal grooming and personal attractiveness, which can be reasonably deduced to be of interest to you as you are using our Services.  In the event that you are not agreeable to any of the foregoing uses of your information, please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707), failing which you are deemed to have agreed to our use of your information as per the foregoing.
+    
 
-You, the buyer, may cancel this Agreement, without penalty or obligation, at any time prior to midnight of the third business day following the original date of this contract, excluding Sundays and holidays. To cancel this Agreement, mail or deliver a signed and dated notice which states that you, the buyer, are canceling this Agreement, or words of similar effect. This notice shall be sent to:
+**15\. Third Party Websites**
+-----------------------------
 
-Coffee Meets Bagel  
-Attn: Cancellations  
-391 Grove St.  
-San Francisco, CA 94107  
-(in addition, California and Ohio users may email us at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection)).
+1. We do not control any links, services, products or resources provided by other third parties referenced or linked to Services, even if such third party’s website or applications may be co-branded with ours by bearing our logo or name. You acknowledge that we are unable to control or influence any third parties' actions even if their websites or applications are hyperlinked to our Services. Accordingly, should you decide to use or access such third parties’ websites or applications, all use and access are at your sole risk and subject to the terms and conditions of use of the said third parties. If you have any query on the terms and conditions of use of such third parties’ websites and applications or their services or products, please contact the third parties directly.
+    
+2. You agree that we may employ cookies, action tags or other legal technological means to record your anonymised accessing to our Services for the purpose of providing better services and enhancing your user as well as browsing experience.
+    
 
-Please include your Coffee Meets Bagel email address in any correspondence or your refund may be delayed. If you cancel, Coffee Meets Bagel will return, within ten days of the date on which you give notice of cancellation, any payments you have made. If you send or deliver the notice to cancel your subscription agreement within such three day period, we will refund the full amount of your subscription.
+**16\. General Provisions**
+---------------------------
 
-In the event that you die before the end of your subscription period, your estate shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your death. In the event that you become disabled (such that you are unable to use the Services) before the end of your subscription period, you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the company notice at the same address as listed above.
+**GOVERNING LAW:**
 
-* _California Users_
+This Agreement shall be governed by and interpreted in accordance with the laws of Singapore, without regard to principles of conflicts of law.
 
-California Civil Code Section 1789.3 requires us to provide you with the following information: You may file grievances and complaints with the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, California, 95814, or by telephone at (916) 445-1254 or (800) 952-5210, or by email at [\[email protected\]](https://coffeemeetsbagel.com/cdn-cgi/l/email-protection).
+**DISPUTES:**
 
-##### 21\. General Terms
+Any action arising out of or relating to this Agreement or your use of our Services must be commenced in the Courts of Singapore (and you consent to the exclusive jurisdiction of those courts). In addition, you hereby agree that you also waive your right to howsoever participate in a class action suit or other class proceedings against us and any of our affiliates, including but not limited to any past, pending, present or future class action suits.
 
-* Entire Agreement. This Agreement constitute the entire and exclusive understanding and agreement between Coffee Meets Bagel and you regarding the Services and Content, and this Agreement supersede and replace any and all prior oral or written understandings or agreements between Coffee Meets Bagel and you regarding the Services and Content. If any provision of this Agreement is held invalid or unenforceable by an arbitrator or a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the other provisions of this Agreement will remain in full force and effect. You may not assign or transfer this Agreement, by operation of law or otherwise, without Coffee Meets Bagel’s prior written consent. Any attempt by you to assign or transfer this Agreement, without such consent, will be null. Coffee Meets Bagel may freely assign or transfer this Agreement without restriction. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their successors and permitted assigns.
-* Notices. Any notices or other communications provided by Coffee Meets Bagel under this Agreement, including those regarding modifications to this Agreement, will be given: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
-* Waiver of Rights. Coffee Meets Bagel’s failure to enforce any right or provision of this Agreement will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Coffee Meets Bagel. Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise.
+**INTERPRETATION; SEVERABILITY; WAIVER; REMEDIES:** 
+
+Headings are for convenience only and shall not be used to construe the terms of this Agreement. If any term of this Agreement is found invalid or unenforceable by any court of competent jurisdiction, that term will be severed from this Agreement. No failure or delay by us in exercising any right hereunder will waive any further exercise of that right. Our rights and remedies hereunder are cumulative and not exclusive. 
+
+**SUCCESSORS; ASSIGNMENT; NO THIRD PARTY BENEFICIARIES:** 
+
+This Agreement is binding upon and shall insure to the benefit of both parties and their respective successors, heirs, executors, administrators, personal representatives, and permitted assigns. You may not assign this Agreement or any of its rights or obligations without our prior written consent.  We are entitled to assign this Agreement or any part thereof at any time without prior notice to you. No third party shall have any rights hereunder. 
+
+**NOTICES:** 
+
+You consent to receive all communications including notices, agreements, disclosures, legal documents, or other information from us electronically. We may provide all such communications by email or by posting them on our platform or app. Support-related inquiries can be done by creating a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Notices of a legal nature must be emailed to us at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection). Nothing herein shall limit our right to object to the invalid service of subpoenas, claims, or other demands.
+
+**MODIFICATION; ENTIRE AGREEMENT:**
+
+You may not amend any term of this Agreement except with the prior written consent and signature of an authorized representative of CMB on the written amendments. This Agreement, together with any amendments by us constitute the entire understanding between us and you concerning the subject matter hereof and supersedes all prior agreements and understandings regarding the same.  Any revisions of the terms of service by us will be effective as of the date it is posted on the website. By continuing to use our Services, you thereby agree to be fully bound by all terms of service as may be revised
+
+**17\. Other Terms**
+--------------------
+
+**EU Digital Services Act (DSA) Policy**
+
+VeraSafe has been appointed as CMB's EU Digital Services Act (DSA) legal representative in the European Union, pursuant to Article 13 of the DSA. The European Union Member States’ competent authorities, the European Commission, and the European Board for Digital Services may contact VeraSafe in addition to or instead of our [Operations Team](http://help@coffeemeetsbagel.app/), on issues necessary for the receipt of, compliance with, and enforcement of decisions issued in relation to the DSA.
+
+To make such an inquiry, please contact VeraSafe using this contact form:  
+[https://verasafe.com/public-resources/contact-dsa-legal-representative/](https://verasafe.com/public-resources/contact-dsa-legal-representative/)  
+or via telephone at: +420 228 881 031.
+
+Alternatively, VeraSafe can be contacted at:
+
+VeraSafe Ireland Ltd.  
+Unit 3D North Point House  
+North Point Business Park  
+New Mallow Road  
+Cork T23AT2P  
+Ireland
