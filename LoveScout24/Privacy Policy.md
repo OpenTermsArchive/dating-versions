@@ -167,6 +167,15 @@ Design Offices München Macherei
 81673 München  
 Deutschland
 
+Wenn Sie in der Schweiz wohnen, können Sie unseren Schweizer Vertreter unter [rep\_lovescout24@prighter.com](mailto:rep_lovescout24@prighter.com) oder per Post unter folgender Adresse kontaktieren:
+
+Prighter CH GmbH  
+Obergrundstrasse 17  
+6002 Luzern,  
+Switzerland
+
+SwissZertifikat der Schweizer Vertretung und Angaben zum Vertreter finden Sie [hier](https://app.prighter.com/portal/19859481096).
+
 Wenn Sie weitere Informationen darüber wünschen, wie Sie den Datenschutzbeauftragten kontaktieren können, klicken Sie bitte [hier](https://www.lovescout24.de/faq/#privacyRequest).
 
 Das war’s! Sie haben es bis zum Ende unserer Datenschutzbestimmungen geschafft. Wir hoffen, dass sie so ansprechend und klar waren wie von uns beabsichtigt. Und jetzt ist es Zeit, ein paar Erinnerungen zu schaffen! Wir freuen uns darauf, gemeinsam mit Ihnen diese Reise zu unternehmen.
