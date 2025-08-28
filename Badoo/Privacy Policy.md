@@ -310,13 +310,13 @@ Si vous avez des inquiétudes sur la manière dont nous avons traité votre dema
 
 Si vous pensez que nous n'avons pas résolu votre problème, vous avez le droit de déposer une plainte à tout moment auprès de l'[Information Commissioner's Office (ouvre une nouvelle fenêtre)](http://www.ico.org.uk/) (ICO), l'autorité de contrôle britannique pour les questions de protection des données. Si vous résidez dans un pays ou un territoire situé dans l'Union européenne (UE) ou l'Espace Économique Européen (EEE), vous pouvez également contacter votre [Régulateur de la protection des données (ouvre une nouvelle fenêtre)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). Si vous vivez dans un pays en dehors de l'UE, vous pouvez avoir le droit de déposer une plainte auprès de votre autorité locale de protection de la vie privée ou de la protection des données.
 
-### Représentant de l'UE
+### Représentant dans l’UE
 
-Conformément à l'article 27 du règlement général sur la protection des données (RGPD), Badoo a nommé Borlux Ltd comme son représentant GDPR dans l'UE. Si vous résidez habituellement dans un État membre de l'UE, vous pouvez contacter Borlux Ltd concernant les questions relatives au GDPR :
+Conformément à l'article 27 du règlement général sur la protection des données de l'UE (RGPD), Bumble a désigné Borlux Ltd comme représentant RGPD dans l’UE. Si tu résides habituellement dans un État membre de l’UE, tu peux contacter Borlux Ltd pour toute question relative au RGPD :
 
-En utilisant le formulaire de demande en ligne sur https://services.nathantrust.com/privacycontact
+Par e-mail à l’adresse : GDPRrequest@comnet.ie
 
-Par voie postale : 1er étage, 6 Lapps Quay, Cork, Irlande
+Par courrier à l’adresse :1st Floor, 6 Lapps Quay, Cork, Irlande
 
 10\. EMPLACEMENTS DES DONNÉES.
 ------------------------------
