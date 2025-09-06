@@ -44,13 +44,13 @@ Our platform is not a marketplace. We don’t allow using Bumble for unsolicited
 
 We don’t allow members to use our platforms to buy, sell, supply, distribute, promote or facilitate the purchase, sale, supply, or distribution of illegal drugs and/or controlled goods and substances. This includes: e-cigarettes, marijuana, drug paraphernalia, or the misuse of legal substances like prescription drugs, tobacco, or alcohol. [Learn more.](https://bumble.com/guidelines/goods-substances)
 
-#### Dangerous Organisations and Individuals
+#### Terrorism and Violent Extremism
 
-We don’t permit organisations or individuals that proclaim, glorify, condone, or are known to support a violent, dangerous, or terrorist-based mission to have a presence on Bumble. [Learn more.](https://bumble.com/guidelines/dangerous-organizations-individuals)
+We don't allow content or behavior that promotes, incites, glorifies, or supports terrorist or violent extremist groups and individuals and their activities on Bumble. [Learn more.](https://bumble.com/guidelines/dangerous-organizations-individuals)
 
 #### Identity-Based Hate
 
-We aim to foster a diverse and inclusive community on Bumble. We prohibit content or behaviour that promotes or condones hate, dehumanisation, degradation, or contempt against marginalised or minoritised communities based on the following protected attributes: race/ethnicity, national origin/nationality/immigration status, caste, sex, gender identity or expression, sexual orientation, disability or serious health condition, or religion/belief. [Learn more](https://bumble.com/guidelines/identity-based-hate)
+We aim to foster a diverse and inclusive community on Bumble. We prohibit content or behavior that promotes or condones hate, dehumanization, degradation, or contempt against marginalized or minoritized communities based on the following protected attributes: race/ethnicity, national origin/nationality/immigration status, caste, sex, gender identity or expression, sexual orientation, disability or serious health condition, or religion/belief. [Learn more](https://bumble.com/guidelines/identity-based-hate)
 
 #### Inauthentic Profiles
 
