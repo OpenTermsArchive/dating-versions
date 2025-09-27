@@ -21,6 +21,7 @@ Our Community Guidelines help keep our members safe. They make it clear what con
 * Any words or phrases that violate our Community Guidelines
 * Using the name of a celebrity or fictional character
 * Words or characters (other than a valid name) including descriptive words, symbols (e.g. $, \*, @,), emojis, numbers, or punctuation
+* Social media or messaging platform details
 
 ### Content and Conduct Guidelines
 
