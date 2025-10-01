@@ -314,7 +314,7 @@ Si vous pensez que nous n'avons pas résolu votre problème, vous avez le droit 
 
 Conformément à l'article 27 du règlement général sur la protection des données de l'UE (RGPD), Bumble a désigné Borlux Ltd comme représentant RGPD dans l’UE. Si tu résides habituellement dans un État membre de l’UE, tu peux contacter Borlux Ltd pour toute question relative au RGPD :
 
-Par e-mail à l’adresse : GDPRrequest@comnet.ie
+Par e-mail à l’adresse : GDPRrequest@privacyquery.ie
 
 Par courrier à l’adresse :1st Floor, 6 Lapps Quay, Cork, Irlande
 
