@@ -1,5 +1,5 @@
 CGU
----
+===
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/terms-and-conditions/)
 
