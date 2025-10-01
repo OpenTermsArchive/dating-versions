@@ -1,5 +1,5 @@
 Politique de protection des données pour l’utilisation de Parship – France
---------------------------------------------------------------------------
+==========================================================================
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/privacy-policy/)
 
