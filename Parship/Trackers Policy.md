@@ -1,5 +1,5 @@
 Informations sur les cookies et les technologies de suivi lors de l’utilisation de Parship
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/cookies-and-tracking/)
 
