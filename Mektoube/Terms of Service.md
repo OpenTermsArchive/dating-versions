@@ -210,6 +210,8 @@ LT Services peut supprimer les messages envoyés massivement par un Membre pour 
 
 LT Services peut également retirer l'accès à un Membre qui ne respecte pas les Conditions Générales de Services et d’Utilisation, en particulier en ce qui concerne les comportements ou pratiques sur le site, sans remboursement. En cas de non-paiement de l'Abonnement, LT Services suspendra immédiatement l'accès aux services, y compris aux Add-ons. Le compte peut rester actif en tant que Membre visiteur, sans accès aux services payants. Pour supprimer un compte définitivement, le Membre doit se connecter à [Mektoube.fr](https://www.mektoube.fr/), accéder à "Mon compte", puis "Supprimer mon compte". Une période de rétention de deux mois suit la suppression du compte pour des raisons de sécurité. Pendant cette période, le Membre ne pourra pas créer un nouveau compte; toute tentative sera considérée comme une réactivation du compte supprimé. Après cette période, le Membre pourra créer un nouveau compte avec ses informations, mais la réactivation ne comprendra pas les abonnements ou Add-ons en cours.
 
+Suppression des données personnelles. Les modalités et délais d’effacement figurent dans notre Politique de confidentialité. En cas de divergence, la Politique de confidentialité prévaut.
+
 12\. Disponibilité de [Mektoube.fr](https://www.mektoube.fr/) et des Services
 -----------------------------------------------------------------------------
 
