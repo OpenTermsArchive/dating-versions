@@ -73,7 +73,6 @@ L’utilisation du service à des fins commerciales est également interdite.
 
 3.5 Même dans le cadre d’un abonnement de base, l’achat payant de biens virtuels est possible à l’unité. Les biens virtuels peuvent être utilisés pour différents services ou pour étendre les autorisations d’un profil personnel. Parship se réserve le droit de limiter l’offre de biens virtuels sur le plan géographique, temporel et/ou individuel.
 
-  
 3.6 Parship se réserve le droit de modifier les services proposés par ses soins pour des raisons valables et sans facturer de frais supplémentaires pour le client, ou bien d’offrir des services différents,
 
 * dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
@@ -86,7 +85,7 @@ L’utilisation du service à des fins commerciales est également interdite.
 
 Vous trouverez des informations sur les adaptations et les améliorations de l’expérience produit Parship dans nos [mises à jour de produits](https://www.parship.fr/updates/).
 
-3.7 Dans le cadre de  de la mise à disposition de ses services, Parship utilise des systèmes de recommandation algorithmique. Vous trouverez de plus amples informations à ce sujet [ici](https://www.parship.fr/recommendersystem/).
+3.7 Dans le cadre de la mise à disposition de ses services, Parship utilise des systèmes de recommandation algorithmique. Vous trouverez de plus amples informations à ce sujet [ici](https://www.parship.fr/recommendersystem/).
 
 3.8 Nos offres peuvent varier en fonction de différents facteurs, comme l’âge, le revenu, l’appareil d’enregistrement ou le sexe. Les offres sont alors personnalisées sur la base d’une prise de décision automatisée, deux facteurs au moins étant toujours pris en compte dans la pondération. Vous trouverez de plus amples détails à ce sujet dans notre [Politique de confidentialité.](https://www.parship.fr/privacypolicy/)
 
@@ -102,7 +101,7 @@ Vous trouverez des informations sur les adaptations et les améliorations de l�
 
 ### 5\. Résiliation / Renouvellement
 
-5.1 Le client a, à tout moment et avec effet immédiat, le droit de résilier le contrat concernant l’abonnement gratuit Basic. La résiliation de l’abonnement Basic s’effectue sur le site web en cliquant sur le lien « ici » dans la rubrique [« Mon profil » / « Mes données » / « Gestion de votre profil » / « Statut du profil »](https://www.parship.fr/settings/deleteprofile), et en confirmant cette opération par la saisie du mot de passe personnel.Pour tout abonnement Basic avec des biens virtuels activés (clés de déverrouillage de profils correspondants, par exemple), la résiliation revêt la forme écrite (e-mail envoyé au service clientèle à aide(at)parship.fr, par exemple) et ledit texte doit fournir l’adresse e-mail ou l’identifiant enregistrés chez Parship, ainsi que le mot de passe « service » afin d’être clairement affecté. Si le client supprime son abonnement Basic, tous les biens virtuels préalablement acquis sont également supprimés. Les biens virtuels inutilisés ne sont pas remboursés. Les obligations de paiement établies demeurent inchangées sous réserve des règles de rétractation.
+5.1 Le client a, à tout moment et avec effet immédiat, le droit de résilier le contrat concernant l’abonnement gratuit Basic. La résiliation de l’abonnement Basic s’effectue sur le site web en cliquant sur le lien « ici » dans la rubrique [« Mon profil » / « Mes données » / « Gestion de votre profil » / « Statut du profil »](https://www.parship.fr/settings/deleteprofile), et en confirmant cette opération par la saisie du mot de passe personnel. Pour tout abonnement Basic avec des biens virtuels activés (clés de déverrouillage de profils correspondants, par exemple), la résiliation revêt la forme écrite (e-mail envoyé au service clientèle à aide(at)parship.fr, par exemple) et ledit texte doit fournir l’adresse e-mail ou l’identifiant enregistrés chez Parship, ainsi que le mot de passe « service » afin d’être clairement affecté. Si le client supprime son abonnement Basic, tous les biens virtuels préalablement acquis sont également supprimés. Les biens virtuels inutilisés ne sont pas remboursés. Les obligations de paiement établies demeurent inchangées sous réserve des règles de rétractation.
 
 5.2 Le délai de la résiliation ordinaire de l’abonnement Premium, suite à un achat via le site web, est communiqué dans les « clauses relatives au produit » qui sont acceptées par le client au cours du processus de commande sur le site internet. De plus et suite à l’achat d’un abonnement Premium, le client est informé de ce délai de résiliation dans la confirmation de commande envoyée par e-mail. La résiliation est valable uniquement si la demande de résiliation est effectuée par écrit (par example par e-mail via la section des paramètres du profil utilisateur ou par le bouton de la Résiliation).
 
