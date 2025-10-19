@@ -1,7 +1,7 @@
 HER terms and conditions
 ------------------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/05/her-dating-app-download-e1716838841323-1160x625.png)
 
 **Effective date:** May 25, 2018
 
@@ -40,7 +40,7 @@ The key terms that you should consider in particular detail are Sections:
 
 If you do not agree with all of the provisions of these terms, do not access and/or use the Services.
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/05/her-dating-app-download-e1716838841323-1160x625.png)
 
 Contact details
 ---------------
@@ -80,7 +80,7 @@ Persons under 18 are prohibited from providing personal information on our Websi
 Acceptable use
 --------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-scaled-1160x1084.jpg)
 
 You are responsible for your use of the Services, and for any use of the Services made using your Account. Our goal is to create a positive experience in connection with our Services. To promote this goal, we prohibit certain kinds of conduct that may be harmful to other Users or to HER.
 
@@ -102,7 +102,7 @@ When you use the Services, you agree that you will not:
 
 [Join HER today](https://links.weareher.com/YPOiUdsndvb)
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2022/03/iStock-1292280203-scaled-1160x1084.jpg)
 
 License
 -------
@@ -114,7 +114,7 @@ Furthermore, with respect to any App accessed through or downloaded from an App 
 Payments, HER premium plans and cancellation
 --------------------------------------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/03/HER-dating-app-features-Pride-Pins.png)
 
 **HER Free Services:** If you don’t choose to purchase HER Premium, you can simply use HER for free. HER operates a global business, and our pricing varies by a number of factors. We frequently offer promotional rates – which can vary based on region, length of subscription, bundle size and more. We also regularly test new features and payment options.
 
@@ -130,12 +130,12 @@ You represent and warrant that you have the legal right to use any payment card(
 
 [Find My Person Today](https://links.weareher.com/YPOiUdsndvb)
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/03/HER-dating-app-features-Pride-Pins.png)
 
 Ownership & copyright
 ---------------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/03/Sapphic-meaning-and-flag-HER-app-1160x1084.png)
 
 The parties agree that all proprietary rights in the Services are and will remain the property of HER. This includes non-personally identifiable aggregate data collected by HER in connection with providing the Services, as well as usage statistics and traffic patterns, any and all rights, title and interest to which are hereby assigned to HER by you.
 
@@ -155,12 +155,12 @@ You agree not to interfere or take action that results in interference with or d
 
 • You acknowledge and agree that you are solely responsible for all of your materials that you make available through the Services. You represent and warrant that: (1) you either are the sole and exclusive owner of all of Your Materials that you make available through the Services, or you have all rights, licenses, consents and releases that are necessary to grant to HER (or any other User as applicable) the rights in Your Materials
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/03/Sapphic-meaning-and-flag-HER-app-1160x1084.png)
 
 Disclaimer; limitation of liability and indemnification
 -------------------------------------------------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/05/LGBTQ-communities-on-HER-dating-app-e1716955404156-898x1084.png)
 
 **Disclaimer; limitation of liability and indemnification**
 
@@ -222,12 +222,12 @@ Nothing in these terms shall limit or exclude our liability for:
 
 The Services are controlled by the dating app from its facilities in the United States of America. The dating app makes no representations or warranties that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with all applicable local laws and regulations.
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2024/05/LGBTQ-communities-on-HER-dating-app-e1716955404156-898x1084.png)
 
 Third party links & the App Store
 ---------------------------------
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
 **Third-party links & ads**
 
@@ -259,7 +259,7 @@ In order to use the App, you must have access to a wireless network, and you agr
 
 [Download HER](https://links.weareher.com/YPOiUdsndvb)
 
- ![](http://weareher.com/wp-content/uploads/blank.png)
+ ![](https://weareher.com/wp-content/uploads/2019/11/Fingers-with-a-phone.webp)
 
 Termination
 -----------
