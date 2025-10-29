@@ -63,15 +63,15 @@ We prohibit the sharing of demonstrably false or substantially misleading conten
 
 #### Physical and Sexual Violence
 
-We don’t tolerate any content, imagery, or behaviour that commits or threatens credible acts of physical or sexual violence. This includes physical stalking, using our platform to assist, facilitate or support exploitation or human trafficking, and sexual assault of any kind, which we define as unwanted physical contact or attempted physical contact that is sexual in nature. [Learn more.](https://bumble.com/guidelines/physical-sexual-violence)
+We don’t tolerate any content, imagery, or behavior that commits or threatens credible acts of physical or sexual violence. This includes physical stalking, using our platform to assist, facilitate or support exploitation or human trafficking, and sexual assault of any kind, which we define as unwanted physical contact or attempted physical contact that is sexual in nature. [Learn more.](https://bumble.com/guidelines/physical-sexual-violence)
 
-#### Scams and Theft
+#### Scams, Fraud, and Theft
 
-Bumble prohibits any scam or theft activity intended to defraud or manipulate members out of financial or material resources. This includes requesting or seeking financial support, lying about your intentions for financial gain, or faking romantic intentions to deceive members out of financial or material resources. [Learn more.](https://bumble.com/guidelines/scams-theft)
+Bumble prohibits any scam, fraud or theft activity intended to defraud or manipulate members out of financial or material resources. This includes requesting or seeking financial support, lying about your intentions for financial gain, or faking romantic intentions to deceive members out of financial or material resources. [Learn more.](https://bumble.com/guidelines/scams-theft)
 
 #### Sexual Harassment
 
-We do not tolerate sexual harassment. We consider sexual harassment to be any non-physical, unwanted, and unwelcome sexual behaviours between members. This includes cyberflashing (i.e. sharing unsolicited sexually explicit images), in-person indecent exposure, sharing or threatening to share sexual or intimate images without the consent of the person involved or depicted, sending unwanted sexual comments or images, and fetishisation. [Learn more.](https://bumble.com/guidelines/sexual-harassment)
+We do not tolerate sexual harassment. We consider sexual harassment to be any non-physical, unwanted, and unwelcome sexual behaviors between members. This includes cyberflashing (i.e. sharing unsolicited sexually explicit images), in-person indecent exposure, sharing or threatening to share sexual or intimate images without the consent of the person involved or depicted, sending unwanted sexual comments or images, and fetishization. [Learn more.](https://bumble.com/guidelines/sexual-harassment)
 
 #### Spam
 
