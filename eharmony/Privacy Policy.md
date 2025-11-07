@@ -143,7 +143,7 @@ If you purchase a Premium Membership or virtual goods via an app store provider 
 
 **Communication with members, communication with our customer care**
 
-If you correspond with other eharmony members through the eharmony platform, or with eharmony customer care, we will collect and store this information. The messages sent between members via our Service are end-to-end encrypted. (You can read more about how we keep your information safe in the section “[How do we protect your personal data](#pp11)?” below).
+If you correspond with other eharmony members through the eharmony platform, or with eharmony customer care, we will collect and store this information. The messages sent between members via our Service are encrypted. (You can read more about how we keep your information safe in the section “[How do we protect your personal data](#pp11)?” below).
 
 If you contact our customer care, please note the following: If you communicate with our customer care:
 
