@@ -3,7 +3,7 @@
 **General Terms and Conditions of LOVOO**
 =========================================
 
-Last adjustment: 24.07.2025
+Last adjustment: 11.11.2025
 
 The following General Terms and Conditions (hereinafter referred to as ‘Terms’) govern the contractual relationship between PE Digital GmbH, Speersort 10, 20095 Hamburg, Federal Republic of Germany, registered in the Commercial Register of the Local Court of Hamburg under HRB 77766 (hereinafter referred to as “LOVOO”) and the users who use the services of LOVOO (hereinafter referred to as “Users”), and define the Terms under which LOVOO services are used.
 
@@ -138,19 +138,17 @@ LOVOO also offers the LOVOO Live Video feature in selected countries. Live is su
 
 5.2. Subscriptions are contracts independent of the user account, provided that the terms of the subscription do not stipulate a connection to a user account.
 
-5.3. The user can transfer subscriptions to another user account. Following notification of the new user account, LOVOO transfers the Premium membership to the new user account.
+5.3. Both parties may cancel a subscription with a notice period of 24 hours before the expiry of the respective billing period. Please note that for some countries and regions, special cancellation policies may apply that grant you the right to terminate your Subscription before the end of the current billing period and/or allow you to claim a refund. You will find all relevant information on the support pages of Apple ( [https://getsupport.apple.com/](https://getsupport.apple.com/) ) or Google ( [https://support.google.com/googleplay/](https://support.google.com/googleplay/) ).
 
-5.4. Both parties may cancel a subscription with a notice period of 24 hours before the expiry of the respective billing period. Please note that for some countries and regions, special cancellation policies may apply that grant you the right to terminate your Subscription before the end of the current billing period and/or allow you to claim a refund. You will find all relevant information on the support pages of Apple ( [https://getsupport.apple.com/](https://getsupport.apple.com/) ) or Google ( [https://support.google.com/googleplay/](https://support.google.com/googleplay/) ).
+5.4. The user account remains unaffected by the cancellation of the subscription. The user can continue to use his/her user account following cancellation without the additional features included in the subscription.
 
-5.5. The user account remains unaffected by the cancellation of the subscription. The user can continue to use his/her user account following cancellation without the additional features included in the subscription.
+5.5. Cancellation should be carried out in the Apple App Store for a Subscription which has been purchased through this platform, since LOVOO is technically restricted in carrying out reversal charges/cancellation of these purchases.
 
-5.6. Cancellation should be carried out in the Apple App Store for a Subscription which has been purchased through this platform, since LOVOO is technically restricted in carrying out reversal charges/cancellation of these purchases.
+5.6. Subscriptions concluded via other payment providers can be canceled via the respective provider and in text form (e.g. email) or in writing (e.g. by letter) to LOVOO. In case of cancellation, the user must provide the order or transaction number for which the subscription is active, otherwise an assignment to the user account is not possible. You will receive the order or transaction number after the purchase in a confirmation e-mail from your chosen payment provider. You can also find it in the account of your payment provider.
 
-5.7. Subscriptions concluded via other payment providers can be canceled via the respective provider and in text form (e.g. email) or in writing (e.g. by letter) to LOVOO. In case of cancellation, the user must provide the order or transaction number for which the subscription is active, otherwise an assignment to the user account is not possible. You will receive the order or transaction number after the purchase in a confirmation e-mail from your chosen payment provider. You can also find it in the account of your payment provider.
+5.7. LOVOO can terminate a subscription extraordinarily on important grounds without observing a notice period. In particular, important grounds are the initiation of insolvency proceedings relating to the assets of the user or rejection of such due to non-existing assets, a serious infringement of the Terms of Use, repeated infringement of the Terms of Use and the use of the user account for illegal activity.
 
-5.8. LOVOO can terminate a subscription extraordinarily on important grounds without observing a notice period. In particular, important grounds are the initiation of insolvency proceedings relating to the assets of the user or rejection of such due to non-existing assets, a serious infringement of the Terms of Use, repeated infringement of the Terms of Use and the use of the user account for illegal activity.
-
-5.9. Should LOVOO terminate a subscription on important grounds for which the user is responsible, the user must compensate for any losses.
+5.8. Should LOVOO terminate a subscription on important grounds for which the user is responsible, the user must compensate for any losses.
 
 6 Virtual goods
 ---------------
