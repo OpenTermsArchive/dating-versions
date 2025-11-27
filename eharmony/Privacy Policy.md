@@ -3,7 +3,7 @@ Privacy Policy
 
 [Print or download as PDF file](https://www.eharmony.co.uk/legal/privacy-policy/)
 
-Version: July 17th 2024
+Version: November 27th 2025
 
 Thank you for using eharmony!
 
@@ -93,6 +93,10 @@ Please be aware that we have no control over the type and amount of information 
 You may dissociate your eharmony account from your Apple-ID at any time in your profile on our website. In this case, you will need to **establish alternative access data, as explained above**.
 
 For more information about the types of information collected by Apple and how Apple uses your information, as well as about your rights and your ability to protect your data, please see [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+
+**Biometric Information Collected with Your Consent for Limited Purposes.**
+
+We do not generally collect biometric information from users. However, in certain circumstances, we may ask you to consent to our processing biometric information and identifiers to fight fraudulent accounts (including bots) and other misuse of our Services, age estimation and verification purposes and profile verification purposes. Further details are provided in our Biometric Data Specific Notice which will be provided before you consent.
 
 **Data required in connetion with a Basic Membership**
 
@@ -280,7 +284,7 @@ eharmony processes the personal data of its users for the following purposes. Th
     * Sending emails and/or push messages regarding partner suggestions or other contractually relevant information.
 * (The legal basis of processing is contractual necessity, i.e. to provide you with the services you have asked for from eharmony. In some cases, the legal basis is your consent.).
 * For user experience testing (so-called A/B testing). (The legal basis is eharmony’s legitimate interest in improving the user-friendliness and enhancing the attractiveness of our website.)
-* If applicable, upstream anonymization of data records for training purposes of our artificial intelligence systems (Art. 6 (4) GDPR applies here.)
+* If applicable, upstream anonymization of data records for training purposes of our artificial intelligence systems (Art. 6 (4) UK GDPR applies here.)
 * To provide a login via the eharmony platform, Google login, Facebook login or Apple login. (The legal basis of processing is contractual necessity.)
 * For the prevention of and defence against abuse. eharmony automatically collects, processes and uses personal data and geodata we collect during your registration and the completion of the eharmony compatibility quiz and/or your eharmony profile, to check for any evidence of the misuse of the platform. This information is stored in a database and compared against empirical values and information. In addition, Customer Care representatives perform profile checks to check members’ profiles that have been reported by other members through the function “suspicious profile?” or as having breached our [General Terms and Conditions](https://www.eharmony.co.uk/termsandconditions/). Furthermore, as mentioned above, if you have provided your mobile phone number, eharmony may use this information to carry out an identity check (SMS verification). (The legal basis for these activities is the legitimate interests of eharmony and our eharmony members, to ensure that the eharmony Service is not used in a way that is in breach of our [General Terms and Conditions](https://www.eharmony.co.uk/termsandconditions/) and/or the law. In doing so, we also comply with our legal obligation regarding data security to guarantee system security and to detect and trace unauthorised access attempts or accesses.)
 * For purposes of data security (in particular, in accordance with our obligations under the UK GDPR). (We rely on the legal bases of our and our members’ legitimate interest (to ensure data is securely held and used and the eharmony service is not misused for contractual and / or illegal actions) and our legal obligation (to ensure system security and the detection and tracking of unauthorised access attempts or accesses)).
@@ -298,10 +302,14 @@ eharmony processes the personal data of its users for the following purposes. Th
 
 You will find the processing purposes and legal basis for the processing of personal data regarding the use of “cookies” and other tracking technologies when using eharmony in our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/).
 
-### Legal basis for the processing of personal data
+### **Legal basis for the processing of personal data**
+
+Our data processing activities are carried out in accordance with the UK GDPR (as retained in UK law through Section 3 of the European Union (Withdrawal) Act 2018 and hereinafter referred to as “UK GDPR”), as well as other applicable UK data protection legislation, including the Data (Use and Access) Act 2025.
 
 * Where we obtain your consent as our lawful basis of processing, our legal basis is point (a) of Article 6(1) of the UK General Data Protection Regulation (UK GDPR).
 * Where the processing of special categories of data according to Article 9(1) UK GDPR is required, our legal basis is point (a) of Article 9(2) UK GDPR – your consent.
+* With respect to the processing of biometric data in general, eHarmony relies on your explicit consent (Art. 6 (1) (a), Art. 7 UK GDPR)
+* With respect to the processing of biometric data used to uniquely identify a natural person in the course of age verification, eHarmony relies on your explicit consent (Art. 6 (1) (a), Art. 7, Art. 9 (2) (a) UK GDPR.
 * When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis is point (b) of Article 6(1) UK GDPR. This also applies to any processing that is required to carry out any pre-contractual actions.
 * When the processing of your personal data is required to fulfil a legal obligation, our legal basis is point (c) of Article 6(1) UK GDPR.
 * If we store information in your terminal equipment or access such information that is already stored in your terminal equipment, PECR Reg. 6(4)(b) serves as the legal basis.
@@ -313,7 +321,7 @@ You will find the processing purposes and legal basis for the processing of pers
 
 When the legal basis for processing is your consent, you are entitled to withdraw your consent at any time. However, this withdrawal will not affect the lawfulness of any processing carried out on the basis of your consent before your withdrawal. If the legal basis is a legitimate interest, you are also entitled, in general, to object to the processing of your personal data, at any time, for reasons arising from your specific situation. Please see the section [“Rights of the data subject at a glance”](#pp06) below.
 
-### Transfer of data to third parties; service provider
+### **Transfer of data to third parties; service provider**
 
 eharmony generally only discloses your personal data to third parties:
 
@@ -333,7 +341,7 @@ In the following cases, personal data may also be transferred to third parties:
 * where we are obliged to do so by law, including at the request of a regulator or an enforceable official order (e.g., a court order);
 * in connection with legal disputes, debt collections or audits. In these cases, we would share information with the courts and our advisers (e.g., lawyers, chartered accountants or tax auditors);
 * relevant investigating authorities in connection with possible criminal offences (e.g., the police);
-* in the event of the sale of the business, we would transfer personal data to  the.
+* in the event of the sale of the business, we would transfer personal data to the buyer.
 * If we have your consent, we will share success stories with media outlets and on social media (such as Instagram, Facebook, Twitter and YouTube).
 
 Insofar as data is regularly transferred to other third parties, this is explained in this privacy policy and/or our [cookies & tracking policy](https://www.eharmony.co.uk/cookiesandtracking/). If the transfer takes place on the basis of consent, the explanation may also be provided when obtaining consent.
