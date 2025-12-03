@@ -21,19 +21,19 @@ Dernière mise à jour : 02.09.2025
 
 **Contenu**
 
-* [1\. Objet du contrat](https://www.parship.fr/termsandconditions/#tc01)
-* [2\. Accès/Conclusion du contrat](https://www.parship.fr/termsandconditions/#tc02)
-* [3\. Services gratuits et payants](https://www.parship.fr/termsandconditions/#tc03)
-* [4\. Politique de protection des données, sécurité lors de l’utilisation, messages indésirables non sollicités](https://www.parship.fr/termsandconditions/#tc04)
-* [5\. Résiliation/Renouvellement](https://www.parship.fr/termsandconditions/#tc05)
-* [6\. Responsabilité de Parship](https://www.parship.fr/termsandconditions/#tc06)
-* [7\. Responsabilité et devoirs du client](https://www.parship.fr/termsandconditions/#tc07)
-* [8\. Communication](https://www.parship.fr/termsandconditions/#tc08)
-* [9\. Droits d’usage et droits d’auteur](https://www.parship.fr/termsandconditions/#tc09)
-* [10\. Droit applicable](https://www.parship.fr/termsandconditions/#tc10)
-* [11\. Droit de rétractation](https://www.parship.fr/termsandconditions/#tc11)
-* [12\. Divers](https://www.parship.fr/termsandconditions/#tc12)
-* [Modèle de formulaire de rétractation](https://www.parship.fr/termsandconditions/#widerruf)
+1. [Objet du contrat](https://www.parship.fr/termsandconditions/#tc01)
+2. [Accès/Conclusion du contrat](https://www.parship.fr/termsandconditions/#tc02)
+3. [Services gratuits et payants](https://www.parship.fr/termsandconditions/#tc03)
+4. [Politique de protection des données, sécurité lors de l’utilisation, messages indésirables non sollicités](https://www.parship.fr/termsandconditions/#tc04)
+5. [Résiliation/Renouvellement](https://www.parship.fr/termsandconditions/#tc05)
+6. [Responsabilité de Parship](https://www.parship.fr/termsandconditions/#tc06)
+7. [Responsabilité et devoirs du client](https://www.parship.fr/termsandconditions/#tc07)
+8. [Communication](https://www.parship.fr/termsandconditions/#tc08)
+9. [Droits d’usage et droits d’auteur](https://www.parship.fr/termsandconditions/#tc09)
+10. [Droit applicable](https://www.parship.fr/termsandconditions/#tc10)
+11. [Droit de rétractation](https://www.parship.fr/termsandconditions/#tc11)
+12. [Divers](https://www.parship.fr/termsandconditions/#tc12)
+13. [Modèle de formulaire de rétractation](https://www.parship.fr/termsandconditions/#widerruf)
 
 1 Objet du contrat
 ------------------
