@@ -239,3 +239,5 @@ Notre Délégué à la protection des données est Me. Aurélien Aucher.
 Pour toute question relative aux présentes ou pour toute demande concernant vos données personnelles, vous pouvez nous contacter en adressant un email à dpo@adopte.app.
 
 Nous vous invitons également à consulter notre FAQ, nos Conditions générales d’utilisation, notre Charte d’utilisation des cookies et technologies similaires, nos Règles de prudence, ainsi que tout document complémentaire pour toute précision concernant Adopte et les Services proposés.
+
+[Télécharger](https://api.adopte.app/api/v4/terms/pdf/?filter%5Btype_id%5D=4)
