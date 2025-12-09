@@ -3,471 +3,912 @@ Politique de protection des données pour l’utilisation de Parship – France
 
 [Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/privacy-policy/)
 
-Dernière mise à jour : 30.12.2024
+Version: 09.12.2025
 
-Merci d’utiliser Parship ! Vous trouverez ici des informations concernant les données à caractère personnel recueillies par Parship, la façon dont nous traitons ces données et les options dont vous disposez en tant qu’utilisateur.
+Merci d’utiliser Parship ! Parship protège votre vie privée. Cette information sur la protection des données décrit comment Parship collecte, utilise, divulgue et traite d’une autre manière vos données personnelles, ainsi que les droits et les choix dont vous disposez en ce qui concerne vos données personnelles.
 
-Pour plus d’informations sur le traitement des données en relation avec les cookies et autres technologies de suivi lors de l’utilisation du site web et de l’application Parship, veuillez consulter nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
+Pour plus d’informations sur les options dont vous disposez en matière de protection de vos données personnelles, veuillez consulter [la section 7. Vos options de confidentialité](https://www.parship.fr/privacypolicy/#pp07) et [la section 13. Informations supplémentaires sur la protection des données pour certaines juridictions](https://www.parship.fr/privacypolicy/#pp13), qui contient des informations supplémentaires sur les droits en matière de protection des données des résidents de certains pays.
+
+Si vous résidez dans l’UE/l’Espace économique européen (EEE), veuillez consulter la section [13.A. Informations supplémentaires pour les résidents de l’UE/EEE](https://www.parship.fr/privacypolicy/#pp14). Vous trouverez ici des informations sur vos droits dans le cadre du règlement général sur la protection des données (« RGPD »).
+
+Si vous résidez au Royaume-Uni, veuillez consulter la section [13.B. Informations supplémentaires pour les résidents du Royaume-Uni](https://www.parship.fr/privacypolicy/#pp15). Vous trouverez ici des informations sur vos droits en vertu du règlement général sur la protection des données, qui a été intégré dans le droit du Royaume-Uni conformément à la section 3 de la loi britannique sur l’Union européenne (Withdrawal) de 2018 (« UK GDPR »).
+
+Si vous résidez en Suisse, veuillez consulter la section [13.C. Informations supplémentaires pour les personnes résidant en Suisse](https://www.parship.fr/privacypolicy/#pp16). Vous trouverez ici des informations sur vos droits en vertu de la nouvelle loi suisse sur la protection des données (« nLPD »).
+
+L’utilisation de nos services est soumise à nos [Conditions générales](https://www.parship.fr/termsandconditions/), y compris les dispositions applicables en matière de limitation des dommages et de règlement des litiges.
+
+Service responsable et contact
+------------------------------
+
+Sauf indication contraire dans les présentes informations sur la protection des données, le responsable du traitement des données est PE Digital GmbH (ci-après « Parship » ou « nous » ou « notre »).
+
+Si vous souhaitez **entrer en contact** avec nous, vous pouvez nous joindre comme suit :
+
+PE Digital GmbH  
+Speersort 10  
+20095 Hambourg (Allemagne)
+
+[datenschutz@parship.de](mailto:datenschutz@parship.de)
+
+Vous pouvez contacter notre **déléguée à la protection des données** à l’adresse suivante :
+
+[datenschutz@parship.de](mailto:datenschutz@parship.de)
+
+Pour **des renseignements et des suggestions sur le thème de la protection des données**, nous ou notre responsable de la protection des données sommes à votre disposition.
+
+**Représentant au Royaume-Uni (UK)**
+
+Les informations sur notre représentant conformément à l’Art. 27 UK GDPR se trouvent dans la section 13.B – Informations supplémentaires pour les résidents du Royaume-Uni.
+
+**Représentant en Suisse (CH)**.
+
+Vous trouverez les informations concernant notre représentant conformément à l’art. 14 LPD dans la section 13.C – Informations supplémentaires pour les résidents suisses.
 
 **Table des matières**
 
-* [Contact / Organisme responsable](https://www.parship.fr/privacypolicy/#pp07)
-* [Collecte, traitement et utilisation des données à caractère personnel](https://www.parship.fr/privacypolicy/#pp01)
-* [Finalités du traitement](https://www.parship.fr/privacypolicy/#pp02)
-* [Base juridique pour le traitement de données à caractère personnel](https://www.parship.fr/privacypolicy/#pp03)
-* [Transfert des données à des tiers ; Prestataire de services](https://www.parship.fr/privacypolicy/#pp04)
-* [Comment protégeons-nous vos données ?](https://www.parship.fr/privacypolicy/#pp10)
-* [Durée du stockage; Délais de conservation](https://www.parship.fr/privacypolicy/#pp05)
-* [Êtes-vous obligé(e) de nous transmettre des données à caractère personnel ?](https://www.parship.fr/privacypolicy/#pp09)
-* [Vue d’Ensemble des droits des personnes concernées](https://www.parship.fr/privacypolicy/#pp06)
-* [Plugins sociaux](https://www.parship.fr/privacypolicy/#pp20)
-* [Cookies et autres technologies de suivi en ligne](https://www.parship.fr/privacypolicy/#pp08)
+* [1\. Portée](#pp01)
+* [2\. Collecte de données à caractère personnel](#pp02).
+* [3\. Finalités de la collecte et du traitement](#pp03).
+* [4\. divulgation de données personnelles](#pp04)
+* [5\. Transfert de données à caractère personnel vers des pays en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEE/UK/CH](#pp05).
+* [6\. Cookies, ciblage et analyses](#pp06).
+* [7\. vos options de confidentialité](#pp07)
+* [8\. Durée de conservation et obligations de conservation](#pp08)
+* [9\. Liens externes et fonctions de tiers](#pp09)
+* [10\. la sécurité](#pp10).
+* [11\. Protection de la vie privée des enfants et des adolescents](#pp11)
+* [12\. modifications apportées à la présente déclaration de confidentialité](#pp12).
+* [13\. informations supplémentaires sur la protection des données pour certaines juridictions](#pp13).
+    * [A. Espace économique européen (EEE)](#pp14)
+    * [B. Royaume-Uni (UK GDPR ainsi que Data (Use and Access) Act 2025)](#pp15)
+    * [C. Suisse (nLPD)](#pp16)
 
-Contact / Organisme responsable
+1\. Portée
+----------
+
+Sauf indication contraire ci-dessous, le présent avis de confidentialité s’applique aux données personnelles que Parship collecte et traite concernant les personnes suivantes : Les visiteurs de notre site web sur lequel cet avis de confidentialité est publié, y compris tous nos sites web qui sont liés à cet avis de confidentialité ou qui le publient (les « **sites web**« ) ; les personnes qui téléchargent et utilisent notre application mobile (« **applications mobiles**« ) ; Les personnes qui s’inscrivent ou participent à nos événements, enquêtes, études, promotions et concours organisés par nous ; et les personnes qui communiquent ou interagissent ou se connectent de toute autre manière avec nous ou avec les services disponibles via nos sites, applications mobiles ou autres services en ligne (collectivement, les  » **Services** « ).
+
+2\. Collecte de données à caractère personnel
+---------------------------------------------
+
+Comme décrit ci-dessous, nous pouvons collecter des données personnelles directement auprès de vous, de tiers et automatiquement par votre utilisation de nos services.
+
+**Données personnelles collectées directement auprès de vous**. Bien que les informations personnelles que nous collectons varient en fonction de votre utilisation de nos services et de notre interaction avec vous, nous pouvons généralement collecter les catégories suivantes d’informations personnelles directement auprès de vous :
+
+* **Contacts**. Lorsque vous nous contactez, par exemple lorsque vous nous envoyez un message ou que vous vous inscrivez pour en savoir plus sur nos services, nous pouvons recueillir votre nom, votre adresse électronique, ou d’autres identifiants similaires, ainsi que votre message, la nature de votre demande et toute autre information que vous fournissez.
+* **Informations sur le compte et le profil**. Lorsque vous vous inscrivez ou gérez votre profil, nous collectons certaines informations personnelles que vous nous communiquez. Il s’agit par exemple
+    * Prénom et nom de famille
+    * Propre sexe et sexe recherché (orientation sexuelle)
+    * Adresse e-mail et mot de passe que vous avez choisi
+    * Lieu de résidence, y compris le code postal
+    * Taille
+    * État civil
+    * Nombre d’enfants
+    * Diplôme de fin d’études
+    * Profession
+    * Revenu
+    * Votre photo de profil ainsi que d’autres photos
+    * Votre adresse de facturation
+
+En outre, cela inclut toutes les autres informations que vous nous fournissez dans le cadre de la création ou de l’utilisation de votre profil ou que vous nous transmettez d’une autre manière via votre profil.
+
+* **Achats, paiements et remboursements**. Si vous effectuez un achat ou un paiement via nos services (par exemple, si vous achetez un abonnement premium), nous collectons certaines informations nécessaires à cet effet. Il s’agit par exemple du mode de paiement que vous avez choisi, des détails du paiement, de l’adresse de facturation et des informations relatives à l’achat lui-même.
+* **Communication et interaction**. Lorsque vous entrez en contact avec nous ou avec d’autres utilisateurs de Parship – par exemple par e-mail, par téléphone, par le biais de nos canaux de médias sociaux ou de nos sites Internet – nous collectons et enregistrons des informations pertinentes. Cela s’applique également lorsque vous vous inscrivez à notre liste de diffusion, remplissez des formulaires, donnez des évaluations ou des commentaires ou publiez des contributions dans des champs de commentaires, des blogs ou des forums accessibles au public, qui sont exploités par Parship ou en relation avec Parship. Ce faisant, nous pouvons collecter et stocker vos coordonnées, vos messages et contributions ainsi que nos réponses à ceux-ci.
+* **Informations à des fins publicitaires**. Si vous acceptez de recevoir des communications marketing de notre part, nous pouvons recueillir votre nom, votre adresse électronique, votre numéro de téléphone, vos préférences et, le cas échéant, des informations sur votre compte et votre profil, y compris les services et fonctionnalités que vous utilisez. Si vous participez à des activités, offres, programmes, promotions ou concours particuliers que nous proposons, nous pouvons également collecter certaines informations de contact supplémentaires, votre âge et d’autres informations requises par la loi. Si vous gagnez dans le cadre d’une promotion ou d’un concours, nous pouvons également être amenés à recueillir certaines informations fiscales et/ou des renonciations et des autorisations, en fonction du gain.
+* **Réponses et feedback**. Lorsque vous participez à des enquêtes, des questionnaires, des études ou des initiatives similaires, que ce soit de manière anonyme ou en fournissant des informations personnelles, par exemple pour évaluer la satisfaction des utilisateurs – nous recueillons vos réponses, vos commentaires et toute autre information que vous nous fournissez dans le cadre de cette participation.
+* **Préférences et autres souhaits**. Nous collectons également des informations sur vos préférences personnelles – par exemple, la manière dont vous souhaitez communiquer avec nous, la manière dont vous utilisez nos services ou les souhaits et demandes que vous nous faites lorsque vous les utilisez.
+
+En général, vous n’êtes pas obligé de nous communiquer vos données personnelles. Toutefois, l’utilisation de certains services ou aspects de nos services peut nécessiter la communication de données personnelles, par exemple l’inscription à un compte Parship. Si tel est le cas, nous vous en informerons. Si vous ne souhaitez pas nous fournir les informations nécessaires à cet effet, vous ne pourrez malheureusement pas utiliser le service en question.
+
+**Données personnelles collectées par des tiers**. Nous pouvons également recevoir des données personnelles de la part de fournisseurs tiers – en particulier les fournisseurs de magasins d’applications en relation avec les achats -, d’autres utilisateurs de Parship, de fournisseurs de services d’analyse de données et de marketing, de systèmes d’exploitation et de plates-formes de médias sociaux, en particulier lorsque vous vous inscrivez à Parship par leur intermédiaire. En outre, nous pouvons collecter les informations suivantes à partir de ces sources externes :
+
+* **Informations sur l’inscription aux médias sociaux et aux plateformes**. Lorsque vous utilisez Parship, vous pouvez choisir de partager des informations ou du contenu, de vous inscrire ou de vous connecter via une plate-forme de médias sociaux, des réseaux sociaux ou d’autres services tiers. Si vous vous connectez à Parship via un compte de média social ou un autre service lié, nous pouvons recevoir certaines données personnelles que vous y avez déposées. Il peut s’agir par exemple de votre nom, de votre adresse e-mail, du mot de passe que vous utilisez sur ce service, de votre identifiant, de votre photo de profil, de votre liste d’amis et d’autres informations accessibles au public. Veuillez vérifier les paramètres de confidentialité de la plateforme de médias sociaux concernée ou du service lié pour comprendre comment vos données y sont utilisées, partagées ou traitées.
+* **Informations de recommandation**. Nous vous offrons éventuellement la possibilité d’inviter des amis ou de parrainer d’autres utilisateurs pour qu’ils accèdent à nos services ou les utilisent. Ce faisant, nous pouvons collecter et recevoir certaines données personnelles vous concernant, y compris de la part d’autres utilisateurs et clients actuels ou futurs de Parship qui participent de manière similaire à ces activités.
+
+**Données personnelles collectées automatiquement**. Nous et nos partenaires (fournisseurs tiers) pouvons collecter automatiquement des données personnelles lorsque vous utilisez Parship. Cela se fait entre autres par l’utilisation de cookies, de pixel tags et de technologies similaires. Les données personnelles collectées automatiquement peuvent inclure, entre autres, les informations suivantes :
+
+* **Informations sur l’appareil et la navigation**. Lorsque vous utilisez Parship, nous pouvons collecter automatiquement certaines informations sur votre appareil et votre comportement d’utilisation. Il s’agit par exemple de
+    * le type de navigateur utilisé
+    * le nom de domaine
+    * les pages web visitées et leur temps de consultation
+    * Date et heure de l’accès
+    * le système d’exploitation utilisé et la langue choisie
+    * le type d’appareil et un identifiant unique pour l’appareil
+    * le nom du fournisseur d’accès à Internet
+    * les pages web précédemment visitées (référentes) et les pages web consultées ensuite (sortantes)
+    * les données dites de « clickstream », c’est-à-dire vos chemins de clics au sein de notre offre
+    * ainsi que d’autres informations similaires sur l’appareil et le navigateur
+* **Activité et utilisation**. Nous collectons également des informations sur votre activité lors de l’utilisation de Parship. Cela comprend, entre autres, les informations suivantes
+    * liens cliqués
+    * recherches effectuées
+    * fonctions utilisées
+    * contenu consulté
+    * la durée de votre utilisation
+    * Votre interaction avec nous et avec les autres utilisateurs de Parship
+    * ainsi que d’autres données similaires concernant votre activité et votre utilisation
+* **Informations sur la localisation**. Nous pouvons collecter ou déduire des informations générales sur votre localisation, par exemple en analysant votre adresse IP. Ces informations nous permettent de déterminer l’emplacement géographique approximatif de votre appareil (par ex. pays, région ou ville). En outre, vous indiquez dans votre profil votre lieu de résidence, qui fait également partie des informations de localisation.
+
+Nous utilisons notamment les données de localisation pour fournir nos services en fonction de la localisation, pour personnaliser les contenus, pour garantir le respect des exigences légales ou pour détecter et empêcher les fraudes ou les abus.
+
+Il ne s’agit pas d’une localisation précise de votre appareil (par ex. via GPS), mais uniquement d’une détermination approximative de sa position sur la base de données techniques.
+
+Pour plus d’informations sur notre utilisation des cookies et d’autres technologies similaires, veuillez consulter la section 6. Cookies, ciblage et analyse ci-dessous.
+
+3\. Finalités de la collecte et du traitement
+---------------------------------------------
+
+Nous pouvons collecter, utiliser, partager et traiter d’une autre manière les catégories de données à caractère personnel que nous recueillons aux fins décrites ci-dessous :
+
+**Fourniture de notre service et assistance**.
+
+Nous traitons vos données personnelles afin de vous fournir Parship et de permettre nos activités quotidiennes. Cela comprend notamment
+
+* la gestion de votre compte d’utilisateur,
+* la communication avec notre service clientèle en ce qui concerne l’utilisation de Parship, ce qui comprend entre autres le traitement de vos demandes, la satisfaction de vos souhaits et le support technique.
+* le traitement des paiements
+* autres tâches de support et d’administration
+
+Dans le cadre de ces objectifs, il peut être nécessaire que certaines données personnelles – telles que l’identifiant de votre profil, votre nom et certaines données de contact – soient visibles pour les autres utilisateurs. La visibilité dépend des paramètres de confidentialité que vous avez choisis.
+
+À ces fins, Parship s’appuie sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b), du règlement général sur la protection des données (RGPD), qui a été transposé dans le droit britannique par la section 3 de la loi britannique de 2018 sur le retrait de l’Union européenne (Withdrawal) (collectivement, le  » RGPD « ) et l’article 31, paragraphe 2, point b), de la nouvelle loi fédérale suisse sur la protection des données (nLPD).
+
+**Lieu**
+
+En ce qui concerne les données de localisation, Parship s’appuie sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b du RGPD et à l’article 31, paragraphe 2, point b de la nLPD.
+
+**Orientation sexuelle**
+
+En ce qui concerne le traitement des données à caractère personnel relatives à l’orientation sexuelle en tant que données sensibles conformément à l’article 9, paragraphe 1 du RGPD, Parship s’appuie sur votre **consentement explicite** (article 6, paragraphe 1, point a), article 7, article 9, paragraphe 2, point a) du RGPD).
+
+**Analyse et amélioration de la qualité**.
+
+Nous traitons également les données personnelles afin de mieux comprendre comment les utilisateurs accèdent à Parship et l’utilisent. Cela sert entre autres aux objectifs suivants :
+
+* la réalisation d’analyses sur l’utilisation de nos pages web ou de notre application,
+* l’évaluation et l’amélioration continue de nos sites web ainsi que de notre application,
+* le développement et l’optimisation de nos produits,
+* la réalisation de contrôles de qualité internes ainsi que,
+* À des fins de formation au sein de notre entreprise.
+
+À ces fins, nous nous fondons sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31 de la nLPD. Notre intérêt légitime est de mieux comprendre le fonctionnement et l’utilisation de nos services dans une perspective commerciale, afin de les développer dans l’intérêt de nos utilisateurs.
+
+**Communication**
+
+Nous traitons vos données personnelles pour
+
+* Répondre à vos demandes,
+* Vous fournir les informations et le matériel que vous souhaitez concernant nos services et/ou nos offres
+* et de vous envoyer des messages administratifs, tels que des informations sur nos services ou des modifications de nos conditions générales ou de notre politique de confidentialité.
+
+Nous nous appuyons sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b), du RGPD et à l’article 31, paragraphe 2, du RGPD, dans la mesure où la communication est liée à une relation contractuelle existante ou en cours avec vous.
+
+Dans la mesure où **il n’existe pas de relation contractuelle**, le traitement est effectué sur la base de notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD. Notre intérêt légitime consiste à traiter efficacement les demandes des utilisateurs et à garantir une qualité de service élevée.
+
+**Adaptation et personnalisation**
+
+Nous traitons vos données personnelles afin de personnaliser le contenu que nous vous fournissons, que ce soit dans le cadre de nos services ou de la communication avec vous. Cela comprend, entre autres, les :
+
+* l’adaptation des contenus en fonction de la localisation, celle-ci étant déterminée par le lieu de résidence que vous avez indiqué ainsi que par votre adresse IP,
+* ainsi que la personnalisation de votre expérience utilisateur et de nos offres.
+
+Nous nous appuyons pour ce traitement sur la base juridique de l’**exécution du contrat** conformément à l’art. 6, al. 1, let. b du RGPD et à l’art. 31, al. 2, let. b de la nLPD.
+
+Nous ne diffusons pas de publicité personnalisée de tiers dans le cadre de nos services.
+
+**Utilisation des médias sociaux et autres plateformes de communication**.
+
+Nous traitons les données à caractère personnel pour vous permettre de
+
+* Partager des contenus et des informations avec d’autres
+* ainsi que de s’inscrire et/ou de se connecter à Parship via des plateformes de médias sociaux ou d’autres services intégrés de fournisseurs tiers.
+
+Dans la mesure où le traitement pour l’enregistrement et/ou la connexion est effectué par un fournisseur tiers, nous nous appuyons sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b) du RGPD et à l’article 31, paragraphe 2, point b) de la nDSG.
+
+Dans tous les **autres cas**, le traitement est effectué sur la base de **nos intérêts légitimes** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD. Notre intérêt légitime est de permettre à nos utilisateurs d’utiliser volontairement des fonctions de communication avec des fournisseurs tiers, notamment pour se connecter ou échanger avec des plateformes de médias sociaux ou d’autres services intégrés.
+
+**Marketing et publicité**
+
+Nous traitons vos données personnelles à des fins de marketing, de publicité et de promotion des ventes. Cela comprend entre autres
+
+* l’envoi d’informations publicitaires sur nos services,
+* Bulletin d’information,
+* Informations sur les offres, les réductions et les nouvelles fonctionnalités,
+* ainsi que d’autres informations que vous avez expressément demandées.
+
+Pour l’envoi de telles informations publicitaires, nous nous appuyons sur la base juridique de votre **consentement** conformément à l’art. 6, al. 1, let. et art. 7 du RGPD ainsi qu’à l’art. 31, al. 1 de la nLPD.
+
+**Publicité directe pour vos propres produits**.
+
+Nous traitons également vos données personnelles à des fins de publicité directe pour nos propres produits et services. Cela comprend notamment
+
+* l’envoi d’e-mails publicitaires et/ou de messages push et/ou de messages in-app,
+* la réalisation d’enquêtes auprès des utilisateurs,
+* ainsi que la mise à disposition de contenus individualisés, par exemple des guides personnalisés.
+
+Ces mesures de publicité directe se rapportent exclusivement aux produits et services de Parship.
+
+Le traitement est effectué sur la base de notre **intérêt légitime** à vous proposer des recommandations de produits pertinentes, similaires à vos habitudes d’achat antérieures, sans vous importuner avec de la publicité non pertinente, conformément à l’art. 6, al. 1, let. f du RGPD en relation avec l’art. 22 de la directive européenne 2002/58/CE (directive ePrivacy) et l’art. 31, al. 1 de la nLPD.
+
+**Enquêtes d’opinion et sondages**.
+
+Nous traitons vos données personnelles pour réaliser des enquêtes et des questionnaires – par exemple à des fins d’étude de marché, de mesure de la satisfaction des utilisateurs ou à des fins d’analyse comparables.
+
+**Enquêtes d’opinion et sondages par e-mail** : Lorsque nous vous invitons à participer à une enquête par e-mail, nous le faisons sur la base d’un **intérêt légitime**, conformément à l’article 6, paragraphe 1, point f) du RGPD, en liaison avec l’article 22 de la directive européenne 2002/58/CE (directive ePrivacy) et l’article 31, paragraphe 1 de la nLPD. Notre intérêt est de vous proposer des services similaires et d’améliorer l’expérience utilisateur. Vous pouvez vous opposer à tout moment à une telle utilisation (par ex. via le lien de désinscription dans l’e-mail).
+
+**Etudes d’opinion et sondages dans le cadre de nos services :** Si nous vous invitons à participer à un sondage directement dans le cadre de notre application ou de notre plateforme web, nous le faisons sur la base de votre **consentement** conformément à l’art. 6, al. 1, let. a et à l’art. 7 du RGPD ainsi qu’à l’art. 31, al. 1 de la nLPD.
+
+**Acquisition de connaissances et enrichissement des données**.
+
+Nous traitons également les données personnelles à des fins d’analyse, en combinant les informations que nous collectons via notre service Parship avec d’autres données – aussi bien nos propres données que celles de tiers, collectées dans d’autres contextes. Cela nous permet notamment de mieux comprendre nos utilisateurs et leurs intérêts.
+
+Par exemple, nous pouvons combiner des informations démographiques disponibles dans le cadre d’études de marché ou via des fournisseurs tiers avec les données que nous collectons. En règle générale, ces informations combinées ne permettent pas d’identifier directement les personnes concernées.
+
+Pour ce type de traitement des données, nous nous appuyons sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f du RGPD et à l’article 31, paragraphe 1 de la nLPD. L’intérêt légitime de Parship réside notamment dans l’analyse commerciale et l’optimisation de Parship, afin de mieux comprendre comment notre service est utilisé et comment nous pouvons développer notre offre de manière stratégique.
+
+**Accès et stockage d’informations sur le terminal de l’utilisateur**.
+
+Nous pouvons enregistrer des informations (par exemple des cookies ou d’autres technologies de suivi) sur votre terminal ou accéder à des informations déjà enregistrées. Cela se fait notamment pour soutenir des fonctions techniques, pour analyser l’utilisation, pour optimiser et évaluer nos mesures de marketing ou pour personnaliser nos services.
+
+Dans la mesure où cet accès ou ce stockage **n’est pas absolument nécessaire** pour mettre Parship à disposition, il ne se fait que sur la base de votre **consentement** conformément à l’art. Art. 5 al. 3 de la directive européenne 2002/58/CE (directive ePrivacy) ainsi que le règlement 6.4 du PECR (Privacy and Electronic Communications Regulations).
+
+Vous avez à tout moment la possibilité de gérer ou de révoquer votre consentement via notre bannière de cookies ou notre plateforme de gestion du consentement (CMP).
+
+**Sécurité, prévention des abus et protection des droits**.
+
+Nous traitons vos données personnelles pour
+
+* protéger la sécurité et l’intégrité de Parship, de nos systèmes et de nos activités commerciales
+* détecter, prévenir ou poursuivre les accès non autorisés, les activités frauduleuses et autres abus de Parship
+* d’enquêter sur d’éventuelles violations de nos Conditions générales ou de nos Community Guidelines,
+* d’identifier ou de signaler des violations potentiellement illégales
+* ainsi que de préserver les droits et les intérêts de Parship, de nos utilisateurs, de nos parties prenantes et de nos investisseurs.
+
+Ce traitement est effectué sur la base de notre **intérêt légitime** conformément à l’art. 6, al. 1, let. f du RGPD et à l’art. 31, al. 1 de la nLPD. L’intérêt légitime de Parship consiste notamment en
+
+* dans la protection contre les comportements de tiers contraires au contrat et à la loi,
+* dans la sécurisation de nos systèmes et infrastructures informatiques,
+* ainsi que dans la protection des données personnelles de nos utilisateurs contre tout accès non autorisé.
+
+_Note spéciale – données relatives à l’orientation sexuelle :_
+
+Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – notamment les informations relatives à l’orientation sexuelle – le traitement s’effectue en outre sur la base de l’article 9, paragraphe 2, point f) du RGPD, car il peut être nécessaire pour **l’exercice ou la défense de droits juridiques**.
+
+**Compliance et procédures juridiques**
+
+Nous traitons vos données à caractère personnel afin de nous conformer aux obligations légales, réglementaires et administratives. Cela comprend, entre autres
+
+* le respect des obligations légales de conservation,
+* répondre aux demandes juridiques telles que les assignations à comparaître, les mandats de perquisition ou les décisions de justice,
+* la participation à des enquêtes ou à des demandes de renseignements – formelles ou informelles – émanant d’autorités chargées de l’application de la loi ou de la surveillance.
+
+La base juridique dépend de chaque cas d’application :
+
+1. **Respect d’une obligation légale**, si celle-ci découle du droit de l’Union européenne (UE) ou d’un État membre de l’UE, ainsi que du droit britannique ou du droit suisse, conformément à l’art. 6, al. 1, let. c du RGPD et à l’art. 31, al. 1 de la nLPD.
+2. **Intérêts légitimes,** dans la mesure où l’obligation est basée sur le droit d’autres pays ou sur des prescriptions internationales, conformément à l’art. 6, al. 1, let. f du RGPD et à l’art. 31, al. 1 de la nLPD. Dans ces cas, l’intérêt légitime de Parship est de se conformer correctement aux obligations légales, même si celles-ci ne proviennent pas du droit de l’UE ou du droit britannique ou suisse.
+
+_Note spéciale – données relatives à l’orientation sexuelle :_
+
+Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – notamment les informations relatives à l’orientation sexuelle – le traitement s’effectue en outre sur la base de l’article 9, paragraphe 2, point f), du RGPD, car il peut être nécessaire pour faire valoir l’exercice ou la défense de droits juridiques.
+
+**Audit, rapports et processus internes de l’entreprise**.
+
+Nous traitons des données à caractère personnel afin d’exécuter des processus internes de vérification et de contrôle. Cela comprend en particulier
+
+* Audits financiers, fiscaux et comptables,
+* des audits internes et externes,
+* Évaluations de notre activité commerciale,
+* la vérification et l’application des directives internes dans les domaines de la protection des données, de la sécurité informatique et des finances,
+* ainsi que des mesures d’évaluation des risques et de conformité aux exigences légales et réglementaires (compliance).
+
+En outre, nous utilisons les données personnelles pour tenir correctement les dossiers commerciaux et pour appliquer les politiques et procédures internes.
+
+Nous fondons le traitement des données à ces fins sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD.
+
+L’intérêt légitime est d’assurer le bon fonctionnement de l’entreprise et de vérifier régulièrement que toutes les obligations de rapport, les mécanismes de contrôle et les exigences de conformité sont respectés.
+
+**Assistance commerciale et opérationnelle générale**.
+
+Nous traitons vos données personnelles afin de soutenir les processus commerciaux et opérationnels généraux. Cela comprend notamment
+
+* l’évaluation et la réalisation de fusions, d’acquisitions en droit des sociétés, de restructurations, de procédures d’insolvabilité ou de transactions comparables,
+* Les processus de financement ainsi que la préparation et l’exécution des ventes d’entreprises,
+* la gestion de nos tâches comptables, d’audit, de conformité et juridiques,
+* ainsi que la bonne tenue des dossiers et l’organisation interne.
+
+Nous fondons ce traitement sur la base juridique de notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD.
+
+Notre intérêt légitime réside en particulier dans la préservation et l’organisation de nos activités commerciales, y compris la possibilité de fournir des informations sur les actifs et les activités de l’entreprise à des acheteurs, investisseurs ou conseillers potentiels, dans la mesure où cela est nécessaire dans le cadre de transactions correspondantes.
+
+Les **objectifs** pour lesquels nous utilisons des **cookies et des technologies de suivi similaires** – notamment en ce qui concerne l’analyse de l’utilisation de Parship – sont décrits en détail dans **la section 6 Cookies et analyses**.
+
+Si le traitement de vos données personnelles est basé sur votre **consentement**, vous avez le droit de révoquer ce **consentement** à tout moment avec effet pour l’avenir. La révocation n’a aucune influence sur la légalité du traitement qui a été effectué sur la base de votre consentement jusqu’au moment de la révocation.
+
+Si le traitement repose sur la base juridique de notre intérêt légitime, vous avez le droit, conformément à l’article 21, paragraphe 1, du RGPD, de vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données à caractère personnel.
+
+Indépendamment de cela, vous avez le droit, conformément à l’article 21, paragraphe 2, du RGPD, de vous opposer à tout moment au traitement de vos données à des fins de marketing direct – sans avoir à indiquer de raisons particulières.
+
+En outre, vous pouvez vous opposer à tout moment à l’utilisation de vos adresses électroniques à des fins publicitaires ou de conseil personnalisé, soit dès l’enregistrement, soit ultérieurement.
+
+4\. Divulgation de données à caractère personnel
+------------------------------------------------
+
+Nous pouvons transmettre les données personnelles que nous collectons aux fins décrites dans les présentes informations sur la protection des données – en particulier pour fournir Parship, traiter vos demandes ou si vous avez consenti à une telle transmission. Les destinataires peuvent notamment inclure les catégories suivantes :
+
+* **Sociétés affiliées****.** Nous partageons vos données personnelles avec des sociétés affiliées à nous.
+* **Partenaires et prestataires de services externes****.** Nous transmettons des données à caractère personnel à des partenaires et prestataires de services externes qui assument certaines fonctions et prestations en notre nom. La transmission se fait exclusivement dans le cadre de l’objectif respectif et dans le respect des directives en vigueur en matière de protection des données.
+
+Parmi ces partenaires et prestataires de services externes, on trouve notamment
+
+* Fournisseur d’infrastructures informatiques et d’hébergement de sites web,
+* Prestataire de services de paiement pour le traitement des transactions,
+* Prestataire de services dans le domaine du marketing, de la gestion de campagnes et des études de marché,
+* Fournisseur de systèmes de support client et de gestion de la relation client,
+* Fournisseur de solutions de stockage en nuage et de sécurité des données,
+* Société d’analyse de données et de reporting,
+* ainsi que des auditeurs, des consultants et des conseillers juridiques.
+
+Tous les prestataires de services auxquels il est fait appel sont tenus par contrat de ne garantir les données personnelles que dans le cadre de leur mandat et en respectant la confidentialité ainsi que la sécurité des données.
+
+* **Partenaires de marketing et d’analyse****.** Nous pouvons transmettre certaines données personnelles – notamment des informations sur les appareils ainsi que des données d’activité et d’utilisation (par ex. pages web visitées, chemins de clics ainsi que durée de la visite) – à des partenaires externes qui fournissent des prestations de marketing et d’analyse en notre nom.
+
+Ces partenaires externes nous aident par exemple à
+
+* la mise en œuvre d’actions de marketing,
+* la gestion de nos actions de marketing,
+* la mesure du succès et l’optimisation de nos mesures de marketing,
+* ainsi qu’en cas d’analyse de l’utilisation de notre site web ou de nos services en ligne.
+
+Parmi ces partenaires externes, on trouve notamment
+
+* Fournisseurs d’outils de marketing en ligne,
+* Services de suivi et d’analyse,
+* Plateformes de ciblage (par exemple pour le reciblage),
+* ainsi que des consultants externes dans le domaine du marketing et de l’analyse des données.
+
+_Remarque concernant la transparence :_
+
+Vous trouverez un aperçu détaillé des destinataires et des services utilisés sous l’option de menu « Gérer les paramètres » dans le pied de page de notre site web – ou, si vous utilisez notre application, dans les paramètres de protection des données au sein de l’application.
+
+Nous pouvons également divulguer vos données personnelles dans certaines circonstances particulières, lorsque cela est nécessaire ou autorisé ou exigé par la loi. Ces cas incluent, entre autres
+
+* **Transfert d’entreprise.** Dans le cadre d’une fusion, d’une acquisition, d’un investissement, d’une restructuration ou d’une faillite, des données à caractère personnel peuvent être communiquées ou transférées à des tiers impliqués.
+
+Concrètement, cela signifie que si Parship ou une entreprise liée est rachetée, fusionnée ou investie par une autre entreprise, ou si des parts d’entreprise ou des actifs sont transférés en tout ou partie (par exemple dans le cadre d’une procédure d’insolvabilité), les données personnelles que nous avons collectées peuvent être transférées à l’entreprise rachetante ou participante, conformément aux lois applicables en matière de protection des données.
+
+En outre, avant la conclusion d’une telle transaction, des données à caractère personnel peuvent être transmises à des prêteurs, des auditeurs, des avocats et d’autres conseillers externes si cela est nécessaire dans le cadre de ce que l’on appelle la « due diligence » ou pour structurer la transaction.
+
+* **Se conformer aux obligations légales et aux procédures juridiques.** Nous pouvons transmettre des données à caractère personnel à des tiers si cela est nécessaire pour respecter des obligations légales ou pour répondre à une demande légitime des autorités. Cela comprend notamment :
+    * la divulgation dans le cadre d’une citation à comparaître, d’une ordonnance du tribunal ou d’une procédure juridique similaire,
+    * Les demandes émanant d’autorités de contrôle, d’organismes gouvernementaux ou d’autorités chargées de l’application de la loi,
+    * ainsi que la transmission d’informations lorsque la loi l’exige dans le contexte de la sécurité nationale, notamment en cas de suspicion de participation à une infraction terroriste, ou d’enquêtes pénales.
+
+En outre, nous pouvons, le cas échéant, divulguer les noms des gagnants de tirages au sort et de concours, conformément à la législation en vigueur.
+
+* **Sécurité et protection des droits****.** Nous pouvons divulguer vos données personnelles si nous le jugeons nécessaire pour protéger nos services, nos droits ou les droits et la sécurité de tiers. Cela inclut notamment les cas suivants.
+    * Prévention, détection et réaction aux
+        * La fraude,
+        * les accès ou activités non autorisés,
+        * des actes illégaux, ou
+        * Abus de notre service.
+    * La protection contre les menaces potentielles, par exemple pour la santé, la sécurité ou les droits des personnes ou des tiers ;
+    * Faire appliquer nos conditions générales, y compris nos directives communautaires, y compris l’enquête et les sanctions en cas de violation éventuelle.
+
+En outre, nous pouvons également divulguer des données à caractère personnel dans le cadre de litiges en cours ou imminents et de procédures administratives, ainsi qu’à des fins internes, par ex :
+
+* Comptabilité,
+* Audits et conformité,
+* Mesures de journalisation et de sécurité,
+* Conseil juridique et défense.
+* **Autres divulgations****.** Dans des cas exceptionnels, nous pouvons être amenés à divulguer des données à caractère personnel d’une autre manière, non décrite jusqu’à présent.
+
+Toutefois, cela ne se produit que si :
+
+* nous vous en informons expressément au préalable,
+* Vous nous avez donné votre consentement pour le traitement en question, ou
+* Une telle divulgation est autorisée ou requise par la loi.
+
+Dans tous les cas, nous veillons à ce que ce traitement soit effectué conformément à la législation applicable en matière de protection des données.
+
+**Utilisation de données anonymes et agrégées**.
+
+Indépendamment des autres activités de traitement décrites dans la présente note d’information sur la protection des données, nous nous réservons le droit d’utiliser et de partager des données agrégées, anonymisées ou d’autres données non identifiables. Nous utilisons notamment ces données à des fins telles que
+
+* Contrôle de la qualité,
+* Analyses internes et externes,
+* Recherche et développement,
+* ainsi qu’à d’autres fins commerciales et opérationnelles.
+
+Les données anonymisées sont des informations qui ne peuvent plus être associées, directement ou indirectement, à une personne physique spécifique, à un ménage ou à un appareil personnel.
+
+Lorsque nous traitons de telles données ou les transmettons à des tiers :
+
+* elles sont conservées durablement sous forme anonymisée,
+* ne sont pas utilisés pour la ré-identification,
+* sauf si cela est nécessaire pour vérifier que nos mesures d’anonymisation sont conformes aux exigences de la législation applicable en matière de protection des données (par exemple, dans le cadre d’audits internes ou d’évaluations réglementaires).
+
+5\. Transfert de données à caractère personnel vers des pays en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEE/UK/CH
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Les destinataires des données à caractère personnel peuvent se trouver en dehors de l’Espace économique européen (EEE), du Royaume-Uni (UK) ou de la Suisse (CH) (appelés « pays tiers »).
+
+Si des données personnelles sont transmises dans des pays qui ne sont pas soumis au champ d’application du RGPD ou de la nLPD – en particulier à des destinataires aux États-Unis – nous nous assurons que vos droits en matière de protection des données sont respectés conformément aux exigences légales.
+
+Cela se fait de l’une des manières suivantes :
+
+* La Commission européenne, l’Information Commissioner’s Office (ICO) du Royaume-Uni ou le Préposé fédéral à la protection des données et à la transparence (PFPDT) de la Suisse ont décidé que le pays tiers concerné offre un niveau de protection des données adéquat (art. 45 RGPD ou art. 16 nLPD).
+* La transmission s’effectue sur la base de garanties appropriées conformément à l’art. 46 RGPD ou à l’art. 16, al. 2, let. d nDSG, en particulier
+    
+    * en concluant des clauses contractuelles types de l’UE qui, le cas échéant, seront complétées par des clauses de confidentialité
+        
+        * un soi-disant addendum britannique, tel que prescrit par l’ICO,
+        
+        * ainsi qu’un addendum CH, conformément aux directives du PFPDT, ou
+    
+    * par des règles internes contraignantes en matière de protection des données (Binding Corporate Rules, BCR), établies conformément à l’article 46, paragraphe 2, point b), à l’article 47 du RGPD et à l’article 16, paragraphe 2, point d) de la nLPD.
+* Dans des cas exceptionnels, une transmission peut également avoir lieu conformément à l’art. 49 RGPD ainsi qu’à l’art. 16 f. nDSG, pour autant que les conditions légales soient remplies.
+
+En outre, nous évaluons le niveau de protection dans le pays destinataire et, si nécessaire, nous prenons des mesures techniques, organisationnelles ou contractuelles complémentaires afin de garantir un niveau de protection comparable au niveau européen de protection des données.
+
+Des exemples de telles mesures peuvent être par exemple le cryptage, la pseudonymisation ou des obligations contractuelles de transparence vis-à-vis des autorités.
+
+**Informations sur les transferts de données vers des pays tiers :**
+
+Vous pouvez demander le mécanisme légal utilisé sur lequel nous nous appuyons pour le transfert ainsi qu’une liste des destinataires pertinents en dehors de l’EEE, du Royaume-Uni et de la Suisse à l’adresse e-mail suivante : [datenschutz@parship.de](mailto:datenschutz@parship.de).
+
+Veuillez noter que les informations fournies peuvent être partiellement caviardées, dans la mesure où cela est nécessaire pour protéger des secrets commerciaux ou d’autres contenus confidentiels.
+
+6\. Cookies, ciblage et analyse
 -------------------------------
 
-Sauf indication contraire dans la présente Politique de protection des données, ou dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking), l’organisme responsable du traitement des données est PE Digital GmbH (ci-après « Parship » ou « nous »).
+Nous et nos fournisseurs tiers utilisons différentes technologies de suivi – y compris des cookies, des pixels, des fichiers journaux ainsi que des mécanismes similaires – pour collecter automatiquement des informations sur le comportement d’utilisation, les appareils et les activités au sein de notre service.
 
-Si vous le souhaitez, vous pouvez nous contacter via les coordonnées suivantes :
+**Finalités du traitement des données**.
 
-PE Digital GmbH, service Clientèle Parship France, Speersort 10, 20095 Hambourg, Allemagne, [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) (e-mail).
+Les technologies utilisées servent notamment aux objectifs suivants :
 
-**Vous pouvez joindre notre délégué à la protection des données comme suit :**
+* Analyse de l’utilisation de nos services et mesure de la portée,
+* Suivi des interactions avec nos contenus et fonctionnalités,
+* Détection et correction des erreurs et maintenance technique,
+* Garantir la sécurité, la performance et la stabilité,
+* Personnalisation du contenu et des recommandations,
+* À des fins de marketing et d’analyse, y compris la mesure du succès des campagnes publicitaires et l’évaluation ciblée de la publicité.
 
-Dr. Sophie Victoria Knebel, [privacypolicy@parship.fr](mailto:privacypolicy@parship.fr) (e-mail)
+Dans la mesure où un traitement ne repose pas sur une nécessité légale, il n’a lieu qu’après consentement préalable via notre plateforme de gestion du consentement (CMP). Vous trouverez celle-ci dans le pied de page de notre site web sous Paramètres de consentement ainsi que dans les paramètres de suivi de notre application. Veuillez noter que les préférences sont spécifiques à l’appareil et au navigateur et qu’elles doivent être redéfinies après une suppression de cookies.
 
-Notre délégué à la protection des données et nous-mêmes sommes à votre disposition pour toute question ou suggestion concernant la protection des données.
+**Aperçu des technologies utilisées**.
 
-Collecte, traitement et utilisation des données à caractère personnel
----------------------------------------------------------------------
+**Cookies**
 
-Les données à caractère personnel sont toutes les informations relatives à une personne physique identifiée ou qui peut être identifiée (par exemple, le nom, l’adresse, le numéro de téléphone, la date de naissance ou l’adresse électronique).
+Les cookies sont de petits fichiers texte qui sont enregistrés sur votre appareil (par ex. smartphone ou ordinateur). Ils facilitent la navigation, accélèrent les procédures de connexion, soutiennent les fonctions de sécurité et nous permettent de collecter des informations statistiques et agrégées sur le comportement d’utilisation.
 
-Lorsque nous traitons des données à caractère personnel, cela signifie par exemple que nous collectons, stockons, utilisons, transmettons à d’autres ou supprimons ces données.
+**Balises pixel ou pixels espions**
 
-Parship ne recueille et ne traite vos données à caractère personnel que dans les cas suivants :
+Les pixel tags sont des graphiques invisibles qui fonctionnent de manière similaire aux cookies, mais qui sont directement intégrés dans les pages web ou les e-mails. Ils nous aident à mesurer les interactions des utilisateurs – par exemple si les e-mails ont été ouverts ou transférés – et nous aident à analyser et à gérer notre contenu.
 
-* Lorsque vous installez notre application Parship.
-* Lorsque vous consultez notre site web sans en être membre.
-* Lorsque vous nous contactez.
-* Lorsque vous souscrivez un abonnement gratuit ou payant.
+**Fichiers journaux (logfiles)**.
 
-La fourniture de vos données à caractère personnel dans le cadre de la conclusion et de l’existence de la relation contractuelle avec Parship est volontaire. Cependant, pour devenir membre de Parship, il est nécessaire de fournir des données à caractère personnel de catégories particulières (comme son propre sexe ou le sexe de la personne recherchée, qui est une donnée concernant l’orientation sexuelle), et de répondre à des questions en répondant au test de personnalité et lors de la création du profil. De plus, pour pouvoir utiliser le service Parship, les informations de votre profil et votre niveau de compatibilité avec les autres membres de Parship doivent être visibles par ces derniers. Veuillez également noter que nous proposons le service Parship dans de nombreux pays (vous pouvez consulter la liste de ces pays sur notre site web) et que les informations figurant sur votre profil sont accessibles à nos membres dans tous ces pays. Vous pouvez étendre votre recherche de partenaire à chacun de ces pays. En dehors de l’Union européenne, nous proposons nos services en Suisse et au Royaume-Uni.
+Lorsque vous accédez à nos services, nous collectons automatiquement des informations de fichier journal telles que
 
-Si vous ne souhaitez pas que Parship traite des données à caractère personnel vous concernant, ou une partie de ces dernières, Parship ne sera pas en mesure de fournir son service comme stipulé dans les [Conditions générales](https://www.parship.fr/termsandconditions/).
+* Adresse IP,
+* Le type et la version du navigateur,
+* Paramètres de langue,
+* les pages web visitées,
+* les liens sur lesquels on a cliqué,
+* ainsi que les URL de redirection ou de sortie.
 
-Les informations ci-dessous vous fournissent un aperçu détaillé des données collectées par Parship.
+Ces données servent à l’analyse des erreurs et à la maintenance technique.
 
-**Traitement des données par le biais des App-Stores**
+**Analyse par des tiers**
 
-Pour installer cette application via une boutique d’applications mobiles (« App-Store ») comme le Google Play Store ou l’Apple Store, vous devez, le cas échéant, accepter les conditions d’utilisation de l’opérateur de l’App-Store concerné pour accéder à son portail. Cet accès nécessite un compte valide sur la plate-forme d’applications respective ainsi qu’un appareil correspondant (par exemple, un smartphone). À cet égard, Parship n’a aucune influence sur le traitement des données. L’organisme responsable est l’opérateur de l’App-Store de la plate-forme d’application respective. Renseignez-vous, le cas échéant, directement auprès de l’opérateur de l’App-Store (l’intermédiaire) pour savoir comment les données sont traitées par ce dernier. Dans ce cas, la responsabilité de Parship n’intervient que dans le cadre de l’utilisation de son application.
+Nous utilisons des outils pour analyser l’utilisation de Parship, des cookies et des pixels sont utilisés pour collecter des données d’utilisation pseudonymisées.
 
-**Quelles sont les données que Parship recueille auprès de ses membres pour exécuter le contrat ?**
+Vous trouverez une liste complète des partenaires d’analyse utilisés dans notre CMP.
 
-Afin de fournir les services décrits plus en détail dans les [Conditions Générales](https://www.parship.fr/termsandconditions/) d´Utilisation, il est nécessaire de traiter les données personnelles mentionnées ci-après que l’utilisateur (ou « Membre Parship ») a fournies entre autres dans le cadre du processus d’inscription, de la souscription d’un Abonnement Basic ou de la souscription d’un Abonnement Premium.
+**Utilisation sur plusieurs appareils (si pertinent)**.
 
-**Processus d’inscription**
+Nous et nos partenaires pouvons combiner des informations collectées via différents appareils pour
 
-Lors de l’inscription initiale gratuite (souscription d’un « Abonnement Basic »), il est demandé à l’utilisateur (ou « Membre Basic ») de fournir quelques informations minimales sans lesquelles l’inscription ne peut pas être finalisée. Ces données sont :
+* de reconnaître les appareils associés,
+* Personnaliser le contenu et la publicité sur tous les appareils.
 
-* Propre sexe et sexe de la personne recherchée (comme une donnée d’orientation sexuelle, et donc une donnée à caractère personnel de catégorie particulière).
-* Réponse à la question : « Avez-vous déjà testé la recherche de partenaire en ligne ? » (expériences dans la recherche de partenaires en ligne)
-* Réponse à la question : « Que recherchez-vous » (objectif de la recherche)
-* Adresse e-mail
-* Un mot de passe choisi par l’utilisateur.
+**Des groupes cibles définis par l’utilisateur et des comparaisons de listes**.
 
-Si vous avez choisi de vous connecter via des fournisseurs tiers tels que Google ou Apple, il n’est pas nécessaire de fournir d’adresse e-mail ou de mot de passe lors de la procédure d’inscription.
+Nous pouvons transmettre des informations de contact (par ex. adresse e-mail, nom) à des fournisseurs de services tiers pour :
 
-L’accès à Parship s’effectue alors par l’intermédiaire de l’adresse e-mail et du mot de passe (« données de connexion ») choisis par l’utilisateur ou via les identifiants de connexion du fournisseur tiers.
+* d’afficher des publicités ciblées sur des plateformes externes,
+* ou des groupes cibles existants, d’ajouter des caractéristiques supplémentaires (par ex. des données démographiques) afin de cibler plus efficacement les mesures publicitaires.
 
-**Inscription/connexion via Google (« Google Sign in »)**
+Pour savoir comment gérer votre consentement et vos préférences concernant les mécanismes de suivi répertoriés, veuillez consulter la section 7 – Vos options de confidentialité ci-dessous.
 
-Nous vous offrons la possibilité de vous inscrire ou de vous connecter à notre site via votre compte Google. Si vous utilisez ce service, nous recevons de la part de Google les données nécessaires à l’inscription ou à la connexion (adresse e-mail, nom, ID de compte Google et photo de profil de compte Google). Il sʼagit donc dʼun transfert de données.
+**Catégories de technologies et bases juridiques**.
 
-Nous ne contrôlons pas la quantité de données recueillies par Google lors de la connexion via Google. Si vous ne souhaitez pas que Google recueille des données vous concernant dans le cadre de votre utilisation de notre offre en ligne pour les utiliser à ses propres fins, nous vous déconseillons de vous connecter via Google.
+**Les cookies indispensables et les technologies de suivi** servent à fournir nos services de manière sûre et correcte (par ex. authentification, lutte contre les abus, sécurité). Ils ne peuvent pas être désactivés.
 
-Vous pouvez à tout moment dissocier votre compte Parship de votre compte Google sur notre site. Dans ce cas, nous avons besoin de vos données d’accès décrites ci-dessus**, c’est-à-dire que vous devez établir des données d’accès alternatives, comme décrit ci-dessus**.
+Bases juridiques_:_ Art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. 6 de la directive RGPD. Art. 6, par. 1, let. b et f DGSCO \[EEE\], exception selon les Privacy and Electronic Communications Regulations (PECR) en relation avec l’art. 6, par. 1, let. b et f DGSCO \[EEE\]. UK GDPR \[UK\], l’art. 45c FMG (loi sur les télécommunications) autorise les cookies et les technologies de suivi techniquement nécessaires sans consentement séparé.
 
-Pour plus d’informations sur la finalité et l’étendue de la collecte, le traitement ultérieur et l’utilisation de vos données par Google, ainsi que sur vos droits et les options de configuration pour protéger vos données, veuillez consulter la politique de confidentialité de Google : [https://policies.google.com/privacy](https://policies.google.com/privacy).
+**Les cookies fonctionnels et les technologies de suivi** permettent des analyses statistiques et contribuent à l’amélioration de nos offres.
 
-**Lors de l’inscription via Apple (« Apple Login »)**
+_Fondement juridique:_ Art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. Art. 6, par. 1, lettre a du RGPD (consentement) \[EEE\], art. 6, par. 1, lettre a du UK GDPR (consentement) en relation avec le PECEC. PECR (UK), conformément à l’article 45c de la LTC, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
 
-Nous vous offrons la possibilité de vous inscrire sur Parship via votre compte Apple. Si vous utilisez cette possibilité, Apple nous fournira les données nécessaires à l’inscription. Un transfert des données a donc lieu. Apple nous communiquera également l’adresse e-mail que vous lui avez fournie. Apple vous permet de partager ou de masquer l’adresse e-mail que vous fournissez à Parship. Si vous choisissez de masquer votre adresse e-mail, Apple nous transmettra une adresse e-mail unique, générée de manière aléatoire, pour la création et l’utilisation de votre compte Parship. Nos communications seront envoyées à cette adresse e-mail et seront automatiquement transférées par Apple à votre adresse e-mail enregistrée chez Apple, sauf si vous avez désactivé le transfert du courrier électronique de Parship.,
+**Les cookies marketing et les technologies de tracking** servent à créer des profils d’utilisation pseudonymes ainsi qu’à mesurer le succès des campagnes auprès de fournisseurs tiers. Les fournisseurs tiers (par ex. Google, Microsoft) peuvent également traiter les données sous leur propre responsabilité et en partie dans des pays tiers.
 
-Nous n’avons aucune influence sur le volume de données recueillies par Apple via le login Apple. Si vous ne souhaitez pas qu’Apple recueille des informations vous concernant dans le cadre de votre utilisation de notre service en ligne et les utilise à ses propres fins, vous ne devez pas utiliser le login Apple.
+Bases juridiques : art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. 6 DGS. Art. 6 al. 1 let. a DGSVO (consentement) \[EEE\], art. 6 al. 1 let. a UK GDPR (consentement) en relation avec PECEC. PECR (UK), conformément à l’article 45c de la LTC, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
 
-Vous pouvez à tout moment dissocier votre compte Parship de votre compte Apple sur notre site. Dans ce cas, nous avons besoin de vos données d’accès décrites ci-dessus, **c’est-à-dire que vous devez établir des données d’accès alternatives, comme décrit ci-dessus.**
+En ce qui concerne le traitement des données par les technologies de suivi fournies par **Google**, vous trouverez de plus amples informations ici :
 
-Vous retrouverez d’autres informations sur la finalité et le volume de la collecte des données, le traitement et l’utilisation ultérieurs de ces dernières par Apple ainsi que sur vos droits et possibilités de paramétrages pour protéger vos données dans l’engagement de confidentialité d’Apple : [https://www.apple.com/fr/legal/privacy/fr-ww/.](https://www.apple.com/fr/legal/privacy/fr-ww/)
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-**Informations requises dans le cadre d’un Abonnement Basic**
+[https://business.safety.google/privacy](https://business.safety.google/privacy)
 
-Dans le cadre du test de personnalité qui suit l’inscription, les informations suivantes sont, entre autres, demandées :
+[https://safety.google/privacy/privacy-controls](https://safety.google/privacy/privacy-controls)
 
-* Domicile ainsi que le code postal
-* Date de naissance
-* Prénom et nom de famille
-* Taille
-* Situation familiale
-* Nombre d’enfants
-* Niveau d’études
-* Profession
-* Revenus
+**Gestion de vos préférences**.
 
-De plus, dans le cadre de l’exécution de ses services, Parship demande à ses utilisateurs de fournir des données telles que leurs préférences, leurs valeurs personnelles, leur apparence physique ainsi que d’autres caractéristiques pertinentes qui serviront de base pour la création du profil Parship. Des photos du membre de Parship peuvent également être ajoutées, ces photos étant alors mises à la disposition des autres membres sous une forme reconnaissable sur le profil ou par e-mail (ici uniquement sous une forme non reconnaissable) à côté du prénom du membre. Les réponses au test nous permettent de créer automatiquement le profil de personnalité Parship ainsi que, dans le cadre de propositions de partenaires, un niveau de compatibilité et une analyse de cette dernière. Le niveau de compatibilité et l’analyse de compatibilité sont également mis à la disposition des autres membres sur le profil et par e-mail.
+Vous pouvez révoquer ou adapter votre consentement à tout moment via notre CMP ou dans les paramètres de suivi de l’application. En outre, vous pouvez réinitialiser ou désactiver complètement la publicité personnalisée dans les paramètres du terminal (par ex. IDFA pour iOS, Google Advertising ID pour Android). Le retrait de votre consentement n’affecte pas la légalité du traitement effectué jusqu’alors.
 
-Toutes les données du profil Parship sont visibles sur le site web et l’application pour les autres utilisateurs connectés. En particulier, l’âge, le lieu de résidence ou les deux premiers chiffres du code postal, et les centres d’intérêt du client sont visibles.
+Pour les utilisateurs résidant habituellement en Suisse : vous pouvez utiliser Parship sans cookies « marketing » et autres mécanismes de suivi web. Pour cela, veuillez cliquer sur ce [lien](https://www.parship.ch/cookiesandtracking/#pp23) pour désactiver ces cookies et mécanismes de tracking. Dans ce cas, seuls les [cookies « nécessaires »](https://www.parship.ch/cookiesandtracking/#pp13) subsistent et sont nécessaires à l’utilisation du site.
 
-Parship offre la possibilité de fournir un numéro de téléphone mobile dans le cadre d’une « vérification par SMS » ou pour la réception de messages envoyés par Parship. Il n’est pas nécessaire de fournir un numéro de téléphone mobile pour utiliser le service Parship.
-
-**Souscription d’un Abonnement Premium**
-
-Si l’utilisateur (ci-après dénommé « Membre Premium ») décide de souscrire un service payant auprès de Parship (« Abonnement Premium »), les informations suivantes seront recueillies dans le cadre de la commande en complément des données recueillies dans le cadre de l’Abonnement Basic :
-
-* Nom et prénom
-* Adresse
-* Données de paiement et de facturation (les coordonnées de carte de crédit, PayPal et SEPA sont stockées par le prestataire de paiement et non par Parship).
-
-**Commande de bien virtuels**
-
-Si l’utilisateur décide de compléter son Abonnement Basic en commandant des biens virtuels (par exemple des Match Unlocks), des données supplémentaires seront collectées au titre de cette commande, en complément des données déjà collectées dans le cadre de l’Abonnement Basic :
-
-* Données de paiement (les coordonnées de carte bancaire et du mandat SEPA sont stockées par le prestataire de paiement et non par Parship).
-
-**Commande via des fournisseurs tiers**
-
-En cas de commande d’un Abonnement Premium ou de biens virtuels par l’intermédiaire d’un opérateur d’App Store (par exemple Google ou Apple), les données personnelles traitées par l’opérateur lors du processus de commande sont mentionnées dans les conditions d’utilisation de l’opérateur de la plate-forme d’application. Parship ne traite aucune donnée de paiement ou de facturation à cet égard.
-
-**Communication avec les membres, Communication avec le service clientèle**
-
-Parship enregistre les communications des membres entre eux qui ont lieu via la plate-forme, ainsi que les communications avec le service clientèle. La communication des membres lorsqu’ils sont connectés est cryptée. . ( » Les détails sur la protection de vos données sont disponibles dans la section [« Comment protégeons-nous vos données ? »](https://www.parship.fr/privacypolicy/#pp10))
-
-Veuillez prendre note des informations suivantes concernant la communication avec notre service clientèle : Lorsque vous communiquez avec notre service clientèle
-
-1. par lʼintermédiaire du formulaire de contact, cette transmission est chiffrée ; notre réponse à votre requête vous parvient par e-mail et est chiffrée pendant le transport si votre fournisseur de messagerie prend en charge le protocole de chiffrement de transport Transport Layer Security (TLS),
-2. par e-mail, la transmission de l’e-mail est cryptée, dans la mesure où votre fournisseur de messagerie prend en charge le cryptage de transport (TLS).
-3. – si la fonction est proposée – via la fonction de chat pour les membres connectés au portail du service client, la transmission de la communication par chat est également chiffrée en TLS (le TLS est un chiffrement de la couche de transport). Si la fonction de chat est utilisée pour communiquer avec le service client, un protocole de chat correspondant peut être mis à disposition.
-
-Si vous souhaitez une communication par e-mail avec cryptage du contenu, veuillez contacter Parship par courrier. Vous trouverez nos coordonnées dans la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07).
-
-Veuillez noter qu’en règle générale, la communication entre Parship et vous se fera uniquement par l’intermédiaire de l’adresse e-mail associée à votre compte Parship. Les membres qui se sont inscrits via Apple et ont masqué leur adresse électronique ne recevront nos communications que si la fonction de transfert automatique est activée chez Apple. Veuillez noter qu’Apple ne nous indique pas si vous avez activé la fonction de transfert.
-
-**Violations de notre Community Guidelines**
-
-Si un utilisateur signale d’éventuels contenus illégaux ou des violations de notre [Community Guidelines](https://parship.fr/communityguidelines/), ou s’il se plaint de notre service clientèle, en plus des données collectées dans le cadre de l’adhésion de base ou Premium, voici celles que nous collectons également :
-
-* le nom ou les données d’adresse indiqués dans le cadre du signalement ou de la réclamation,
-* dans le cadre du signalement d’un tchat, les derniers messages de tchat échangés,
-* le contenu de toute pièce jointe téléchargée dans le cadre de la réclamation (les photos de profil et/ou les messages de tchat par exemple).
-
-**E-mails publicitaires – Newsletters – Messages**
-
-Lors de la souscription de l’Abonnement Basic gratuit, vous saisissez votre adresse électronique, ou cette dernière est fournie par Apple ou Google (en cas d’inscription via ces derniers). Cette adresse e-mail, ou les éventuelles adresses que vous auriez fournies ultérieurement, seront également utilisées pour envoyer des e-mails publicitaires faisant la promotion de produits gratuits et payants de la société PE Digital GmbH, sans qu’il soit nécessaire d’obtenir votre consentement.
-
-Sur le site Parship, il est par ailleurs possible, en cliquant sur une case à cocher, de s’abonner à une newsletter gratuite. Pour ce faire, l’adresse e-mail associée à votre profil est également utilisée.
-
-Par ailleurs, au cours de votre abonnement Parship, vous recevrez des e-mails contenant des conseils personnalisés destinés à vous aider à tirer pleinement parti des produits de Parship.
-
-Les e-mails publicitaires (y compris les newsletters et les conseils) sont chiffrés lors du transfert, à condition que votre fournisseur de courrier électronique prenne en charge la technologie de chiffrement « Transport Layer Security » (TLS).
-
-**Si vous ne souhaitez plus recevoir d’e-mails publicitaires, de newsletters ou de conseils personnalisés de Parship, vous pouvez à tout moment vous opposer à l’utilisation de votre adresse e-mail enregistrée sur votre profil à de telles fins : (1) cliquez sur le lien de désabonnement au bas de chaque e-mail ou (2) ajustez vos notifications comme vous le souhaitez dans votre profil sous [« Mes données » (ou le symbole de la roue dentée)/ « Notification de réception »](https://www.parship.fr/settings/notificationoptions) ou (3) contactez le service clientèle de Parship. Les membres qui n’ont pas encore finaliser le questionnaire Parship peuvent utiliser ce [lien](https://www.parship.fr/settings/notificationoptions) pour faire part de leur opposition.** Après avoir fait opposition, vous pouvez à tout moment vous réabonner à de tels e-mails publicitaires dans votre profil, sous [« Mes données » (ou le symbole de la roue dentée)/ « Notification de réception »](https://www.parship.fr/settings/notificationoptions).
-
-**Canal de messages CRM (dans le chat)**
-
-Vous avez également la possibilité de recevoir des messages dits CRM par le biais du canal de courrier électronique configuré à cet effet dans le canal de messages CRM du chat. Si vous ne souhaitez plus recevoir ces messages CRM, vous avez la possibilité de vous y opposer à tout moment.
-
-**Messages push**
-
-Si votre appareil mobile le permet, vous recevez des messages push de notre part, même si vous n’êtes pas en train d’utiliser l’application. Ce sont des messages que nous vous envoyons dans le cadre de l’exécution du contrat, mais également au sujet d’informations publicitaires.
-
-**Vous pouvez à tout moment modifier ou empêcher la réception de messages push via les réglages de votre appareil mobile ou dans l’application Parship.**
-
-**Quelles sont les données recueillies par Parship lors de l’utilisation du site Parship ?**
-
-Lors de chaque accès au site web Parship, les données d’utilisation de chaque visiteur du site web – sauf indication contraire ci-dessous, même s’il n’est pas membre de Parship – sont transmises par son navigateur internet et sauvegardées dans des fichiers journaux (Server-Logfiles). Ces données comprennent :
-
-* Les informations sur le type de navigateur et le fournisseur d’accès de l’utilisateur ainsi que le système d’exploitation utilisé (ex. Windows 7, macOS, etc.)
-* L’adresse IP (« Internet Protocol address ») de l’ordinateur, la tablette ou le smartphone accédant (L’adresse IP est comparée également à une base de données géographiques et détermine l’origine ou le pays, l’état et la ville de l’utilisateur.) Pour ce faire, Parship utilise entre autres MaxMind (voir à ce sujet les explications sous [« Comment protégeons-nous vos données » ?](https://www.parship.fr/privacypolicy/#pp10)))
-* Le nom de la page consultée
-* La date et heure de la visite
-* L’URL du référent (URL d’origine) à partir de laquelle l’utilisateur a accédé à la page consultée
-* Le volume des données transférées
-* Le message d’état indiquant si la visite a été un succès
-* Le numéro d’identification de la session (Session ID)
-* Le pseudonyme du participant à la session
-* L’identifiantde l’utilisateur sur la plate-forme Parship (uniquement pour les membres de Parship)
-* La résolution d’écran utilisée
-
-À chaque fois qu’un membre Parship se connecte au réseau, l’identifiant de l’utilisateur sur la plate-forme Parship est mémorisé dans les enregistrements de données de connexion.
-
-Outre les données susmentionnées, des cookies ou des identifiants pseudonymes (tels que l’ID utilisateur, l’Ad-ID) peuvent être enregistrés sur votre appareil lorsque vous utilisez le site web de Parship, pendant ou après votre visite de nos services en ligne. Pour plus d’informations à ce sujet, veuillez consulter nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
-
-**Quelles sont les données recueillies par Parship lors de l’utilisation de l’application Parship ?**
-
-À chaque connexion de l’appareil de l’utilisateur à l’application, Parship recueille automatiquement les données et les informations du système d’exploitation de l’appareil appelant. Ceci comprend, entre autres, le stockage de l’adresse IP. Voici un aperçu détaillé des données recueillies par Parship :
-
-**Données d’utilisation**
-
-Lors de chaque accès à l’application, Parship sauvegarde les données d’utilisation de chaque utilisateur de l’application. Ces données sont :
-
-* Le système d’exploitation et, le cas échéant, le type de navigateur utilisé
-* Les paramètres de langue actuels du smartphone
-* Les informations concernant le fournisseur de service internet de l’utilisateur
-* L’adresse IP (Internet Protocol address) de l’appareil demandant l’accès
-* L’identifiant de l’appareil (par ex. IDFA, IDFV, Google Advertising) à des fins d’identification de votre/vos appareil(s) dans le cadre d’une authentication sécurisée
-* L’identifiant de l’utilisateur sur la plate-forme Parship (uniquement pour les membres de Parship)
-* Le nom de la page visitée et, le cas échéant, la page d’origine
-* La date et l´heure de la visite
-* Le volume des données transférées
-* Le message d’état indiquant si la visite a été un succès
-
-Outre les données susmentionnées, des technologies de suivi ou des identifiants pseudonymes (tels que l’identifiant publicitaire \[par exemple, l’IDFA d’Apple, l’Advertising-ID de Google\]) peuvent être consultés à partir de votre appareil lorsque vous utilisez l’application Parship, pendant ou même après votre visite de notre application. Pour plus d’informations à ce sujet, veuillez consulter nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
-
-**Données de connexion**
-
-À chaque fois qu’un membre de Parship se connecte à son profil, les données de connexion suivantes sont mémorisées dans les « données de login » :
-
-* La date et l’heure de la connexion
-* L’identifiant de l’utilisateur sur la plate-forme Parship (adresse e-mail)
-* L’adresse IP (Internet Protocol Address)
-* L’identifiant de l’appareil (UDID, le numéro d’appareil d’un smartphone)
-
-Outre les données susmentionnées, des identifiants pseudonymes (tels que l’identifiant utilisateur, l’Ad-ID) peuvent être enregistrés sur votre appareil pendant ou après votre visite. Pour plus d’informations à ce sujet, veuillez consulter nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
-
-**Données GPS lors de l’utilisation de l’application**
-
-Si un membre Premium utilise les options de réglage pour la recherche géographique, les données de localisation de l’appareil sont accessibles (données GPS, le cas échéant informations sur le Wi-Fi utilisé et l’identifiant de l’appareil). Ces informations sont utilisées pour déterminer la localisation de l’utilisateur afin que ce dernier puisse définir un rayon de recherche approprié.
-
-Finalités du traitement
------------------------
-
-Parship traite les données à caractère personnel de ses utilisateurs aux fins suivantes et conformément aux bases juridiques mentionnées ci-après. Si le traitement des données repose sur la base juridique d’un intérêt légitime, nous exposerons également par la suite notre intérêt légitime au traitement des données :
-
-* Pour la mise à disposition de la plate-forme et afin de fournir les services décrits dans les [Conditions Générales](https://parship.fr/termsandconditions) de Vente. Ceci inclut notamment :
-    * La mise à disposition de notre site web aux utilisateurs non inscrits
-    * La mise à disposition et l’utilisation de notre site web et de notre application par les membres inscrits de Parship ;
-    * La mise à disposition d’une possibilité de contact et le traitement des demandes via la plate-forme.
-    * La possibilité de conclure un contrat, y compris la facturation.
-    * L’envoi d’e-mails ou de notifications « push » contenant des propositions de partenaires ou d’autres informations ayant trait au contrat.
-* Pour garantir le respect de notre [Community Guidelines](https://www.parship.fr/communityguidelines/) ainsi que pour traiter les signalements de violations de ces règles (modération du contenu) ; pour transmettre les signalements de contenus illicites aux autorités d’enquête compétentes (la base juridique est le respect de nos obligations légales en vertu du Digital Services Act (DSA) ; en particulier les articles 18, 16 du DSA.)
-* Pour traiter les réclamations contre des mesures prises en raison de violations de notre [Community Guidelines](https://www.parship.fr/communityguidelines/) (gestion interne des réclamations) (la base juridique est le respect de nos obligations légales en vertu du Digital Service Act (DSA), en particulier l’article 20 du DSA.)
-* (La base juridique du traitement est l’exécution du contrat avec vous. Dans certains cas, la base juridique est votre consentement. Notre obligation légale ainsi que notre intérêt légitime à proposer un service client et à améliorer l’expérience client peuvent également constituer la base juridique.)
-* Le cas échéant, anonymisation en amont des ensembles de données à des fins de formation de nos systèmes d’intelligence artificielle (l’article 6, paragraphe 4 du RGPD s’applique ici.)
-* Pour les tests A/B. La base juridique de l’utilisation des tests A/B est l’intérêt légitime de Parship. Cet intérêt légitime consiste à améliorer la convivialité et l’attractivité de notre site web.
-* Pour la mise à disposition d’une connexion via la plate-forme Parship, le login Google ou le login Apple. (La base juridique du traitement est l’exécution de notre contrat.)
-* Afin de prévenir et protéger contre tout abus. Parship collecte, traite et utilise les données à caractère personnel et les données géographiques recueillies dans le cadre de votre inscription et lorsque vous renseignez le test de personnalité Parship et le profil Parship afin de vérifier automatiquement s’il existe des indices ou des données indiquant une utilisation abusive de Parship. Les données sont stockées dans une base de données et comparées à des valeurs empiriques. Si le traitement automatisé révèle une suspicion d’abus, un employé de Parship analyse les résultats de la vérification et les indices sous-jacents, puis les éventuelles informations en texte libre et photos de profil enregistrées. Par ailleurs, Parship fournit à ses membres une fonctionnalité dénommée « Signaler ce profil », et procède à des contrôles de profil par les collaborateurs du service clientèle lorsque d’autres membres ont signalé des violations du contrat. En outre, Parship utilise le numéro de téléphone portable fourni à titre volontaire pour vérifier l’identité de la personne en envoyant un SMS sur le téléphone portable. (L’intérêt légitime de Parship et des membres de Parship à ce que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d’accès ou des accès non autorisés. De plus, la base juridique de mise en œuvre de la procédure de notification ainsi que de réclamation (« Signaler un profil ») et le traitement des notifications qui y est associé constituent l’accomplissement d’une obligation légale.)
-* En outre, pour la sécurité des données (en particulier la disponibilité conformément aux obligations de l’article 5, paragraphe 1, point f), et de l’article 32 paragraphe 1 lettre d du RGPD). (L’intérêt légitime de Parship à garantir la sécurité des données et des membres de Parship pour que le service Parship ne soit pas utilisé de manière abusive par des tiers à des fins contraires au contrat et/ou à la loi constitue la base juridique. Nous nous conformons également à nos obligations légales en matière de sécurité des données, qui consistent à assurer la sécurité du système ainsi que la détection et le suivi des tentatives d’accès ou des accès non autorisés.)
-* Pour proposer des offres personnalisées (par ex. pour le calcul automatisé des prix). Par principe, nous n’avons pas recours à la prise de décision entièrement automatisée selon l’article 22 du RGPD, mais nous traitons vos données de manière partiellement automatisée afin de pouvoir vous proposer des offres de produits adaptées. Les données suivantes sont utilisées à cette fin : âge, sexe, objectif de la recherche, expériences dans la recherche de partenaire en ligne, revenus et code postal. (La base juridique est la réalisation de la relation contractuelle ainsi que notre intérêt légitime à nous adresser à nos utilisateurs de manière ciblée et personnalisée.)
-* Pour l’amélioration de l’expérience utilisateur (interrogation de l’objectif de la recherche et interrogation des expériences dans la recherche de partenaire en ligne). (La base juridique est lʼexécution du contrat, ainsi que notre intérêt légitime à fournir à nos utilisateurs des fonctionnalités ciblées et personnalisées.)
-* Afin de garantir l’exécution de vos obligations découlant de la relation contractuelle en cas de défaut de paiement (ceci ne s’applique qu’à l’achat via Parship). Si, malgré des rappels répétés, vous ne réglez pas les factures / les paiements partiels en souffrance, nous transmettons les données nécessaires à l’exécution d’une procédure de recouvrement à un prestataire de services de recouvrement dans le but d’un recouvrement fiduciaire. En cas de demandes de paiements litigieuses, nous transmettons également les données nécessaires correspondantes à nos prestataires de paiement pour faire valoir nos droits (ou en cas d’obligations de paiement litigieuses, de demandes de banques et/ou dans le cadre de la résolution de conflits en cas de rétro-facturation). (Outre l’exécution de la relation contractuelle, l’intérêt légitime de Parship au paiement de la rémunération convenue dans le contrat constitue la base juridique.)
-* Pour la protection et la défense de nos droits et le respect des obligations légales. (La base juridique est, outre le respect d’une obligation légale, notre intérêt légitime à faire valoir et à défendre nos droits).
-* Pour l’exploitation de notre site web, de nos applications et la mise à disposition de services en ligne expressément demandés par les utilisateurs (base juridique : l’article 82 de la loi Informatique et Libertés).
-* À des fins d’autopromotion par le biais d’e-mails publicitaires et/ou de messages push, de newsletters, de sondages (utilisateurs) et de conseils personnalisés. (L’intérêt légitime de PE Digital GmbH aux opérations de marketing direct pour ses propres produits constitue la base juridique. Dans certains cas, votre consentement constitue également la base juridique)
-* Pour la prise en compte du droit à objection publicitaire. (La base juridique est le respect de nos obligations légales.)
-* Afin de respecter les obligations légales de conservation et d’autres obligations et dispositions légales ou réglementaires (par exemple, en rapport avec les contrôles fiscaux, les demandes d’informations administratives ou judiciaires et autres décisions). (La base juridique est le respect de nos obligations légales.)
-* À d’autres fins de communication dans le cadre de demandes de renseignements. (La base juridique peut être un rapport juridique précontractuel ou une obligation légale.)
-* Le cas échéant, à des fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l’article 89, paragraphe 1 (dans ces cas, la base juridique est l’article 9, paragraphe 2, point j) du RGPD ou l’article 6, paragraphe 1, première phrase, point e) du RGPD en relation avec l’article 6, paragraphe 2 du RGPD).
-
-La finalité du traitement et la base juridique du traitement des données à caractère personnel à l’aide de « cookies » et d’autres technologies de suivi lors de l’utilisation de Parship peuvent être consultées dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
-
-Base juridique pour le traitement de données à caractère personnel
-------------------------------------------------------------------
-
-* Dans la mesure où nous obtenons le consentement de la personne concernée pour le traitement des données à caractère personnel, l’article 6, paragraphe 1, première phrase, point a) du règlement général de l’UE sur la protection des données (RGPD) constitue la base juridique.
-* Dans la mesure où nous traitons des catégories particulières de données conformément à l’article 9, paragraphe 1, du RGPD, l’article 9, paragraphe 2, point a), du RGPD – votre consentement – constitue la base juridique.
-* Dans le cadre du traitement des données personnelles nécessaires à l’exécution du contrat de Parship (Abonnement Basic ou Abonnement Premium), l’article 6, paragraphe 1, première phrase, point b) du RGPD constitue la base juridique. Ceci s’applique également aux traitements qui sont nécessaires à l’exécution de mesures précontractuelles.
-* Lors du traitement de données personnelles pour satisfaire à une obligation légale, l’article 6, paragraphe 1, première phrase, point c) du RGPD constitue la base juridique.
-* Dans la mesure ou le traitement est nécessaire aux fins de préserver les intérêts légitimes de Parship ou d’un tiers, par exemple ses membres, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, l’article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique pour ce traitement.
-* Dans la mesure où nous stockons des informations sur votre terminal ou que nous accédons à des informations déjà stockées sur votre équipement, l’article 82 de la loi française sur la protection des données constitue la base juridique.
-* Pour le traitement supplémentaire des données, le passage relatif à chaque traitement des données figurant à l’article 6, paragraphe 1 du RGPD s’applique.
-* Lors du traitement des données à caractère personnel nécessaires à l’autopromotion (Abonnement Basic ou Abonnement Premium), l’article 6, paragraphe 1, première phrase, point f) du RGPD constitue la base juridique.
-* À des fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l’article 89, paragraphe 1, les articles suivants s’appliquent : l’article 9, paragraphe 2, point j) du RGPD ou l’article 6, paragraphe 1, première phrase, point e) du RGPD en relation avec l’article 6, paragraphe 2 du RGPD.
-* Si, à titre exceptionnel et pour des raisons d’intérêt public majeur, nous traitons des données particulières à caractère personnel, l’article 9, alinéa 2, lettre g du RGPD sert de base juridique.
-
-Dans la mesure où votre consentement constitue la base juridique, vous avez le droit de retirer votre consentement à tout moment sans que la licéité du traitement effectué sur la base de ce consentement jusqu’à votre retrait en soit affectée. Si l’intérêt légitime est la base juridique, vous avez également le droit, en principe, de vous opposer à tout moment au traitement des données à caractère personnel vous concernant pour des raisons liées à votre situation particulière. L’article 21 du RGPD s’applique à cet égard.
-
-Transfert des données à des tiers ; Prestataires de services
-------------------------------------------------------------
-
-Vos données à caractère personnel ne seront transmises à des tiers par Parship que dans la mesure où cela est nécessaire à l’exécution du contrat, si nous ou ce tiers avons un intérêt légitime à la transmission de ces données, si vous avez donné votre consentement, ou si ceci est nécessaire à l’exécution d’une obligation légale. Dans la mesure où des données à caractère personnel sont transmises à des tiers sur la base d’un intérêt légitime, cet intérêt légitime est défini dans cette Politique de protection des données.
-
-En outre, des données à caractère personnel peuvent être transmises à des tiers, notamment :
-
-* aux prestataires de services, si les données sont nécessaires à l’exécution d’un contrat de traitement avec nous.
-* Le cas échéant, aux fournisseurs de technologies de suivi commercial et d’outils d’analyse (vous trouverez plus d’informations à ce sujet dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking)) ;
-* si nous y sommes tenus par la loi ou par une décision officielle ou judiciaire exécutoire dans des cas individuels ;
-* dans le cadre de litiges juridiques (aux tribunaux ou à nos avocats), de cas de recouvrement, en cas d’audit ou contrôle fiscal (aux auditeurs ou contrôleurs).
-* en rapport avec d’éventuelles infractions pénales aux autorités d’enquête compétentes ;
-* en cas de vente de nos activités commerciales (à l’acquéreur).
-* le cas échéant, avec d’autres réseaux sociaux (comme sur Instagram, avec les « histoires vraies » sur Instagram, dans le respect du consentement donné.
-
-Dans la mesure où des données peuvent être transmises régulièrement à d’autres tiers, ceci sera mentionné dans la présente Politique de protection des données ou dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking). En cas de transfert sur la base du consentement, l’explication peut également être fournie lorsque le consentement est obtenu.
-
-Dans le cadre de la maintenance et de l’assistance, des flux Twitter du compte Parship peuvent être intégrés à la page de maintenance de Parship, sur laquelle sont affichés les tweets relatifs aux éventuels travaux de maintenance et de réparation de Parship en cours ou à venir. L’objectif est de tenir les utilisateurs informés de l’avancement de ces travaux de maintenance et de réparation via Twitter. En intégrant le flux Twitter du compte Parship, Twitter collecte dans certaines circonstances certaines données personnelles dont la description précise figure ici : [https://help.twitter.com/fr/twitter-for-websites-ads-info-and-privacy](https://help.twitter.com/fr/twitter-for-websites-ads-info-and-privacy).
-
-**Prestataires de services**
-
-Parship se réserve le droit de faire appel à des prestataires de services dans le cadre de la collecte et / ou du traitement des données à caractère personnel. Dans ce cas, Parship ne transmet à ces prestataires de service que les données à caractère personnel nécessaires à l’exécution de leur prestation.
-
-Parship a notamment recours, – dans la mesure où les prestataires de services ne sont pas déjà mentionnés nommément dans la présente Politique de protection des données (ou dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking) – à des fournisseurs de services pour l’envoi d’e-mails, de messages push et de newsletters aux membres. En outre, des fournisseurs de services mettent des capacités de serveur à la disposition de Parship. Si vous avez effectué un achat auprès de Parship, des prestataires de services et de paiement externes assistent Parship dans la gestion des paiements et le recouvrement des créances. En fonction du mode de paiement choisi au cours du processus d’achat sur la page d’achat , Parship transmet les données recueillies pour le traitement des paiements (par exemple, les coordonnées bancaires) à l’établissement financier ou au prestataire de services chargé du paiement. Les prestataires de services de paiement recueillent également ces données sous leur propre responsabilité. À cet égard, c’est la politique de protection des données du prestataire de services de paiement concerné qui s’applique.
-
-Les fournisseurs de services agissent généralement en tant que sous-traitants et ne sont autorisés à traiter les données à caractère personnel des utilisateurs de cette offre en ligne que dans le cadre des instructions fournies par Parship.
-
-Veuillez noter que si vous achetez un Abonnement Premium Parship par le biais d’un opérateur d’App-Store qui agit en tant qu’intermédiaire (comme l’Apple Store ou le Google Play), Parship n’effectue aucun traitement des données de paiement. Dans ce cas, l’opérateur de l’App-Store est seul responsable de la gestion du processus de paiement.
-
-**Transfert de données vers des pays n’appartenant pas à l’EEE**
-
-Nous transmettons également, s’il y a lieu, les données à caractère personnel vous concernant à des tiers (conjointement ou seuls), aux responsables du traitement des données ou, le cas échéant, à des sous-traitants dont le siège est situé dans des pays non membres de l’UE/EEE. Dans ce cas, nous nous assurons avant le transfert que le destinataire dispose d’un niveau adéquat de protection des données (par exemple, sur la base d’une [décision d’adéquation de la Commission européenne](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) pour le pays concerné conformément à l’article 45 du RGPD ou d’un [accord sur les clauses contractuelles types en vigueur dans l’UE](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) avec le destinataire conformément à l’article 46 du RGPD au moyen de mesures de protection techniques et organisationnelles supplémentaires) ou que le consentement fourni par nos utilisateurs est suffisant. Voir également l’art. 16 s. nLPD en ce qui concerne la communication de données personnelles à l’étranger.
-
-Nous pouvons, si nécessaire, conclure un « UK Addendum » pour le Royaume-Uni avec nos partenaires contractuels, conformément aux directives de l’Information Commissioner’s Office (ICO) ainsi qu’un « CH Addendum » correspondant, conformément aux directives du Préposé fédéral à la protection des données et à la transparence (PFPDT).
-
-Nous pouvons vous adresser un récapitulatif des destinataires spécifiques (aussi bien des entreprises au sein du groupe ; le cas échéant, des prestataires de services de recouvrement ; que de tous les sous-traitants) dans les pays tiers et une copie des dispositions spécifiquement convenues (clauses contractuelles standard de l’UE, y compris l’addendum du Royaume-Uni ou de la Suisse, le cas échéant.) qui garantissent un niveau approprié de protection des données.
-
-Pour ce faire, veuillez utiliser les informations fournies dans la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07).
-
-**Comment protégeons-nous vos données ?**
+7\. Vos options de protection des données
 -----------------------------------------
 
-Parship utilise diverses mesures de sécurité, notamment les outils de chiffrement et d’authentification les plus récents, pour protéger la sécurité, l’intégrité et la disponibilité des informations personnelles de ses clients et utilisateurs. Ces mesures sont notamment les suivantes :
+Nous mettons à votre disposition différentes possibilités pour gérer vos préférences en matière de protection des données et pour prendre des décisions individuelles concernant le traitement de vos données personnelles :
 
-* Des critères stricts pour autoriser l’accès à vos données et une authentification à deux facteurs,
-* Stockage de données confidentielles sous forme cryptée,
-* Protection des systèmes informatiques par un pare-feu pour empêcher tout accès non autorisé,
-* Surveillance permanente de l’accès aux systèmes informatiques afin de détecter et de prévenir l’utilisation abusive de données à caractère personnel.
+* **Compte et profil.** Vous pouvez à tout moment consulter et mettre à jour les données personnelles affichées dans votre profil et que nous avons enregistrées.
 
-À cet égard, nous vous recommandons de vous familiariser avec les conseils de sécurité de Parship lorsque vous utilisez le service Parship. Vous pouvez trouver plus d’informations à ce sujet [ici](https://www.parship.fr/safety).
+* **Nous pouvons vous envoyer régulièrement des messages à caractère promotionnel** concernant nos services par le biais de différents canaux, tels que des e-mails ou des notifications push.
 
-Dans ce contexte, Parship fait également appel à des prestataires de services américains. Les prestataires de services suivants sont notamment concernés :
+Tu peux te désinscrire à tout moment de ces messages via e-mail en suivant le lien de désinscription dans le message en question ou, pour les messages via d’autres canaux, en ajustant tes préférences de communication dans les paramètres de ton compte.
 
-**Cloudflare**
+Vous pouvez choisir dans les paramètres de l’application mobile Parship ou de votre appareil les notifications push que vous souhaitez recevoir de notre part – aussi bien dans le cadre de l’exécution du contrat qu’à des fins publicitaires.
 
-L’utilisation d’un réseau de diffusion de contenu (CDN, Content Delivery Network) nous permet de sécuriser les services en ligne (site web et applications natives) que nous mettons à disposition et d’optimiser leur temps de chargement. Ce CDN est un service de Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, États-Unis. L’utilisation du service Cloudflare exige que les demandes de pages ainsi que le contenu des pages soient acheminés et traités via leurs serveurs. Dans ce contexte, les données sont consolidées en statistiques (cette option ne peut être désactivée).
+Remarque : même si vous choisissez de ne pas recevoir de messages à contenu promotionnel, nous pouvons continuer à vous envoyer des messages transactionnels (par exemple, des informations sur votre compte).
 
-Nous avons conclu avec Cloudflare un accord concernant le traitement des commandes et ce sur la base des c[lauses contractuelles types de la Commission européenne](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) du 04.06.2021, en utilisant des mesures de protection organisationnelles techniques supplémentaires.
+* **Préférences et analyses en matière de cookies et de suivi****.** Nous vous offrons de nombreuses possibilités de gérer vos préférences en matière de cookies, de services d’analyse et de technologies de suivi similaires.
 
-Vous trouverez [ici](https://www.cloudflare.com/fr-fr/privacypolicy/) des informations sur les données collectées par Cloudflare.
+Veuillez également consulter la section correspondante au point 6.
 
-**MaxMind**
+**Remarque:** Les paramètres sont spécifiques à l’appareil et au navigateur. Si vous supprimez ou bloquez ces cookies, il se peut que vous deviez refaire vos réglages pour chaque appareil ou navigateur.
 
-Parship utilise le service de géolocalisation GeoIP2 Precision City de MaxMind, Inc, Waltham, MA, 14 Spring St., Suite 3, Waltham, Massachusetts 02451, USA. À cet égard, les adresses IP sont utilisées afin de déterminer des données approximatives de localisation/géolocalisation en fonction du pays d’origine. Les données **ne sont pas** échangées avec MaxMind. Cliquez [ici](https://www.maxmind.com/en/privacy-policy) pour plus d’informations concernant MaxMind.
+* **Consent Management Platform (CMP).** Les cookies et les technologies de suivi non indispensables ne sont placés ou utilisés qu’après votre consentement. Vous pouvez donner ou révoquer votre consentement à tout moment via notre plateforme de gestion du consentement (CMP). Cela s’applique à tous les utilisateurs ayant leur résidence habituelle dans l’EEE.
 
-**iovation**
+Vous trouverez également de plus amples informations au point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
 
-Pour protéger la plate-forme Parship et les utilisateurs Parship contre les fraudes et les abus, Parship utilise le service de prévention des usages abusifs de la société iovation Inc sise 555 SW Oak Street #300, Portland, OR 97204 aux États-Unis. Lorsque vous accédez à la plate-forme Parship, le service iovation vérifie votre adresse IP, la date et l’heure d’accès, l’URL de référence et les informations du navigateur afin de déterminer la probabilité de fraude. Toutes les données personnelles obtenues par iovation sont pseudonymisées, chiffrées et soumises aux principes de minimisation des données.
+* **Paramètres des cookies dans le navigateur****.** Vous pouvez configurer votre navigateur web de manière à ce que
+    
+    * certains cookies soient bloqués,
+    
+    * Vous êtes averti(e) lorsque des cookies sont installés
+    
+    * ou les cookies sont automatiquement supprimés.
 
-Nous avons conclu un accord avec iovation dans le cadre du contrôle indépendant basé sur les clauses contractuelles types européennes de la Commission européenne du 04/06/2021 (module 1) et des ajouts au contrat nécessaires pour les transferts dans des pays tiers de données à caractère personnel des utilisateurs issus de Suisse ou du Royaume-Uni.
+La plupart des navigateurs proposent des instructions à ce sujet dans la rubrique « Aide ». Veuillez noter que certaines fonctions de notre site web peuvent être limitées si les cookies sont désactivés.
 
-Vous trouverez plus de renseignements sur iovation [ici](https://www.transunion.com/privacy/iovation).
+* **Droits spéciaux dans certaines régions****.** Les résidents de certains pays ou États peuvent avoir des droits supplémentaires en matière de protection des données. Pour plus d’informations, voir le point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
 
-Durée du stockage ; Obligations de conservation
------------------------------------------------
+8\. Durée du stockage et obligations de conservation
+----------------------------------------------------
 
-Nous conservons vos données aussi longtemps que nécessaire pour la mise à disposition de notre offre en ligne (Abonnement Basic / Abonnement Premium) et des prestations et services associés, ou tant que nous avons un intérêt légitime à leur conservation. Dans tous les autres cas, nous supprimerons vos données à caractère personnel, à l’exception des données que nous devons conserver pour nous conformer à tout délai (ex. : fiscal ou commercial) de conservation contractuel ou légal (ex. : factures).
+**Principes généraux**
 
-Nous verrouillons les données, soumises à un délai de conservation, jusqu’à l’écoulement du délai.
+Nous ne conservons vos données personnelles que pendant la durée nécessaire à la fourniture des services de Parship : en particulier dans le cadre de votre adhésion de base ou premium, ou tant que nous avons un intérêt légitime à continuer à les conserver. Au-delà, uniquement dans la mesure où des obligations de conservation légales ou contractuelles exigent une durée de stockage plus longue (par ex. selon les prescriptions du droit fiscal ou commercial).
 
-Pour les Membres Basic, les règles suivantes s’appliquent : vous avez à tout moment la possibilité de vous opposer, avec effet pour l’avenir, au stockage des données à caractère personnel contenues dans votre profil. Si vous ne disposez d’aucun Abonnement Premium ni de Match Unlocks, vous pouvez également supprimer vous-mêmes les données de votre profil (à condition d’avoir finalisé le questionnaire Parship) en vous connectant au site web Parship, ou à l’application iOS ou Android dans la rubrique « Paramètres du profil », et en lançant le processus de suppression. Parship supprime automatiquement les données du profil personnel des membres Basic restés inactifs pendant 24 mois consécutifs.
+Dans tous les autres cas, nous supprimons vos données à caractère personnel ou limitons leur traitement lorsqu’il existe uniquement une obligation d’archivage.
 
-Les données de profil liées aux Match Unlocks sont supprimées après deux ans d’inactivité, ou au plus tard quatre ans après la date d’achat.
+**Règles de conservation spécifiques par affiliation**
 
-Pour les Membres Premium, les règles suivantes s’appliquent : les données à caractère personnel des Membres Premium de Parship sont toujours conservées pendant toute la durée de la relation contractuelle. Si vous ne nous demandez pas de supprimer vos données avant l’expiration de l’Abonnement Premium, votre Abonnement Premium sera converti en Abonnement Basic. Les indications relatives à la durée de conservation des données des membres Basic mentionnées ci-dessus s’appliquent alors.
+Pour les membres de base
 
-Voici une règle qui s’applique à tous les membres : si le nombre de tchats affichés et enregistrés est supérieur à 5 000, passée une durée de 12 mois, nous supprimons les tchats qui entraînent le dépassement de ce chiffre conformément à la réglementation des CGV, et ce, en tenant compte de la date de création des tchats (selon la chronologie d’affichage dans le profil du client), voir aussi le point 7.7 des CGV.
+Vous pouvez à tout moment révoquer l’enregistrement de vos données de profil avec effet pour l’avenir. Si vous ne possédez pas de match unlocks, vous pouvez également supprimer vous-même vos données de profil – à condition d’avoir rempli le questionnaire Parship – via la rubrique « Paramètres du profil », aussi bien sur notre site web que dans notre application.
 
-La désinstallation de l’application Parship sur votre appareil n’entraîne pas la suppression des données de votre profil. Les précisions qui viennent d’être apportées concernant la suppression des données des Membres Basic ou des Membres Premium s’appliquent ici.
+_Suppression automatisée_ : Après 24 mois d’inactivité, le profil ainsi que les données personnelles du profil sont automatiquement supprimés.
 
-Les fichiers journaux (c’est-à-dire par exemple les enregistrements de votre utilisation et de votre interaction avec nous – quel que soit le canal de communication) sont stockés par Parship dans des archives inaccessibles pour une durée de 30 jours, puis supprimés. Les fichiers journaux dont le stockage est nécessaire à des fins de preuve peuvent dans certains cas être transmis aux autorités d’enquête.
+Match Unlocks : toutes les données de profil collectées et traitées dans le cadre de l’achat et de l’utilisation de Match Unlocks sont supprimées au plus tard après 4 ans ou après 2 ans d’inactivité.
 
-Sur votre demande, nous supprimerons vos données, dans la mesure où il n’existe pas d’obligation légale à conserver ces données. Veuillez noter que vos données sont dans un premier temps seulement verrouillé si leur suppression fait obstacle au respect des obligations de conservation.
+Pour les membres Premium
 
-Afin que les personnes concernées puissent faire valoir leurs droits, Parship conserve les données nécessaires à l’exécution ou à la preuve pendant le délai de prescription correspondant.
+Les données personnelles sont enregistrées pendant la durée de l’adhésion Premium. À la fin de celle-ci, si l’utilisateur n’a pas supprimé son profil ou ne nous en a pas fait la demande, le profil est transformé en adhésion de base. Les règles applicables aux membres de base s’appliquent alors.
 
-Êtes-vous obligé(e) de nous transmettre des données à caractère personnel ?
----------------------------------------------------------------------------
+Stockage des messages de chat
 
-En principe, vous n’êtes pas obligé(e) de nous transmettre de données à caractère personnel vous concernant. L’utilisation de certains services associés à notre offre en ligne peut toutefois nécessiter que vous nous transmettiez des données à caractère personnel, dans le cadre d’une inscription ou de la participation à un jeu-concours, par exemple. Si tel est le cas, nous vous en informons séparément), le cas échéant, dans un document de Politique de protection des données pour un éventuel jeu-concours). Les informations obligatoires sont généralement signalées par un astérisque (\*). Si vous ne souhaitez pas nous transmettre les données nécessaires à ces fins, vous ne pourrez malheureusement pas utiliser ces services.
+Si la limite de 5 000 chats enregistrés est dépassée, les chats plus anciens sont supprimés – sur la base de la date d’affichage dans le profil de l’utilisateur (cf. paragraphe 7.7 des CGU).
 
-Vue d’ensemble des droits des personnes concernées
---------------------------------------------------
+**Données techniques et analytiques**
 
-**Comment pouvez-vous faire valoir vos droits ?**
+Cookies et technologies de suivi
 
-Pour faire valoir vos droits, veuillez utiliser les coordonnées figurant dans la section [Contact](https://www.parship.fr/privacypolicy/#pp07) et nous fournir les informations permettant de vous identifier clairement lorsque vous faites valoir vos droits.
+La durée de conservation des cookies et des technologies comparables dépend de leur objectif et de leur fournisseur.
 
-Vous pouvez également utiliser les options de paramétrage de votre profil Parship afin de rectifier les données que vous avez fournies lors de votre inscription, ou pour vous opposer à toute publicité. Ceci ne s’applique pas à certaines informations, comme la date de naissance, qui ne peut être modifiée qu’avec l’aide du service clientèle.
+Vous trouverez un aperçu détaillé dans notre plateforme de gestion du consentement (CMP).
 
-Veuillez noter que vos données sont dans un premier temps seulement verrouillé si leur suppression fait obstacle au respect des obligations de conservation.
+_Remarque_ : Les paramètres des cookies sont spécifiques à l’appareil et au navigateur et doivent éventuellement être réinitialisés après leur suppression.
 
-**Droit d’accès à vos informations et droit de rectification**
+Fichiers journaux (données log)
 
-Vous avez le droit de demander à Parship des informations concernant le traitement par nos soins de données à caractère personnel vous concernant. En outre, vous avez également le droit d’être informé de ces données à caractère personnel et de la catégorie de données stockées, de la finalité du traitement, des éventuels destinataires, de la durée de stockage et de vos droits en tant que personne concernée. Si vos données sont inexactes ou incomplètes, vous pouvez demander qu’elles soient rectifiées ou complétées. Si nous avons transmis vos données à des tiers, nous les informerons de la rectification, dans la mesure où la loi l’exige.
+Les fichiers journaux (par exemple les journaux d’accès, les interactions techniques) sont conservés dans des archives sécurisées pendant 30 jours, puis supprimés. Un stockage plus long n’a lieu que si ces données sont nécessaires dans un cas particulier à des fins de preuve (p. ex. pour la transmission aux autorités d’enquête).
 
-Si vous êtes membre Basic ou Premium de Parship, vous pouvez faire valoir votre droit d’accès à vos informations [ici](https://www.parship.fr/privacypolicy/personaldatainquiry) ([https://www.parship.fr/privacypolicy/personaldatainquiry](https://www.parship.fr/privacypolicy/personaldatainquiry)).
+**Obligations de conservation et processus de suppression**
 
-Si vous consultez le site ou l’application Parship sans y être inscrit(e) en tant que membre, merci d’utiliser les coordonnées indiquées dans la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07) pour faire valoir votre droit d’accès à vos données.
+Les données à caractère personnel soumises à des obligations légales de conservation (par exemple, les données de facturation) sont conservées pendant la durée du délai correspondant, puis supprimées. Pendant cette période, elles sont bloquées et ne sont traitées que pour satisfaire aux obligations légales. Si vous nous demandez de les supprimer et qu’aucune obligation légale ne s’y oppose, vos données à caractère personnel seront supprimées. Dans le cas contraire, elles seront d’abord bloquées, puis supprimées à l’expiration des délais.
 
-**Votre droit à l’effacement**
+**Exercice des droits de la personne concernée**
 
-Si les conditions légales sont remplies, vous pouvez nous **demander de supprimer vos données personnelles sans délai**. C’est notamment le cas si
+À des fins de documentation et de preuve, Parship conserve certaines données personnelles (par exemple en rapport avec des demandes de renseignements ou de suppression) pendant le délai de prescription applicable.
 
-* vos données à caractère personnel ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ;
-* la base juridique du traitement était exclusivement votre consentement et vous l’avez retiré ;
-* Vous vous êtes opposé au traitement à des fins publicitaires (« objection publicitaire ») ;
-* Vous vous êtes opposé au traitement sur la base de la base juridique de la mise en balance des intérêts pour des raisons personnelles et nous ne pouvons pas démontrer qu’il y a des raisons légitimes impérieuses de traitement ;
-* Les données à caractère personnel vous concernant ont fait l‘objet d‘un traitement illicite ; ou
-* les données à caractère personnel vous concernant doivent être effacées pour respecter une obligation légale.
+9\. Liens externes et fonctions de tiers
+----------------------------------------
 
-Veuillez noter que votre droit à l’effacement est soumis à des restrictions.
+Parship peut contenir des liens vers des sites web de tiers, des fonctions intégrées ou des services liés de fournisseurs externes.
 
-Nous sommes en droit de ne pas donner une suite favorable à ce type de demande, si nous traitons les données personnelles pour l’une des raisons suivantes :
+_Note:_ L’accès et l’utilisation de ces offres tierces ne sont pas soumis à la présente note d’information sur la protection des données, mais aux propres directives de protection des données ainsi qu’aux conditions d’utilisation des fournisseurs tiers concernés. Nous n’avons aucun contrôle sur le contenu ou les pratiques de protection des données de ces tiers et n’assumons donc aucune responsabilité quant à la collecte, au traitement ou à la transmission de vos données personnelles par ces tiers externes. Nous vous recommandons expressément de lire attentivement la politique de confidentialité de ces sites ou fonctions avant de les utiliser.
 
-* pour l’exécution d’une mission d’intérêt public ou l’exercice de l’autorité publique ;
-* à des fins d’archivage dans l’intérêt public, de recherche scientifique ou historique ou à des fins statistiques ;
-* dans une démarche visant à faire valoir ou défendre des droits légaux.
+10\. Sécurité
+-------------
 
-Si vous ne possédez pas d’Abonnement Premium ou de Match Unlocks, vous pouvez également supprimer vous-même les données de votre Abonnement Basic chez Parship (à condition que vous ayez finalisé le questionnaire Parship). Pour ce faire, connectez-vous à votre profil sur le site web de Parship ou dans l’appli iOS ou Android de Parship, et supprimez votre profil sous Mes données / Gestion de mon profil. Les Membres Basic peuvent également contacter le service clientèle et demander la suppression de leurs données. Veuillez pour ce faire utiliser les coordonnées de la rubrique [Contact](https://www.parship.fr/privacypolicy/#pp07). La suppression des données dans le cadre d’un abonnement Premium ou d’un Abonnement Basic avec des Match Unlocks actifs ne peut être effectuée que par l’intermédiaire du service clientèle de Parship. Veuillez noter que vos données sont dans un premier temps seulement verrouillées si leur suppression fait obstacle au respect des obligations de conservation.
+Nous avons pris des mesures techniques et organisationnelles appropriées pour protéger les données à caractère personnel que nous traitons contre la perte, l’utilisation abusive, l’accès non autorisé, la divulgation, la modification ou la destruction. Ces mesures de sécurité s’appuient sur l’état de la technique et sont régulièrement contrôlées et développées.
 
-**Votre droit à la limitation du traitement**
+Veuillez toutefois noter que, malgré tout le soin apporté, aucun système de sécurité ne peut garantir une sécurité absolue. La transmission de données via Internet (par ex. lors de la communication par e-mail) peut présenter des failles de sécurité sur lesquelles nous n’avons aucune influence.
 
-Si les conditions légales sont remplies, vous pouvez nous demander de limiter le traitement de vos données. C’est notamment le cas si
+Nous vous recommandons donc de toujours traiter les informations sensibles avec soin et de prendre également vos propres mesures de protection lors de l’utilisation de Parship (par ex. mots de passe sûrs, versions actuelles des logiciels).
 
-* vous contestez l‘exactitude des données à caractère personnel, pendant une durée nous permettant de vérifier leur exactitude ;
-* le traitement n’est pas licite et vous exigez une limitation du traitement au lieu de l’effacement (voir section précédente) ;
-* nous n’avons plus besoin des données à caractère personnel aux fins du traitement, mais celles-ci nous sont encore nécessaires pour faire valoir, exercer ou défendre vos droits légaux ;
-* Vous vous êtes opposé pour des raisons personnelles, et ensuite jusqu’à ce qu’il soit établi si vos intérêts prévalent.
+11\. Protection de la vie privée des enfants et des jeunes
+----------------------------------------------------------
 
-Vous pouvez également utiliser les options de paramétrage de votre profil Parship afin de rectifier les données que vous avez fournies lors de votre inscription ou pour vous opposer à toute publicité. Ceci ne s’applique pas à certaines informations qui ne peuvent être modifiées qu’avec l’aide du service clientèle.
+Parship ne s’adresse **pas aux enfants ou adolescents de moins de dix-huit (18) ans**. Nous ne collectons pas sciemment des données personnelles de mineurs dans cette tranche d’âge.
 
-**Votre droit à la portabilité des données**
+Si nous constatons que les données personnelles d’une personne de moins de 18 ans ont été traitées sans le consentement vérifiable de ses parents ou de son tuteur, nous prendrons immédiatement les mesures appropriées pour supprimer ces données.
 
-Vous avez le droit de recevoir, **sous une forme transférable**, les données à caractère personnel que vous nous avez communiquées pour l’exécution du contrat ou sur la base de votre consentement. Dans ce cas, vous pouvez également nous demander de transmettre ces données directement à un tiers, dans la mesure où ceci est techniquement possible.
+Si vous êtes un parent ou une personne ayant la garde de l’enfant et que vous pensez que nous avons traité des données personnelles de votre enfant sans le consentement approprié, nous vous demandons de nous en informer en utilisant les coordonnées ci-dessous.
 
-**Votre droit de retirer un consentement**
+12\. Modifications de la présente déclaration de confidentialité
+----------------------------------------------------------------
 
-Si vous nous avez donné votre consentement au traitement de vos données, vous pouvez **retirer ce consentement** à tout moment avec effet pour l’avenir. La licéité du traitement de vos données jusqu’au retrait n’est pas affectée. Vous nous avez fourni des données sur votre orientation sexuelle (sexe et sexe de la personne recherchée). Vous pouvez retirer ce consentement à tout moment avec effet pour l’avenir. La licéité du traitement de vos données jusqu’au retrait n’en est pas affectée. À partir du moment où vous révoquez le traitement de vos données concernant votre orientation sexuelle, aucune proposition de partenaire ne peut vous être faite tant que vous n’avez pas à nouveau consenti au traitement des données concernant votre orientation sexuelle et, du fait de votre révocation, Parship ne peut fournir ses services, comme décrits dans ses CGU.
+La présente déclaration de confidentialité s’applique à compter de la date susmentionnée. Nous nous réservons le droit de modifier, d’actualiser ou de compléter cette déclaration de temps à autre afin de l’adapter aux évolutions juridiques, techniques ou commerciales.
 
-**Votre droit d’opposition au marketing direct**
+Nous vous recommandons de consulter régulièrement ces informations sur la protection des données afin de vous tenir au courant des éventuelles modifications.
 
-**Vous pouvez également vous opposer à tout moment au traitement de vos données personnelles à des fins publicitaires (« objection publicitaire »). Veuillez noter que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre opposition et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.**
+Toutes les mises à jour seront publiées ici.
 
-**Vous pouvez également utiliser les options de paramétrage de votre profil, auquel vous pouvez accéder via le [site web de Parship](https://www.parship.fr/settings/notificationoptions), afin de rectifier les données que vous avez fournies lors de votre inscription ou pour vous opposer à la publicité.**
+13\. Informations supplémentaires sur la protection des données pour certaines juridictions
+-------------------------------------------------------------------------------------------
 
-**Votre droit d’opposition pour des raisons personnelles**
+Les résidents de certains pays ou régions ont des droits supplémentaires en vertu des lois sur la protection des données en vigueur, que nous expliquons ci-dessous :
 
-**Vous avez le droit de vous opposer au traitement des données par nos soins pour des raisons liées à votre situation particulière, dans la mesure où ceci est fondé sur la base légale d’un intérêt légitime. Nous cesserons alors de traiter vos données, sauf si nous pouvons, conformément aux dispositions légales en vigueur, justifier de raisons impérieuses et légitimes pour la poursuite du traitement qui l’emportent sur vos droits.**
+### A. Espace économique européen (EEE)
 
-**Droit d’introduire une réclamation auprès d’une autorité de contrôle**
+Si vous résidez dans un État membre de l’Union européenne ou de l’Espace économique européen, vous disposez des droits suivants en vertu du règlement général sur la protection des données (RGPD), pour autant que les conditions légales correspondantes soient remplies :
 
-Vous avez le droit d’introduire une réclamation auprès d’une autorité de protection des données. Vous pouvez pour ce faire vous adresser à l’autorité de protection des données compétente pour votre lieu de résidence, région ou département, ou l’autorité de protection des données compétente pour Parship. Il s’agit de:
+**Droit d’accès (art. 15 du RGPD)**
 
-Ville libre et hanséatique de Hambourg, Commissaire de Hambourg pour la protection des données et la liberté de l’information, e-mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de).
+Vous avez le droit de demander si et dans quelle mesure nous traitons des données à caractère personnel vous concernant. Sur demande, nous vous fournirons une copie de ces données, à condition qu’il ne soit pas porté atteinte aux droits de tiers ou que des exceptions légales ne s’y opposent pas.
 
-Plugins sociaux
----------------
+Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
 
-L’intégration de plug-ins de réseaux sociaux entraîne généralement l’enregistrement de cookies par les fournisseurs de ces plug-ins. Cependant, les boutons de réseaux sociaux sur la plate-forme Parship ne contiennent que des liens textuels vers les sites des réseaux sociaux respectifs, il ne s’agit pas de plug-ins de réseaux sociaux. Parship ne transférera donc aucune donnée au fournisseur de réseau social concerné. L’opérateur du site de réseau social est responsable du respect de la réglementation en matière de protection des données. Pour de plus amples informations, veuillez vous référer à la politique de protection des données qui y figure.
+**Droit de rectification (art. 16 du RGPD)**.
 
-Cookies et autres technologies de suivi
----------------------------------------
+Vous pouvez demander que les données à caractère personnel inexactes soient rectifiées. Il est également possible de compléter des données incomplètes.
 
-Vous trouverez des informations sur les cookies et les autres technologies de suivi utilisées sur notre site web et dans notre application dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking). Dans la mesure où des données à caractère personnel sont traitées dans le cadre de processus utilisant des technologies de suivi, vous y trouverez également des informations détaillées sur les finalités poursuivies. Vous trouverez également les informations sur la manière dont vous pouvez vous opposer à un tel traitement dans nos [Informations sur les cookies et les technologies de suivi](https://www.parship.fr/cookiesandtracking).
+**Droit à l’effacement (« droit à l’oubli », article 17 du RGPD)**.
+
+Vous pouvez demander la suppression de vos données à caractère personnel, notamment si :
+
+* les données ne sont plus nécessaires aux fins initiales,
+* Vous avez révoqué votre consentement et qu’il n’existe pas d’autre base juridique,
+* Vous vous êtes opposé au traitement,
+* les données ont été traitées illégalement,
+* il existe une obligation légale de suppression.
+
+Exception : le droit à l’effacement ne s’applique pas si le traitement est nécessaire au respect d’obligations légales ou à la constatation, à l’exercice ou à la défense de droits en justice.
+
+**Droit à la limitation du traitement (art. 18 RGPD)**.
+
+Vous pouvez demander la limitation du traitement de vos données si :
+
+* Vous contestez l’exactitude des données (pour la durée de l’examen),
+* le traitement est illicite, mais vous ne souhaitez pas qu’il soit effacé,
+* nous n’avons plus besoin de ces données, mais vous en avez besoin pour vous défendre en justice,
+* Vous vous êtes opposé(e) à un traitement fondé sur des intérêts légitimes et qu’une mise en balance est en cours.
+
+**Droit à la portabilité des données (art. 20 RGPD)**.
+
+Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et de les transmettre à un autre responsable du traitement, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit automatisé.
+
+**Droit de retrait du consentement (article 7, paragraphe 3, du RGPD)**.
+
+Vous pouvez révoquer à tout moment le consentement que vous nous avez donné, avec effet pour l’avenir. La légalité du traitement effectué jusqu’à la révocation n’en est pas affectée.
+
+**Droit d’opposition (art. 21 du RGPD)**.
+
+Vous avez le droit de vous opposer, pour des raisons tenant à votre situation particulière, au traitement de vos données sur la base d’intérêts légitimes.
+
+Dans ce cas, nous ne traitons plus vos données, sauf si nous pouvons prouver qu’il existe des raisons impérieuses et légitimes.
+
+**Droit d’opposition au marketing direct**
+
+En outre, vous avez le droit absolu de vous opposer à tout moment au traitement de vos données personnelles à des fins de marketing direct, auquel cas nous n’utiliserons plus vos données à des fins publicitaires.
+
+_Remarque_ : Veuillez tenir compte du fait que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+
+Vous pouvez également vous opposer à tout moment au traitement de vos données personnelles à des fins publicitaires (« opposition à la publicité »). Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+
+Alternativement, pour corriger les données que vous avez fournies lors de votre inscription ou pour vous opposer à la publicité, vous pouvez utiliser les options de paramétrage de votre profil, accessibles via le site web de Parship.
+
+**Droit de recours auprès d’une autorité de contrôle (art. 77 RGPD)**.
+
+Vous avez le droit de déposer une plainte auprès d’une autorité de contrôle de la protection des données si vous estimez que le traitement de vos données personnelles enfreint le RGPD.
+
+**L’autorité de surveillance compétente pour nous est :**.
+
+**Le délégué hambourgeois à la protection des données et à la liberté d’information**.
+
+Ludwig-Erhard-Str. 22  
+20459 Hambourg  
+**mailbox@datenschutz.hamburg.de**  
+www.datenschutz-hamburg.de
+
+### B. Royaume-Uni (UK GDPR et Data (Use and Access) Act 2025)
+
+Si vous résidez habituellement au Royaume-Uni (UK), vous disposez des droits suivants en vertu du UK GDPR, transposé dans le droit britannique par la section 3 de la loi britannique de 2018 sur le retrait de l’Union européenne (Withdrawal), et des autres lois britanniques applicables en matière de protection des données, telles que le Data (Use and Access) Act 2025, pour autant que les conditions légales respectives soient remplies :
+
+**Droit à l’information (droit d’accès) (art. 15 UK GDPR)**
+
+Vous avez le droit de demander la confirmation que nous traitons ou non des données à caractère personnel vous concernant, ainsi que d’obtenir une copie de ces données (ce que l’on appelle une Data Subject Access Request – DSAR).
+
+Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
+
+**Droit de rectification (art. 16 UK GDPR)**
+
+Vous avez le droit de faire rectifier les données à caractère personnel inexactes et de demander que les données incomplètes soient complétées.
+
+**Droit à l’effacement (« droit à l’oubli ») (art. 17 UK GDPR)**.
+
+Vous pouvez demander la suppression de vos données personnelles dans certaines conditions, par exemple lorsque
+
+* le traitement n’est plus nécessaire,
+* Vous avez retiré votre consentement,
+* Les données ont été traitées illégalement
+* ou si vous vous êtes opposé au marketing direct ou au traitement sur la base d’intérêts légitimes.
+
+Des exceptions s’appliquent notamment en cas d’obligations légales de conservation ou pour l’exercice de droits légaux.
+
+**Droit à la limitation du traitement (art. 18 UK GDPR)**.
+
+Vous avez le droit, dans certaines conditions, de nous demander de limiter le traitement de vos données. Dans ce cas, nous continuerons à enregistrer vos données, mais nous ne les traiterons plus.
+
+Ce droit s’applique notamment lorsque :
+
+* Vous contestez l’exactitude des données (pour la durée de la vérification),
+* le traitement est illicite, mais qu’aucun effacement n’est souhaité,
+* les données ne sont plus nécessaires, mais sont nécessaires pour faire valoir des droits,
+* ou si une opposition a été formulée conformément à l’article 21 UK GDPR et est encore en cours d’examen.
+
+**Droit de s’opposer au traitement (art. 21 UK GDPR)**.
+
+Vous avez le droit de vous opposer, pour des raisons tenant à votre situation particulière, au traitement de vos données sur la base d’intérêts légitimes.
+
+Dans ce cas, nous ne traitons plus vos données, sauf si nous pouvons prouver qu’il existe des raisons impérieuses et légitimes.
+
+**Droit d’opposition au marketing direct**
+
+En outre, vous avez le droit absolu de vous opposer à tout moment au traitement de vos données personnelles à des fins de marketing direct, auquel cas nous n’utiliserons plus vos données à des fins publicitaires.
+
+Remarque : veuillez tenir compte du fait que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+
+Vous pouvez également vous opposer à tout moment au traitement de vos données personnelles à des fins publicitaires (« opposition à la publicité »). Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+
+Alternativement, pour corriger les données que vous avez fournies lors de votre inscription ou pour vous opposer à la publicité, vous pouvez utiliser les options de paramétrage de votre profil, accessibles via le site web de Parship.
+
+**Droit à la portabilité des données (art. 20 UK GDPR)**.
+
+Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et – si cela est techniquement possible – de les faire transmettre directement à un autre responsable, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit automatisé.
+
+**Droit de retrait du consentement (art. 7, par. 3, RGPD britannique)**
+
+Vous pouvez révoquer votre consentement à tout moment avec effet pour l’avenir. La légalité du traitement jusqu’au moment de la révocation n’est pas affectée.
+
+**Exercice de vos droits**
+
+Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions sur le traitement de vos données, veuillez nous contacter en utilisant les moyens indiqués à la section 14 : Contact. Veuillez fournir suffisamment d’informations pour vous identifier.
+
+**Représentant au Royaume-Uni**
+
+Conformément à l’art. 27 UK GDPR, nous avons désigné le représentant britannique suivant :
+
+**eHarmony UK Ltd**
+
+3rd Floor, 1 Ashley Road  
+Altrincham, Cheshire WA14 2DT  
+United Kingdom
+
+**Transfert international de données**
+
+Pour plus d’informations sur les transferts de données en dehors du Royaume-Uni et les mesures de protection mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.
+
+**Droit de recours auprès de l’autorité de contrôle (art. 77 UK GDPR)**.
+
+Vous avez le droit de déposer une plainte auprès de l’autorité de contrôle britannique compétente en matière de protection des données :
+
+**Information Commissioner’s Office (ICO)**  
+Wycliffe House, Water Lane  
+Wilmslow, Cheshire SK9 5AF  
+**casework@ico.org.uk**  
+[www.ico.org.uk](http://www.ico.org.uk/)
+
+### C. Suisse (nLPD)
+
+Si vous résidez en Suisse, vous disposez des droits suivants, conformément à la nouvelle loi suisse sur la protection des données (nLPD), pour autant que les conditions légales soient remplies :
+
+**Droit d’accès (art. 25 nLPD)**
+
+Vous avez le droit de savoir si nous traitons des données personnelles vous concernant et lesquelles. Vous pouvez également demander une copie de ces données.
+
+Des exceptions à ce droit peuvent s’appliquer si des intérêts prépondérants de tiers ou des exceptions légales sont concernés.
+
+Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
+
+**Droit d’être autorisé (art. 32 nLPD)**
+
+Vous avez le droit de nous demander de rectifier des données à caractère personnel inexactes ou, si les données sont incomplètes, de les compléter.
+
+**Droit à l’effacement (« droit à l’oubli ») (art. 30 nLPD)**.
+
+Dans certaines conditions, vous pouvez demander la suppression de vos données à caractère personnel. C’est notamment le cas lorsque
+
+* les données ne sont plus nécessaires pour la finalité initiale,
+* Vous avez retiré votre consentement,
+* le traitement a été effectué de manière illicite,
+* ou si vous vous êtes opposé au traitement.
+
+La suppression peut être refusée si, par exemple, il existe des obligations légales de conservation, si les données sont nécessaires à l’exercice de la liberté d’expression ou à la défense des droits ou s’il existe d’autres motifs prévus par la loi.
+
+**Droit à la limitation du traitement (art. 32, al. 2, let. c, nLPD)**.
+
+Vous pouvez nous demander de restreindre le traitement de vos données à caractère personnel si :
+
+* l’exactitude des données est contestée,
+* le traitement est illégal, mais qu’aucune suppression n’est souhaitée,
+* les données ne sont plus nécessaires, mais vous en avez besoin pour des droits légaux,
+* ou si vous avez fait opposition et que la mise en balance des intérêts n’est pas encore terminée.
+
+**Droit d’opposition au traitement (art. 30, al. 2, let. b, nLPD)**.
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles, notamment lorsque celui-ci est fondé sur un intérêt privé ou public prépondérant ou qu’il est effectué dans le cadre d’une activité officielle.
+
+**Droit d’opposition au marketing direct (art. 30, al. 2, let. b, nLPD en relation avec l’art. 3, let. o, nLPD)**.
+
+Vous pouvez à tout moment vous opposer à l’utilisation de vos données personnelles à des fins publicitaires.
+
+Remarque : veuillez noter que, pour des raisons d’organisation, il peut y avoir des chevauchements avec des campagnes déjà en cours.
+
+**Droit à la restitution ou à la portabilité des données (art. 28 nLPD)**.
+
+Vous pouvez demander que nous vous remettions certaines données à caractère personnel que vous nous avez fournies dans un format électronique courant ou que nous les transférions à un tiers, à condition que
+
+* le traitement est automatisé,
+* et repose sur un consentement ou un contrat.
+
+**Exercice de vos droits**
+
+Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions concernant le traitement de vos données à caractère personnel, veuillez nous contacter en utilisant les moyens indiqués à la section 14 : Contact. Veuillez vous assurer que vous fournissez suffisamment d’informations pour que nous puissions confirmer clairement votre identité.
+
+**Représentants en Suisse**
+
+Conformément à l’article 14 de la nLPD, nous avons désigné le représentant suivant en Suisse :
+
+**Treforma AG c/o MLL Legal**
+
+Grabenstrasse 25  
+6340 Baar  
+Suisse  
+[**pedigital@dsg-mll.com**](mailto:pedigital@dsg-mll.com)
+
+**Transfert international de données**
+
+**Pour plus d’informations sur les transferts internationaux de données et les mesures de protection mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.**
+
+**Droit de recours auprès de l’autorité de surveillance (art. 49 nLPD)**.
+
+Vous avez le droit de déposer une plainte auprès de l’autorité de surveillance compétente en matière de protection des données en Suisse :
+
+**Préposé fédéral à la protection des données et à la transparence (PFPDT)**  
+[**Formulaire de contact du PFPDT**](https://www.edoeb.admin.ch/de/anzeigeformular-betroffene)  
+[www.edoeb.admin.ch](http://www.edoeb.admin.ch/)
