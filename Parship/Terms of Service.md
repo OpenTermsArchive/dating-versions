@@ -21,19 +21,19 @@ Dernière mise à jour : 02.09.2025
 
 **Contenu**
 
-1. [Objet du contrat](https://www.parship.fr/termsandconditions/#tc01)
-2. [Accès/Conclusion du contrat](https://www.parship.fr/termsandconditions/#tc02)
-3. [Services gratuits et payants](https://www.parship.fr/termsandconditions/#tc03)
-4. [Politique de protection des données, sécurité lors de l’utilisation, messages indésirables non sollicités](https://www.parship.fr/termsandconditions/#tc04)
-5. [Résiliation/Renouvellement](https://www.parship.fr/termsandconditions/#tc05)
-6. [Responsabilité de Parship](https://www.parship.fr/termsandconditions/#tc06)
-7. [Responsabilité et devoirs du client](https://www.parship.fr/termsandconditions/#tc07)
-8. [Communication](https://www.parship.fr/termsandconditions/#tc08)
-9. [Droits d’usage et droits d’auteur](https://www.parship.fr/termsandconditions/#tc09)
-10. [Droit applicable](https://www.parship.fr/termsandconditions/#tc10)
-11. [Droit de rétractation](https://www.parship.fr/termsandconditions/#tc11)
-12. [Divers](https://www.parship.fr/termsandconditions/#tc12)
-13. [Modèle de formulaire de rétractation](https://www.parship.fr/termsandconditions/#widerruf)
+1.  [Objet du contrat](https://www.parship.fr/termsandconditions/#tc01)
+2.  [Accès/Conclusion du contrat](https://www.parship.fr/termsandconditions/#tc02)
+3.  [Services gratuits et payants](https://www.parship.fr/termsandconditions/#tc03)
+4.  [Politique de protection des données, sécurité lors de l’utilisation, messages indésirables non sollicités](https://www.parship.fr/termsandconditions/#tc04)
+5.  [Résiliation/Renouvellement](https://www.parship.fr/termsandconditions/#tc05)
+6.  [Responsabilité de Parship](https://www.parship.fr/termsandconditions/#tc06)
+7.  [Responsabilité et devoirs du client](https://www.parship.fr/termsandconditions/#tc07)
+8.  [Communication](https://www.parship.fr/termsandconditions/#tc08)
+9.  [Droits d’usage et droits d’auteur](https://www.parship.fr/termsandconditions/#tc09)
+10.  [Droit applicable](https://www.parship.fr/termsandconditions/#tc10)
+11.  [Droit de rétractation](https://www.parship.fr/termsandconditions/#tc11)
+12.  [Divers](https://www.parship.fr/termsandconditions/#tc12)
+13.  [Modèle de formulaire de rétractation](https://www.parship.fr/termsandconditions/#widerruf)
 
 1 Objet du contrat
 ------------------
@@ -76,13 +76,13 @@ Dernière mise à jour : 02.09.2025
 
 3.6 Parship se réserve le droit de modifier les services proposés par ses soins pour des raisons valables et sans facturer de frais supplémentaires pour le client, ou bien d’offrir des services différents,
 
-* dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
-* dans la mesure où Parship se conforme ainsi à une décision de justice ou une décision des autorités prise à son encontre ;
-* dans la mesure où la modification est nécessaire afin de remédier à des failles de sécurité existantes ;
-* à un nouvel environnement technique ou à une evolution du nombre accru d’utilisateurs pour les adapter ;
-* lorsque cela est nécessaire pour des raisons opérationnelles importantes ;
-* pour maintenir la conformité contractuelle du service, notamment pour répondre aux exigences actuelles du marché concernant les services du même type ; ou
-* si la modification est de nature purement technique ou procédurale sans effet significatif sur l’utilisateur, comme c’est notamment le cas des changements purement graphiques et des petites modifications de l’agencement des fonctionnalités.
+*   dans la mesure où Parship est tenu de s’assurer que les services qu’il propose sont conformes au droit applicable aux services, notamment en cas d’évolution de la législation en vigueur ;
+*   dans la mesure où Parship se conforme ainsi à une décision de justice ou une décision des autorités prise à son encontre ;
+*   dans la mesure où la modification est nécessaire afin de remédier à des failles de sécurité existantes ;
+*   à un nouvel environnement technique ou à une evolution du nombre accru d’utilisateurs pour les adapter ;
+*   lorsque cela est nécessaire pour des raisons opérationnelles importantes ;
+*   pour maintenir la conformité contractuelle du service, notamment pour répondre aux exigences actuelles du marché concernant les services du même type ; ou
+*   si la modification est de nature purement technique ou procédurale sans effet significatif sur l’utilisateur, comme c’est notamment le cas des changements purement graphiques et des petites modifications de l’agencement des fonctionnalités.
 
 Vous trouverez des informations sur les adaptations et les améliorations de l’expérience produit Parship dans nos [mises à jour de produits](https://www.parship.fr/updates/).
 
