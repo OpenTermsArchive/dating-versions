@@ -8,11 +8,11 @@ Résumé
 
 Merci de bien vouloir lire attentivement l'intégralité des présentes Conditions générales d'utilisation car elles s'appliquent lors de chaque connexion au site Badoo et dès que vous y utilisez l’une de ses fonctionnalités. Voici un résumé des points essentiels abordés :
 
-1. L’accès à Badoo est interdit aux personnes physiques de moins de 18 ans car c’est un réseau social réservé aux adultes.
-2. La société Badoo ne peut être tenue pour responsable de l’ensemble des publications ou déclarations faites sur le site. Nous ne surveillons pas le contenu publié sur le site. Toutefois, si nous remarquons ou si un utilisateur nous signale du contenu que nous jugeons inapproprié, nous nous réservons le droit de le supprimer.
-3. Si vous publiez du contenu ne vous appartenant pas, sans l’aval de son propriétaire et que ce dernier s’y oppose (ou fait appel à un avocat), notre responsabilité ne saurait être engagée. Vous devez assumer l’entière responsabilité de ce que vous publiez.
-4. Veuillez également consulter notre charte de la communauté et nos conseils sur la sécurité pour de plus amples informations sur la protection de votre vie privée.
-5. Pour savoir comment Badoo utilise vos données personnelles, veuillez consulter notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/). Vous y trouverez des informations sur la manière dont nous traitons vos données personnelles et protégeons votre confidentialité lorsque vous utilisez Badoo. En utilisant Badoo, vous acceptez que nous utilisions de telles données conformément à notre Politique de confidentialité. Notre site web et nos applications utilisent également des cookies ou des technologies similaires. Pour en savoir plus sur ces derniers, rendez-vous sur la page de notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/privacy/#cookies). Vous avez toujours la possibilité de bloquer les cookies et autres stockages de données dans votre navigateur ou dans les paramètres de votre mobile, mais cela pourrait restreindre votre accès à certaines fonctionnalités de Badoo.
+1.  L’accès à Badoo est interdit aux personnes physiques de moins de 18 ans car c’est un réseau social réservé aux adultes.
+2.  La société Badoo ne peut être tenue pour responsable de l’ensemble des publications ou déclarations faites sur le site. Nous ne surveillons pas le contenu publié sur le site. Toutefois, si nous remarquons ou si un utilisateur nous signale du contenu que nous jugeons inapproprié, nous nous réservons le droit de le supprimer.
+3.  Si vous publiez du contenu ne vous appartenant pas, sans l’aval de son propriétaire et que ce dernier s’y oppose (ou fait appel à un avocat), notre responsabilité ne saurait être engagée. Vous devez assumer l’entière responsabilité de ce que vous publiez.
+4.  Veuillez également consulter notre charte de la communauté et nos conseils sur la sécurité pour de plus amples informations sur la protection de votre vie privée.
+5.  Pour savoir comment Badoo utilise vos données personnelles, veuillez consulter notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/fr/privacy/). Vous y trouverez des informations sur la manière dont nous traitons vos données personnelles et protégeons votre confidentialité lorsque vous utilisez Badoo. En utilisant Badoo, vous acceptez que nous utilisions de telles données conformément à notre Politique de confidentialité. Notre site web et nos applications utilisent également des cookies ou des technologies similaires. Pour en savoir plus sur ces derniers, rendez-vous sur la page de notre [Politique de confidentialité (ouvre une nouvelle fenêtre)](https://badoo.com/privacy/#cookies). Vous avez toujours la possibilité de bloquer les cookies et autres stockages de données dans votre navigateur ou dans les paramètres de votre mobile, mais cela pourrait restreindre votre accès à certaines fonctionnalités de Badoo.
 
 Mentions légales complètes
 --------------------------
@@ -42,19 +42,19 @@ Vous pouvez publier ou télécharger toutes sortes de choses sur Badoo, y compri
 
 Il existe cependant certaines règles concernant ce qui est acceptable, ainsi lorsque vous utilisez Badoo, vous ne pouvez pas publier, envoyer ou télécharger un contenu qui :
 
-1. est illégal ou encourage, fait la promotion ou incite à des activités illégales ;
-2. nuit aux mineurs ;
-3. est diffamatoire ou calomnieux ;
-4. en soi ou par sa publication, porte atteinte aux droits d'un tiers (y compris, mais sans s'y limiter, les droits de propriété intellectuelle et les droits relatifs à la vie privée) ;
-5. montre une autre personne alors que cette personne n’y a pas consenti ;
-6. contient un langage et/ou des images qui pourraient être considérés comme offensants ou qui sont de nature à harceler, perturber, embarrasser, effrayer ou gêner toute autre personne ;
-7. est obscène, pornographique, violent ou qui est susceptible de porter atteinte à la dignité humaine de quelque manière que ce soit ;
-8. est abusif, insultant ou menaçant, discriminatoire ou qui fait la promotion, décrit ou encourage le racisme, le sexisme, la haine ou le sectarisme ;
-9. est associé à des activités commerciales (y compris, sans s'y limiter, les ventes, les concours et la publicité, les liens vers d'autres sites web ou les numéros de téléphone surtaxés) ;
-10. implique la transmission de courriers électroniques indésirables ou de « spams » ;
-11. usurpe l'identité d'une personne, a l'intention de la tromper ou de la manipuler (y compris, sans s'y limiter, les escroqueries et les comportements malhonnêtes) ;
-12. contient des logiciels espions, des logiciels publicitaires, des virus, des fichiers corrompus, des vers informatiques ou d'autres codes malveillants conçus pour interrompre, endommager ou limiter la fonctionnalité de tout logiciel, matériel, télécommunication, réseau, serveur ou autre équipement, un cheval de Troie ou tout autre matériel conçu pour endommager, interférer, intercepter indûment ou exproprier des données ou des données personnelles, qu'elles proviennent de Badoo ou d'une autre source ; ou
-13. qui viole ces Conditions.
+1.  est illégal ou encourage, fait la promotion ou incite à des activités illégales ;
+2.  nuit aux mineurs ;
+3.  est diffamatoire ou calomnieux ;
+4.  en soi ou par sa publication, porte atteinte aux droits d'un tiers (y compris, mais sans s'y limiter, les droits de propriété intellectuelle et les droits relatifs à la vie privée) ;
+5.  montre une autre personne alors que cette personne n’y a pas consenti ;
+6.  contient un langage et/ou des images qui pourraient être considérés comme offensants ou qui sont de nature à harceler, perturber, embarrasser, effrayer ou gêner toute autre personne ;
+7.  est obscène, pornographique, violent ou qui est susceptible de porter atteinte à la dignité humaine de quelque manière que ce soit ;
+8.  est abusif, insultant ou menaçant, discriminatoire ou qui fait la promotion, décrit ou encourage le racisme, le sexisme, la haine ou le sectarisme ;
+9.  est associé à des activités commerciales (y compris, sans s'y limiter, les ventes, les concours et la publicité, les liens vers d'autres sites web ou les numéros de téléphone surtaxés) ;
+10.  implique la transmission de courriers électroniques indésirables ou de « spams » ;
+11.  usurpe l'identité d'une personne, a l'intention de la tromper ou de la manipuler (y compris, sans s'y limiter, les escroqueries et les comportements malhonnêtes) ;
+12.  contient des logiciels espions, des logiciels publicitaires, des virus, des fichiers corrompus, des vers informatiques ou d'autres codes malveillants conçus pour interrompre, endommager ou limiter la fonctionnalité de tout logiciel, matériel, télécommunication, réseau, serveur ou autre équipement, un cheval de Troie ou tout autre matériel conçu pour endommager, interférer, intercepter indûment ou exproprier des données ou des données personnelles, qu'elles proviennent de Badoo ou d'une autre source ; ou
+13.  qui viole ces Conditions.
 
 Veuillez faire preuve de bon sens dans le choix du contenu que vous décidez de publier sur Badoo, de télécharger ou d'envoyer par l'intermédiaire de Badoo, car vous êtes seul(e) responsable de ce contenu et en assumez l'entière responsabilité.
 
@@ -91,9 +91,9 @@ Oui, à condition que vous en soyez le propriétaire légitime (merci de prendre
 
 En publiant ou en envoyant du Contenu sur Badoo, vous déclarez et garantissez :
 
-1. en être l'auteur ou le propriétaire exclusif, et en tous cas vous renoncez à tout droit moral en rapport avec le Contenu (ce qui inclut, sans s'y limiter, tous les droits d'identification en tant qu'auteur) ;
-2. détenir l'autorisation ou la licence appropriée pour utiliser ou publier le Contenu ;
-3. détenir le consentement ou l'autorité pour utiliser ou publier le Contenu ;
+1.  en être l'auteur ou le propriétaire exclusif, et en tous cas vous renoncez à tout droit moral en rapport avec le Contenu (ce qui inclut, sans s'y limiter, tous les droits d'identification en tant qu'auteur) ;
+2.  détenir l'autorisation ou la licence appropriée pour utiliser ou publier le Contenu ;
+3.  détenir le consentement ou l'autorité pour utiliser ou publier le Contenu ;
 
 En publiant du Contenu sur Badoo, vous nous garantissez avoir le droit de le faire, et vous nous accordez automatiquement une licence non exclusive, libre de droits, perpétuelle et internationale pour utiliser ce Contenu de quelque façon que ce soit (y compris, mais sans s’y limiter, via l'édition, la copie, la modification, l’adaptation, la traduction, le reformatage, la création d'œuvres dérivées, l'intégration dans d'autres œuvres, la publicité, la distribution et toute autre forme de mise à la disposition du public de ce Contenu, que ce soit en tout ou en partie et dans n'importe quel format ou sur n’importe quel support existant ou mis au point à l’avenir).
 
@@ -254,14 +254,14 @@ Non. Vous êtes l'unique responsable de vos agissements sur notre site envers le
 
 Rien dans les Conditions générales ne limite ou n’exclut notre responsabilité :
 
-1. en cas de décès ou de blessures corporelles résultant de notre négligence avérée ; ou
-2. fraude ou représentation frauduleuse ; ou
-3. pour toute responsabilité qui ne peut pas être exclue ou limitée en vertu de la loi.
+1.  en cas de décès ou de blessures corporelles résultant de notre négligence avérée ; ou
+2.  fraude ou représentation frauduleuse ; ou
+3.  pour toute responsabilité qui ne peut pas être exclue ou limitée en vertu de la loi.
 
 Dans la mesure de ce qui est permis par la loi, Badoo exclut expressément :
 
-1. toutes les déclarations, garanties et autres conditions qui pourraient être sous-entendues par la loi, la common law ou les règles d'équité ; et
-2. toute responsabilité encourue par vous, découlant de votre utilisation de Badoo, de ses services ou des présentes Conditions, y compris, mais sans s’y limiter, les réclamations, frais, demandes, dommages, responsabilités, pertes ou dépenses de quelque nature que ce soit et qu’ils entraînent des dommages directs, indirects, fortuits, exemplaires, spéciaux, ou punitifs (y compris de négligence), une perte d'utilisation, une perte de données, une perte causée par un virus informatique ou électronique, une perte de revenus ou de bénéfices, une perte ou des dégâts matériels, une perte de temps pour la direction ou les employés, une rupture de contrat ou des réclamations de tiers, ou d'autres pertes de quelque nature que ce soit, même si la société Badoo a été avisée de la possibilité de tels dommages ou pertes, causés, directement ou indirectement, par l'utilisation de Badoo. Cette limitation de responsabilité s'applique, mais ne se limite pas à la transmission de virus ou de systèmes qui pourraient infecter votre équipement, engendrer une panne de l'équipement mécanique ou électrique ou des lignes de communication, du téléphone ou d’autres problèmes d'interconnexion (tels que l’impossibilité d’accéder à votre fournisseur de services internet), l'accès non autorisé, le vol, les blessures corporelles (autres que celles causées par notre négligence), les dégâts matériels, les erreurs d'opérateur, les grèves ou d’autres problèmes de personnel ou toute catastrophe naturelle en relation avec Badoo, y compris, mais sans s’y limiter, toute responsabilité pour la perte de revenus, de bénéfices, de contrats, d'activité, d'économies anticipées, de biens incorporels, de données, de temps pour la direction ou les employés ou toute autre perte ou tous autres dommages de quelque nature que ce soit, qu’ils soient causés par un acte délictuel (y compris de négligence), la rupture d’un contrat ou une autre raison, même prévisible, et qui en découlent directement ou indirectement.
+1.  toutes les déclarations, garanties et autres conditions qui pourraient être sous-entendues par la loi, la common law ou les règles d'équité ; et
+2.  toute responsabilité encourue par vous, découlant de votre utilisation de Badoo, de ses services ou des présentes Conditions, y compris, mais sans s’y limiter, les réclamations, frais, demandes, dommages, responsabilités, pertes ou dépenses de quelque nature que ce soit et qu’ils entraînent des dommages directs, indirects, fortuits, exemplaires, spéciaux, ou punitifs (y compris de négligence), une perte d'utilisation, une perte de données, une perte causée par un virus informatique ou électronique, une perte de revenus ou de bénéfices, une perte ou des dégâts matériels, une perte de temps pour la direction ou les employés, une rupture de contrat ou des réclamations de tiers, ou d'autres pertes de quelque nature que ce soit, même si la société Badoo a été avisée de la possibilité de tels dommages ou pertes, causés, directement ou indirectement, par l'utilisation de Badoo. Cette limitation de responsabilité s'applique, mais ne se limite pas à la transmission de virus ou de systèmes qui pourraient infecter votre équipement, engendrer une panne de l'équipement mécanique ou électrique ou des lignes de communication, du téléphone ou d’autres problèmes d'interconnexion (tels que l’impossibilité d’accéder à votre fournisseur de services internet), l'accès non autorisé, le vol, les blessures corporelles (autres que celles causées par notre négligence), les dégâts matériels, les erreurs d'opérateur, les grèves ou d’autres problèmes de personnel ou toute catastrophe naturelle en relation avec Badoo, y compris, mais sans s’y limiter, toute responsabilité pour la perte de revenus, de bénéfices, de contrats, d'activité, d'économies anticipées, de biens incorporels, de données, de temps pour la direction ou les employés ou toute autre perte ou tous autres dommages de quelque nature que ce soit, qu’ils soient causés par un acte délictuel (y compris de négligence), la rupture d’un contrat ou une autre raison, même prévisible, et qui en découlent directement ou indirectement.
 
 L'entière responsabilité de Badoo envers vous par rapport aux pertes dues ou en relation avec les Conditions, qu'il s'agisse d'un contrat, d'un tort (dont la négligence, une brèche dans le devoir statutaire ou autre) n'excèdera en aucune circonstance la somme de 20 £
 
