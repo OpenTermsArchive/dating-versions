@@ -1,5 +1,5 @@
-* [Home](https://hily.com/) 
-* Cookie Policy
+*   [Home](https://hily.com/) 
+*   Cookie Policy
 
 Cookie Policy
 =============
@@ -87,28 +87,28 @@ Any translation from English version is provided for your convenience only. In t
 
 5.1. You can do that by choosing the appropriate settings of your browser:
 
-* For the users of [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies);
+*   For the users of [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies);
     
-* For the users of [Firefox](http://support.mozilla.com/en-US/kb/Cookies);
+*   For the users of [Firefox](http://support.mozilla.com/en-US/kb/Cookies);
     
-* For the users of [Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666);
+*   For the users of [Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666);
     
-* For the users of [Opera](https://help.opera.com/en/latest/web-preferences/);
+*   For the users of [Opera](https://help.opera.com/en/latest/web-preferences/);
     
-* For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](http://support.apple.com/kb/HT1677);
+*   For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](http://support.apple.com/kb/HT1677);
     
-* For the users of [Android](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DAndroid&hl=en).
+*   For the users of [Android](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DAndroid&hl=en).
     
 
 5.2. You may find out how third parties process your data via cookies in cookies policies of [Facebook](https://www.facebook.com/legal/FB_Work_Cookies), [CloudFlare](https://www.cloudflare.com/en-gb/cookie-policy/) and [Hotjar](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) by clicking on the respective hyperlinks, either here or in the table with names of cookie files. You can also opt-out:
 
-* Facebook: [https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN) (US users), [https://youradchoices.ca](https://youradchoices.ca/) (Canadians) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA users);
+*   Facebook: [https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN) (US users), [https://youradchoices.ca](https://youradchoices.ca/) (Canadians) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA users);
     
-* Google: [https://support.google.com/analytics/answer/181881](https://support.google.com/analytics/answer/181881);
+*   Google: [https://support.google.com/analytics/answer/181881](https://support.google.com/analytics/answer/181881);
     
-* CloudFlare: [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1) (non-EEA users) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA and UK users);
+*   CloudFlare: [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1) (non-EEA users) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA and UK users);
     
-* Hotjar: [https://www.hotjar.com/privacy/do-not-track](https://www.hotjar.com/privacy/do-not-track).
+*   Hotjar: [https://www.hotjar.com/privacy/do-not-track](https://www.hotjar.com/privacy/do-not-track).
     
 
 6\. Processing of Data Collected Through Tracking Technologies
