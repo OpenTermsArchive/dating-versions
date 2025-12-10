@@ -23,22 +23,22 @@ Version: 15 January 2025
 
 ### eharmony United Kingdom General Terms and Conditions of Use
 
-1. [Object of your Subscription](https://www.eharmony.co.uk/termsandconditions/#tc01)
-2. [Access of the Service and Conclusion of your Subscription](https://www.eharmony.co.uk/termsandconditions/#tc02)
-3. [Free-of-Charge and Chargeable Services](https://www.eharmony.co.uk/termsandconditions/#tc03)
-4. [Use (incl. for advertising purposes), Transfer and Transmission of Data](https://www.eharmony.co.uk/termsandconditions/#tc04)
-5. [Functionality, Compatibility, Interoperability, Warranties, and Liability](https://www.eharmony.co.uk/termsandconditions/#tc05)
-6. [Responsibility and Duties of the Customer](https://www.eharmony.co.uk/termsandconditions/#tc06)
-7. [Communication](https://www.eharmony.co.uk/termsandconditions/#tc07)
-8. [Rights of Use and Copyright](https://www.eharmony.co.uk/termsandconditions/#tc08)
-9. [Governing Law](https://www.eharmony.co.uk/termsandconditions/#tc09)
-10. [Cancellation Policy, Exclusion of the Right to Cancel](https://www.eharmony.co.uk/termsandconditions/#tc10)
-11. [Your legal rights](https://www.eharmony.co.uk/termsandconditions/#tc11)
-12. [Miscellaneous](https://www.eharmony.co.uk/termsandconditions/#tc12)
-13. [Additional Terms which apply if you have downloaded our app from Apple’s App Store](https://www.eharmony.co.uk/termsandconditions/#tc13)
-14. [Additional Terms which apply if you have downloaded our app from GooglePlay](https://www.eharmony.co.uk/termsandconditions/#tc14)
-15. [Contact Us](https://www.eharmony.co.uk/termsandconditions/#tc15)
-16. [Model cancellation form](https://www.eharmony.co.uk/termsandconditions/#widerruf)
+1.  [Object of your Subscription](https://www.eharmony.co.uk/termsandconditions/#tc01)
+2.  [Access of the Service and Conclusion of your Subscription](https://www.eharmony.co.uk/termsandconditions/#tc02)
+3.  [Free-of-Charge and Chargeable Services](https://www.eharmony.co.uk/termsandconditions/#tc03)
+4.  [Use (incl. for advertising purposes), Transfer and Transmission of Data](https://www.eharmony.co.uk/termsandconditions/#tc04)
+5.  [Functionality, Compatibility, Interoperability, Warranties, and Liability](https://www.eharmony.co.uk/termsandconditions/#tc05)
+6.  [Responsibility and Duties of the Customer](https://www.eharmony.co.uk/termsandconditions/#tc06)
+7.  [Communication](https://www.eharmony.co.uk/termsandconditions/#tc07)
+8.  [Rights of Use and Copyright](https://www.eharmony.co.uk/termsandconditions/#tc08)
+9.  [Governing Law](https://www.eharmony.co.uk/termsandconditions/#tc09)
+10.  [Cancellation Policy, Exclusion of the Right to Cancel](https://www.eharmony.co.uk/termsandconditions/#tc10)
+11.  [Your legal rights](https://www.eharmony.co.uk/termsandconditions/#tc11)
+12.  [Miscellaneous](https://www.eharmony.co.uk/termsandconditions/#tc12)
+13.  [Additional Terms which apply if you have downloaded our app from Apple’s App Store](https://www.eharmony.co.uk/termsandconditions/#tc13)
+14.  [Additional Terms which apply if you have downloaded our app from GooglePlay](https://www.eharmony.co.uk/termsandconditions/#tc14)
+15.  [Contact Us](https://www.eharmony.co.uk/termsandconditions/#tc15)
+16.  [Model cancellation form](https://www.eharmony.co.uk/termsandconditions/#widerruf)
 
 ### 1\. Object of your Subscription
 
@@ -77,11 +77,11 @@ In addition, in some countries, eharmony offers for purchase virtual goods to ex
 In addition, the purchase of virtual goods (e.g., Match Unlocks) is subject to a charge. Virtual goods can be used for individual services or for certain features in one’s own profile. For example, Match Unlocks can be used to unlock profile pictures for individual profiles as well as unlimited communication in accordance with these Terms and Conditions. eharmony reserves the right to place limitations and other conditions on the offer of virtual goods, at our discretion. Match Unlocks may not be available in your locale.  
 Additional terms applicable to Match Unlocks:
 
-* Your use of Match Unlocks is subject to Clause 7 of these Terms and Conditions.
-* Match Unlocks are linked to and stored in your Basic Membership account. They cannot be transferred to a Premium Membership or to other members, nor can they be traded in, exchanged for money, or used to settle outstanding payments.
-* If you purchase a Premium Membership, any unredeemed Match Unlocks pause until your Premium Membership ends and your account reverts to a Basic Membership.
-* Match Unlocks expire either four (4) years after purchase or two (2) years of inactivity on your account, or if you direct us to delete your data, whichever is earlier.
-* If you and the profile you have chosen to unlock are already able to communicate without limitation, using a Match Unlock will only enable you to view all their posted photos.
+*   Your use of Match Unlocks is subject to Clause 7 of these Terms and Conditions.
+*   Match Unlocks are linked to and stored in your Basic Membership account. They cannot be transferred to a Premium Membership or to other members, nor can they be traded in, exchanged for money, or used to settle outstanding payments.
+*   If you purchase a Premium Membership, any unredeemed Match Unlocks pause until your Premium Membership ends and your account reverts to a Basic Membership.
+*   Match Unlocks expire either four (4) years after purchase or two (2) years of inactivity on your account, or if you direct us to delete your data, whichever is earlier.
+*   If you and the profile you have chosen to unlock are already able to communicate without limitation, using a Match Unlock will only enable you to view all their posted photos.
 
 3.3 Other chargeable services are listed under the “Membership / Prices and Services” section of the website.
 
@@ -158,16 +158,16 @@ Your profile ID and service password are assigned to you when you register to ou
 
 7.8 Every user is obligated to observe the [Community Guidelines](https://www.eharmony.co.uk/communityguidelines/) and to not misuse the Service. In particular, you will not use the Service:
 
-* to distribute any immoral, obscene, pornographic or radical political content or photos;
-* to distribute any defamatory, offensive or otherwise illegal content or information;
-* to threaten or harass other members, or to infringe any third party rights (including personal rights);
-* to upload any data which contains a virus (such as infected software); or to upload data which contains a software or other content which is protected by copyright, unless you own the rights in that content or have otherwise obtained the necessary consents;
-* in such a manner that your use will adversely affect the availability of offers to other members;
-* to intercept any emails / messages or to attempt to intercept them;
-* to send any emails / messages to members or use the video chat feature for any purpose other than to communicate, and in particular you will not use the Service to promote or to offer goods or services to other members except where this is expressly permitted by eharmony;
-* to send any chain letters;
-* to send any messages that serve a commercial purpose; and/or
-* to provide in your personal description and free-of-charge contact requests any names, addresses, phone or fax numbers, email addresses, etc. if this information is not explicitly requested.
+*   to distribute any immoral, obscene, pornographic or radical political content or photos;
+*   to distribute any defamatory, offensive or otherwise illegal content or information;
+*   to threaten or harass other members, or to infringe any third party rights (including personal rights);
+*   to upload any data which contains a virus (such as infected software); or to upload data which contains a software or other content which is protected by copyright, unless you own the rights in that content or have otherwise obtained the necessary consents;
+*   in such a manner that your use will adversely affect the availability of offers to other members;
+*   to intercept any emails / messages or to attempt to intercept them;
+*   to send any emails / messages to members or use the video chat feature for any purpose other than to communicate, and in particular you will not use the Service to promote or to offer goods or services to other members except where this is expressly permitted by eharmony;
+*   to send any chain letters;
+*   to send any messages that serve a commercial purpose; and/or
+*   to provide in your personal description and free-of-charge contact requests any names, addresses, phone or fax numbers, email addresses, etc. if this information is not explicitly requested.
 
 7.9 If you do not comply with the conduct requirements explained in this Clause 7, or if you fail to materially comply with any other of the Subscription Terms, we may take the following actions: we may ask you to stop your non-compliant activities (or otherwise send you a warning that your activities do not comply with our conduct requirements); we may delete any content which you have submitted via the Service in breach of any of our conduct requirements; we may suspend the provision of the Service to you (in whole or in part) until the issue is resolved (for example, while we investigate your activities); or (if it is clear to us that you are seriously misusing the Service) we may terminate the provision of the Service to you. If we decide to terminate your subscription because you have misused the Service, we will refund to you any payment that you have already made to us for any unused portion of the Premium Membership that we have not provided. However, we may still also deduct from this refund or charge you a reasonable amount as compensation for any costs we incur as a result of your non-compliance with these terms. If you have purchased your Premium Membership through Apple / Google, any refund will be made in accordance with Apple’s / Google’s own terms as further described in Clause 2.4.
 
@@ -319,5 +319,5 @@ Your service password
 
 [Print or download as pdf file](https://www.eharmony.co.uk/legal/terms-conditions/)
 
-* Sources
-* History
+*   Sources
+*   History
