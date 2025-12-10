@@ -484,7 +484,7 @@ Data Controller, when technically possible (Article 20 of the GDPR). FLASHGAP re
 
 the right to verify the identity of the applicant. Proof of
 
-[](http://www.facebook.com/policy.php))[](http://www.apple.com/ca/fr/legal/privacy/fr/))[](http://www.adikteev.com/))[](http://www.adikteev.com/))[](https://www.appsflyer.com/trust/privacy/)
+[](http://www.facebook.com/policy.php\))[](http://www.apple.com/ca/fr/legal/privacy/fr/\))[](http://www.adikteev.com/\))[](http://www.adikteev.com/\))[](https://www.appsflyer.com/trust/privacy/)
 
 identity may be requested which will not be transmitted or transferred to third parties;
 
