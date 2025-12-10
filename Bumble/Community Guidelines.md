@@ -7,21 +7,21 @@ Our Community Guidelines help keep our members safe. They make it clear what con
 
 ### Profile Guidelines
 
-* Age. You need to be at least 18 years old to join Bumble. Creating a profile that intentionally misrepresents you as being under the age of 18 is not allowed. We reserve the right to ask for your ID to verify your age, and we’ll block you from the platform if you’re underage.
+*   Age. You need to be at least 18 years old to join Bumble. Creating a profile that intentionally misrepresents you as being under the age of 18 is not allowed. We reserve the right to ask for your ID to verify your age, and we’ll block you from the platform if you’re underage.
 
-* Profile Photos. We want your profile to celebrate your authentic self! That’s why we require at least one of your profile photos to depict only you and to clearly show your full face. We do not permit:
+*   Profile Photos. We want your profile to celebrate your authentic self! That’s why we require at least one of your profile photos to depict only you and to clearly show your full face. We do not permit:
 
-* Profile photos that are heavily distorted or contain exaggerated or unnatural digital effects to the point where it cannot be clearly determined that you’re the person in the photos
-* Memes or photos with only — or primarily — text as a profile photo
-* Profile photos of children on their own
-* Profile photos with unclothed children
+*   Profile photos that are heavily distorted or contain exaggerated or unnatural digital effects to the point where it cannot be clearly determined that you’re the person in the photos
+*   Memes or photos with only — or primarily — text as a profile photo
+*   Profile photos of children on their own
+*   Profile photos with unclothed children
 
-* Username. Members are allowed to use initials, abbreviations, contracted or shortened versions of their name, nicknames, full names, and middle names. Members do not have to use their legal name or full name, but usernames should be an authentic representation of the name you use in everyday life. We do not permit:
+*   Username. Members are allowed to use initials, abbreviations, contracted or shortened versions of their name, nicknames, full names, and middle names. Members do not have to use their legal name or full name, but usernames should be an authentic representation of the name you use in everyday life. We do not permit:
 
-* Any words or phrases that violate our Community Guidelines
-* Using the name of a celebrity or fictional character
-* Words or characters (other than a valid name) including descriptive words, symbols (e.g. $, \*, @,), emojis, numbers, or punctuation
-* Social media or messaging platform details
+*   Any words or phrases that violate our Community Guidelines
+*   Using the name of a celebrity or fictional character
+*   Words or characters (other than a valid name) including descriptive words, symbols (e.g. $, \*, @,), emojis, numbers, or punctuation
+*   Social media or messaging platform details
 
 ### Content and Conduct Guidelines
 
@@ -105,9 +105,9 @@ All members must comply with the platform rules described and referenced in our 
 
 For example, we may:
 
-* Remove the content
-* Issue a warning
-* Ban the offending member from some or all Bumble Inc. apps
+*   Remove the content
+*   Issue a warning
+*   Ban the offending member from some or all Bumble Inc. apps
 
 When necessary, we also may cooperate with law enforcement to assist in potential criminal investigations related to member conduct.
 
