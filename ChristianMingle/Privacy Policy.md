@@ -15,10 +15,11 @@ This Policy is provided in a layered format so you can click through to the spec
 1. [IMPORTANT INFORMATION AND WHO WE ARE](#importantInformation)
 2. [THE DATA WE COLLECT ABOUT YOU AND HOW IT IS COLLECTED](#theData)
 3. [HOW WE USE YOUR PERSONAL DATA](#howWeUse)
-4. [DISCLOSURES OF YOUR PERSONAL DATA](#disclosuresOf)
-5. [EU AND US STATE SPECIFIC PRIVACY RIGHTS](#CCPA-section)
-6. [CONTACT US](#contactUs)
-7. [MISCELLANEOUS](#miscellaneous)
+4. [HOW TO DELETE YOUR INFORMATION OR ACCOUNT](#howToDelete)
+5. [DISCLOSURES OF YOUR PERSONAL DATA](#disclosuresOf)
+6. [EU AND US STATE SPECIFIC PRIVACY RIGHTS](#CCPA-section)
+7. [CONTACT US](#contactUs)
+8. [MISCELLANEOUS](#miscellaneous)
 
 **1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
@@ -48,10 +49,7 @@ We may collect, use, store and transfer different kinds of personal data about y
     1. **Contact Information** such as your name, email address, phone number, and address (“Contact Information”).
     2. **Sensitive Information** such as race, ethnicity, sexual preferences and experiences, political affiliation, religious affiliation, union memberships, or any biometric information you provide through the use of our Services (your “Sensitive Personal Data”).
     3. **Other Information** such as birth date, videos, password, billing information, credit card information, demographic information, place of work or education, your personal interests and background, gender, age, dating age range preference, physical characteristics, personal description, life experiences, geographic location, your photos and any information derived from them, and any other information you share with the Services. We may collect billing or payments information if you engage with a paid Service.
-2. **Information About How You Use the Services**. We may automatically collect information about your participation and actions on the Services. This may include information such as the pages and profiles you view, how you browse the Services, dating insights, your Company virtual coin balance, if any, and purchases you make through the Services such as boosts and gifts. It can also include the various functions and features that you use, the connections you make, other friends or contacts you invite to the Services and profile searches you perform or your use of our applications.
-    
-    In addition, if you are subscribed to our Client Matchmaking Service or are otherwise matched with one of our Matchmaking Clients, we may collect and utilize feedback from matchmaking activities to enhance the performance of our AI model that supports our matchmakers in making more accurate and satisfying matches. This feedback helps us understand user preferences, improve our algorithms, and provide better matchmaking services. The types of data collected may include, but is not limited to:
-    
+2. **Information About How You Use the Services**. We may automatically collect information about your participation and actions on the Services. This may include information such as the pages and profiles you view, how you browse the Services, dating insights, your Company virtual coin balance, if any, and purchases you make through the Services such as boosts and gifts. It can also include the various functions and features that you use, the connections you make, other friends or contacts you invite to the Services and profile searches you perform or your use of our applications.In addition, if you are subscribed to our Client Matchmaking Service or are otherwise matched with one of our Matchmaking Clients, we may collect and utilize feedback from matchmaking activities to enhance the performance of our AI model that supports our matchmakers in making more accurate and satisfying matches. This feedback helps us understand user preferences, improve our algorithms, and provide better matchmaking services. The types of data collected may include, but is not limited to:
     1. User preferences and interests;
     2. Match outcomes and success rates;
     3. Feedback on match quality and satisfaction;
@@ -129,7 +127,11 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-**4\. DISCLOSURES OF YOUR PERSONAL DATA**
+**4\. HOW TO DELETE YOUR INFORMATION OR ACCOUNT**
+
+Users may request permanent deletion of their account at any time through the platform’s account settings by navigating to “manage account” and selecting “delete account” or by sending a request to our Customer Support Team at [\[email protected\]](https://about.christianmingle.com/cdn-cgi/l/email-protection) or to our Legal Team at [\[email protected\]](https://about.christianmingle.com/cdn-cgi/l/email-protection). Once a deletion request is confirmed, all personal data, profile information, and associated content will be removed from our systems within 30 days, except where retention is required by law or for legitimate business purposes (such as fraud prevention). Deleted accounts cannot be restored, and users will need to create a new account to rejoin the platform. For assistance with account deletion, please contact our Customer Support Team at [\[email protected\]](https://about.christianmingle.com/cdn-cgi/l/email-protection) or our Legal Team at [\[email protected\]](https://about.christianmingle.com/cdn-cgi/l/email-protection).
+
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
 
 **Our Services allow you to share information about yourself with other individuals and other companies, including other users and potential users of the Services or other products or services offered by us and third-party Social Networking Sites.** Consider your own privacy and personal safety when sharing your information with anyone, including information you share through your profile, as profiles include basic information that was provided at registration and information provided through a Social Networking Site and may include other information added by you or your friends (for example, your religion, ethnicity and physical characteristics), as well as information about your use of the Service (for example, whether you were recently logged in to our platform). Please review our  [Online Dating Safety Tips](https://about.christianmingle.com/en/safety-en/) for tips in using our Services.
 
@@ -150,7 +152,7 @@ We may also share your personal data with the parties set out below for the purp
 
 We may also share Aggregated Data with third parties.
 
-**5\. EU AND US STATE SPECIFIC PRIVACY RIGHTS**
+**6\. EU AND US STATE SPECIFIC PRIVACY RIGHTS**
 
 **U.S. STATE SPECIFIC PRIVACY RIGHTS**
 
@@ -196,7 +198,7 @@ For individuals residing in the European Union, as data subjects (persons whose 
 
 You can exercise the above rights by contacting our support team via the manner outlined in the [CONTACT US](#contactUs)  section below.
 
-**6\. CONTACT US**
+**7\. CONTACT US**
 
 Our full details are:
 
@@ -206,7 +208,7 @@ ChristianMingle Customer Care
 South Jordan, UT  84009  
 Email:  [\[email protected\]](https://about.christianmingle.com/cdn-cgi/l/email-protection)
 
-**7\. MISCELLANEOUS**
+**8\. MISCELLANEOUS**
 
 This Policy does not create rights enforceable by third parties or require disclosure of any personal data relating to users of the Service.
 
@@ -292,7 +294,6 @@ Please note that when you opt out of receiving interest-based advertisements, th
 
 Cookie Settings
 
-   
 **Updates to This Cookie Notice**
 
 We will update this Cookie Notice from time to time. When we make changes to this Cookie Notice, we will change the “Effective Date” at the beginning of this Notice. If we make material changes to this Notice, we will notify you by email to your registered email address, by prominent posting on this website or our online services, or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided in the notification.
