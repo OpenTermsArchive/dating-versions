@@ -79,12 +79,12 @@ Veuillez noter que les réglages du site web et l’app sont indépendants.
 
 Vous pouvez également paramétrer l’utilisation des cookies directement sur votre navigateur web. La configuration de chaque navigateur est différente. Elle est décrite dans le menu d'aide de votre navigateur. Pour faciliter votre recherche, vous trouverez ci-dessous des liens d’accès direct pour chacun des principaux navigateurs utilisés :
 
-* Microsoft Internet Explorer
-* Microsoft Edge
-* Google Chrome
-* Safari
-* Firefox
-* Opéra
+*   Microsoft Internet Explorer
+*   Microsoft Edge
+*   Google Chrome
+*   Safari
+*   Firefox
+*   Opéra
 
 Veuillez noter que certains traceurs ne seraient pas affectés par les réglages via votre navigateur web.
 
