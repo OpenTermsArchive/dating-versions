@@ -40,12 +40,12 @@ You may withdraw your consent to receive Electronic Records by contacting us in 
 
 By accessing or using the Services, you represent and warrant that:
 
-1. you are at least 18 years old;
-2. you have never been convicted of a felony or any criminal offense characterized as a sexual offense and are not required to register as a sex offender with any government entity;
-3. you have not previously been suspended or removed from the Services;
-4. you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement;
-5. you are not a competitor of us and are not using the Services for reasons that are in competition with us or other than for its intended purpose; and
-6. you are not located in, under the control of, or a national or resident of any country which the United States has (i) embargoed, (ii) identified as a “Specially Designated National” or (iii) placed on the Commerce Department’s Table of Deny Orders.
+1.  you are at least 18 years old;
+2.  you have never been convicted of a felony or any criminal offense characterized as a sexual offense and are not required to register as a sex offender with any government entity;
+3.  you have not previously been suspended or removed from the Services;
+4.  you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement;
+5.  you are not a competitor of us and are not using the Services for reasons that are in competition with us or other than for its intended purpose; and
+6.  you are not located in, under the control of, or a national or resident of any country which the United States has (i) embargoed, (ii) identified as a “Specially Designated National” or (iii) placed on the Commerce Department’s Table of Deny Orders.
 
 **4\. USE OF THE SERVICES**
 
@@ -65,30 +65,30 @@ You agree that you will only use the Services, including the posting of any cont
 
 You agree to:
 
-1. comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
-2. use your real name and real age in creating your user account and on your profile; and
-3. use the services in a safe, inclusive and respectful manner and adhere to this Agreement, and our community policies or guidelines at all times.
+1.  comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
+2.  use your real name and real age in creating your user account and on your profile; and
+3.  use the services in a safe, inclusive and respectful manner and adhere to this Agreement, and our community policies or guidelines at all times.
 
 You agree not to do any of the following while engaging with other users or using the Service:
 
-1. use the Service in any unlawful manner or in a manner that is harmful to or violates the rights of others;
-2. engage in any unlawful, harassing, obscene, intimidating, threatening, predatory or stalking conduct;
-3. use the Services in any manner that could disrupt, damage, disable, overburden, impair or affect the performance of the Services or interfere with or attempt to interfere with any other user’s use of the Services;
-4. attempt to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;
-5. impersonate any person or entity, or misrepresent your age, identity, affiliation, connection or association with, any person or entity;
-6. make any commercial use of the Services or promote or solicit involvement in or support of a political platform, religion, cult, or sect;
-7. defraud, swindle or deceive other users of the Services;
-8. disseminate another person’s personal information without his or her permission, or collect or solicit another person’s personal information for commercial or unlawful purposes;
-9. solicit or engage in gambling or any similar activity or any illegal or unlawful activity;
-10. use any scripts, bots or other automated technology to scrape or access the Services or take any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;
-11. collect or solicit personal information about anyone under 18;
-12. use the Service for any phishing, trolling or similar activities;
-13. use the Service to redirect users to other sites or encourage users to visit other sites;
-14. harvest or collect email addresses or other contact information of other users from the Services by electronic or other means or use the Services to send, either directly or indirectly, any unsolicited bulk email or communications, unsolicited commercial email or communications or other spamming or spimming activities;
-15. attempt to access any Services or area of the Sites that you are not authorized to access;
-16. bypass the measures we may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the content therein;
-17. use another user’s account or permit or allow other people or third parties to access and use the Services via your account; or
-18. upload invalid data, viruses, worms, or other software agents through the Services.
+1.  use the Service in any unlawful manner or in a manner that is harmful to or violates the rights of others;
+2.  engage in any unlawful, harassing, obscene, intimidating, threatening, predatory or stalking conduct;
+3.  use the Services in any manner that could disrupt, damage, disable, overburden, impair or affect the performance of the Services or interfere with or attempt to interfere with any other user’s use of the Services;
+4.  attempt to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;
+5.  impersonate any person or entity, or misrepresent your age, identity, affiliation, connection or association with, any person or entity;
+6.  make any commercial use of the Services or promote or solicit involvement in or support of a political platform, religion, cult, or sect;
+7.  defraud, swindle or deceive other users of the Services;
+8.  disseminate another person’s personal information without his or her permission, or collect or solicit another person’s personal information for commercial or unlawful purposes;
+9.  solicit or engage in gambling or any similar activity or any illegal or unlawful activity;
+10.  use any scripts, bots or other automated technology to scrape or access the Services or take any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;
+11.  collect or solicit personal information about anyone under 18;
+12.  use the Service for any phishing, trolling or similar activities;
+13.  use the Service to redirect users to other sites or encourage users to visit other sites;
+14.  harvest or collect email addresses or other contact information of other users from the Services by electronic or other means or use the Services to send, either directly or indirectly, any unsolicited bulk email or communications, unsolicited commercial email or communications or other spamming or spimming activities;
+15.  attempt to access any Services or area of the Sites that you are not authorized to access;
+16.  bypass the measures we may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the content therein;
+17.  use another user’s account or permit or allow other people or third parties to access and use the Services via your account; or
+18.  upload invalid data, viruses, worms, or other software agents through the Services.
 
 **g. Reporting Violations.** If you wish to report any violation of this Agreement by others, including Members, you may do so by using the “Report This Profile” button or similar button or link on the Services or by contacting us at [https://support.christianmingle.com/hc/en-us](https://support.christianmingle.com/hc/en-us). We reserve the right to investigate any possible violations of this Agreement, any user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the Service without prior notice, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the Sites.
 
@@ -112,16 +112,16 @@ YOU AGREE TO, AND HEREBY DO, RELEASE THE COMPANY AND ITS SUCCESSORS FROM ANY CLA
 
 **f. Prohibited Content.** You will not post, transmit or deliver to any other user, either directly or indirectly, any User Content that violates any third-party rights or any applicable law, rule or regulation or is prohibited under this Agreement or any other Company policy governing your use of the Services (“Prohibited Content”). Prohibited Content includes without limitation User Content that:
 
-1. is obscene, pornographic, profane, defamatory, abusive, offensive, indecent, sexually oriented, threatening, harassing, inflammatory, inaccurate, misrepresentative, fraudulent or illegal;
-2. promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-3. is intended to, or does, harass, or intimidate any other user or third party;
-4. may infringe or violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party, including User Content that contains others’ copyrighted content (e.g., photos, images, music, movies, videos, etc.) without obtaining proper permission first;
-5. contains video, audio, photographs, or images of another person without his or her express written consent (or in the case of a minor, the minor’s legal guardian) or otherwise violates anyone’s right of privacy or publicity;
-6. promotes or enables illegal or unlawful activities, such as instructions on how to make or buy illegal weapons or drugs;
-7. violates someone’s data privacy or data protection rights;
-8. contains viruses, time bombs, trojan horses, cancelbots, worms or other harmful, or disruptive codes, components or devices;
-9. contains any advertising, fundraising or promotional content; or
-10. is, in the sole judgment of the Company, objectionable or restricts or inhibits any person from using or enjoying the Services or exposes the Company or its users to harm or liability of any type.
+1.  is obscene, pornographic, profane, defamatory, abusive, offensive, indecent, sexually oriented, threatening, harassing, inflammatory, inaccurate, misrepresentative, fraudulent or illegal;
+2.  promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
+3.  is intended to, or does, harass, or intimidate any other user or third party;
+4.  may infringe or violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party, including User Content that contains others’ copyrighted content (e.g., photos, images, music, movies, videos, etc.) without obtaining proper permission first;
+5.  contains video, audio, photographs, or images of another person without his or her express written consent (or in the case of a minor, the minor’s legal guardian) or otherwise violates anyone’s right of privacy or publicity;
+6.  promotes or enables illegal or unlawful activities, such as instructions on how to make or buy illegal weapons or drugs;
+7.  violates someone’s data privacy or data protection rights;
+8.  contains viruses, time bombs, trojan horses, cancelbots, worms or other harmful, or disruptive codes, components or devices;
+9.  contains any advertising, fundraising or promotional content; or
+10.  is, in the sole judgment of the Company, objectionable or restricts or inhibits any person from using or enjoying the Services or exposes the Company or its users to harm or liability of any type.
 
 **g. Submissions.** Separate and apart from the User Content you provide as part of your use of the Services, you can submit questions, comments, feedback, suggestions, success stories, ideas, plans, notes, drawings, original or creative materials or other information relating to the Company and our Services (collectively, “Submissions”). Submissions, whether posted to the Services or provided to the Company by email or otherwise, are non-confidential and shall become the sole property of the Company. You hereby assign to the Company all right, title and interest, including without limitation all intellectual property rights, in and to any and all Submissions. The Company shall be entitled to the unrestricted use and dissemination of any Submissions for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
 
@@ -148,12 +148,12 @@ The Company reserves the right to terminate, in its sole discretion, users who a
 If you are a copyright owner or an agent thereof and believe that anything on the sites infringes upon your copyrights, you may submit a notification of infringement pursuant to the Digital  
 Millennium Copyright Act (“DMCA”) by providing our Copyright Agent with the following information:
 
-1. an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-2. a description of the copyrighted work that you claim has been infringed;
-3. a description of where the material that you claim is infringing is located on our website (please include URLs to help us identify the material);
-4. your address, telephone number, and email address;
-5. a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-6. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+1.  an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+2.  a description of the copyrighted work that you claim has been infringed;
+3.  a description of where the material that you claim is infringing is located on our website (please include URLs to help us identify the material);
+4.  your address, telephone number, and email address;
+5.  a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+6.  a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 The Company’s designated Copyright Agent to receive notifications of claimed infringement is:
 
@@ -268,12 +268,12 @@ Our goal is to resolve any disputes amicably and quickly and we encourage you to
 
 **d. Indemnity.** You agree to defend, indemnify and hold the Company, its subsidiaries and affiliates, and each of their directors, officers, managers, agents, contractors, partners and employees harmless from any loss, liability, claim, damages, costs, debts, expenses or demand, including reasonable attorney’s fees, due to or arising from:
 
-1. your use of or access to the Services, including any data or content transmitted or received by you, or your inability to use the Services;
-2. any claim or damages that arise as a result of any of your User Content or any User Content that is submitted via your account;
-3. your conduct in connection with the Services or our users,
-4. your violation of any of the terms of this Agreement, including without limitation your breach of any of the representations and warranties above,
-5. your violation of any rights of a third party, including without limitation any right of privacy or intellectual property rights;
-6. any other party’s access and use of the Services with your unique username, password or other appropriate security code or (viii) your violation of any applicable laws, rules or regulations.
+1.  your use of or access to the Services, including any data or content transmitted or received by you, or your inability to use the Services;
+2.  any claim or damages that arise as a result of any of your User Content or any User Content that is submitted via your account;
+3.  your conduct in connection with the Services or our users,
+4.  your violation of any of the terms of this Agreement, including without limitation your breach of any of the representations and warranties above,
+5.  your violation of any rights of a third party, including without limitation any right of privacy or intellectual property rights;
+6.  any other party’s access and use of the Services with your unique username, password or other appropriate security code or (viii) your violation of any applicable laws, rules or regulations.
 
 **e. Severability.** If any clause within this Section 20 is found to be illegal or unenforceable, that clause will be severed from this section and the remainder of the section will be given full force and effect, except that in the event of unenforceability of the universal Class Action/Jury Trial Waiver, the entire arbitration agreement shall be unenforceable.
 
@@ -293,21 +293,21 @@ Generally, all charges for purchases are nonrefundable, and there are no refunds
 
 However:
 
-1. For subscribers residing in (as determined by the zip code / postal code you use at the time of your subscription) Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin:
+1.  For subscribers residing in (as determined by the zip code / postal code you use at the time of your subscription) Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin:
     
     You may cancel your subscription without penalty before midnight of the third business day after subscribing (excluding Sundays and holidays). In the event that you die before your subscription ends, your estate will receive a refund for the remaining period. If you become disabled and are unable to use the Services, you are entitled to a refund for the remaining period by notifying the Company as described below under “To request a cancellation and/or refund”.
     
-2. For subscribers outside the US:
+2.  For subscribers outside the US:
     
     Monthly or longer subscriptions: Refunds are available if requested within 14 days of starting the subscription, minus the value of any used portion.
     
-3. Blocked members are not entitled to refunds.
+3.  Blocked members are not entitled to refunds.
 
 To request a cancellation and/or refund:
 
-1. **Generally:** Contact customer support at \[BRAND SUPPORT WEBSITE ADDRESS\]. You may also mail or deliver a signed and dated notice stating your cancellation, including your user name and email address that you used to subscribe, to: ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
-2. **Apple ID subscribers:** Refunds are handled by Apple. Go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction, and hit “Report Problem.” You can also submit a request at Apple Support.
-3. **Google Play subscribers outside the US:** Refunds are handled by Google. Go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem,” and submit your request.
+1.  **Generally:** Contact customer support at \[BRAND SUPPORT WEBSITE ADDRESS\]. You may also mail or deliver a signed and dated notice stating your cancellation, including your user name and email address that you used to subscribe, to: ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
+2.  **Apple ID subscribers:** Refunds are handled by Apple. Go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction, and hit “Report Problem.” You can also submit a request at Apple Support.
+3.  **Google Play subscribers outside the US:** Refunds are handled by Google. Go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem,” and submit your request.
 
 **23\. OTHER STATE SPECIFIC PROVISIONS**
 
@@ -327,10 +327,10 @@ You acknowledge that the Services are accessible online and are offered in many 
 
 **d. New York.** The following additional provisions(s) apply if you are a New York subscriber (as determined by the zip code you use at the time of your subscription):
 
-1. If you subscribe for any Paid Services, the Company will provide a minimum of one match to you each month. In the event we do not provide at least one match for two or more successive months, you shall have the option to cancel your subscription by notifying us in writing at the address stated in this Agreement and to receive a refund of all monies paid pursuant to the cancelled contract; provided, however, that the Company shall retain as a cancellation fee 15% of the cash price or a pro rata amount for the number of referrals furnished to you, whichever is greater. This shall be your sole remedy for failure to provide the minimum number of referrals.
-2. Except in connection with any merger, sale of company assets, reorganization, financing, change of control or acquisition of all or a portion of the Company’s business by another company or third party or in the event of bankruptcy, the Company will not without the prior written consent of the purchaser sell, assign or otherwise transfer for business or for any other purpose to any person any information and material of a personal or private nature acquired from a purchaser directly or indirectly including but not limited to answers to tests and questionnaires, photographs or background information. You acknowledge and agree that if you post any information, including photographs, to the Services for posting on your profile or other areas of the Services, such information will be publicly accessible, and you are consenting to the display of such information on the Services.
-3. If you permanently relocate your primary residence further than 50 miles from any area in which the Company offers the Services, you may elect to terminate your subscription by notifying us in writing at ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009. Upon such election, your subscription benefits will cease and you will receive a prorated refund of the Subscription Fee paid, less a termination fee of $50.00, not to exceed the amount of the refund to which you are entitled.
-4. You have the right to place your subscription on hold for a period of up to one year at any time. To do this, you must notify the Company in writing (which includes your user name and the email address used to register for the Services) at ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
+1.  If you subscribe for any Paid Services, the Company will provide a minimum of one match to you each month. In the event we do not provide at least one match for two or more successive months, you shall have the option to cancel your subscription by notifying us in writing at the address stated in this Agreement and to receive a refund of all monies paid pursuant to the cancelled contract; provided, however, that the Company shall retain as a cancellation fee 15% of the cash price or a pro rata amount for the number of referrals furnished to you, whichever is greater. This shall be your sole remedy for failure to provide the minimum number of referrals.
+2.  Except in connection with any merger, sale of company assets, reorganization, financing, change of control or acquisition of all or a portion of the Company’s business by another company or third party or in the event of bankruptcy, the Company will not without the prior written consent of the purchaser sell, assign or otherwise transfer for business or for any other purpose to any person any information and material of a personal or private nature acquired from a purchaser directly or indirectly including but not limited to answers to tests and questionnaires, photographs or background information. You acknowledge and agree that if you post any information, including photographs, to the Services for posting on your profile or other areas of the Services, such information will be publicly accessible, and you are consenting to the display of such information on the Services.
+3.  If you permanently relocate your primary residence further than 50 miles from any area in which the Company offers the Services, you may elect to terminate your subscription by notifying us in writing at ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009. Upon such election, your subscription benefits will cease and you will receive a prorated refund of the Subscription Fee paid, less a termination fee of $50.00, not to exceed the amount of the refund to which you are entitled.
+4.  You have the right to place your subscription on hold for a period of up to one year at any time. To do this, you must notify the Company in writing (which includes your user name and the email address used to register for the Services) at ChristianMingle Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
 
 **e. Ohio.** The following additional provision(s) apply if you are an Ohio subscriber (as determined by the zip code you use at the time of your subscription):
 
