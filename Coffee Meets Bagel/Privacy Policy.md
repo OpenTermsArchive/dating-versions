@@ -33,23 +33,23 @@ For the purpose of definition under this Privacy Policy, Clause 1.2 is meant for
 
 2.1 When you use the Platform, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
 
-* a. Your mobile device's unique ID number.
+*   a. Your mobile device's unique ID number.
     
-* b. Your mobile device's geographic location while the CMB App is actively running
+*   b. Your mobile device's geographic location while the CMB App is actively running
     
-* c. Your computer's IP address.
+*   c. Your computer's IP address.
     
-* d. Technical information about your computer or mobile device (such as type of device, web browser or operating system).
+*   d. Technical information about your computer or mobile device (such as type of device, web browser or operating system).
     
-* e. Your preferences and settings (time zone, language, privacy preferences, product preferences, etc.).
+*   e. Your preferences and settings (time zone, language, privacy preferences, product preferences, etc.).
     
-* f. The URL of the last web page you visited before coming to our website or one of our other related websites.
+*   f. The URL of the last web page you visited before coming to our website or one of our other related websites.
     
-* g. The buttons, controls and ads you clicked on (if any).
+*   g. The buttons, controls and ads you clicked on (if any).
     
-* h. How long you used the Platform and which services and features you used.
+*   h. How long you used the Platform and which services and features you used.
     
-* i. The online or offline status of the Platform.
+*   i. The online or offline status of the Platform.
     
 
 2.2 We allow third party analytics companies to use tracking technologies to collect Anonymised Data about our users' computers or mobile devices and their online activities. These companies analyse this information to help us understand how the Platform are being used. Analytics companies may use mobile device IDs, as described in the paragraph below ("Mobile device IDs"). Mobile device IDs: In order to recognize you, store your preferences, and track your use of our application; we may store your Mobile device IDs (the unique identifier assigned to a device by the manufacturer) when you use the CMB App. Unlike cookies, Mobile device IDs cannot be deleted. What we don't share: We do not provide third parties analytics companies with your name, address, email address, or phone number.
@@ -87,55 +87,55 @@ B. Third Party Sites and Mobile Applications
 
 5.1 For the purpose of providing the Platform and our other services to you, we engage third party service providers. We may share user information (including your Personal Data) with the following parties: 
 
-* **Service Providers**
+*   **Service Providers**
     
 
 We provide personal information and content to service providers who support our business, such as cloud service providers and providers of content moderation services to ensure that the Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform.
 
-* **Payment processors and transaction fulfillment providers**: If you choose to subscribe or conduct other payment related transactions, we will share data with the relevant payment provider to facilitate this transaction. For subscription transactions, we share a transaction ID to enable us to identify you and credit your account with the correct subscription plan once you have made the payment.
+*   **Payment processors and transaction fulfillment providers**: If you choose to subscribe or conduct other payment related transactions, we will share data with the relevant payment provider to facilitate this transaction. For subscription transactions, we share a transaction ID to enable us to identify you and credit your account with the correct subscription plan once you have made the payment.
     
-* **Analytics providers:** We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted advertisements.
+*   **Analytics providers:** We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted advertisements.
     
 
-* **Advertisers, Advertising Networks and Measurement Partners**
+*   **Advertisers, Advertising Networks and Measurement Partners**
     
 
 We share information with advertisers and third-party measurement companies to show how many and which users of the Platform have viewed or clicked on an advertisement.
 
 We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
 
-* **Our Corporate Group**
+*   **Our Corporate Group**
     
 
 We may also share your Personal Data with other members, subsidiaries, or affiliates of our corporate group, including to provide the Platform, to improve and optimise the Platform, to prevent illegal use and to support users.
 
-* **For Legal Reasons**
+*   **For Legal Reasons**
     
 
 We will share your Personal Data with law enforcement agencies, public authorities or other organisations if legally required to do so, or if such use is reasonably necessary to:
 
-* comply with legal obligation, process or request;
+*   comply with legal obligation, process or request;
     
-* enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof;
+*   enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof;
     
-* detect, prevent or otherwise address security, fraud or technical issues; or
+*   detect, prevent or otherwise address security, fraud or technical issues; or
     
-* protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+*   protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
     
 
-* **Public Profiles**
+*   **Public Profiles**
     
 
 Please note that if your profile is public, your content will be visible to anyone on the Platform and may also be accessed or shared by your friends and followers as well as third parties such as search engines, content aggregators and news sites. For Platinum users, you can change your profile to default private by changing your settings.
 
-* **Sale, Merger or Other Business Transactions**
+*   **Sale, Merger or Other Business Transactions**
     
 
 We may also disclose your information to third parties:
 
-* in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your personal data to the prospective seller or buyer of such business or assets; or
+*   in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your personal data to the prospective seller or buyer of such business or assets; or
     
-* if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets. 
+*   if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets. 
     
 
 **6\. Transferring Personal Data out of and into Singapore**
