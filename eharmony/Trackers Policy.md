@@ -8,8 +8,8 @@ Version: 02/15/2024
 
 You can review or edit your settings regarding the processing of personal data in connection with cookies and other tracking technologies and/or withdraw your consent at any time. To do so, please proceed as follows:
 
-* **If you are using our website**, please use our Consent Management Platform (“CMP“), by clicking [here](#uc-first-modal-show).
-* **If you are using our app**, please go to the **top** of this page and click on Tracking Settings.
+*   **If you are using our website**, please use our Consent Management Platform (“CMP“), by clicking [here](#uc-first-modal-show).
+*   **If you are using our app**, please go to the **top** of this page and click on Tracking Settings.
 
 You will find more information on this below under [“How can you manage, prevent the use of, or erase cookies?“](https://www.eharmony.co.uk/cookiesandtracking/#pp23) or under [“How can you manage, prevent the use of, or erase tracking technologies?”](https://www.eharmony.co.uk/cookiesandtracking/#pp06).
 
@@ -23,18 +23,18 @@ Unless otherwise stated in this cookies & tracking policy or in our [Privacy Po
 
 **Contents**
 
-* [Overview of managing cookies and tracking technologies and/or withdrawing consent](https://www.eharmony.co.uk/cookiesandtracking/#pp00)
-* [Cookies & tracking technologies when using the eharmony website](https://www.eharmony.co.uk/cookiesandtracking/#pp01)
-    * [What categories of cookies does eharmony use?](https://www.eharmony.co.uk/cookiesandtracking/#pp02)
-    * [Legal basis for the processing of personal data and access to your end device in connection with cookies](https://www.eharmony.co.uk/cookiesandtracking/#pp03)
-    * [How can you manage, prevent the use of, or erase cookies?](https://www.eharmony.co.uk/cookiesandtracking/#pp23)
-    * [Overview of cookies used by eharmony](https://www.eharmony.co.uk/cookiesandtracking/#pp04)
-    * [Appendix: Technical Notes Cookies](https://www.eharmony.co.uk/cookiesandtracking/#pp12)
-* [Tracking technologies when using the eharmony app](https://www.eharmony.co.uk/cookiesandtracking/#pp24)
-    * [What categories of tracking technologies does eharmony use?](https://www.eharmony.co.uk/cookiesandtracking/#pp05)
-    * [Legal basis for the processing of personal dataand access to your end device in connection with tracking technologies (such as app identifiers) when using the eharmony app](https://www.eharmony.co.uk/cookiesandtracking/#pp08)
-    * [How can you manage, prevent the use of, or erase tracking technologies?](https://www.eharmony.co.uk/cookiesandtracking/#pp06)
-    * [Overview of tracking technologies used by eharmony](https://www.eharmony.co.uk/cookiesandtracking/#pp07)
+*   [Overview of managing cookies and tracking technologies and/or withdrawing consent](https://www.eharmony.co.uk/cookiesandtracking/#pp00)
+*   [Cookies & tracking technologies when using the eharmony website](https://www.eharmony.co.uk/cookiesandtracking/#pp01)
+    *   [What categories of cookies does eharmony use?](https://www.eharmony.co.uk/cookiesandtracking/#pp02)
+    *   [Legal basis for the processing of personal data and access to your end device in connection with cookies](https://www.eharmony.co.uk/cookiesandtracking/#pp03)
+    *   [How can you manage, prevent the use of, or erase cookies?](https://www.eharmony.co.uk/cookiesandtracking/#pp23)
+    *   [Overview of cookies used by eharmony](https://www.eharmony.co.uk/cookiesandtracking/#pp04)
+    *   [Appendix: Technical Notes Cookies](https://www.eharmony.co.uk/cookiesandtracking/#pp12)
+*   [Tracking technologies when using the eharmony app](https://www.eharmony.co.uk/cookiesandtracking/#pp24)
+    *   [What categories of tracking technologies does eharmony use?](https://www.eharmony.co.uk/cookiesandtracking/#pp05)
+    *   [Legal basis for the processing of personal dataand access to your end device in connection with tracking technologies (such as app identifiers) when using the eharmony app](https://www.eharmony.co.uk/cookiesandtracking/#pp08)
+    *   [How can you manage, prevent the use of, or erase tracking technologies?](https://www.eharmony.co.uk/cookiesandtracking/#pp06)
+    *   [Overview of tracking technologies used by eharmony](https://www.eharmony.co.uk/cookiesandtracking/#pp07)
 
 Cookies & tracking technologies when using the eharmony website
 ---------------------------------------------------------------
@@ -63,11 +63,11 @@ These cookies enable functions without which you could not use our Service as de
 
 This category of cookies includes, e.g.:
 
-* Cookies that identify or authenticate our users, and cookies needed for a secure authentication process;
-* Cookies that ensure the security of eharmony’s information system;
-* Cookies that control abuse;
-* Cookies that temporarily store certain user entries;
-* Cookies that store certain user preferences.
+*   Cookies that identify or authenticate our users, and cookies needed for a secure authentication process;
+*   Cookies that ensure the security of eharmony’s information system;
+*   Cookies that control abuse;
+*   Cookies that temporarily store certain user entries;
+*   Cookies that store certain user preferences.
 
 These cookies enable you to navigate safely on our website and use the functions as desired. Without these cookies, eharmony cannot provide its essential services. We only use these cookies when you visit our website. These cookies are also used to retrieve the optimised website display when you access our website with a mobile device, so that your mobile data volume is not unnecessarily consumed.
 
@@ -97,11 +97,11 @@ If you do object to the use of marketing cookies, you will be shown advertisemen
 
 ### **Legal basis for the processing of personal data and access to your end device in connection with cookies**
 
-* Where we obtain your consent as our lawful basis for processing, our legal basis for the processing is Article 6(1) (a) of the UK General Data Protection Regulation (UK GDPR).
-* When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis for the processing is Article 6(1) (b) UK GDPR. This also applies to any processing of data that is required to carry out any pre-contractual actions.
-* If the processing is necessary to safeguard the legitimate interest of eharmony or a third party, such as our members, and the interests, fundamental rights and freedoms of the data subject do not override those legitimate interests, our legal basis for the processing is Article 6(1) (f) UK GDPR.
-* If the storage of information in the terminal device of the end user or the access to information already stored in the terminal device of the end user is absolutely necessary, PECR Reg. 6(4)(b) serves as the legal basis.
-* The relevant subsection of Art. 6(1) GDPR applies to any further data processing in connection with cookies, device identifiers, or other personal data on your terminal device (as applicable, depending on the particular data processing in question).
+*   Where we obtain your consent as our lawful basis for processing, our legal basis for the processing is Article 6(1) (a) of the UK General Data Protection Regulation (UK GDPR).
+*   When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis for the processing is Article 6(1) (b) UK GDPR. This also applies to any processing of data that is required to carry out any pre-contractual actions.
+*   If the processing is necessary to safeguard the legitimate interest of eharmony or a third party, such as our members, and the interests, fundamental rights and freedoms of the data subject do not override those legitimate interests, our legal basis for the processing is Article 6(1) (f) UK GDPR.
+*   If the storage of information in the terminal device of the end user or the access to information already stored in the terminal device of the end user is absolutely necessary, PECR Reg. 6(4)(b) serves as the legal basis.
+*   The relevant subsection of Art. 6(1) GDPR applies to any further data processing in connection with cookies, device identifiers, or other personal data on your terminal device (as applicable, depending on the particular data processing in question).
 
 When the legal basis for processing is your consent, you may withdraw your consent at any time. However, this withdrawal will not affect the lawfulness of any processing carried out on the basis of your consent before your withdrawal. If the legal basis is a legitimate interest, you are also entitled, in general, to object to the processing of your personal data, at any time, for reasons arising from your specific situation. Article 21 UK GDPR applies in this respect.
 
@@ -162,11 +162,11 @@ Certain tracking technologies are essential to the eharmony app, as they ensure 
 
 This category of cookies includes e.g.:
 
-* tracking technologies that identify or authenticate our users, and tracking technologies in connection with a secure authentication process,
-* tracking technologies that ensure the security of eharmony’s information system,
-* tracking technologies that control abuse,
-* tracking technologies that temporarily store certain user entries,
-* tracking technologies that store certain user preferences.
+*   tracking technologies that identify or authenticate our users, and tracking technologies in connection with a secure authentication process,
+*   tracking technologies that ensure the security of eharmony’s information system,
+*   tracking technologies that control abuse,
+*   tracking technologies that temporarily store certain user entries,
+*   tracking technologies that store certain user preferences.
 
 These tracking technologies enable you to navigate safely in our app and use the functions as desired. Without these tracking technologies, eharmony cannot provide its essential services. We only use these tracking technologies when you use our app.
 
@@ -210,10 +210,10 @@ You can object to the processing of data on your device related to tracking tech
 
 ### **Legal basis for the processing of personal data and access to your end device in connection with tracking technologies (such as app identifiers) when using the eharmony app**
 
-* We obtain the consent of the data subject for the processing of personal data by non-essential tracking technologies. In this case, the legal basis is Article 6(1) of the UK GDPR.
-* When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis for the processing is point (b) of Article 6(1) UK GDPR. This also applies to any processing of data that is required to carry out any pre-contractual actions.
-* If the processing is necessary to safeguard the legitimate interest of eharmony or a third party, such as our members, and the interests, fundamental rights and freedoms of the data subject do not override those legitimate interests, our legal basis for the processing is point (f) of Article 6(1) UK GDPR.
-* The relevant subsection of Art. 6(1) GDPR applies to any further data processing in connection with cookies, device identifiers, or other personal data on your terminal device (as applicable, depending on the particular data processing in question).
+*   We obtain the consent of the data subject for the processing of personal data by non-essential tracking technologies. In this case, the legal basis is Article 6(1) of the UK GDPR.
+*   When the processing of your personal data is required to fulfil our contractual relationship (either in relation to Basic Membership or Premium Membership), our legal basis for the processing is point (b) of Article 6(1) UK GDPR. This also applies to any processing of data that is required to carry out any pre-contractual actions.
+*   If the processing is necessary to safeguard the legitimate interest of eharmony or a third party, such as our members, and the interests, fundamental rights and freedoms of the data subject do not override those legitimate interests, our legal basis for the processing is point (f) of Article 6(1) UK GDPR.
+*   The relevant subsection of Art. 6(1) GDPR applies to any further data processing in connection with cookies, device identifiers, or other personal data on your terminal device (as applicable, depending on the particular data processing in question).
 
 When the legal basis for processing is your consent, you are entitled to withdraw your consent at any time. However, this withdrawal will not affect the lawfulness of any processing carried out on the basis of your consent before your [withdrawal](https://www.eharmony.co.uk/cookiesandtracking/#pp06). If the legal basis is a legitimate interest, you are also entitled, in general, to object to the processing of your personal data, at any time, for reasons arising from your specific situation. Article 21 UK GDPR applies in this respect.
 
@@ -227,5 +227,5 @@ Furthermore, it is possible to reset the use of the ID on your device for target
 
 [Here](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_uk_tracking_mechanisms_app.pdf)you can find a complete overview of all tracking technologies that we use on our platform. Together with the description of individual tracking technologies, we have also listed the cookie’s purpose, which data is processed, the data controller(s), and other important information.
 
-* Sources
-* History
+*   Sources
+*   History
