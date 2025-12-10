@@ -14,7 +14,7 @@ Le Directeur Editorial est Monsieur Manuel Conejo.
 
 Le Data Protection Officer est Monsieur Aurélien Aucher.
 
-* Email à l’adresse : dpo@adopte.app
+*   Email à l’adresse : dpo@adopte.app
     
 
 Notre Service Clients se tient à votre disposition pour toute information nécessaire. Vous pouvez nous contacter via la rubrique Aide & Assistance : [https://help.adopte.app](https://help.adopte.app/) .
@@ -80,14 +80,14 @@ Les Services proposés par GAAG ne relèvent pas des activités de conseil ou de
 
 Pour s’inscrire, il convient :
 
-* D'être âgé d'au moins 18 ans ;
-* D'être situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
-* De ne pas avoir été privé de ses droits civiques ;
-* De ne pas être inscrit sur le fichier judiciaire automatisé des auteurs d’infractions sexuelles et violentes (FIJAIS) ;
-* De n’avoir jamais été condamné pour un crime ou un délit à caractère sexuel, violent (y compris la violence domestique), haineux, terroriste ou impliquant l’escroquerie ; 
-* D'avoir lu et accepté les Conditions ;
-* D'avoir rempli les champs obligatoires du formulaire d'inscription ;
-* De ne pas avoir eu son Compte résilié plus de deux fois pour manquement aux présentes ou aux lois en vigueur.
+*   D'être âgé d'au moins 18 ans ;
+*   D'être situé sur le territoire français, en Belgique, au Luxembourg ou en Suisse ;
+*   De ne pas avoir été privé de ses droits civiques ;
+*   De ne pas être inscrit sur le fichier judiciaire automatisé des auteurs d’infractions sexuelles et violentes (FIJAIS) ;
+*   De n’avoir jamais été condamné pour un crime ou un délit à caractère sexuel, violent (y compris la violence domestique), haineux, terroriste ou impliquant l’escroquerie ; 
+*   D'avoir lu et accepté les Conditions ;
+*   D'avoir rempli les champs obligatoires du formulaire d'inscription ;
+*   De ne pas avoir eu son Compte résilié plus de deux fois pour manquement aux présentes ou aux lois en vigueur.
 
 Chaque membre garantit la sincérité et la véracité des informations communiquées et s'engage à les tenir régulièrement à jour. 
 
@@ -128,8 +128,8 @@ Les utilisateurs peuvent se déconnecter de leur Compte à tout moment via la ru
 
 Les utilisateurs peuvent également désactiver leur Compte. Lorsqu’un Compte est désactivé :
 
-* les informations publiques du Profil ne sont plus visibles ni disponibles et les conversations avec un membre ayant désactivé son Compte affichent la mention « ce cœur n’est plus à prendre » ;
-* l’utilisateur ne peut pas interagir avec les autres membres de la Plateforme.
+*   les informations publiques du Profil ne sont plus visibles ni disponibles et les conversations avec un membre ayant désactivé son Compte affichent la mention « ce cœur n’est plus à prendre » ;
+*   l’utilisateur ne peut pas interagir avec les autres membres de la Plateforme.
 
 Pour réactiver un Compte, l’utilisateur doit se connecter à la Plateforme avec ses identifiants et confirmer sa demande d’activation via le lien envoyé par GAAG à son adresse électronique. En cas de réactivation du Compte, ses données lui seront réaffectées. 
 
@@ -206,8 +206,8 @@ Il est rappelé que l’Utilisateur ne peut pas cumuler un Pass et un Abonnement
 
 En cas d’épuisement du nombre de Charmes mis à sa disposition, l’Utilisateur peut :
 
-* acheter des Charmes supplémentaires selon les prix et modalités de fonctionnement qui sont indiqués dans la Boutique,
-* opter pour un Abonnement mieux adapté à ses besoins avec un nombre plus important de Charmes : il s’agit de la procédure d’upgrade, qui est proposée uniquement en cas de connexion sur le Site.
+*   acheter des Charmes supplémentaires selon les prix et modalités de fonctionnement qui sont indiqués dans la Boutique,
+*   opter pour un Abonnement mieux adapté à ses besoins avec un nombre plus important de Charmes : il s’agit de la procédure d’upgrade, qui est proposée uniquement en cas de connexion sur le Site.
 
 Les Charmes supplémentaires ne sont pas remboursables.
 
@@ -343,43 +343,43 @@ GAAG concède aux utilisateurs un droit d’accès à la Plateforme et d’utili
 
 Lors de l’inscription à la Plateforme et dans le cadre de l’utilisation des Services, l’utilisateur s'engage à :
 
-* Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
+*   Respecter les lois et règlements en vigueur et à ne pas enfreindre l'ordre public ;
     
-* Ne pas émettre de fausses déclarations ;
+*   Ne pas émettre de fausses déclarations ;
     
-* Respecter les droits de propriété intellectuelle ou industrielle ;
+*   Respecter les droits de propriété intellectuelle ou industrielle ;
     
-* Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au Compte ou de résiliation pour faute grave ;
+*   Télécharger uniquement des photos le représentant. Il est interdit de mettre en ligne des photos d'un tiers, des photos à caractère sexuel, des photos « topless », des photos dénudées. Toute publication de photo à caractère sexuel est passible de suspension d'accès au Compte ou de résiliation pour faute grave ;
     
-* Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
+*   Ne pas commettre de délits de diffamation, d'injure, de provocations notamment à caractère racial ou discriminatoire, d'apologies de crime de guerre ou de crime contre l'humanité ;
     
-* Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
+*   Respecter les règles de moralité et de bienséance et notamment à ne pas diffuser de contenu à caractère pornographique ou exhibitionniste ;
     
-* S'interdire de tout comportement, propos ou diffusion de contenu relevant de l’exploitation, de l’abus ou de la sexualisation de mineurs, y compris tout contenu réel, fictif ou suggéré représentant des mineurs. Tout manquement pourra entraîner la suppression immédiate du Compte et la transmission du dossier aux autorités compétentes.
+*   S'interdire de tout comportement, propos ou diffusion de contenu relevant de l’exploitation, de l’abus ou de la sexualisation de mineurs, y compris tout contenu réel, fictif ou suggéré représentant des mineurs. Tout manquement pourra entraîner la suppression immédiate du Compte et la transmission du dossier aux autorités compétentes.
     
-* Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres utilisateurs d'accéder aux Services de leur Compte ;
+*   Ne pas communiquer leur mot de passe et autres codes confidentiels permettant à des tiers ou à d'autres utilisateurs d'accéder aux Services de leur Compte ;
     
-* Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres utilisateurs de la Plateforme (la crédibilité de celle-ci reposant sur la réalité des échanges) ;
+*   Ne pas utiliser de logiciel, d'application, d'interface ou l'aide d'un tiers afin d'interférer dans la prise de contact avec les autres utilisateurs de la Plateforme (la crédibilité de celle-ci reposant sur la réalité des échanges) ;
     
-* Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du Compte et la résiliation du contrat ;
+*   Ne pas utiliser tout robot, agent numérique, araignée, collecteur, racleur, application de recherche/extraction de site, passerelle de procuration ou autre appareil manuel ou automatique, méthode ou processus visant à accéder, extraire, indexer, fouiller les données ou reproduire ou éluder de quelque façon que ce soit la structure de navigation ou la présentation du Service ou de ses contenus. Le non-respect de cette clause peut entraîner la suspension définitive du Compte et la résiliation du contrat ;
     
-* Respecter la confidentialité des correspondances et la vie privée des autres utilisateurs ;
+*   Respecter la confidentialité des correspondances et la vie privée des autres utilisateurs ;
     
-* Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
+*   Ne pas diffuser ou divulguer le contenu des correspondances et messages qui leur ont été directement adressés dans le cadre des Services mis à leur disposition ;
     
-* S'abstenir envers les autres utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
+*   S'abstenir envers les autres utilisateurs de toute proposition ou initiative contraire à leur volonté exprimée ;
     
-* Demeurer courtois et correct envers les autres utilisateurs ;
+*   Demeurer courtois et correct envers les autres utilisateurs ;
     
-* Ne pas porter atteinte aux Services ou à la Plateforme ;
+*   Ne pas porter atteinte aux Services ou à la Plateforme ;
     
-* Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur la Plateforme ;
+*   Ne pas proposer, solliciter ou promouvoir de biens ou de services payants ou de contreparties financières, la prostitution étant formellement interdite sur la Plateforme ;
     
-* Ne pas détourner les utilisateurs de la Plateforme vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
+*   Ne pas détourner les utilisateurs de la Plateforme vers un autre site (notamment à l'aide de liens hypertextes), ou un service concurrent ;
     
-* S'abstenir de toute utilisation commerciale ou publicitaire de la Plateforme ;
+*   S'abstenir de toute utilisation commerciale ou publicitaire de la Plateforme ;
     
-* Ne pas organiser de manifestation, réunion collective de ses membres au moyen de la Plateforme et des Services mis à leur disposition.
+*   Ne pas organiser de manifestation, réunion collective de ses membres au moyen de la Plateforme et des Services mis à leur disposition.
     
 
 L’utilisateur ne peut céder aucun droit ni aucune obligation dans le cadre des présentes sans le consentement écrit préalable de GAAG.
@@ -403,9 +403,9 @@ GAAG s'engage à fournir aux utilisateurs un service en ligne conforme aux règl
 
 La configuration exigée pour bénéficier des Services de la Plateforme est :
 
-* Activation de Javascript,
-* Acceptation des cookies nécessaires au fonctionnement de la Plateforme,
-* Acceptation de l'affichage des fenêtres pop-up.
+*   Activation de Javascript,
+*   Acceptation des cookies nécessaires au fonctionnement de la Plateforme,
+*   Acceptation de l'affichage des fenêtres pop-up.
 
 Il est recommandé de télécharger la version la plus récente du navigateur internet ainsi que la version la plus récente des systèmes d’exploitation Android et IOS afin de profiter au mieux de la Plateforme.
 
@@ -482,9 +482,9 @@ En cas de défaut de paiement, l'Abonnement en cours pourra être résilié par 
 
 GAAG se réserve le droit de résilier le contrat d’un utilisateur et par conséquent de clôturer définitivement son Compte en cas de : 
 
-* Manquement grave aux présentes 
-* Suspension d’un même Compte plus de 3 fois
-* Non communication des justificatifs demandés par GAAG
+*   Manquement grave aux présentes 
+*   Suspension d’un même Compte plus de 3 fois
+*   Non communication des justificatifs demandés par GAAG
 
 De même, dans le cas où l’infraction signalée est grave, GAAG pourra clôturer tous les Comptes créés à partir de la même IP.
 
