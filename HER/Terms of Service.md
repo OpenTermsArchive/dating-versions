@@ -23,7 +23,7 @@ The arbitration provisions set forth in these Terms could affect your right to p
 
 These terms create a legally binding agreement between you and us. By accessing or using the Site, you are accepting these Terms. Some of our Services may have additional rules, policies, and procedures. Where such additional terms apply, we will make them available for you.
 
-* _By using any Services from HER, you agree to the terms and conditions of this agreement._
+*   _By using any Services from HER, you agree to the terms and conditions of this agreement._
 
 Some of our services may have additional rules, policies and procedures (collectively, “Additional Terms”). Where Additional Terms apply, we will make them available for you to read through in connection with your use of that service. By using that service, you agree to the Additional Terms. You confirm that you can enter the Agreement. You confirm and promise to us that you have the right, authority, and capacity to enter into these terms.
 
