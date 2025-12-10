@@ -1,5 +1,5 @@
-* [Home](https://hily.com/) 
-* Privacy Policy
+*   [Home](https://hily.com/) 
+*   Privacy Policy
 
 Privacy Policy
 ==============
@@ -53,8 +53,8 @@ Hily also collects your location to determine your distance from other users (�
 
 If you have given Hily access to your location, but wish to turn this off, you can do so by the following methods:
 
-* iPhone app — settings, privacy, location services, Hily
-* Android — settings, location, Hily, permissions, location
+*   iPhone app — settings, privacy, location services, Hily
+*   Android — settings, location, Hily, permissions, location
 
 2. Changes and Updates to Policy
 --------------------------------
@@ -170,14 +170,14 @@ You can withdraw your consent at any time, please contact us at [support@hily.co
 
 **3.9.** **Third Parties: Other Users and Social Media**. Some of your data is publicly available; it means that other users of Hily may have access to your data with which you go public. The following information may be visible:
 
-* Name;
-* Username;
-* Email address;
-* Phone number;
-* Gender identity;
-* Date of birth;
-* Photographs;
-* Location
+*   Name;
+*   Username;
+*   Email address;
+*   Phone number;
+*   Gender identity;
+*   Date of birth;
+*   Photographs;
+*   Location
 
 Please read section 1 carefully and follow our privacy recommendation in order to avoid any undesirable or accidental disclosure of your data. Meanwhile, as we explained in sections 3.4(f)-(h), Hily users have an option to register or log in to the App using Facebook, Snapchat or Apple profile. If you act so, you are authorizing us (and in some cases, other users) to access some of your information placed in your external profiles, including information you make available via these social media, your friends list, current location and those friends you have in common with other Hily users etc. With this regard, please note the following:
 
@@ -426,12 +426,12 @@ Hily may share in the sense of CPPA certain personal information (Advertising id
 
 **9.4.1** The right to know what personal information is being collected and the right to know what personal information is sold or shared. You have the right to request, twice within a 12-month period, the following information about the data: 
 
-* a) The categories of personal information Hily has collected about you.
-* b) The categories of sources from which the personal information is collected.
-* c) The business or commercial purpose for collecting, selling, or sharing personal information.
-* d) The categories of personal information that Hily sold or shared about you and the categories of third parties to whom the personal information was sold or shared, by category or categories of personal information for each category of third parties to whom the personal information was sold or shared.
-* e) The categories of third parties to whom Hily discloses personal information.
-* f) The specific pieces of personal information it has collected about that consumer.
+*   a) The categories of personal information Hily has collected about you.
+*   b) The categories of sources from which the personal information is collected.
+*   c) The business or commercial purpose for collecting, selling, or sharing personal information.
+*   d) The categories of personal information that Hily sold or shared about you and the categories of third parties to whom the personal information was sold or shared, by category or categories of personal information for each category of third parties to whom the personal information was sold or shared.
+*   e) The categories of third parties to whom Hily discloses personal information.
+*   f) The specific pieces of personal information it has collected about that consumer.
 
 **9.4.2.** The right to delete your personal information or correct inaccurate personal information**.**You may request Hily to delete any personal information about you which Hily has collected. You also have the right to request Hily to correct inaccurate personal information about you, taking into account the nature of the personal information and the purposes of the processing of the personal information.
 
@@ -535,10 +535,10 @@ Before participating in the photo verification, you consent via pop-up that Hily
 
 **13.2.** To protect you and others, we may monitor your use of the Services and use your personal data and/or other information we collect in order to:
 
-* identify and prevent fraudulent activities and transactions, 
-* prevent abuse of and investigate and/or prosecute potential threats to or misuse of the Service, 
-* ensure compliance with the [Terms of Use](https://hily.com/terms-of-use/) and this Policy,
-*  protect the rights and property of you, Hily, its partners and other customers. 
+*   identify and prevent fraudulent activities and transactions, 
+*   prevent abuse of and investigate and/or prosecute potential threats to or misuse of the Service, 
+*   ensure compliance with the [Terms of Use](https://hily.com/terms-of-use/) and this Policy,
+*    protect the rights and property of you, Hily, its partners and other customers. 
 
 This security monitoring may result in the collection, recording, and analysis of online activity or communications through the Services. If you do not consent to these conditions, you must discontinue your use of the Services.
 
