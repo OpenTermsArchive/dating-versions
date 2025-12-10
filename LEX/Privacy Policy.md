@@ -27,9 +27,9 @@ If you opt in to Lex’s location-sharing features, we collect your precise geog
 
 You may choose from the following location settings:
 
-* Share location continuously (even in the background)
-* Share location only while using the app
-* Do not share location
+*   Share location continuously (even in the background)
+*   Share location only while using the app
+*   Do not share location
 
 You may change your location preferences at any time in your app settings. If you disable location sharing, we will no longer collect or display your location, and any previously collected location data will be discarded once no longer needed for real-time display.
 
@@ -37,9 +37,9 @@ You may change your location preferences at any time in your app settings. If yo
 
 Users who opt in to location sharing may:
 
-* See user-created events on the map, displayed at the location provided by the event creator.
-* View other nearby users who have chosen to appear on the map.
-* Choose whether they want to appear on the map themselves, and control their visibility at any time.
+*   See user-created events on the map, displayed at the location provided by the event creator.
+*   View other nearby users who have chosen to appear on the map.
+*   Choose whether they want to appear on the map themselves, and control their visibility at any time.
 
 When you appear on the map, your username, profile photo, and approximate location may be visible to other users in your area.
 
@@ -87,12 +87,12 @@ card or bank account number, to a third-party payment processor. We do not colle
 
 We use personal data that we collect in the following ways:
 
-* We use your username and/or Instagram handle identify you as a user in the App.
-* To provide, update, support, and improve the Services
-* To communicate with you. If you contact us, we may use your contact information to respond. We may also contact you to inform you about changes in the Services, our product offerings, and important Services-related notices, such as security and fraud notices.
-* If you provide your location, we use it to identify your area in the App and to find personals and missed connections in your area.
-* To investigate and help prevent security issues and abuse.
-* As otherwise required by applicable law or legal process. 
+*   We use your username and/or Instagram handle identify you as a user in the App.
+*   To provide, update, support, and improve the Services
+*   To communicate with you. If you contact us, we may use your contact information to respond. We may also contact you to inform you about changes in the Services, our product offerings, and important Services-related notices, such as security and fraud notices.
+*   If you provide your location, we use it to identify your area in the App and to find personals and missed connections in your area.
+*   To investigate and help prevent security issues and abuse.
+*   As otherwise required by applicable law or legal process. 
 
 We may generate information that is aggregated or de-identified so that it is no longer reasonably associated with an identifiable natural person and use it for any legitimate business purpose. We will not re-identify such data.
 
@@ -146,15 +146,15 @@ Any individual who wishes to have their personal data deleted, regardless of the
 
 The General Data Protection Regulation (EU) 2016/679 or "GDPR" gives certain rights to individuals in the European Union (“EU”), the European Economic Area member states (“EEA”), and Switzerland, in relation to their personal data. As available and except as limited under applicable law, the rights afforded to individuals are:
 
-* Right of Access - the right to be informed of and request access to the personal data we process about you;
-* Right to Rectification - the right to request that we amend or update your personal data where it is inaccurate or incomplete;
-* Right to Erasure - the right to request that we delete your personal data;
-* Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
-* Right to Object:
-    * The right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
-    * The right to object to your personal data being processed for direct marketing purposes;
-* Right to Data Portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
-* Right not to be subject to Automated Decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+*   Right of Access - the right to be informed of and request access to the personal data we process about you;
+*   Right to Rectification - the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+*   Right to Erasure - the right to request that we delete your personal data;
+*   Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
+*   Right to Object:
+    *   The right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
+    *   The right to object to your personal data being processed for direct marketing purposes;
+*   Right to Data Portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
+*   Right not to be subject to Automated Decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
 
 If you wish to exercise any of the above rights, please submit a [GDPR Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdhK2fkBounO1PeN75s7OU0Ey1tmMpGEQYd9lD8EQWAH8DPKA/viewform).
 
