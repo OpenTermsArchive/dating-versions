@@ -1,8 +1,6 @@
 Politique de protection des données pour l’utilisation de Parship – France
 ==========================================================================
 
-[Imprimer et enregistrer en format pdf](https://www.parship.fr/legal/privacy-policy/)
-
 Version: 09.12.2025
 
 Merci d’utiliser Parship ! Parship protège votre vie privée. Cette information sur la protection des données décrit comment Parship collecte, utilise, divulgue et traite d’une autre manière vos données personnelles, ainsi que les droits et les choix dont vous disposez en ce qui concerne vos données personnelles.
