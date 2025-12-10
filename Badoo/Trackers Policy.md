@@ -27,13 +27,13 @@ Nous utilisons également d'autres technologies telles que les balises web (éga
 
 Les cookies durent différentes périodes en fonction de la catégorie à laquelle ils appartiennent :
 
-* **Cookies de session** : ces cookies ne durent que le temps de votre session en ligne et expirent lorsque vous fermez votre navigateur (par exemple Internet Explorer ou Safari).
-* **Cookies persistants** : ces cookies restent sur votre appareil après la fermeture de votre navigateur. Ces cookies sont utilisés lorsque nous devons nous souvenir de vous pendant plus d'une session de navigation, par exemple pour mémoriser vos préférences d'une visite à l'autre.
+*   **Cookies de session** : ces cookies ne durent que le temps de votre session en ligne et expirent lorsque vous fermez votre navigateur (par exemple Internet Explorer ou Safari).
+*   **Cookies persistants** : ces cookies restent sur votre appareil après la fermeture de votre navigateur. Ces cookies sont utilisés lorsque nous devons nous souvenir de vous pendant plus d'une session de navigation, par exemple pour mémoriser vos préférences d'une visite à l'autre.
 
 Si vous souhaitez obtenir plus d'informations sur les tiers qui ont recours à des cookies sur nos sites web et notre application (y compris un lien vers leurs pratiques de confidentialité) et leur durée de vie, vous pouvez accéder à ces informations :
 
-* dans les paramètres de votre profil pour l'application Badoo (sous « Confidentialité » > « Annonces personnalisées » sur iOS, ou sous « Préférences de publicité » sur Android ); et
-* dans la section « Gérer les cookies » en bas de nos sites web.
+*   dans les paramètres de votre profil pour l'application Badoo (sous « Confidentialité » > « Annonces personnalisées » sur iOS, ou sous « Préférences de publicité » sur Android ); et
+*   dans la section « Gérer les cookies » en bas de nos sites web.
 
 3\. Comment refuser ou retirer son consentement à l'utilisation des Cookies ?
 -----------------------------------------------------------------------------
@@ -42,9 +42,9 @@ Si vous souhaitez obtenir plus d'informations sur les tiers qui ont recours à d
 
 Si vous souhaitez en savoir plus sur les cookies et comment refuser les cookies, les sites web suivants fournissent des informations utiles :
 
-* [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-* [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-* [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
+*   [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+*   [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+*   [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
 **Lorsque vous utilisez notre application**, vous pouvez refuser d'accepter les cookies à tout moment en gérant vos préférences de confidentialité dans votre profil (sous «Paramètres» > Confidentialité» > «Autoriser publicités personnalisées» sur iOS ou sous «Paramètres» > «Préférences des publicités» sur Android).
 
