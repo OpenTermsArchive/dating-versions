@@ -9,9 +9,9 @@ MEKTOUBE, comme tout autre site de rencontre en ligne, permet la mise en relatio
 
 Nous souhaitons, au travers de notre Politique de confidentialité, vous fournir toutes les informations nécessaires vous permettant :
 
-* De connaître la raison de la collecte des différentes données,
-* De comprendre le traitement qui sera fait de vos données,
-* D'assurer enfin la maîtrise de ces données en facilitant l'exercice vos droits
+*   De connaître la raison de la collecte des différentes données,
+*   De comprendre le traitement qui sera fait de vos données,
+*   D'assurer enfin la maîtrise de ces données en facilitant l'exercice vos droits
 
 Accéder à la [politique de confidentialité](https://www.mektoube.fr/privacy-policy)
 
