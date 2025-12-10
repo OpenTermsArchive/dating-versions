@@ -40,12 +40,12 @@ You may withdraw your consent to receive Electronic Records by contacting us in 
 
 By accessing or using the Services, you represent and warrant that:
 
-* you are at least 18 years old;
-* you have never been convicted of a felony or any criminal offense characterized as a sexual offense and are not required to register as a sex offender with any government entity;
-* you have not previously been suspended or removed from the Services;
-* you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement;
-* you are not a competitor of us and are not using the Services for reasons that are in competition with us or other than for its intended purpose; and
-* you are not located in, under the control of, or a national or resident of any country which the United States has (i) embargoed, (ii) identified as a “Specially Designated National” or (iii) placed on the Commerce Department’s Table of Deny Orders.
+*   you are at least 18 years old;
+*   you have never been convicted of a felony or any criminal offense characterized as a sexual offense and are not required to register as a sex offender with any government entity;
+*   you have not previously been suspended or removed from the Services;
+*   you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement;
+*   you are not a competitor of us and are not using the Services for reasons that are in competition with us or other than for its intended purpose; and
+*   you are not located in, under the control of, or a national or resident of any country which the United States has (i) embargoed, (ii) identified as a “Specially Designated National” or (iii) placed on the Commerce Department’s Table of Deny Orders.
 
 **4\. USE OF THE SERVICES**
 
@@ -65,30 +65,30 @@ You agree that you will only use the Services, including the posting of any cont
 
 You agree to:
 
-* comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
-* use your real name and real age in creating your user account and on your profile; and
-* use the services in a safe, inclusive and respectful manner and adhere to this Agreement, and our community policies or guidelines at all times.
+*   comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
+*   use your real name and real age in creating your user account and on your profile; and
+*   use the services in a safe, inclusive and respectful manner and adhere to this Agreement, and our community policies or guidelines at all times.
 
 You agree not to do any of the following while engaging with other users or using the Service:
 
-* use the Service in any unlawful manner or in a manner that is harmful to or violates the rights of others;
-* engage in any unlawful, harassing, obscene, intimidating, threatening, predatory or stalking conduct;
-* use the Services in any manner that could disrupt, damage, disable, overburden, impair or affect the performance of the Services or interfere with or attempt to interfere with any other user’s use of the Services;
-* attempt to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;
-* impersonate any person or entity, or misrepresent your age, identity, affiliation, connection or association with, any person or entity;
-* make any commercial use of the Services or promote or solicit involvement in or support of a political platform, religion, cult, or sect;
-* defraud, swindle or deceive other users of the Services;
-* disseminate another person’s personal information without his or her permission, or collect or solicit another person’s personal information for commercial or unlawful purposes;
-* solicit or engage in gambling or any similar activity or any illegal or unlawful activity;
-* use any scripts, bots or other automated technology to scrape or access the Services or take any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;
-* collect or solicit personal information about anyone under 18;
-* use the Service for any phishing, trolling or similar activities;
-* use the Service to redirect users to other sites or encourage users to visit other sites;
-* harvest or collect email addresses or other contact information of other users from the Services by electronic or other means or use the Services to send, either directly or indirectly, any unsolicited bulk email or communications, unsolicited commercial email or communications or other spamming or spimming activities;
-* attempt to access any Services or area of the Sites that you are not authorized to access;
-* bypass the measures we may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the content therein;
-* use another user’s account or permit or allow other people or third parties to access and use the Services via your account; or
-* upload invalid data, viruses, worms, or other software agents through the Services.
+*   use the Service in any unlawful manner or in a manner that is harmful to or violates the rights of others;
+*   engage in any unlawful, harassing, obscene, intimidating, threatening, predatory or stalking conduct;
+*   use the Services in any manner that could disrupt, damage, disable, overburden, impair or affect the performance of the Services or interfere with or attempt to interfere with any other user’s use of the Services;
+*   attempt to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Service;
+*   impersonate any person or entity, or misrepresent your age, identity, affiliation, connection or association with, any person or entity;
+*   make any commercial use of the Services or promote or solicit involvement in or support of a political platform, religion, cult, or sect;
+*   defraud, swindle or deceive other users of the Services;
+*   disseminate another person’s personal information without his or her permission, or collect or solicit another person’s personal information for commercial or unlawful purposes;
+*   solicit or engage in gambling or any similar activity or any illegal or unlawful activity;
+*   use any scripts, bots or other automated technology to scrape or access the Services or take any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;
+*   collect or solicit personal information about anyone under 18;
+*   use the Service for any phishing, trolling or similar activities;
+*   use the Service to redirect users to other sites or encourage users to visit other sites;
+*   harvest or collect email addresses or other contact information of other users from the Services by electronic or other means or use the Services to send, either directly or indirectly, any unsolicited bulk email or communications, unsolicited commercial email or communications or other spamming or spimming activities;
+*   attempt to access any Services or area of the Sites that you are not authorized to access;
+*   bypass the measures we may use to prevent or restrict access to the Service, including without limitation features that prevent or restrict use or copying of any content or enforce limitations on use of the Service or the content therein;
+*   use another user’s account or permit or allow other people or third parties to access and use the Services via your account; or
+*   upload invalid data, viruses, worms, or other software agents through the Services.
 
 **g. Reporting Violations.** If you wish to report any violation of this Agreement by others, including Members, you may do so by using the “Report This Profile” button or similar button or link on the Services or by contacting us at [https://support.jdate.com/hc/en-us/requests/new](https://support.jdate.com/hc/en-us/requests/new). We reserve the right to investigate any possible violations of this Agreement, any user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the Service without prior notice, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the Sites.
 
@@ -112,16 +112,16 @@ YOU AGREE TO, AND HEREBY DO, RELEASE THE COMPANY AND ITS SUCCESSORS FROM ANY CLA
 
 **f. Prohibited Content.**  You will not post, transmit or deliver to any other user, either directly or indirectly, any User Content that violates any third-party rights or any applicable law, rule or regulation or is prohibited under this Agreement or any other Company policy governing your use of the Services (“Prohibited Content”). Prohibited Content includes without limitation User Content that:
 
-* is obscene, pornographic, profane, defamatory, abusive, offensive, indecent, sexually oriented, threatening, harassing, inflammatory, inaccurate, misrepresentative, fraudulent or illegal;
-* promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-* is intended to, or does, harass, or intimidate any other user or third party;
-* may infringe or violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party, including User Content that contains others’ copyrighted content (e.g., photos, images, music, movies, videos, etc.) without obtaining proper permission first;
-* contains video, audio, photographs, or images of another person without his or her express written consent (or in the case of a minor, the minor’s legal guardian) or otherwise violates anyone’s right of privacy or publicity;
-* promotes or enables illegal or unlawful activities, such as instructions on how to make or buy illegal weapons or drugs;
-* violates someone’s data privacy or data protection rights;
-* contains viruses, time bombs, trojan horses, cancelbots, worms or other harmful, or disruptive codes, components or devices;
-* contains any advertising, fundraising or promotional content; or
-* is, in the sole judgment of the Company, objectionable or restricts or inhibits any person from using or enjoying the Services or exposes the Company or its users to harm or liability of any type.
+*   is obscene, pornographic, profane, defamatory, abusive, offensive, indecent, sexually oriented, threatening, harassing, inflammatory, inaccurate, misrepresentative, fraudulent or illegal;
+*   promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
+*   is intended to, or does, harass, or intimidate any other user or third party;
+*   may infringe or violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party, including User Content that contains others’ copyrighted content (e.g., photos, images, music, movies, videos, etc.) without obtaining proper permission first;
+*   contains video, audio, photographs, or images of another person without his or her express written consent (or in the case of a minor, the minor’s legal guardian) or otherwise violates anyone’s right of privacy or publicity;
+*   promotes or enables illegal or unlawful activities, such as instructions on how to make or buy illegal weapons or drugs;
+*   violates someone’s data privacy or data protection rights;
+*   contains viruses, time bombs, trojan horses, cancelbots, worms or other harmful, or disruptive codes, components or devices;
+*   contains any advertising, fundraising or promotional content; or
+*   is, in the sole judgment of the Company, objectionable or restricts or inhibits any person from using or enjoying the Services or exposes the Company or its users to harm or liability of any type.
 
 **g. Submissions.** Separate and apart from the User Content you provide as part of your use of the Services, you can submit questions, comments, feedback, suggestions, success stories, ideas, plans, notes, drawings, original or creative materials or other information relating to the Company and our Services (collectively, “Submissions”). Submissions, whether posted to the Services or provided to the Company by email or otherwise, are non-confidential and shall become the sole property of the Company. You hereby assign to the Company all right, title and interest, including without limitation all intellectual property rights, in and to any and all Submissions. The Company shall be entitled to the unrestricted use and dissemination of any Submissions for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
 
@@ -147,12 +147,12 @@ The Company reserves the right to terminate, in its sole discretion, users who a
 
 If you are a copyright owner or an agent thereof and believe that anything on the sites infringes upon your copyrights, you may submit a notification of infringement pursuant to the Digital Millennium Copyright Act (“DMCA”) by providing our Copyright Agent with the following information: 
 
-* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-* a description of the copyrighted work that you claim has been infringed;
-* a description of where the material that you claim is infringing is located on our website (please include URLs to help us identify the material);
-* your address, telephone number, and email address;
-* a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-* a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+*   a description of the copyrighted work that you claim has been infringed;
+*   a description of where the material that you claim is infringing is located on our website (please include URLs to help us identify the material);
+*   your address, telephone number, and email address;
+*   a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+*   a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 The Company’s designated Copyright Agent to receive notifications of claimed infringement is:
 
@@ -267,12 +267,12 @@ Our goal is to resolve any disputes amicably and quickly and we encourage you to
 
 **d. Indemnity.** You agree to defend, indemnify and hold the Company, its subsidiaries and affiliates, and each of their directors, officers, managers, agents, contractors, partners and employees harmless from any loss, liability, claim, damages, costs, debts, expenses or demand, including reasonable attorney’s fees, due to or arising from:
 
-* your use of or access to the Services, including any data or content transmitted or received by you, or your inability to use the Services;
-* any claim or damages that arise as a result of any of your User Content or any User Content that is submitted via your account;
-* your conduct in connection with the Services or our users,
-* your violation of any of the terms of this Agreement, including without limitation your breach of any of the representations and warranties above,
-* your violation of any rights of a third party, including without limitation any right of privacy or intellectual property rights;
-* any other party’s access and use of the Services with your unique username, password or other appropriate security code or (viii) your violation of any applicable laws, rules or regulations.
+*   your use of or access to the Services, including any data or content transmitted or received by you, or your inability to use the Services;
+*   any claim or damages that arise as a result of any of your User Content or any User Content that is submitted via your account;
+*   your conduct in connection with the Services or our users,
+*   your violation of any of the terms of this Agreement, including without limitation your breach of any of the representations and warranties above,
+*   your violation of any rights of a third party, including without limitation any right of privacy or intellectual property rights;
+*   any other party’s access and use of the Services with your unique username, password or other appropriate security code or (viii) your violation of any applicable laws, rules or regulations.
 
 **e. Severability.** If any clause within this Section 20 is found to be illegal or unenforceable, that clause will be severed from this section and the remainder of the section will be given full force and effect, except that in the event of unenforceability of the universal Class Action/Jury Trial Waiver, the entire arbitration agreement shall be unenforceable.
 
@@ -304,9 +304,9 @@ c.Blocked members are not entitled to refunds.
 
 To request a cancellation and/or refund:
 
-* **Generally:** Contact customer support at \[BRAND SUPPORT WEBSITE ADDRESS\]. You may also mail or deliver a signed and dated notice stating your cancellation, including your user name and email address that you used to subscribe, to: Jdate Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
-* **Apple ID subscribers:** Refunds are handled by Apple. Go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction, and hit “Report Problem.” You can also submit a request at Apple Support.
-* **Google Play subscribers outside the US:** Refunds are handled by Google. Go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem,” and submit your request.
+*   **Generally:** Contact customer support at \[BRAND SUPPORT WEBSITE ADDRESS\]. You may also mail or deliver a signed and dated notice stating your cancellation, including your user name and email address that you used to subscribe, to: Jdate Customer Care – Spark Networks, Inc., Attn: Refund Request, 3731 W South Jordan Parkway, Suite 102-405, South Jordan, UT  84009.
+*   **Apple ID subscribers:** Refunds are handled by Apple. Go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction, and hit “Report Problem.” You can also submit a request at Apple Support.
+*   **Google Play subscribers outside the US:** Refunds are handled by Google. Go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem,” and submit your request.
 
 **23\. OTHER STATE SPECIFIC PROVISIONS**
 
