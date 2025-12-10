@@ -48,16 +48,16 @@ E-Mail: datenschutz@finya.de
 
 Wenn Sie unsere Website aufrufen (also bei der bloßen Betrachtung ohne eine Registrierung und ohne dass Sie uns anderweitig Informationen mitteilen) verarbeiten wir folgende personenbezogene Daten, welche Ihr Browser automatisch an unseren Server übermittelt:
 
-* Datum und Uhrzeit der Anfrage
-* Zeitzonendifferenz zur Greenwich Mean Time (GMT)
-* Inhalt der Anforderung (besuchte Seite)
-* Zugriffsstatus/HTTP-Statuscode
-* Jeweils übertragene Datenmenge
-* Internet-Adresse, von der aus die Seite bzw. Datei abgerufen bzw. die gewünschte Funktion veranlasst wurde (Referrer URL)
-* IP-Adresse
-* Verwendeter Browser
-* Sprache und Version der Browsersoftware
-* Betriebssystem
+*   Datum und Uhrzeit der Anfrage
+*   Zeitzonendifferenz zur Greenwich Mean Time (GMT)
+*   Inhalt der Anforderung (besuchte Seite)
+*   Zugriffsstatus/HTTP-Statuscode
+*   Jeweils übertragene Datenmenge
+*   Internet-Adresse, von der aus die Seite bzw. Datei abgerufen bzw. die gewünschte Funktion veranlasst wurde (Referrer URL)
+*   IP-Adresse
+*   Verwendeter Browser
+*   Sprache und Version der Browsersoftware
+*   Betriebssystem
 
 ### b) Zweck der Datenverarbeitung
 
@@ -88,8 +88,8 @@ Falls die Cookie-Nutzung der alleinige Zweck der Speicherung von Informationen i
 
 Für die nachfolgenden Verarbeitungen personenbezogener Daten sind wiederum die allgemeinen Vorgaben der DS-GVO gemäß Art. 6 Abs. 1 DS-GVO zu beachten:
 
-* Sofern Sie eine Einwilligung erteilt haben ist die Rechtsgrundlage für die nachfolgende Verarbeitung personenbzogener Daten Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
-* Sofern die Verarbeitung personebezogener Daten aufgrund unseres berechtigten Interesses erforderlich ist, ist die Rechtsgrundlage für die nachfolgende Verarbeitung personenbzogener Daten Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+*   Sofern Sie eine Einwilligung erteilt haben ist die Rechtsgrundlage für die nachfolgende Verarbeitung personenbzogener Daten Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
+*   Sofern die Verarbeitung personebezogener Daten aufgrund unseres berechtigten Interesses erforderlich ist, ist die Rechtsgrundlage für die nachfolgende Verarbeitung personenbzogener Daten Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
 ### a) Temporäre Cookies / Session-Cookies
 
@@ -114,7 +114,7 @@ Rechtsgrundlage für die Datenverarbeitung ist § 25 Abs. 2 Nr. 2 TDDDG bzw. Art
 Die Cookies werden so lange gespeichert, bis Sie uns auffordern, diese Daten zu löschen, Sie das Cookie selbst löschen oder die Speicherung für den Zweck der Datenverarbeitung nicht mehr erforderlich ist.
 
 Sie können Ihre Cookie-Einstellungen unter folgenden Link jederzeit ändern:  
-[Cookies verwalten](javascript:void(0);)
+[Cookies verwalten](javascript:void\(0\);)
 
 ### e) Cookie-Kategorien
 
@@ -128,13 +128,13 @@ Erforderliche Cookies gewährleisten Funktionen ohne die unsere Website nicht wi
 
 Statistik-Cookies sammeln Informationen über die Nutzungsweise einer Website um deren Attraktivität, Inhalt und Funktionalität zu verbessern. So werden z. B. folgende Daten gesammelt:
 
-* Anzahl der Zugriffe auf eine Seite bzw. Unterseite
-* Verweildauer auf der Website
-* Reihenfolge der besuchten Seiten
-* Suchbegriffe
-* Land, Region, Stadt, aus der der Zugriff erfolgt
-* Anteil von mobilen Endgeräten, die auf unsere Websiten zugreifen
-* Analyse, welche Bereiche unserer Website Sie besonders interessieren
+*   Anzahl der Zugriffe auf eine Seite bzw. Unterseite
+*   Verweildauer auf der Website
+*   Reihenfolge der besuchten Seiten
+*   Suchbegriffe
+*   Land, Region, Stadt, aus der der Zugriff erfolgt
+*   Anteil von mobilen Endgeräten, die auf unsere Websiten zugreifen
+*   Analyse, welche Bereiche unserer Website Sie besonders interessieren
 
 Rechtsgrundlage für die Verarbeitung dieser personenbezogenen Daten ist Ihre Einwilligung gemäß § 25 Abs. 1 S. 1 TDDDG in Verbindung mit Art. 4 Nr. 11, 7 DS-GVO bzw. Art. 6 Abs. 1 S. 1 lit. a DS-GVO für die nachfolgende Verarbeitung personenbezogener Daten. Sobald die Cookies für die beschriebenen Zwecke nicht mehr erforderlich sind, die Speicherdauer endet oder Sie Ihre Einwilligung widerrufen, werden diese Cookies gelöscht.
 
@@ -200,7 +200,7 @@ Die gespeicherten Daten werden gelöscht, sobald die Laufzeit des Cookies abläu
 
 #### e) Widerrufsrecht
 
-Die gespeicherten Daten werden gelöscht, sobald Sie einen Widerruf erteilen, indem Sie unter „[Cookies verwalten](javascript:void(0);)“ auf die Schaltfläche „Ablehnen“ klicken.
+Die gespeicherten Daten werden gelöscht, sobald Sie einen Widerruf erteilen, indem Sie unter „[Cookies verwalten](javascript:void\(0\);)“ auf die Schaltfläche „Ablehnen“ klicken.
 
 #### f) Weitere Informationen
 
@@ -265,13 +265,13 @@ Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Si
 
 Wir geben Ihre personenbezogenen Daten nur an Dritte weiter, wenn,
 
-1. Sie hierzu Ihre ausdrückliche Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DS-GVO erteilt haben;
-2. dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DS-GVO zur Erfüllung eines Vertragsverhältnisses mit Ihnen oder der Durchführung vorvertraglicher Maßnahmen erforderlich ist;
-3. nach Art. 6 Abs. 1 S. 1 lit. c DS-GVO für die Weitergabe eine rechtliche Verpflichtung besteht. Gesetzlich verpflichtet sind wir zur Übermittlung von Daten an staatliche Behörden, z. B. Steuerbehörden, Sozialversicherungsträgern, Krankenkassen, Aufsichtsbehörden und Strafverfolgungsbehörden;
-4. die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. f DS-GVO zur Wahrung berechtigter Unternehmensinteressen, sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe Ihrer Daten haben;
-5. wir gemäß Art. 28 Abs. 3 DS-GVO bei der Verarbeitung personenbezogener Daten externe Dienstleister (sog. Auftragsverarbeiter) einsetzen. Diese wurden von uns sorgfältig ausgewählt und durch einen Auftragsverarbeitungsvertrag zum datenschutzkonformen Umgang mit personenbezogenen Daten verpflichtet. Wir setzen solche externen Dienstleister in den folgenden Bereichen ein:
-    * IT
-    * Telekommunikation
+1.  Sie hierzu Ihre ausdrückliche Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DS-GVO erteilt haben;
+2.  dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DS-GVO zur Erfüllung eines Vertragsverhältnisses mit Ihnen oder der Durchführung vorvertraglicher Maßnahmen erforderlich ist;
+3.  nach Art. 6 Abs. 1 S. 1 lit. c DS-GVO für die Weitergabe eine rechtliche Verpflichtung besteht. Gesetzlich verpflichtet sind wir zur Übermittlung von Daten an staatliche Behörden, z. B. Steuerbehörden, Sozialversicherungsträgern, Krankenkassen, Aufsichtsbehörden und Strafverfolgungsbehörden;
+4.  die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. f DS-GVO zur Wahrung berechtigter Unternehmensinteressen, sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe Ihrer Daten haben;
+5.  wir gemäß Art. 28 Abs. 3 DS-GVO bei der Verarbeitung personenbezogener Daten externe Dienstleister (sog. Auftragsverarbeiter) einsetzen. Diese wurden von uns sorgfältig ausgewählt und durch einen Auftragsverarbeitungsvertrag zum datenschutzkonformen Umgang mit personenbezogenen Daten verpflichtet. Wir setzen solche externen Dienstleister in den folgenden Bereichen ein:
+    *   IT
+    *   Telekommunikation
 
 Bei der Übermittlung personenbezogener Daten in sog. Drittländer, d.h. außerhalb der EU bzw. des EWR, stellen wir sicher, dass Ihre personenbezogenen Daten mit der gleichen Sorgfalt behandelt werden, wie innerhalb der EU bzw. des EWR. Wir übermitteln personenbezogene Daten nur in Drittländer, bei denen die EU-Kommission ein angemessenes Datenschutzniveau bestätigt hat oder wenn wir den sorgfältigen Umgang mit den personenbezogenen Daten durch vertragliche Vereinbarungen oder andere geeignete Garantien sichergestellt haben.
 
@@ -364,6 +364,6 @@ Unsere Datenschutzerklärung dient der Erfüllung gesetzlicher Informationspflic
 Stand: Juni 2021
 
 **Weitere Links:**  
-* [Nutzungsbedingungen](https://www.finya.de/Legal/terms/)
-[](https://www.finya.de/Legal/terms/)* [](https://www.finya.de/Legal/terms/)[Kontakt](https://www.finya.de/Legal/about/)
-* [Impressum](https://www.finya.de/Legal/about/)
+*   [Nutzungsbedingungen](https://www.finya.de/Legal/terms/)
+[](https://www.finya.de/Legal/terms/)*   [](https://www.finya.de/Legal/terms/)[Kontakt](https://www.finya.de/Legal/about/)
+*   [Impressum](https://www.finya.de/Legal/about/)
