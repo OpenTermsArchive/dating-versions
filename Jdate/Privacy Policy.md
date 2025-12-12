@@ -13,10 +13,11 @@ This Policy is provided in a layered format so you can click through to the spec
 1.  [IMPORTANT INFORMATION AND WHO WE ARE](#important-information)
 2.  [THE DATA WE COLLECT ABOUT YOU AND HOW IT IS COLLECTED](#the-data)
 3.  [HOW WE USE YOUR PERSONAL DATA](#how-we-use-it)
-4.  [DISCLOSURES OF YOUR PERSONAL DATA](#disclosures-of)
-5.  [EU AND US STATE SPECIFIC PRIVACY RIGHTS](#CCPA-section)
-6.  [CONTACT US](#contact-us)
-7.  [MISCELLANEOUS](#miscellaneous)
+4.  [HOW DO DELETE YOUR ACCOUNT INFORMATION](#how-to-delete-your-account-information)
+5.  [DISCLOSURES OF YOUR PERSONAL DATA](#disclosures-of)
+6.  [EU AND US STATE SPECIFIC PRIVACY RIGHTS](#CCPA-section)
+7.  [CONTACT US](#contact-us)
+8.  [MISCELLANEOUS](#miscellaneous)
 
 1\. IMPORTANT INFORMATION AND WHO WE ARE
 ========================================
@@ -132,7 +133,12 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-4\. DISCLOSURES OF YOUR PERSONAL DATA
+4\. HOW TO DELETE YOUR ACCOUNT INFORMATION
+==========================================
+
+Users may request permanent deletion of their account at any time through the platform’s account settings by navigating to “manage account” and selecting “delete account” or by sending a request to our Customer Support Team at [support@spark.com](mailto:support@spark.com) or to our Legal Team at [legal@spark.net](mailto:legal@spark.net). Once a deletion request is confirmed, all personal data, profile information, and associated content will be removed from our systems within 30 days, except where retention is required by law or for legitimate business purposes (such as fraud prevention). Deleted accounts cannot be restored, and users will need to create a new account to rejoin the platform. For assistance with account deletion, please contact our Customer Support Team at [support@spark.com](mailto:support@spark.com) or our Legal Team at [legal@spark.net](mailto:legal@spark.net).
+
+5\. DISCLOSURES OF YOUR PERSONAL DATA
 =====================================
 
 **Our Services allow you to share information about yourself with other individuals and other companies, including other users and potential users of the Services or other products or services offered by us and third-party Social Networking Sites.** Consider your own privacy and personal safety when sharing your information with anyone, including information you share through your profile, as profiles include basic information that was provided at registration and information provided through a Social Networking Site and may include other information added by you or your friends (for example, your religion, ethnicity and physical characteristics), as well as information about your use of the Service (for example, whether you were recently logged in to our platform). Please review our [Online Dating Safety Tips](https://about.jdate.com/safety-en/) for tips in using our Services.
@@ -154,7 +160,7 @@ We may also share your personal data with the parties set out below for the purp
 
 We may also share Aggregated Data with third parties.
 
-5\. EU AND US STATE SPECIFIC PRIVACY RIGHTS
+6\. EU AND US STATE SPECIFIC PRIVACY RIGHTS
 ===========================================
 
 U.S. STATE SPECIFIC PRIVACY RIGHTS
@@ -202,7 +208,7 @@ If you wish to receive a copy of your personal data from us, we will provide it 
 
 You can exercise the above rights by contacting our support team via the manner outlined in the [CONTACT US](#contact-us)  section below. 
 
-6\. CONTACT US
+7\. CONTACT US
 ==============
 
 Our full details are:
@@ -215,7 +221,7 @@ South Jordan, UT  84009
 
 Email: [dataprotection-EN@jdate.com](mailto:dataprotection-EN@jdate.com)
 
-7\. MISCELLANEOUS
+8\. MISCELLANEOUS
 =================
 
 This Policy does not create rights enforceable by third parties or require disclosure of any personal data relating to users of the Service.
