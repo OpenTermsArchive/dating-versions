@@ -75,22 +75,29 @@ For more information on how Google collects and processes data, visit [https://p
 
 If you have questions about this Cookie Policy, here’s how you can reach us:
 
+#### If you live in the European Economic Area:
+
 Online: [here](https://uk.match.com/faq/#privacyRequest)
 
 By post:
 
 Data Protection Officer
 
-Match.com International Limited  
-MATCH, DPO Office  
-27 Old Gloucester Street, London, United Kingdom, WC1N 3AX
+Meetic SAS  
+Match  
+53 rue de Châteaudun Paris 9 FRANCE
 
-**Or, if you live in the European Union:**
+For more information on how to contact the data protection officer, please click [here](https://uk.match.com/faq/#privacyRequest)
 
-Data Protection Officer
+#### If you live in the United Kingdom:
 
-MTCH Technology Services Limited  
-MATCH  
-1 Hatch Street Upper  
-Dublin 2, D02 PY28  
-Ireland
+Online: [here](mailto:rep_matchuk@prighter.com)
+
+By post:
+
+Prighter Group  
+20 Mortlake High Street  
+London, SW14 8JN,  
+United Kingdom
+
+UK representation certificate and representative details [here](https://app.prighter.com/portal/11742804131)
