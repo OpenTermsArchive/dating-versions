@@ -1,12 +1,12 @@
 Terms of Use
 ============
 
-(Terms of Use revised on 28/03/2024)
+(Terms of Use revised on 02/01/2026)
 
 Preamble
 --------
 
-These Terms of Use are entered into between Match (“we”, “us”) and you.
+These Terms of Use are entered into between Match (“we”, “us”) and you. As of 1 February 2026, this provision is amended as follows: These Terms of Use are entered into between the company Meetic (“we”, “us”) and you.
 
 We, as well as other business entities controlled by, controlling, or under common control with us (our “Group”) offer a number of dating, matchmaking and social discovery platforms.  We provide our products and services, some of which are free, some of which are paid for, via desktop, web mobile and apps (the “Services”).
 
@@ -314,4 +314,8 @@ In the event that an amicable solution cannot be reached regarding a dispute rel
 19\. About us
 -------------
 
-The Services provided by Match to Members and Subscribers pursuant to these Terms of Use are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose registered address is at 27 Old Gloucester Street, London, WC1N 3AX. The Websites are hosted on the Group’s servers.
+The Services provided to Members and Subscribers pursuant to these Terms of Use are offered by Match.com International Limited, a private limited company incorporated in England and Wales with registered company number 04791534 (VAT number 815337437) whose registered address is at 27 Old Gloucester Street, London, WC1N 3AX. The Websites are hosted on the Group’s servers.
+
+As of 1 February 2026, this provision is amended as follows:
+
+The Services provided to Members and Subscribers pursuant to these Terms of Use are offered by Meetic, a Société par Actions Simplifiée incorporated in France with registered company number 439 780 339 (VAT number : FR88439780339) whose registered address is at 53 rue de Chateaudun, 75009 Paris. The Websites arehosted on the Group’s servers.
