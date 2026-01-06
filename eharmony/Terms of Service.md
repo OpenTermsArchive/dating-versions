@@ -3,7 +3,7 @@ General Terms and Conditions of Use
 
 [Print or download as pdf file](https://www.eharmony.co.uk/legal/terms-conditions/)
 
-Version: 15 January 2025
+Version: 06 January 2026
 
 ****The following General Terms and Conditions of Use (“Terms and Conditions”) set out the contractual relationship between eHarmony UK Ltd., 3rd Floor, 1 Ashley Road, Altrincham, Cheshire WA14 2DT United Kingdom (“eharmony”, “us”, “our”, “we”) and its customers (“you”) when you subscribe to and use the free-of-charge and chargeable eharmony Service (defined below), whether through a mobile device, mobile application (our app) or computer.****
 
@@ -52,7 +52,7 @@ Version: 15 January 2025
 
 ### 2\. Access of the Service and Conclusion of your Subscription
 
-2.1 To access and use the eharmony Service you will need to register. To do this, you will need to provide an email address and a password of your choice. Once you have registered, you will be automatically allocated a “profile ID” (a pseudonym) and a “service password” by eharmony, which will be emailed to you.
+2.1 To access and use the eharmony Service you will need to register. To do this, you will need to provide an email address and a password of your choice. Once you have registered, you will be automatically allocated a “profile ID” (a pseudonym) and a “service password” by eharmony, which will be emailed to you. We may require you to verify your age or identity in order to register for, access, or continue using the Services. Verification may include providing personal information, photographs or videos (including biometric data), or government-issued identity documents. You agree to cooperate with any verification processes and to ensure that all information and documents you provide are accurate and authentic. If you do not complete required verification steps, or if the information you provide is inaccurate or cannot be verified, we may suspend, restrict, or terminate your access to the Services. How we process your personal information for verification purposes is described in our Privacy Policy.
 
   
 2.2 Once you have successfully registered, you will be able to access our free-of-charge Service (“Basic Membership”).
