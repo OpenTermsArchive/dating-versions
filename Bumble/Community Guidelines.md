@@ -113,8 +113,8 @@ When necessary, we also may cooperate with law enforcement to assist in potentia
 
 Your treatment towards others outside of the Bumble app can also result in action against your account. If we’re made aware of harm between members on dates, meetups with friends, via text message or direct messaging platforms, or relevant alleged criminal or harmful conduct committed in your past or outside of Bumble, we may take action as if it happened on our platform.
 
-If you believe we’ve made a mistake in taking action on your account or content, you can always [contact us here](https://bumble.com/en/contact-us).
+If you believe we’ve made a mistake in taking action on your account or content, you can always [contact us here](https://support.bumble.com/hc/articles/30933835506589).
 
 * * *
 
-If you have any questions or feedback about Bumble’s Community Guidelines, please reach out. Our support team is always available to help you [here](https://bumble.com/en/contact-us).
+If you have any questions or feedback about Bumble’s Community Guidelines, please reach out. Our support team is always available to help you [here](https://support.bumble.com/).
