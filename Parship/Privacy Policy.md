@@ -86,10 +86,9 @@ Comme décrit ci-dessous, nous pouvons collecter des données personnelles direc
     *   Profession
     *   Revenu
     *   Votre photo de profil ainsi que d’autres photos
-    *   Votre adresse de facturation
-
-En outre, cela inclut toutes les autres informations que vous nous fournissez dans le cadre de la création ou de l’utilisation de votre profil ou que vous nous transmettez d’une autre manière via votre profil.
-
+    *   Votre adresse de facturation  
+          
+        En outre, cela inclut toutes les autres informations que vous nous fournissez dans le cadre de la création ou de l’utilisation de votre profil ou que vous nous transmettez d’une autre manière via votre profil.
 *   **Achats, paiements et remboursements**. Si vous effectuez un achat ou un paiement via nos services (par exemple, si vous achetez un abonnement premium), nous collectons certaines informations nécessaires à cet effet. Il s’agit par exemple du mode de paiement que vous avez choisi, des détails du paiement, de l’adresse de facturation et des informations relatives à l’achat lui-même.
 *   **Communication et interaction**. Lorsque vous entrez en contact avec nous ou avec d’autres utilisateurs de Parship – par exemple par e-mail, par téléphone, par le biais de nos canaux de médias sociaux ou de nos sites Internet – nous collectons et enregistrons des informations pertinentes. Cela s’applique également lorsque vous vous inscrivez à notre liste de diffusion, remplissez des formulaires, donnez des évaluations ou des commentaires ou publiez des contributions dans des champs de commentaires, des blogs ou des forums accessibles au public, qui sont exploités par Parship ou en relation avec Parship. Ce faisant, nous pouvons collecter et stocker vos coordonnées, vos messages et contributions ainsi que nos réponses à ceux-ci.
 *   **Informations à des fins publicitaires**. Si vous acceptez de recevoir des communications marketing de notre part, nous pouvons recueillir votre nom, votre adresse électronique, votre numéro de téléphone, vos préférences et, le cas échéant, des informations sur votre compte et votre profil, y compris les services et fonctionnalités que vous utilisez. Si vous participez à des activités, offres, programmes, promotions ou concours particuliers que nous proposons, nous pouvons également collecter certaines informations de contact supplémentaires, votre âge et d’autres informations requises par la loi. Si vous gagnez dans le cadre d’une promotion ou d’un concours, nous pouvons également être amenés à recueillir certaines informations fiscales et/ou des renonciations et des autorisations, en fonction du gain.
@@ -435,13 +434,9 @@ Cela se fait de l’une des manières suivantes :
 
 *   La Commission européenne, l’Information Commissioner’s Office (ICO) du Royaume-Uni ou le Préposé fédéral à la protection des données et à la transparence (PFPDT) de la Suisse ont décidé que le pays tiers concerné offre un niveau de protection des données adéquat (art. 45 RGPD ou art. 16 nLPD).
 *   La transmission s’effectue sur la base de garanties appropriées conformément à l’art. 46 RGPD ou à l’art. 16, al. 2, let. d nDSG, en particulier
-    
     *   en concluant des clauses contractuelles types de l’UE qui, le cas échéant, seront complétées par des clauses de confidentialité
-        
         *   un soi-disant addendum britannique, tel que prescrit par l’ICO,
-        
         *   ainsi qu’un addendum CH, conformément aux directives du PFPDT, ou
-    
     *   par des règles internes contraignantes en matière de protection des données (Binding Corporate Rules, BCR), établies conformément à l’article 46, paragraphe 2, point b), à l’article 47 du RGPD et à l’article 16, paragraphe 2, point d) de la nLPD.
 *   Dans des cas exceptionnels, une transmission peut également avoir lieu conformément à l’art. 49 RGPD ainsi qu’à l’art. 16 f. nDSG, pour autant que les conditions légales soient remplies.
 
@@ -553,34 +548,27 @@ Nous mettons à votre disposition différentes possibilités pour gérer vos pr�
 
 *   **Compte et profil.** Vous pouvez à tout moment consulter et mettre à jour les données personnelles affichées dans votre profil et que nous avons enregistrées.
 
-*   **Nous pouvons vous envoyer régulièrement des messages à caractère promotionnel** concernant nos services par le biais de différents canaux, tels que des e-mails ou des notifications push.
-
-Tu peux te désinscrire à tout moment de ces messages via e-mail en suivant le lien de désinscription dans le message en question ou, pour les messages via d’autres canaux, en ajustant tes préférences de communication dans les paramètres de ton compte.
-
-Vous pouvez choisir dans les paramètres de l’application mobile Parship ou de votre appareil les notifications push que vous souhaitez recevoir de notre part – aussi bien dans le cadre de l’exécution du contrat qu’à des fins publicitaires.
-
-Remarque : même si vous choisissez de ne pas recevoir de messages à contenu promotionnel, nous pouvons continuer à vous envoyer des messages transactionnels (par exemple, des informations sur votre compte).
-
-*   **Préférences et analyses en matière de cookies et de suivi****.** Nous vous offrons de nombreuses possibilités de gérer vos préférences en matière de cookies, de services d’analyse et de technologies de suivi similaires.
-
-Veuillez également consulter la section correspondante au point 6.
-
-**Remarque:** Les paramètres sont spécifiques à l’appareil et au navigateur. Si vous supprimez ou bloquez ces cookies, il se peut que vous deviez refaire vos réglages pour chaque appareil ou navigateur.
-
-*   **Consent Management Platform (CMP).** Les cookies et les technologies de suivi non indispensables ne sont placés ou utilisés qu’après votre consentement. Vous pouvez donner ou révoquer votre consentement à tout moment via notre plateforme de gestion du consentement (CMP). Cela s’applique à tous les utilisateurs ayant leur résidence habituelle dans l’EEE.
-
-Vous trouverez également de plus amples informations au point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
-
-*   **Paramètres des cookies dans le navigateur****.** Vous pouvez configurer votre navigateur web de manière à ce que
-    
+*   **Nous pouvons vous envoyer régulièrement des messages à caractère promotionnel** concernant nos services par le biais de différents canaux, tels que des e-mails ou des notifications push.  
+      
+    Tu peux te désinscrire à tout moment de ces messages via e-mail en suivant le lien de désinscription dans le message en question ou, pour les messages via d’autres canaux, en ajustant tes préférences de communication dans les paramètres de ton compte.  
+      
+    Vous pouvez choisir dans les paramètres de l’application mobile Parship ou de votre appareil les notifications push que vous souhaitez recevoir de notre part – aussi bien dans le cadre de l’exécution du contrat qu’à des fins publicitaires.  
+      
+    Remarque : même si vous choisissez de ne pas recevoir de messages à contenu promotionnel, nous pouvons continuer à vous envoyer des messages transactionnels (par exemple, des informations sur votre compte).
+*   **Préférences et analyses en matière de cookies et de suivi.** Nous vous offrons de nombreuses possibilités de gérer vos préférences en matière de cookies, de services d’analyse et de technologies de suivi similaires.  
+      
+    Veuillez également consulter la section correspondante au point 6.  
+      
+    **Remarque:** Les paramètres sont spécifiques à l’appareil et au navigateur. Si vous supprimez ou bloquez ces cookies, il se peut que vous deviez refaire vos réglages pour chaque appareil ou navigateur.
+*   **Consent Management Platform (CMP).** Les cookies et les technologies de suivi non indispensables ne sont placés ou utilisés qu’après votre consentement. Vous pouvez donner ou révoquer votre consentement à tout moment via notre plateforme de gestion du consentement (CMP). Cela s’applique à tous les utilisateurs ayant leur résidence habituelle dans l’EEE.  
+      
+    Vous trouverez également de plus amples informations au point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
+*   **Paramètres des cookies dans le navigateur.** Vous pouvez configurer votre navigateur web de manière à ce que
     *   certains cookies soient bloqués,
-    
     *   Vous êtes averti(e) lorsque des cookies sont installés
-    
-    *   ou les cookies sont automatiquement supprimés.
-
-La plupart des navigateurs proposent des instructions à ce sujet dans la rubrique « Aide ». Veuillez noter que certaines fonctions de notre site web peuvent être limitées si les cookies sont désactivés.
-
+    *   ou les cookies sont automatiquement supprimés.  
+          
+        La plupart des navigateurs proposent des instructions à ce sujet dans la rubrique « Aide ». Veuillez noter que certaines fonctions de notre site web peuvent être limitées si les cookies sont désactivés.
 *   **Droits spéciaux dans certaines régions****.** Les résidents de certains pays ou États peuvent avoir des droits supplémentaires en matière de protection des données. Pour plus d’informations, voir le point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
 
 8\. Durée du stockage et obligations de conservation
@@ -685,7 +673,7 @@ Pour vérifier l’identité, nous pouvons, le cas échéant, demander la prése
 
 Vous pouvez demander que les données à caractère personnel inexactes soient rectifiées. Il est également possible de compléter des données incomplètes.
 
-**Droit à l’effacement (« droit à l’oubli », article 17 du RGPD)**.
+**Droit à l’effacement (« droit à l’oubli », art. 17 du RGPD)**.
 
 Vous pouvez demander la suppression de vos données à caractère personnel, notamment si :
 
@@ -710,7 +698,7 @@ Vous pouvez demander la limitation du traitement de vos données si :
 
 Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et de les transmettre à un autre responsable du traitement, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit automatisé.
 
-**Droit de retrait du consentement (article 7, paragraphe 3, du RGPD)**.
+**Droit de retrait du consentement (art. 7, paragraphe 3, du RGPD)**.
 
 Vous pouvez révoquer à tout moment le consentement que vous nous avez donné, avec effet pour l’avenir. La légalité du traitement effectué jusqu’à la révocation n’en est pas affectée.
 
