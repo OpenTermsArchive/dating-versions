@@ -8,18 +8,18 @@ Uns ist bewusst, dass das Lesen von Datenschutzbestimmungen nicht unbedingt das 
 
 Diese Datenschutzbestimmungen gelten ab 01.02.2026 Bis dahin gilt die bisherige Version, die Sie [hier](https://www.lovescout24.de/pages/misc/privacy_012026) finden.
 
-1.  Wer wir sind
-2.  Wo diese Datenschutzbestimmungen gelten
-3.  Von uns erhobene Daten
-4.  Wie wir Daten verwenden
-5.  Wie wir Daten weitergeben
-6.  Wie Unternehmen der Match Group zusammenarbeiten
-7.  Grenzüberschreitender Datentransfer
-8.  Ihre Rechte
-9.  Wie lange wir Ihre Daten aufbewahren
-10.  Die Privatsphäre von Kindern
-11.  Änderungen der Datenschutzbestimmungen
-12.  Wie Sie uns kontaktieren können
+1.  [Wer wir sind](#CH1)
+2.  [Wo diese Datenschutzbestimmungen gelten](#CH2)
+3.  [Von uns erhobene Daten](#CH3)
+4.  [Wie wir Daten verwenden](#CH4)
+5.  [Wie wir Daten weitergeben](#CH5)
+6.  [Wie Unternehmen der Match Group zusammenarbeiten](#CH6)
+7.  [Grenzüberschreitender Datentransfer](#CH7)
+8.  [Ihre Rechte](#CH8)
+9.  [Wie lange wir Ihre Daten aufbewahren](#CH9)
+10.  [Die Privatsphäre von Kindern](#CH10)
+11.  [Änderungen der Datenschutzbestimmungen](#CH11)
+12.  [Wie Sie uns kontaktieren können](#CH12)
 
 ### 1\. Wer wir sind
 
