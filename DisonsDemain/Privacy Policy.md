@@ -8,18 +8,18 @@ Nous savons que la lecture d’une politique de confidentialité n’est pas l�
 
 La présente Politique de confidentialité s’applique à partir de 01/02/2026. La précédente version, disponible [ici](https://www.disonsdemain.fr/pages/misc/privacy_012026), s’applique jusqu’à cette date.
 
-1.  Qui sommes-nous
-2.  Où la présente politique de confidentialité s’applique
-3.  Les données que nous recueillons
-4.  Comment nous utilisons les données
-5.  Comment nous partageons les données
-6.  Comment les sociétés de Match group travaillent ensemble
-7.  Transferts de données transfrontaliers
-8.  Vos droits
-9.  Combien de temps conservons-nous vos données
-10.  Confidentialité relative aux enfants
-11.  Modifications de la Politique de confidentialité
-12.  Comment nous contacter
+1.  [Qui sommes-nous](#CH1)
+2.  [Où la présente politique de confidentialité s’applique](#CH2)
+3.  [Les données que nous recueillons](#CH3)
+4.  [Comment nous utilisons les données](#CH4)
+5.  [Comment nous partageons les données](#CH5)
+6.  [Comment les sociétés de Match group travaillent ensemble](#CH6)
+7.  [Transferts de données transfrontaliers](#CH7)
+8.  [Vos droits](#CH8)
+9.  [Combien de temps conservons-nous vos données](#CH9)
+10.  [Confidentialité relative aux enfants](#CH10)
+11.  [Modifications de la Politique de confidentialité](#CH11)
+12.  [Comment nous contacter](#CH12)
 
 ### 1\. Qui sommes-nous ?
 
