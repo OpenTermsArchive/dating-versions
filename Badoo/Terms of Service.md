@@ -318,4 +318,4 @@ Notre siège social est situé à l'adresse 1 Blossom Yard, Fourth Floor, London
 Entrée en vigueur
 -----------------
 
-Dernière mise à jour des Conditions générales d’utilisation : 14 mars 2025.
+Dernière mise à jour des Conditions générales d’utilisation : 28 octobre 2025.
