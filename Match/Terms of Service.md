@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-(Terms of Use revised on 02/01/2026)
+(Terms of Use revised on 02/02/2026)
 
 Preamble
 --------
