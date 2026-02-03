@@ -64,6 +64,7 @@ Il va sans dire qu’il nous est impossible de vous aider à bâtir des relation
 | --- | --- |
 | Autres données que nous collectons |     |
 | Catégories | Description |
+| Données de géolocalisation | Si nous obtenons votre consentement, nous recueillons des données de géolocalisation (latitude et longitude) à partir de votre appareil. Si vous refusez de donner votre autorisation, vous pourriez ne pas avoir accès aux fonctionnalités qui reposent sur une géolocalisation précise. |
 | Données faciales | Vous pouvez choisir de participer à certaines de nos fonctionnalités, comme la vérification par photo, qui implique la collecte de données de géométrie faciale considérées comme des données biométriques dans certains pays. [En savoir plus sur notre fonctionnalité de vérification et la manière dont nous traitons vos données faciales](https://www.disonsdemain.fr/faq/?answer=0309_ProfileVerifiedPhoto). |
 | Données d’identification | Vous pouvez choisir de nous fournir une copie de votre pièce d’identité officielle pour nous permettre de vérifier que vous êtes bien la personne que vous prétendez être. |
 
