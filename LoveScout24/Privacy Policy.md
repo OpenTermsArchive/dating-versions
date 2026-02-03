@@ -64,6 +64,7 @@ Es versteht sich von selbst, dass wir Ihnen beim Knüpfen bedeutsamer Beziehunge
 | --- | --- |
 | Andere Daten, die wir erheben |     |
 | Kategorien | Beschreibung |
+| Geolokalisierungsdaten | Wenn Sie uns die Erlaubnis erteilen, erfassen wir Ihre Geolokalisierung (Breiten- und Längengrad) von Ihrem Gerät. Wenn Sie die Berechtigung verweigern, werden Ihnen Funktionen, die auf einer genauen Standortbestimmung basieren, nicht zur Verfügung stehen. |
 | Gesichtsdaten | Sie können bestimmte unserer Funktionen nutzen, wie z. B. Fotoverifizierung, die die Erfassung von Gesichtsdaten umfassen, die in einigen Rechtsordnungen als biometrische Daten gelten. [Erfahren Sie mehr](https://www.lovescout24.de/faq/?answer=0309_ProfileVerifiedPhoto) über unsere Funktion ‚Verifizierung‘ sowie darüber, wie wir Ihre Gesichtsdaten verarbeiten. |
 | Ausweisdaten | Sie können sich entscheiden, uns eine Kopie Ihres amtlichen Ausweises zur Verfügung zu stellen, damit wir überprüfen können, ob Sie die Person sind, die Sie angeben zu sein. |
 
