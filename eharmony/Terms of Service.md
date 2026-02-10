@@ -27,52 +27,49 @@ Version: 06 January 2026
 2.  [Access of the Service and Conclusion of your Subscription](https://www.eharmony.co.uk/termsandconditions/#tc02)
 3.  [Free-of-Charge and Chargeable Services](https://www.eharmony.co.uk/termsandconditions/#tc03)
 4.  [Use (incl. for advertising purposes), Transfer and Transmission of Data](https://www.eharmony.co.uk/termsandconditions/#tc04)
-5.  [Functionality, Compatibility, Interoperability, Warranties, and Liability](https://www.eharmony.co.uk/termsandconditions/#tc05)
-6.  [Responsibility and Duties of the Customer](https://www.eharmony.co.uk/termsandconditions/#tc06)
-7.  [Communication](https://www.eharmony.co.uk/termsandconditions/#tc07)
-8.  [Rights of Use and Copyright](https://www.eharmony.co.uk/termsandconditions/#tc08)
-9.  [Governing Law](https://www.eharmony.co.uk/termsandconditions/#tc09)
-10.  [Cancellation Policy, Exclusion of the Right to Cancel](https://www.eharmony.co.uk/termsandconditions/#tc10)
-11.  [Your legal rights](https://www.eharmony.co.uk/termsandconditions/#tc11)
-12.  [Miscellaneous](https://www.eharmony.co.uk/termsandconditions/#tc12)
-13.  [Additional Terms which apply if you have downloaded our app from Apple’s App Store](https://www.eharmony.co.uk/termsandconditions/#tc13)
-14.  [Additional Terms which apply if you have downloaded our app from GooglePlay](https://www.eharmony.co.uk/termsandconditions/#tc14)
-15.  [Contact Us](https://www.eharmony.co.uk/termsandconditions/#tc15)
-16.  [Model cancellation form](https://www.eharmony.co.uk/termsandconditions/#widerruf)
+5.  [Termination/Extension](https://www.eharmony.co.uk/termsandconditions/#tc05)
+6.  [Functionality, Compatibility, Interoperability, Warranties, and Liability](https://www.eharmony.co.uk/termsandconditions/#tc05)
+7.  [Responsibility and Duties of the Customer](https://www.eharmony.co.uk/termsandconditions/#tc06)
+8.  [Communication](https://www.eharmony.co.uk/termsandconditions/#tc07)
+9.  [Rights of Use and Copyright](https://www.eharmony.co.uk/termsandconditions/#tc08)
+10.  [Governing Law](https://www.eharmony.co.uk/termsandconditions/#tc09)
+11.  [Cancellation Policy, Exclusion of the Right to Cancel](https://www.eharmony.co.uk/termsandconditions/#tc10)
+12.  [Your legal rights](https://www.eharmony.co.uk/termsandconditions/#tc11)
+13.  [Miscellaneous](https://www.eharmony.co.uk/termsandconditions/#tc12)
+14.  [Additional Terms which apply if you have downloaded our app from Apple’s App Store](https://www.eharmony.co.uk/termsandconditions/#tc13)
+15.  [Additional Terms which apply if you have downloaded our app from GooglePlay](https://www.eharmony.co.uk/termsandconditions/#tc14)
+16.  [Contact Us](https://www.eharmony.co.uk/termsandconditions/#tc15)
+17.  [Model cancellation form](https://www.eharmony.co.uk/termsandconditions/#widerruf)
 
-### 1\. Object of your Subscription
+1\. Object of your Subscription
+-------------------------------
 
-1.1 Once you have signed up for an account, eharmony will provide you with access to an online database over which you will be able to get know other eharmony registered customers (also known as members) (the “eharmony Service” or “Service”). The eharmony Service can only be accessed via mobile apps on iOS and Android devices (although, in the future, other operating systems may be made available), or via the Internet; and the Service includes some services that are free and some that are chargeable.
-
+1.1 Once you have signed up for an account, eharmony will provide you with access to an online database over which you will be able to get know other eharmony registered customers (also known as members) (the “eharmony Service” or “Service”). The eharmony Service can only be accessed via mobile apps on iOS and Android devices (although, in the future, other operating systems may be made available), or via the Internet; and the Service includes some services that are free and some that are chargeable.  
   
-1.2 The online database provided by eharmony contains “profiles” about eharmony members, which contain content (also referred to as “data”) made available by those members. You can also find more information about the types of personal information that are collected and how this information is made available to other members in our [Privacy Policy](https://www.eharmony.co.uk/privacypolicy/) (see Clause 4 below). You can see on our website those countries in which eharmony offers its Service; and it is possible for our members to search for and contact other members in any of the countries in which we operate.
-
+1.2 The online database provided by eharmony contains “profiles” about eharmony members, which contain content (also referred to as “data”) made available by those members. You can also find more information about the types of personal information that are collected and how this information is made available to other members in our [Privacy Policy](https://www.eharmony.co.uk/privacypolicy/) (see Clause 4 below). You can see on our website those countries in which eharmony offers its Service; and it is possible for our members to search for and contact other members in any of the countries in which we operate.  
   
 1.3 Please be aware that while we hope that by using our Service you will successfully meet and form a relationship with another eharmony member, we cannot guarantee that your use of the Service will result in matrimony or any other long-term or meaningful commitment. We are not and do not act as a wedding agency in relation to our Service.
 
-### 2\. Access of the Service and Conclusion of your Subscription
+2\. Access of the Service and Conclusion of your Subscription
+-------------------------------------------------------------
 
-2.1 To access and use the eharmony Service you will need to register. To do this, you will need to provide an email address and a password of your choice. Once you have registered, you will be automatically allocated a “profile ID” (a pseudonym) and a “service password” by eharmony, which will be emailed to you. We may require you to verify your age or identity in order to register for, access, or continue using the Services. Verification may include providing personal information, photographs or videos (including biometric data), or government-issued identity documents. You agree to cooperate with any verification processes and to ensure that all information and documents you provide are accurate and authentic. If you do not complete required verification steps, or if the information you provide is inaccurate or cannot be verified, we may suspend, restrict, or terminate your access to the Services. How we process your personal information for verification purposes is described in our Privacy Policy.
-
+2.1 To access and use the eharmony Service you will need to register. To do this, you will need to provide an email address and a password of your choice. Once you have registered, you will be automatically allocated a “profile ID” (a pseudonym) and a “service password” by eharmony, which will be emailed to you. We may require you to verify your age or identity in order to register for, access, or continue using the Services. Verification may include providing personal information, photographs or videos (including biometric data), or government-issued identity documents. You agree to cooperate with any verification processes and to ensure that all information and documents you provide are accurate and authentic. If you do not complete required verification steps, or if the information you provide is inaccurate or cannot be verified, we may suspend, restrict, or terminate your access to the Services. How we process your personal information for verification purposes is described in our Privacy Policy.  
   
-2.2 Once you have successfully registered, you will be able to access our free-of-charge Service (“Basic Membership”).
-
+2.2 Once you have successfully registered, you will be able to access our free-of-charge Service (“Basic Membership”).  
   
 2.3 At this stage, eharmony will also offer various services or features that are subject to a fee. Before you sign up to purchase such services or features, we will provide you with further information about what you will be purchasing, for example, where applicable: the main characteristics of the services or features, the term of your subscription (including any extension), how to terminate your subscription, the price and any payment conditions. If you want to upgrade your Basic Membership by choosing a membership that is subject to a fee (“Premium Membership”), or access any other services or features subject to a fee, you acknowledge that by pressing the “Buy” button, you will have confirmed that you want to purchase the Premium Membership or other services or features that you have selected. Our contractual relationship for such purchases will be confirmed on the date that eharmony sends you an email confirmation of your order. Please note, however, that concluding a contract with eharmony is subject to the respective payment service provider verifying and processing the purchase.  
-In addition, in some countries, eharmony offers for purchase virtual goods to extend rights of use, in particular, of a Basic Membership (e.g., Match Unlocks as described in Clause 3).
-
+In addition, in some countries, eharmony offers for purchase virtual goods to extend rights of use, in particular, of a Basic Membership (e.g., Match Unlocks as described in Clause 3).  
   
-2.4 You can also make purchases via eharmony’s Apple iOS app or Google Android app. In this case, eharmony remains responsible for the provision of our Service. eharmony will provide you with an order confirmation regarding your Subscription Terms after any such purchase. However, any purchase and/or subscription is concluded (and must be cancelled or terminated) through Apple / Google, and is subject to the technical standards and principles established by Apple / Google, over which eharmony has no control. As a rule, a purchase via an app store will take place when you click on “Buy now” (or a comparable button) and, when required, you enter your password or equivalent credentials (e.g., touch ID or face ID) for the app store. Your contractual relationship with Apple / Google will be confirmed on the date that Apple / Google sends you an email confirmation of your order; and Apple / Google will invoice you for any Premium Membership charges through your Apple / Google account. You will also find in the app store all the essential information that you need about your contractual relationship with Apple / Google. If you purchase a Premium Membership via the app store that is subject to automatic extension, the Premium Membership will run for a fixed term, which will automatically extend unless you terminate your subscription with Apple / Google in accordance with Apple’s / Google’s terms and conditions. Please note that Clauses 5.2, 5.3 and 11 (except 11.4) of these Terms and Conditions will not apply where you have purchased a Premium Membership via Apple / Google.
-
+2.4 You can also make purchases via eharmony’s Apple iOS app or Google Android app. In this case, eharmony remains responsible for the provision of our Service. eharmony will provide you with an order confirmation regarding your Subscription Terms after any such purchase. However, any purchase and/or subscription is concluded (and must be cancelled or terminated) through Apple / Google, and is subject to the technical standards and principles established by Apple / Google, over which eharmony has no control. As a rule, a purchase via an app store will take place when you click on “Buy now” (or a comparable button) and, when required, you enter your password or equivalent credentials (e.g., touch ID or face ID) for the app store. Your contractual relationship with Apple / Google will be confirmed on the date that Apple / Google sends you an email confirmation of your order; and Apple / Google will invoice you for any Premium Membership charges through your Apple / Google account. You will also find in the app store all the essential information that you need about your contractual relationship with Apple / Google. If you purchase a Premium Membership via the app store that is subject to automatic extension, the Premium Membership will run for a fixed term, which will automatically extend unless you terminate your subscription with Apple / Google in accordance with Apple’s / Google’s terms and conditions. Please note that Clauses 5.2, 5.3 and 11 (except 11.4) of these Terms and Conditions will not apply where you have purchased a Premium Membership via Apple / Google.  
   
 2.5 Please also see Clauses 14 and 15 below for those terms that will apply if you have downloaded our app from Apple or Google. Please also note – if you have downloaded our app from Apple’s / Google’s app store, Apple’s / Google’s app store terms of service will prevail over these Terms and Conditions if there are any differences between the two that cannot be reconciled.
 
-### 3\. Free-of-Charge and Chargeable Services
+3\. Free-of-Charge and Chargeable Services
+------------------------------------------
 
 3.1 It is free to register for the eharmony Service and use our Basic Membership. Once you have registered, you will be asked to answer a scientifically based questionnaire that was developed with reference to specific psychological criteria (the eharmony “compatibility quiz”). eharmony uses the results of the compatibility quiz as well as comprehensive statistical comparative data to automatically create your individual personality profile. Your personality profile is then included in the eharmony database and automatically compared against other members’ profiles on the basis of specific statistical comparison data, which enables eharmony to draw conclusions about your compatibility with other members. Using this information, eharmony will send you free partner recommendations in your profile and by email. You will also be able to access an online suggestion list for potential partners in your profile. This information will be provided to you as a condensed profile of the other compatible members, each containing a short description of the member, your compatibility score, along with the first name, city or town provided at registration, and a blurred photo. Please note that, as a Basic member, in general you will only be able to see blurred match photos. However, you may be able to see an unblurred version of your recommended partners’ primary profile photos in some instances, at our discretion. By clicking on a condensed match profile, you will be able to view the detailed profile of such match. As a Basic member, you may send an unlimited number of predefined communications to other users, subject to these Terms and Conditions. However, you will only have a limited ability to send and read personalised messages. Please note that we may still limit the number of predefined communications that you can send if required in order to protect our members and to secure our Service as further set out in these Terms and Conditions.
 
-3.2 If you purchase a Premium Membership, you will regularly receive updated matches from eharmony in your profile and via email. These matches will be continuously updated to take into account any new members who have been added to our database since you became a Premium member. As a Premium member, you will be able to view your matches’ unblurred photos, first name, and city or town provided at registration (regardless of whether your recommended partners are Basic or Premium members). You will also be able to contact and exchange communications with other members (provided that they agree to communicate with you). Please note that we may still limit the number of communications that you can send if required in order to protect our members and to secure our Service as further set out in these Terms and Conditions. eharmony will also provide access to the detailed personality evaluation of the eharmony compatibility quiz (your personality profile) to each Premium member within their account settings. Basic members may also order this personality profile separately.
-
+3.2 If you purchase a Premium Membership, you will regularly receive updated matches from eharmony in your profile and via email. These matches will be continuously updated to take into account any new members who have been added to our database since you became a Premium member. As a Premium member, you will be able to view your matches’ unblurred photos, first name, and city or town provided at registration (regardless of whether your recommended partners are Basic or Premium members). You will also be able to contact and exchange communications with other members (provided that they agree to communicate with you). Please note that we may still limit the number of communications that you can send if required in order to protect our members and to secure our Service as further set out in these Terms and Conditions. eharmony will also provide access to the detailed personality evaluation of the eharmony compatibility quiz (your personality profile) to each Premium member within their account settings. Basic members may also order this personality profile separately.  
   
 In addition, the purchase of virtual goods (e.g., Match Unlocks) is subject to a charge. Virtual goods can be used for individual services or for certain features in one’s own profile. For example, Match Unlocks can be used to unlock profile pictures for individual profiles as well as unlimited communication in accordance with these Terms and Conditions. eharmony reserves the right to place limitations and other conditions on the offer of virtual goods, at our discretion. Match Unlocks may not be available in your locale.  
 Additional terms applicable to Match Unlocks:
@@ -87,7 +84,8 @@ Additional terms applicable to Match Unlocks:
 
 3.4 We may change the Service: (i) to reflect changes in relevant laws and regulatory requirements; or (ii) to implement minor technical adjustments and improvements, for example to address a security threat (however, these changes will not affect your use of the Service). In addition, although we provide a description of our Service on our website, we may change the main characteristics of our Service from time to time. However, if we do this, we will notify you and you may then contact us to end your subscription before the changes take effect (and, in relation to a Premium Membership, you will receive a refund for the part of the service you have paid for but not received because of the earlier termination of your subscription).
 
-### 4\. Use (incl. for advertising purposes), Transfer and Transmission of Data
+4\. Use (incl. for advertising purposes), Transfer and Transmission of Data
+---------------------------------------------------------------------------
 
 4.1 You can find further information about how we use your personal information and what our obligations are in relation to data protection [in our privacy policy](https://eharmony.co.uk/privacypolicy/).
 
@@ -95,7 +93,8 @@ Additional terms applicable to Match Unlocks:
 
 4.3 eharmony may automatically delete unanswered messages sent by or to profiles that have been identified as spam or romance scamming or have otherwise deleted.
 
-### 5\. Termination/Extension
+5\. Termination/Extension
+-------------------------
 
 **_Please refer to Section 11 if you would like to cancel your Premium Membership within the 14-day cancellation/ “cooling off” period (your right to cancel)._**
 
@@ -104,8 +103,11 @@ If your Basic Membership has active virtual goods (e.g., Match Unlocks), you mus
 
 5.2 To terminate your Premium Membership that you purchased on our website, you will need to notify us by either: (1) logging in to the website and navigating in your profile to: “Data & Settings” > “Manage profile” > “Amend subscription”, or (2) writing to us using the contact details provided below in Clause 16. Subject to Clause 5.5 and Clause 11 below, any termination of your subscription will not take effect until the end of the agreed minimum term (and, as such, you will not be entitled to any refund). Thus, in order to make sure that your Premium Membership does not automatically extend, you must tell us that you want to terminate your subscription before the end of your then-current subscription term. See also Clause 5.3 below. Any applicable payment obligations (either from the Premium Membership or with respect to virtual goods) remain in place notwithstanding termination of your Premium Membership.  
 To authenticate your identity and your termination request, you must include the following information in your termination notification:  
+  
 (1.) the email address registered in your profile, or your profile ID, and  
+  
 (2.) your service password (not login password).  
+  
 Your profile ID and service password are assigned to you when you register to our Service (see Clause 2.1). You can access these at any time in your online profile in the section entitled “My Data & Settings” > “Manage Profile”.
 
 5.3 If you sign up for a Premium Membership through our website, your subscription will be automatically extended after your initial subscription ends (and again after any subsequent subscription period), unless you notify us in accordance with this section that you want to terminate your subscription. Any automatic extension of your initial subscription will be for the term and price you agreed to when you subscribed and which were confirmed to you in the order confirmation sent to you at that time. Within the first two weeks of any extension of your subscription, you will have the option to repeat the eharmony compatibility quiz.
@@ -116,7 +118,8 @@ Your profile ID and service password are assigned to you when you register to ou
 
 5.6 Clauses 5.2 and 5.3 do not apply to termination of Premium Membership purchased from Apple or Google. Please see Clause 2.4 for further information and refer to [Apple’s](https://support.apple.com/en-gb/HT202039) and [Google’s](https://support.google.com/googleplay/answer/7018481?hl=en-GB&co=GENIE.Platform) instructions for more information on how to terminate your subscription. If you do not cancel the automatic extension of your Premium Membership via Apple / Google, you will also have the option to repeat the eharmony compatibility quiz within the first two weeks of any extension of the original subscription period.
 
-### 6\. Functionality, Compatibility, Interoperability, Warranties, and Liability
+6\. Functionality, Compatibility, Interoperability, Warranties, and Liability
+-----------------------------------------------------------------------------
 
 6.1 Please be aware that although we aim to make the eharmony Service available 24 hours a day, seven days a week, we cannot guarantee that the Service will be available 100% of the time. Our Service availability may be reduced due to maintenance and software updates, as well as any periods during which the Service is unavailable due to technical or other problems that are beyond eharmony’s control.
 
@@ -140,7 +143,8 @@ Your profile ID and service password are assigned to you when you register to ou
 
 6.11 Nothing in these Terms and Conditions shall exclude or limit our liability for personal injury or death caused by our negligence, or fraud. In addition, these Terms and Conditions shall not limit or exclude any other liability that we are not permitted to limit or exclude under applicable law.
 
-### 7\. Responsibility and Duties of the Customer
+7\. Responsibility and Duties of the Customer
+---------------------------------------------
 
 7.1 You must pay all charges within the time frames in which they fall due as set out in the Subscription Terms or under the relevant subscription (e.g. in accordance with any terms you agreed to if you made a purchase via Apple or Google as set out in Clause 2.4). If you have chosen to pay your subscription fee in instalments (multi-part payment) and you fail to pay the agreed fees in accordance with the payment plan for more than two successive instalments, then the entire outstanding balance on your subscription becomes immediately due. Additionally, we may not provide you with the Service until such payment is provided, and we may take steps to recover your outstanding fees as permitted by law. You will also be responsible for (and we will charge you for) any chargeback fees (for example, from our payment service providers) or any other reasonable fees that are imposed on eharmony as a result of your non-payment or late payment of the agreed fees.
 
@@ -171,19 +175,23 @@ Your profile ID and service password are assigned to you when you register to ou
 
 7.9 If you do not comply with the conduct requirements explained in this Clause 7, or if you fail to materially comply with any other of the Subscription Terms, we may take the following actions: we may ask you to stop your non-compliant activities (or otherwise send you a warning that your activities do not comply with our conduct requirements); we may delete any content which you have submitted via the Service in breach of any of our conduct requirements; we may suspend the provision of the Service to you (in whole or in part) until the issue is resolved (for example, while we investigate your activities); or (if it is clear to us that you are seriously misusing the Service) we may terminate the provision of the Service to you. If we decide to terminate your subscription because you have misused the Service, we will refund to you any payment that you have already made to us for any unused portion of the Premium Membership that we have not provided. However, we may still also deduct from this refund or charge you a reasonable amount as compensation for any costs we incur as a result of your non-compliance with these terms. If you have purchased your Premium Membership through Apple / Google, any refund will be made in accordance with Apple’s / Google’s own terms as further described in Clause 2.4.
 
-### 8\. Communication
+8\. Communication
+-----------------
 
 8.1 Communication on the platform must always take place in accordance with these Terms and Conditions, in particular those relating to security when using eharmony (see Clause 4) and the [Community Guidelines](https://www.eharmony.co.uk/communityguidelines/). In particular, eharmony applies the principle of mutuality. If other members do not reply to a user’s communication, further contact is disabled and generally prohibited. This applies regardless of whether limited or unlimited communication functions are activated for your profile.
 
 8.2 eharmony is an online service. As such, eharmony will generally communicate with its members using online methods, such as e-mail (e.g. for matches, personality evaluations, subscription confirmations, invoices), or via screen mask in a member’s logged-in profile. You can contact us by fax or post, but only if you have any questions relating to your subscription, your payment for a Premium Membership, or in relation to the security/encryption of our email communications. As a digital service, our Service is only provided online. Therefore you can only sign up to, use and subscribe to our Service online.
 
 To make sure that we do not receive unauthorised requests (and to protect your account from abuse), please make sure that you provide the following information in any communications you send to us, so we can authenticate that the message has been sent from you:  
+  
 (1.) your email address registered in your profile or your profile ID; and  
+  
 (2.) your service password.
 
 As mentioned above, your profile ID and service password are assigned to you when you register to our Service. You can access these at any time in your online profile in the section entitled “My Data & Settings” > “Manage Profile”.
 
-### 9\. Rights of Use and Copyright
+9\. Rights of Use and Copyright
+-------------------------------
 
 9.1 By using our Service, you understand and agree that eharmony is the sole owner of all the rights in and related to the Service, including any rights of reproduction, distribution and processing, all copyrights, as well as the right of the intangible transmission and reproduction of the eharmony website and of the content included within it. The use of any program, content, materials, trademarks as well as commercial names contained within the Service is only permitted for the purposes set out in these Terms and Conditions.
 
@@ -193,17 +201,20 @@ As mentioned above, your profile ID and service password are assigned to you whe
 
 9.4 We respect the intellectual property of others and we expect our members to do the same. If you believe that any content that you see on our Service has been (or is being) used in a way which is an infringement of a third party’s rights, please contact us using the contact details below (or via any other reasonable means of communication).
 
-### 10\. Governing Law
+10\. Governing Law
+------------------
 
-10.1 These Terms and Conditions shall be governed by, and construed in accordance with, English Law.
+These Terms and Conditions shall be governed by, and construed in accordance with, English Law.
 
-### 11\. Cancellation Policy, Exclusion of the Right to Cancel
+11\. Cancellation Policy, Exclusion of the Right to Cancel
+----------------------------------------------------------
 
 11.1 Right to Cancel  
 You have the right to cancel your contract, without reason, within 14 days from the date on which we sent you an email confirmation of your purchase.  
 To exercise your right to cancel, you must notify us using any of the contact methods detailed below:
 
 by post:  
+  
 eHarmony UK Ltd.  
 Customer Care  
 3rd Floor, 1 Ashley Road, Altrincham, Cheshire WA14 2DT  
@@ -223,15 +234,18 @@ However, please note that if you have started to use the purchased goods or serv
 11.3 Please make sure that you provide for us a clear identification with the following two indications:
 
 (1.) the email address registered in your profile or your profile ID; and  
+  
 (2.) your service password.
 
 11.4 Clauses 11.1 to 11.3 do not apply to cancellation of Premium Membership purchased from Apple via the iOS app or Google via the Android app. Please see Clause 2.4 for further information. Apple / Google may also provide additional mechanisms for you to cancel your subscription. To cancel your Premium Membership purchased from Apple via the iOS app or Google via the Android app, please see their instructions for cancelling available for Apple [here](https://support.apple.com/en-gb/HT202039) and for Google [here](https://support.google.com/googleplay/answer/2479637?hl=en-GB#apps).
 
-### 12\. Your legal rights
+12\. Your legal rights
+----------------------
 
 You are entitled for the Service to be as described, fit for purpose and of satisfactory quality. If you purchase a Premium Membership and the content that we provide to you is faulty, you are entitled to a repair or replacement; or, if the fault cannot be fixed, or if it cannot be fixed in a reasonable time and without significant inconvenience, you may be entitled to a full or partial refund. If you can show that the fault has damaged your device and we have not used reasonable care and skill, you may be entitled to a repair or compensation.
 
-### 13\. Miscellaneous
+13\. Miscellaneous
+------------------
 
 13.1 eharmony may use third-party service providers and agents, including entities belonging to our group, to help us provide the Service to you.
 
@@ -247,7 +261,8 @@ eharmony’s subsidiaries and group companies are third party beneficiaries of t
 
 13.6 Please note that we reserve the right to change and update these Terms and Conditions from time to time. However, the Subscription Terms that will apply to you are either: (i) the Subscription Terms provided on the date that we confirm your order (for Premium members); (ii) the Terms and Conditions in force on the date of registration (for Basic members); or (iii) the Terms and Conditions in force on the date you become again a Basic member (at the end of your Premium Membership).
 
-### 14\. Additional Terms which apply if you have downloaded our app from Apple’s App Store
+14\. Additional Terms which apply if you have downloaded our app from Apple’s App Store
+---------------------------------------------------------------------------------------
 
 14.1 This section contains additional terms that apply to you if you have downloaded our app from Apple’s App Store.
 
@@ -255,7 +270,9 @@ eharmony’s subsidiaries and group companies are third party beneficiaries of t
 These Terms and Conditions are between you and eharmony. These Terms and Conditions are not between you and Apple.eharmony, not Apple, is solely responsible for our app and its content. Our responsibilities and liabilities to you are explained in the other sections of these Terms and Conditions.Apple has no obligation to provide any maintenance or support services for our app.eharmony, not Apple, is responsible for any product warranties in relation to our app.If our app does not conform to any applicable warranty, you may notify Apple, and – if you have made a purchase – Apple will refund you that purchase price. Apple has no other warranty obligation in respect of our app. Any other claim that you might have in relation to our app is our sole responsibility (and not Apple’s) and will be determined in accordance with applicable law and these Terms and Conditions.eharmony, not Apple, is responsible for addressing any claim by you or a third party relating to our app, or your use or possession of our app. This includes: (i) product liability claims; (ii) any claim that our app does not comply with any applicable legal or regulatory requirement; and (iii) any claims arising under consumer protection, privacy or similar laws.If a third party claims that our app, or your use or possession of our app, infringes that third party’s intellectual property rights, we, not Apple, will be solely responsible for the investigation, defence, settlement, and/or discharge of any such claim.
 
 14.3 If you downloaded our app from Apple’s App Store, you also represent and warrant that:  
+  
 (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and  
+  
 (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
 14.4 You must comply with any applicable third party terms when using our app (for example, you must not be in violation of your wireless data service terms when using our app).
@@ -266,7 +283,8 @@ These Terms and Conditions are between you and eharmony. These Terms and Conditi
 
 14.7 Apple and Apple’s subsidiaries are third party beneficiaries of these Terms and Conditions. Apple and its subsidiaries may enforce these Terms and Conditions in accordance with the Contracts (Rights of Third Parties) Act 1999. There is no requirement to obtain consent from Apple, any Apple subsidiary or any other person who is not a party to these Terms and Conditions in order to rescind, vary, suspend, enforce or terminate these Terms and Conditions, or to assign or transfer any rights or obligations, or to grant any waiver under these Terms and Conditions.
 
-### 15\. Additional Terms which apply if you have downloaded our app from GooglePlay
+15\. Additional Terms which apply if you have downloaded our app from GooglePlay
+--------------------------------------------------------------------------------
 
 15.1 This section contains additional terms that apply to you if you have downloaded our app from GooglePlay.
 
@@ -277,10 +295,13 @@ These Terms and Conditions are between you and eharmony. These Terms and Conditi
 
 15.4 Google is a third-party beneficiary of these Terms. Google may enforce these Terms and Conditions in accordance with the Contracts (Rights of Third Parties) Act 1999.
 
-### 16\. Contact Us
+16\. Contact Us
+---------------
 
 16.1 eHarmony UK Ltd., 3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT United Kingdom, represented by its Board of Directors, is responsible for the content of the eharmony Service. You can contact us using the following contact details:  
+  
 by post:  
+  
 eHarmony UK Ltd.  
 Customer Care  
 3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT  
@@ -288,7 +309,8 @@ United Kingdom
 
 or by email: [support@eharmony.co.uk](mailto:support@eharmony.co.uk)
 
-### Model cancellation form
+Model cancellation form
+-----------------------
 
 To  
 eharmony UK Ltd., Customer Care, 3rd Floor, 1 Ashley Road, Altrincham, Cheshire  WA142DT, United Kingdom  
