@@ -182,7 +182,7 @@ prevent illegal use and to support users.
 
 7.1. Based on the information that we have provided herein this Privacy Policy, you agree that by using the Platform, you hereby grant your specific informed consent to our collection, use, retention, disclosure and transfer of your Personal Data as set out in sections 2 to 6 above.
 
-7.2. You may at any time withdraw your consent to our use, retention, disclosure or transfer of your Personal Data pursuant to this Privacy Policy by emailing our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
+7.2. You may at any time withdraw your consent to our use, retention, disclosure or transfer of your Personal Data pursuant to this Privacy Policy by emailing our Data Protection Officer at [DPO@coffeemeetsbagel.app](mailto:DPO@coffeemeetsbagel.app).
 
 However, please note that any such withdrawal of consent may result in us being unable to continue providing our services or fulfilling our contractual obligations with you, including but not limited to termination of your access to the Platform (and therefore termination of any credits in your CMB App account), termination of any loyalty programme benefits that would otherwise have been available to you, inability to provide you with the opportunity to participate in promotions, and inability to fulfil any purchase orders that you may have submitted to or through the Platform. Accordingly, your withdrawal of consent may also lead to the termination of any contract(s) that you may have with CMB as well as termination of any purchase or subscription orders to third parties submitted through the Platform, for which CMB expressly reserves its rights and remedies thereto. 
 
@@ -191,13 +191,13 @@ However, please note that any such withdrawal of consent may result in us being 
 **8\. Access and Correction of Personal Data**
 ----------------------------------------------
 
-8.1. Should you wish to access, update or make corrections to your Personal Data held with us, you can do so at any time by accessing your account information via the CMB App or emailing us at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
+8.1. Should you wish to access, update or make corrections to your Personal Data held with us, you can do so at any time by accessing your account information via the CMB App or emailing us at [DPO@coffeemeetsbagel.app](mailto:DPO@coffeemeetsbagel.app).
 
 8.2. There will be no administrative fees or other charges levied for any request to correct or update your Personal Data. However, for all other requests such as accessing your Personal Data held with us (such access not being done by you via the CMB App), obtaining a record of when you accessed our CMB App, visited the Platform, a printout of your previous postings or messages to other CMB App users, etc., a reasonable administrative fee may be levied depending on your request as time and resources will be spent in accommodating your requests.
 
 8.3. In the event that you wish for your Personal Data to be deleted at any point in time, you may make your request [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
 
-8.4. Should you have any queries or complaints pertaining to this Privacy Policy, our Terms of Service, your Personal Data as registered with us, or in relation to our use, retention, disclosure or transfer of your Personal Data, or should you desire to learn more about our data protection policies and security measures, please email our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
+8.4. Should you have any queries or complaints pertaining to this Privacy Policy, our Terms of Service, your Personal Data as registered with us, or in relation to our use, retention, disclosure or transfer of your Personal Data, or should you desire to learn more about our data protection policies and security measures, please email our Data Protection Officer at DPO@coffeemeetsbagel.app.
 
 **9\. Minor's privacy**
 -----------------------
@@ -213,7 +213,7 @@ It is thus the responsibility of parents and legal guardians to ensure that thei
 
 1.2. We respect your selections in relation to the channels via which you wish to receive our updates and other communications. Therefore, if you have registered your telephone and/or fax number with the Do-Not-Call Registries in relation to telephone calls, text or fax messages, we will not send you any communications via the channels that you have opted out of by registering with the Do-Not-Call Registries.
 
-However, if you have previously consented to our sending you communications via your telephone number (calls or text messages) and/or facsimile number, we will continue doing so until you withdraw your consent by contacting our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection).
+However, if you have previously consented to our sending you communications via your telephone number (calls or text messages) and/or facsimile number, we will continue doing so until you withdraw your consent by contacting our Data Protection Officer at DPO@coffeemeetsbagel.app.
 
 **11\. Security Measures for Protection of Personal Data**
 ----------------------------------------------------------
@@ -227,6 +227,6 @@ However, if you have previously consented to our sending you communications via 
 **12\. Governing Law and Jurisdiction**
 ---------------------------------------
 
-The terms of this Privacy Policy are governed by the laws of Singapore. In the event of any disputes arising from this Privacy Policy and/or your use of the Platform, you must first contact our Data Protection Officer at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection) regarding your concern and use your best endeavours to amicably settle any dispute in good faith. We on our part will also use our best endeavours to amicably settle your concerns in good faith. However, if no amicable resolution is reached within 60 days, you agree to submit to the exclusive jurisdiction of the Courts of Singapore.
+The terms of this Privacy Policy are governed by the laws of Singapore. In the event of any disputes arising from this Privacy Policy and/or your use of the Platform, you must first contact our Data Protection Officer at DPO@coffeemeetsbagel.app regarding your concern and use your best endeavours to amicably settle any dispute in good faith. We on our part will also use our best endeavours to amicably settle your concerns in good faith. However, if no amicable resolution is reached within 60 days, you agree to submit to the exclusive jurisdiction of the Courts of Singapore.
 
 —- End of Privacy Policy
