@@ -343,7 +343,7 @@ This Agreement is binding upon and shall insure to the benefit of both parties a
 
 **NOTICES**
 
-You consent to receive all communications including notices, agreements, disclosures, legal documents, or other information from us electronically. We may provide all such communications by email or by posting them on our platform or app. Support-related inquiries can be done by creating a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Notices of a legal nature must be emailed to us at [\[email protected\]](https://ww.coffeemeetsbagel.com/cdn-cgi/l/email-protection). Nothing herein shall limit our right to object to the invalid service of subpoenas, claims, or other demands.
+You consent to receive all communications including notices, agreements, disclosures, legal documents, or other information from us electronically. We may provide all such communications by email or by posting them on our platform or app. Support-related inquiries can be done by creating a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Notices of a legal nature must be emailed to us at help@coffeemeetsbagel.app. Nothing herein shall limit our right to object to the invalid service of subpoenas, claims, or other demands.
 
 **MODIFICATION; ENTIRE AGREEMENT**
 
