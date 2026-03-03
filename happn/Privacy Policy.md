@@ -2,8 +2,6 @@ Privacy policy
 
 Updated: 01/08/2024
 
-The purpose of this Privacy Policy is to inform you about how HAPPN uses your personal data. We recommend you should read it carefully. However, please find an overview of the data collected and the reasons for its collection at the following link: [https://www.happn.com/en/privacy-basics/](https://www.happn.com/fr/privacy-basics/) 
-
 1.  Definitions
 
 **Application:** The HAPPN application, available on the Apple App Store and the Google Play Store and on the HAPPN Webapp: [https://www.happn.com](https://www.happn.com/) 
