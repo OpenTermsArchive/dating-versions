@@ -181,7 +181,7 @@ Meetic
 
 #### Si vous vivez en Suisse :
 
-En ligne : [ici](mailto:rep_meetic@prigher.com)
+En ligne : [ici](mailto:rep_meetic@prighter.com)
 
 Par courrier :
 
