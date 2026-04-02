@@ -1,533 +1,551 @@
 Politique de protection des données pour l’utilisation de Parship – France
 ==========================================================================
 
-Version: 09.12.2025
+Entrée en vigueur : 26 mars 2026
 
-Merci d’utiliser Parship ! Parship protège votre vie privée. Cette information sur la protection des données décrit comment Parship collecte, utilise, divulgue et traite d’une autre manière vos données personnelles, ainsi que les droits et les choix dont vous disposez en ce qui concerne vos données personnelles.
+Merci d’utiliser Parship ! Parship protège votre vie privée. Cet avis de confidentialité décrit comment Parship collecte, utilise, divulgue et traite vos données personnelles, ainsi que les droits et les choix que vous avez en relation avec vos données personnelles.
 
-Pour plus d’informations sur les options dont vous disposez en matière de protection de vos données personnelles, veuillez consulter [la section 7. Vos options de confidentialité](https://www.parship.fr/privacypolicy/#pp07) et [la section 13. Informations supplémentaires sur la protection des données pour certaines juridictions](https://www.parship.fr/privacypolicy/#pp13), qui contient des informations supplémentaires sur les droits en matière de protection des données des résidents de certains pays.
+Pour plus d’informations sur les options dont vous disposez en ce qui concerne la protection de vos données personnelles, veuillez consulter [la section 7. Vos options en matière de protection de la vie privée](https://www.parship.fr/privacypolicy/#pp07) et [Article 13. Informations complémentaires sur la protection des données pour certaines juridictions](https://www.parship.fr/privacypolicy/#pp13), qui contient des informations complémentaires sur les droits de protection des données des résidents de certains pays.
 
-Si vous résidez dans l’UE/l’Espace économique européen (EEE), veuillez consulter la section [13.A. Informations supplémentaires pour les résidents de l’UE/EEE](https://www.parship.fr/privacypolicy/#pp14). Vous trouverez ici des informations sur vos droits dans le cadre du règlement général sur la protection des données (« RGPD »).
+Si vous êtes un résident de l’UE/de l’Espace économique européen (EEE), veuillez vous reporter à la section [Informations complémentaires pour les résidents de l’UE/EEE](https://www.parship.fr/privacypolicy/#pp14). Vous y trouverez des informations sur vos droits en vertu du règlement général sur la protection des données (« RGPD »)
 
-Si vous résidez au Royaume-Uni, veuillez consulter la section [13.B. Informations supplémentaires pour les résidents du Royaume-Uni](https://www.parship.fr/privacypolicy/#pp15). Vous trouverez ici des informations sur vos droits en vertu du règlement général sur la protection des données, qui a été intégré dans le droit du Royaume-Uni conformément à la section 3 de la loi britannique sur l’Union européenne (Withdrawal) de 2018 (« UK GDPR »).
+Si vous êtes un résident du Royaume-Uni, veuillez consulter la section [13.B. Informations supplémentaires pour les résidents du Royaume-Uni](https://www.parship.fr/privacypolicy/#pp15). Vous y trouverez des informations sur vos droits en vertu du règlement général sur la protection des données, qui a été incorporé dans le droit britannique conformément à l’article 3 de la loi britannique de 2018 sur l’Union européenne (retrait) (« GDPR britannique »).
 
-Si vous résidez en Suisse, veuillez consulter la section [13.C. Informations supplémentaires pour les personnes résidant en Suisse](https://www.parship.fr/privacypolicy/#pp16). Vous trouverez ici des informations sur vos droits en vertu de la nouvelle loi suisse sur la protection des données (« nLPD »).
+Si vous résidez en Suisse, veuillez consulter la section [13.C. Informations supplémentaires pour les personnes résidant en Suisse](https://www.parship.fr/privacypolicy/#pp16). Vous y trouverez des informations sur vos droits en vertu de la nouvelle loi suisse sur la protection des données (« LPD »).
 
-L’utilisation de nos services est soumise à nos [Conditions générales](https://www.parship.fr/termsandconditions/), y compris les dispositions applicables en matière de limitation des dommages et de règlement des litiges.
+L’utilisation de nos services est soumise à nos [termes et conditions](https://www.parship.fr/termsandconditions/), y compris les dispositions applicables en matière de limitation des dommages et de résolution des litiges.
 
-Service responsable et contact
-------------------------------
+Organisme responsable et contact
+--------------------------------
 
-Sauf indication contraire dans les présentes informations sur la protection des données, le responsable du traitement des données est PE Digital GmbH (ci-après « Parship » ou « nous » ou « notre »).
+Sauf indication contraire dans la présente politique de confidentialité, le responsable du traitement des données est PE Digital GmbH (ci-après dénommé « Parship » ou « nous »).
 
-Si vous souhaitez **entrer en contact** avec nous, vous pouvez nous joindre comme suit :
+Si vous souhaitez entrer en **contact** avec nous, vous pouvez nous joindre comme suit :
 
 PE Digital GmbH  
 Speersort 10  
-20095 Hambourg (Allemagne)
+20095 Hamburg (Allemagne)
 
-[datenschutz@parship.de](mailto:datenschutz@parship.de)
+[privacypolicy@parship.fr](mailto:datenschutz@parship.de)
 
-Vous pouvez contacter notre **déléguée à la protection des données** à l’adresse suivante :
+Vous pouvez contacter notre **Data Protection Officer** (délégué à la protection des données) à l’adresse suivante
 
-[datenschutz@parship.de](mailto:datenschutz@parship.de)
+[privacypolicy@parship.fr](mailto:datenschutz@parship.de)
 
-Pour **des renseignements et des suggestions sur le thème de la protection des données**, nous ou notre responsable de la protection des données sommes à votre disposition.
+Nous ou notre délégué à la protection des données vous fournirons volontiers des **informations et des suggestions sur le thème de la protection des données**.
 
 **Représentant au Royaume-Uni (UK)**
 
 Les informations sur notre représentant conformément à l’Art. 27 UK GDPR se trouvent dans la section 13.B – Informations supplémentaires pour les résidents du Royaume-Uni.
 
-**Représentant en Suisse (CH)**.
+**Représentant en Suisse (CH)**
 
-Vous trouverez les informations concernant notre représentant conformément à l’art. 14 LPD dans la section 13.C – Informations supplémentaires pour les résidents suisses.
+Les informations sur notre représentant conformément à l’art. 14 nDSG se trouvent à la section 13.C – Informations supplémentaires pour les résidents suisses.
 
-**Table des matières**
+**Contenu**
 
-*   [1\. Portée](#pp01)
-*   [2\. Collecte de données à caractère personnel](#pp02).
-*   [3\. Finalités de la collecte et du traitement](#pp03).
-*   [4\. divulgation de données personnelles](#pp04)
-*   [5\. Transfert de données à caractère personnel vers des pays en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEE/UK/CH](#pp05).
-*   [6\. Cookies, ciblage et analyses](#pp06).
-*   [7\. vos options de confidentialité](#pp07)
-*   [8\. Durée de conservation et obligations de conservation](#pp08)
+*   [1\. champ d’application](#pp01)
+*   [2 Collecte de données personnelles](#pp02)
+*   [3\. finalités de la collecte et du traitement](#pp03)
+*   [4 Divulgation de données personnelles](#pp04)
+*   [5\. Transfert de données à caractère personnel vers des pays situés en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEE/UK/CH](#pp05).
+*   [6\. Cookies, ciblage et analyse](#pp06)
+*   [7\. Vos options en matière de protection des données](#pp07)
+*   [8\. Durée des obligations de stockage et de conservation](#pp08)
 *   [9\. Liens externes et fonctions de tiers](#pp09)
-*   [10\. la sécurité](#pp10).
-*   [11\. Protection de la vie privée des enfants et des adolescents](#pp11)
-*   [12\. modifications apportées à la présente déclaration de confidentialité](#pp12).
-*   [13\. informations supplémentaires sur la protection des données pour certaines juridictions](#pp13).
+*   [10\. Sécurité](#pp10)
+*   [11\. Protéger la vie privée des enfants et des jeunes](#pp11)
+*   [12\. Modifications de la présente politique de confidentialité](#pp12)
+*   [13\. Informations complémentaires sur la protection des données dans certaines juridictions](#pp13)
     *   [A. Espace économique européen (EEE)](#pp14)
-    *   [B. Royaume-Uni (UK GDPR ainsi que Data (Use and Access) Act 2025)](#pp15)
-    *   [C. Suisse (nLPD)](#pp16)
+    *   [B. Royaume-Uni (GDPR et Data (Use and Access) Act 2025)](#pp15)
+    *   [C. Suisse (nDSG)](#pp16)
 
-1\. Portée
-----------
+[1\. champ d’application](#pp01)
+--------------------------------
 
-Sauf indication contraire ci-dessous, le présent avis de confidentialité s’applique aux données personnelles que Parship collecte et traite concernant les personnes suivantes : Les visiteurs de notre site web sur lequel cet avis de confidentialité est publié, y compris tous nos sites web qui sont liés à cet avis de confidentialité ou qui le publient (les « **sites web**« ) ; les personnes qui téléchargent et utilisent notre application mobile (« **applications mobiles**« ) ; Les personnes qui s’inscrivent ou participent à nos événements, enquêtes, études, promotions et concours organisés par nous ; et les personnes qui communiquent ou interagissent ou se connectent de toute autre manière avec nous ou avec les services disponibles via nos sites, applications mobiles ou autres services en ligne (collectivement, les  » **Services** « ).
+Sauf indication contraire ci-dessous, cet avis de confidentialité s’applique aux données personnelles que Parship recueille et traite en relation avec les individus suivants Les visiteurs de notre site web sur lequel cet avis de confidentialité est affiché, y compris tous nos sites web qui ont un lien vers ou affichent cet avis de confidentialité (les « **sites web**« ) ; les individus qui téléchargent et utilisent notre application mobile (« **Applications mobiles**« ) ; les personnes qui s’inscrivent ou participent à nos événements, enquêtes, recherches, promotions et tirages au sort organisés par nos soins ; et les personnes qui communiquent ou interagissent autrement ou s’engagent avec nous ou les services disponibles par le biais de nos sites, applications mobiles ou autres services en ligne (collectivement, les « **Services**« ).
 
 2\. Collecte de données à caractère personnel
 ---------------------------------------------
 
-Comme décrit ci-dessous, nous pouvons collecter des données personnelles directement auprès de vous, de tiers et automatiquement par votre utilisation de nos services.
+Comme décrit ci-dessous, nous pouvons collecter des données à caractère personnel directement auprès de vous, auprès de tiers et automatiquement par le biais de votre utilisation de nos services.
 
-**Données personnelles collectées directement auprès de vous**. Bien que les informations personnelles que nous collectons varient en fonction de votre utilisation de nos services et de notre interaction avec vous, nous pouvons généralement collecter les catégories suivantes d’informations personnelles directement auprès de vous :
+**Données personnelles collectées directement auprès de vous**. Bien que les données personnelles que nous collectons varient en fonction de votre utilisation de nos services et de notre interaction avec vous, nous pouvons généralement collecter les catégories suivantes de données personnelles directement auprès de vous :
 
-*   **Contacts**. Lorsque vous nous contactez, par exemple lorsque vous nous envoyez un message ou que vous vous inscrivez pour en savoir plus sur nos services, nous pouvons recueillir votre nom, votre adresse électronique, ou d’autres identifiants similaires, ainsi que votre message, la nature de votre demande et toute autre information que vous fournissez.
-*   **Informations sur le compte et le profil**. Lorsque vous vous inscrivez ou gérez votre profil, nous collectons certaines informations personnelles que vous nous communiquez. Il s’agit par exemple
-    *   Prénom et nom de famille
-    *   Propre sexe et sexe recherché (orientation sexuelle)
-    *   Adresse e-mail et mot de passe que vous avez choisi
+*   **Données de contact**. Lorsque vous nous contactez, par exemple lorsque vous nous envoyez un message ou que vous vous inscrivez pour en savoir plus sur nos services, nous pouvons recueillir votre nom, votre adresse électronique ou d’autres identifiants similaires, ainsi que votre message, la nature de votre demande et toute autre information que vous fournissez.
+*   **Informations sur le compte et le profil**. Lorsque vous vous inscrivez ou gérez votre profil, nous recueillons certaines données personnelles que vous partagez avec nous. Il s’agit, par exemple, des données suivantes
+    *   Nom et prénom
+    *   Son propre sexe et le sexe recherché (orientation sexuelle)
+    *   L’adresse électronique et le mot de passe que vous avez choisis
     *   Lieu de résidence, y compris le code postal
-    *   Taille
+    *   Hauteur
     *   État civil
     *   Nombre d’enfants
     *   Diplôme de fin d’études
-    *   Profession
+    *   Occupation
     *   Revenu
-    *   Votre photo de profil ainsi que d’autres photos
-    *   Votre adresse de facturation  
-          
-        En outre, cela inclut toutes les autres informations que vous nous fournissez dans le cadre de la création ou de l’utilisation de votre profil ou que vous nous transmettez d’une autre manière via votre profil.
-*   **Achats, paiements et remboursements**. Si vous effectuez un achat ou un paiement via nos services (par exemple, si vous achetez un abonnement premium), nous collectons certaines informations nécessaires à cet effet. Il s’agit par exemple du mode de paiement que vous avez choisi, des détails du paiement, de l’adresse de facturation et des informations relatives à l’achat lui-même.
-*   **Communication et interaction**. Lorsque vous entrez en contact avec nous ou avec d’autres utilisateurs de Parship – par exemple par e-mail, par téléphone, par le biais de nos canaux de médias sociaux ou de nos sites Internet – nous collectons et enregistrons des informations pertinentes. Cela s’applique également lorsque vous vous inscrivez à notre liste de diffusion, remplissez des formulaires, donnez des évaluations ou des commentaires ou publiez des contributions dans des champs de commentaires, des blogs ou des forums accessibles au public, qui sont exploités par Parship ou en relation avec Parship. Ce faisant, nous pouvons collecter et stocker vos coordonnées, vos messages et contributions ainsi que nos réponses à ceux-ci.
-*   **Informations à des fins publicitaires**. Si vous acceptez de recevoir des communications marketing de notre part, nous pouvons recueillir votre nom, votre adresse électronique, votre numéro de téléphone, vos préférences et, le cas échéant, des informations sur votre compte et votre profil, y compris les services et fonctionnalités que vous utilisez. Si vous participez à des activités, offres, programmes, promotions ou concours particuliers que nous proposons, nous pouvons également collecter certaines informations de contact supplémentaires, votre âge et d’autres informations requises par la loi. Si vous gagnez dans le cadre d’une promotion ou d’un concours, nous pouvons également être amenés à recueillir certaines informations fiscales et/ou des renonciations et des autorisations, en fonction du gain.
-*   **Réponses et feedback**. Lorsque vous participez à des enquêtes, des questionnaires, des études ou des initiatives similaires, que ce soit de manière anonyme ou en fournissant des informations personnelles, par exemple pour évaluer la satisfaction des utilisateurs – nous recueillons vos réponses, vos commentaires et toute autre information que vous nous fournissez dans le cadre de cette participation.
-*   **Préférences et autres souhaits**. Nous collectons également des informations sur vos préférences personnelles – par exemple, la manière dont vous souhaitez communiquer avec nous, la manière dont vous utilisez nos services ou les souhaits et demandes que vous nous faites lorsque vous les utilisez.
+    *   Votre photo de profil et autres photos
+    *   Votre adresse de facturation
 
-En général, vous n’êtes pas obligé de nous communiquer vos données personnelles. Toutefois, l’utilisation de certains services ou aspects de nos services peut nécessiter la communication de données personnelles, par exemple l’inscription à un compte Parship. Si tel est le cas, nous vous en informerons. Si vous ne souhaitez pas nous fournir les informations nécessaires à cet effet, vous ne pourrez malheureusement pas utiliser le service en question.
+En outre, cela inclut toutes les autres informations que vous nous fournissez dans le cadre de la création ou de l’utilisation de votre profil ou que vous nous transmettez par l’intermédiaire de votre profil.
 
-**Données personnelles collectées par des tiers**. Nous pouvons également recevoir des données personnelles de la part de fournisseurs tiers – en particulier les fournisseurs de magasins d’applications en relation avec les achats -, d’autres utilisateurs de Parship, de fournisseurs de services d’analyse de données et de marketing, de systèmes d’exploitation et de plates-formes de médias sociaux, en particulier lorsque vous vous inscrivez à Parship par leur intermédiaire. En outre, nous pouvons collecter les informations suivantes à partir de ces sources externes :
+*   **Achats, paiements et remboursements**. Lorsque vous effectuez un achat ou un paiement par l’intermédiaire de nos services (par exemple, l’achat d’une adhésion Premium), nous recueillons certaines informations nécessaires à cet effet. Il s’agit, par exemple, de la méthode de paiement que vous avez choisie, des détails du paiement, de l’adresse de facturation et des détails de l’achat lui-même.
+*   **Communication et interaction**. Lorsque vous nous contactez ou que vous contactez d’autres utilisateurs de Parship – par exemple par courriel, par téléphone, via nos canaux de médias sociaux ou via nos sites Web – nous recueillons et stockons les informations pertinentes. Cela s’applique également si vous vous abonnez à notre liste de diffusion, remplissez des formulaires, soumettez des critiques ou des commentaires ou publiez des messages dans des champs de commentaires accessibles au public, des blogs ou des forums qui sont exploités par Parship ou sont associés à Parship. Ce faisant, nous pouvons collecter et stocker vos coordonnées, vos messages et contributions et nos réponses à ces derniers.
+*   **Informations à des fins de marketing**. Si vous choisissez de recevoir des communications marketing de notre part, nous pouvons recueillir votre nom, votre adresse électronique, votre numéro de téléphone, vos préférences et, le cas échéant, des informations sur votre compte et votre profil, y compris les services et les fonctions que vous utilisez. Si vous participez à des activités spéciales, des offres, des programmes, des promotions ou des tirages au sort que nous proposons, nous pouvons également recueillir certaines coordonnées supplémentaires, votre âge et d’autres informations requises par la loi. Si vous gagnez une promotion ou une loterie, il se peut que nous devions également collecter certaines informations fiscales et/ou des renonciations et des décharges, en fonction du prix.
+*   **Réponses et retour d’information**. Si vous participez à des enquêtes, des questionnaires, des études ou des initiatives similaires, que ce soit de manière anonyme ou avec des données personnelles, par exemple pour évaluer la satisfaction des utilisateurs, nous recueillons vos réponses, votre retour d’information et toute autre information que vous nous fournissez dans le cadre de cette participation.
+*   **Préférences et autres demandes**. Nous recueillons également des informations sur vos préférences personnelles – par exemple, la manière dont vous souhaitez communiquer avec nous, la manière dont vous utilisez nos services ou les demandes et requêtes que vous nous adressez lorsque vous les utilisez.
 
-*   **Informations sur l’inscription aux médias sociaux et aux plateformes**. Lorsque vous utilisez Parship, vous pouvez choisir de partager des informations ou du contenu, de vous inscrire ou de vous connecter via une plate-forme de médias sociaux, des réseaux sociaux ou d’autres services tiers. Si vous vous connectez à Parship via un compte de média social ou un autre service lié, nous pouvons recevoir certaines données personnelles que vous y avez déposées. Il peut s’agir par exemple de votre nom, de votre adresse e-mail, du mot de passe que vous utilisez sur ce service, de votre identifiant, de votre photo de profil, de votre liste d’amis et d’autres informations accessibles au public. Veuillez vérifier les paramètres de confidentialité de la plateforme de médias sociaux concernée ou du service lié pour comprendre comment vos données y sont utilisées, partagées ou traitées.
-*   **Informations de recommandation**. Nous vous offrons éventuellement la possibilité d’inviter des amis ou de parrainer d’autres utilisateurs pour qu’ils accèdent à nos services ou les utilisent. Ce faisant, nous pouvons collecter et recevoir certaines données personnelles vous concernant, y compris de la part d’autres utilisateurs et clients actuels ou futurs de Parship qui participent de manière similaire à ces activités.
+En général, vous n’êtes pas obligé de nous fournir vos données personnelles. Cependant, l’utilisation de certains services ou aspects de nos services peut nécessiter la fourniture de données personnelles, par exemple l’enregistrement d’un compte Parship. Si tel est le cas, nous vous en informerons. Si vous ne souhaitez pas nous fournir les informations requises, vous ne pourrez malheureusement pas utiliser le service concerné.
 
-**Données personnelles collectées automatiquement**. Nous et nos partenaires (fournisseurs tiers) pouvons collecter automatiquement des données personnelles lorsque vous utilisez Parship. Cela se fait entre autres par l’utilisation de cookies, de pixel tags et de technologies similaires. Les données personnelles collectées automatiquement peuvent inclure, entre autres, les informations suivantes :
+**Données personnelles collectées auprès de tiers**. Nous pouvons également recevoir des données personnelles de tiers – en particulier des fournisseurs de magasins d’applications en relation avec les achats – d’autres utilisateurs de Parship, des fournisseurs de services d’analyse de données et de marketing, des systèmes d’exploitation et des plateformes de médias sociaux, en particulier si vous vous inscrivez à Parship via ces derniers. En outre, nous pouvons collecter les informations suivantes à partir de ces sources externes :
 
-*   **Informations sur l’appareil et la navigation**. Lorsque vous utilisez Parship, nous pouvons collecter automatiquement certaines informations sur votre appareil et votre comportement d’utilisation. Il s’agit par exemple de
+*   **Information sur l’enregistrement pour les médias sociaux et les plateformes**. Lorsque vous utilisez Parship, vous pouvez choisir de partager des informations ou du contenu, de vous inscrire ou de vous connecter via des plateformes de médias sociaux, des réseaux sociaux ou d’autres services tiers. Si vous vous connectez à Parship via un compte de média social ou un autre service lié, nous pouvons recevoir certaines données personnelles que vous y avez stockées. Il peut s’agir, par exemple, de votre nom, de votre adresse e-mail, du mot de passe utilisé avec ce service, de votre identifiant, de votre photo de profil, de votre liste d’amis et d’autres informations accessibles au public. Veuillez consulter les paramètres de confidentialité de la plateforme de médias sociaux ou du service lié concerné pour savoir comment vos données sont utilisées, partagées ou traitées.
+*   **Informations de référence**. Nous pouvons vous offrir la possibilité d’inviter des amis ou de recommander d’autres utilisateurs à accéder à nos services ou à les utiliser. Ce faisant, nous pouvons collecter et recevoir certaines informations personnelles vous concernant, y compris de la part d’autres utilisateurs et clients actuels ou potentiels de Parship qui s’engagent de manière similaire dans ces activités.
+
+**Données personnelles collectées automatiquement**. Nous et nos partenaires (fournisseurs tiers) pouvons collecter automatiquement des données personnelles lorsque vous utilisez Parship. Cela se produit, entre autres, par l’utilisation de cookies, de balises pixel et de technologies similaires. Les données personnelles collectées automatiquement peuvent inclure, sans s’y limiter, les informations suivantes
+
+*   **Informations sur l’appareil et la navigation**. Lorsque vous utilisez Parship, nous pouvons collecter automatiquement certaines informations sur votre appareil et votre comportement de navigation. Cela inclut, par exemple :
     *   le type de navigateur utilisé
     *   le nom de domaine
-    *   les pages web visitées et leur temps de consultation
-    *   Date et heure de l’accès
-    *   le système d’exploitation utilisé et la langue choisie
-    *   le type d’appareil et un identifiant unique pour l’appareil
+    *   les sites web visités et leurs temps d’accès
+    *   la date et l’heure d’accès
+    *   le système d’exploitation utilisé et la langue utilisée
+    *   le type d’appareil et l’identifiant unique de l’appareil
     *   le nom du fournisseur d’accès à Internet
-    *   les pages web précédemment visitées (référentes) et les pages web consultées ensuite (sortantes)
-    *   les données dites de « clickstream », c’est-à-dire vos chemins de clics au sein de notre offre
-    *   ainsi que d’autres informations similaires sur l’appareil et le navigateur
-*   **Activité et utilisation**. Nous collectons également des informations sur votre activité lors de l’utilisation de Parship. Cela comprend, entre autres, les informations suivantes
+    *   les sites web précédemment visités (référents) et les sites web consultés ultérieurement (sortants)
+    *   les données relatives au parcours de navigation, c’est-à-dire vos parcours de navigation au sein de notre offre
+    *   et d’autres informations similaires relatives à l’appareil et au navigateur
+*   **Activité et utilisation**. Nous recueillons également des informations sur votre activité lorsque vous utilisez Parship. Ces informations comprennent, entre autres, les éléments suivants
     *   liens cliqués
-    *   recherches effectuées
+    *   les recherches effectuées
     *   fonctions utilisées
     *   contenu consulté
-    *   la durée de votre utilisation
-    *   Votre interaction avec nous et avec les autres utilisateurs de Parship
-    *   ainsi que d’autres données similaires concernant votre activité et votre utilisation
-*   **Informations sur la localisation**. Nous pouvons collecter ou déduire des informations générales sur votre localisation, par exemple en analysant votre adresse IP. Ces informations nous permettent de déterminer l’emplacement géographique approximatif de votre appareil (par ex. pays, région ou ville). En outre, vous indiquez dans votre profil votre lieu de résidence, qui fait également partie des informations de localisation.
+    *   la durée de l’utilisation
+    *   Votre interaction avec nous et les autres utilisateurs de Parship
+    *   et d’autres données similaires sur votre activité et votre utilisation
+*   **Informations de localisation**. Nous pouvons collecter ou déduire des informations générales sur votre localisation, par exemple en analysant votre adresse IP. Ces informations nous permettent de déterminer l’emplacement géographique approximatif de votre appareil (par exemple, le pays, la région ou la ville). En outre, vous saisissez votre lieu de résidence dans votre profil, qui est également inclus dans les informations de localisation.  
+      
+    Nous utilisons les données de localisation en particulier pour fournir nos services basés sur la localisation, pour personnaliser le contenu, pour assurer le respect des exigences légales ou pour détecter et prévenir la fraude ou les abus.  
+      
+    Nous ne localisons pas précisément votre appareil (par exemple via GPS), mais déterminons uniquement une localisation approximative sur la base de données techniques.
 
-Nous utilisons notamment les données de localisation pour fournir nos services en fonction de la localisation, pour personnaliser les contenus, pour garantir le respect des exigences légales ou pour détecter et empêcher les fraudes ou les abus.
-
-Il ne s’agit pas d’une localisation précise de votre appareil (par ex. via GPS), mais uniquement d’une détermination approximative de sa position sur la base de données techniques.
-
-Pour plus d’informations sur notre utilisation des cookies et d’autres technologies similaires, veuillez consulter la section 6. Cookies, ciblage et analyse ci-dessous.
+De plus amples informations sur notre utilisation des cookies et d’autres technologies similaires sont disponibles ci-dessous dans la section 6 Cookies, ciblage et analyse.
 
 3\. Finalités de la collecte et du traitement
 ---------------------------------------------
 
-Nous pouvons collecter, utiliser, partager et traiter d’une autre manière les catégories de données à caractère personnel que nous recueillons aux fins décrites ci-dessous :
+Nous pouvons collecter, utiliser, divulguer et traiter d’une autre manière les catégories de données à caractère personnel que nous collectons aux fins décrites ci-dessous :
 
-**Fourniture de notre service et assistance**.
+**La fourniture de nos services et de notre soutien**
 
-Nous traitons vos données personnelles afin de vous fournir Parship et de permettre nos activités quotidiennes. Cela comprend notamment
+Nous traitons vos données personnelles afin de vous fournir Parship et d’assurer nos activités quotidiennes. Cela inclut en particulier
 
-*   la gestion de votre compte d’utilisateur,
-*   la communication avec notre service clientèle en ce qui concerne l’utilisation de Parship, ce qui comprend entre autres le traitement de vos demandes, la satisfaction de vos souhaits et le support technique.
-*   le traitement des paiements
-*   autres tâches de support et d’administration
+*   l’administration de votre compte d’utilisateur,
+*   communiquer avec notre service clientèle concernant l’utilisation de Parship, ce qui inclut, entre autres, le traitement de vos demandes, la satisfaction de vos requêtes et la fourniture d’une assistance technique,
+*   le traitement des paiements,
+*   d’autres tâches administratives et de soutien.
 
-Dans le cadre de ces objectifs, il peut être nécessaire que certaines données personnelles – telles que l’identifiant de votre profil, votre nom et certaines données de contact – soient visibles pour les autres utilisateurs. La visibilité dépend des paramètres de confidentialité que vous avez choisis.
+À ces fins, il peut être nécessaire que certaines données personnelles – telles que l’identifiant de votre profil, votre nom et certaines coordonnées – soient visibles par d’autres utilisateurs. Cette visibilité dépend des paramètres de protection des données que vous avez sélectionnés.
 
-À ces fins, Parship s’appuie sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b), du règlement général sur la protection des données (RGPD), qui a été transposé dans le droit britannique par la section 3 de la loi britannique de 2018 sur le retrait de l’Union européenne (Withdrawal) (collectivement, le  » RGPD « ) et l’article 31, paragraphe 2, point b), de la nouvelle loi fédérale suisse sur la protection des données (nLPD).
+À ces fins, Parship s’appuie sur la base juridique de l’**exécution du contrat** conformément à l’art. 6 para. 1 lit. b du règlement général sur la protection des données (RGPD), qui a été transposé en droit britannique par l’article 3 de la loi de retrait du Royaume-Uni de 2018 (collectivement dénommé « RGPD ») et de l’art. 31 al. 2 lit. b de la nouvelle loi fédérale suisse sur la protection des données (nDSG).
 
-**Lieu**
+**Localisation**
 
-En ce qui concerne les données de localisation, Parship s’appuie sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b du RGPD et à l’article 31, paragraphe 2, point b de la nLPD.
+En ce qui concerne les données de localisation, Parship s’appuie sur la base juridique de **l’exécution du contrat** conformément à l’art. 6 para. 1 lit. b GDPR et Art. 31 para. 2 lit. b nDSG.
 
 **Orientation sexuelle**
 
-En ce qui concerne le traitement des données à caractère personnel relatives à l’orientation sexuelle en tant que données sensibles conformément à l’article 9, paragraphe 1 du RGPD, Parship s’appuie sur votre **consentement explicite** (article 6, paragraphe 1, point a), article 7, article 9, paragraphe 2, point a) du RGPD).
+En ce qui concerne le traitement des données personnelles relatives à l’orientation sexuelle en tant que données sensibles conformément à l’art. 9 para. 1 GDPR, Parship s’appuie sur votre **consentement** explicite (Art. 6 para. 1 lit. a, Art. 7, Art. 9 para. 2 lit. a GDPR).
 
-**Analyse et amélioration de la qualité**.
+**Analyse et amélioration de la qualité**
 
-Nous traitons également les données personnelles afin de mieux comprendre comment les utilisateurs accèdent à Parship et l’utilisent. Cela sert entre autres aux objectifs suivants :
+Nous traitons également des données personnelles afin de mieux comprendre comment les utilisateurs accèdent à Parship et l’utilisent. Cela sert, entre autres, les objectifs suivants :
 
-*   la réalisation d’analyses sur l’utilisation de nos pages web ou de notre application,
-*   l’évaluation et l’amélioration continue de nos sites web ainsi que de notre application,
+*   effectuer des analyses de l’utilisation de nos sites web ou de notre appli,
+*   l’évaluation et l’amélioration continue de nos sites web et de notre application,
 *   le développement et l’optimisation de nos produits,
-*   la réalisation de contrôles de qualité internes ainsi que,
-*   À des fins de formation au sein de notre entreprise.
+*   la mise en œuvre de contrôles de qualité internes et,
+*   à des fins de formation au sein de notre entreprise.
 
-À ces fins, nous nous fondons sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31 de la nLPD. Notre intérêt légitime est de mieux comprendre le fonctionnement et l’utilisation de nos services dans une perspective commerciale, afin de les développer dans l’intérêt de nos utilisateurs.
+À ces fins, nous nous appuyons sur notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 nDSG. Notre intérêt légitime consiste à mieux comprendre le fonctionnement et l’utilisation de notre service d’un point de vue commercial afin de continuer à le développer au profit de nos utilisateurs.
 
 **Communication**
 
-Nous traitons vos données personnelles pour
+Nous traitons vos données personnelles afin de
 
-*   Répondre à vos demandes,
-*   Vous fournir les informations et le matériel que vous souhaitez concernant nos services et/ou nos offres
-*   et de vous envoyer des messages administratifs, tels que des informations sur nos services ou des modifications de nos conditions générales ou de notre politique de confidentialité.
+*   Pour répondre à vos questions,
+*   Pour vous fournir les informations et le matériel dont vous avez besoin concernant nos services et/ou nos offres,
+*   ainsi que pour vous envoyer des messages administratifs – tels que des informations sur notre service ou des modifications de nos conditions générales ou des informations sur la protection des données.
 
-Nous nous appuyons sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b), du RGPD et à l’article 31, paragraphe 2, du RGPD, dans la mesure où la communication est liée à une relation contractuelle existante ou en cours avec vous.
+Nous nous appuyons sur la base juridique de **l’exécution du contrat** conformément à l’art. 6 para. 1 lit. b GDPR et Art. 31 para. 2 nDSGV si la communication est en relation avec une relation contractuelle existante ou initiée avec vous.
 
-Dans la mesure où **il n’existe pas de relation contractuelle**, le traitement est effectué sur la base de notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD. Notre intérêt légitime consiste à traiter efficacement les demandes des utilisateurs et à garantir une qualité de service élevée.
+Si **aucune relation contractuelle** n’existe, le traitement est effectué sur la base de notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG. Notre intérêt légitime réside dans le traitement efficace des demandes des utilisateurs et dans la garantie d’une qualité de service élevée.
 
-**Adaptation et personnalisation**
+**Customisation et personnalisation**
 
-Nous traitons vos données personnelles afin de personnaliser le contenu que nous vous fournissons, que ce soit dans le cadre de nos services ou de la communication avec vous. Cela comprend, entre autres, les :
+Nous traitons vos données personnelles afin de personnaliser le contenu que nous vous fournissons – que ce soit au sein de notre service ou dans le cadre de la communication avec vous. Cela comprend, entre autres, les éléments suivants
 
-*   l’adaptation des contenus en fonction de la localisation, celle-ci étant déterminée par le lieu de résidence que vous avez indiqué ainsi que par votre adresse IP,
-*   ainsi que la personnalisation de votre expérience utilisateur et de nos offres.
+*   l’adaptation du contenu en fonction de la localisation, la localisation étant déterminée sur la base du lieu de résidence que vous avez indiqué et de votre adresse IP,
+*   ainsi que la personnalisation de votre expérience d’utilisateur et de nos offres.
 
-Nous nous appuyons pour ce traitement sur la base juridique de l’**exécution du contrat** conformément à l’art. 6, al. 1, let. b du RGPD et à l’art. 31, al. 2, let. b de la nLPD.
+Nous fondons ce traitement sur la base juridique de **l’exécution du contrat** conformément à l’art. 6 para. 1 lit. b GDPR et Art. 31 para. 2 lit. b nDSG.
 
-Nous ne diffusons pas de publicité personnalisée de tiers dans le cadre de nos services.
+Nous n’affichons pas de publicité personnalisée provenant de fournisseurs tiers dans nos services.
 
-**Utilisation des médias sociaux et autres plateformes de communication**.
+**Utilisation des médias sociaux et d’autres plateformes de communication**
 
-Nous traitons les données à caractère personnel pour vous permettre de
+Nous traitons les données personnelles afin de vous donner la possibilité de
 
-*   Partager des contenus et des informations avec d’autres
-*   ainsi que de s’inscrire et/ou de se connecter à Parship via des plateformes de médias sociaux ou d’autres services intégrés de fournisseurs tiers.
+*   Partager du contenu et des informations avec d’autres personnes,
+*   et pour s’inscrire et/ou se connecter à Parship via des plateformes de médias sociaux ou d’autres services tiers intégrés.
 
-Dans la mesure où le traitement pour l’enregistrement et/ou la connexion est effectué par un fournisseur tiers, nous nous appuyons sur la base juridique de l’**exécution du contrat** conformément à l’article 6, paragraphe 1, point b) du RGPD et à l’article 31, paragraphe 2, point b) de la nDSG.
+Dans la mesure où le traitement de l’enregistrement et/ou de la connexion s’effectue par l’intermédiaire d’un fournisseur tiers, nous nous appuyons sur la base juridique de **l’exécution du contrat** conformément à l’article 6, paragraphe 6, de la loi sur la protection des données. 6 para. 1 lit. b GDPR et Art. 31 para. 2 lit. b nDSG.
 
-Dans tous les **autres cas**, le traitement est effectué sur la base de **nos intérêts légitimes** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD. Notre intérêt légitime est de permettre à nos utilisateurs d’utiliser volontairement des fonctions de communication avec des fournisseurs tiers, notamment pour se connecter ou échanger avec des plateformes de médias sociaux ou d’autres services intégrés.
+Dans tous les **autres cas**, le traitement est fondé sur **nos intérêts légitimes** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG. Notre intérêt légitime est de permettre à nos utilisateurs d’utiliser volontairement des fonctions de communication avec des fournisseurs tiers, en particulier pour se connecter ou échanger des informations avec des plateformes de médias sociaux ou d’autres services intégrés.
 
 **Marketing et publicité**
 
-Nous traitons vos données personnelles à des fins de marketing, de publicité et de promotion des ventes. Cela comprend entre autres
+Nous traitons vos données personnelles à des fins de marketing, de publicité et de promotion des ventes. Cela comprend, entre autres, ce qui suit
 
-*   l’envoi d’informations publicitaires sur nos services,
+*   l’envoi d’informations publicitaires sur notre service,
 *   Bulletin d’information,
-*   Informations sur les offres, les réductions et les nouvelles fonctionnalités,
-*   ainsi que d’autres informations que vous avez expressément demandées.
+*   Informations sur les offres, les réductions et les nouvelles fonctions,
+*   et d’autres informations que vous avez expressément demandées.
 
-Pour l’envoi de telles informations publicitaires, nous nous appuyons sur la base juridique de votre **consentement** conformément à l’art. 6, al. 1, let. et art. 7 du RGPD ainsi qu’à l’art. 31, al. 1 de la nLPD.
+Nous fondons l’envoi de ces informations publicitaires sur la base juridique de votre **consentement** conformément à l’art. 6 para. 1 lit. et Art. 7 GDPR et Art. 31 para. 1 nDSG.
 
-**Publicité directe pour vos propres produits**.
+**Publicité directe pour ses propres produits**
 
-Nous traitons également vos données personnelles à des fins de publicité directe pour nos propres produits et services. Cela comprend notamment
+Nous traitons également vos données personnelles à des fins de publicité directe pour nos propres produits et services. Il s’agit notamment
 
 *   l’envoi d’e-mails publicitaires et/ou de messages push et/ou de messages in-app,
-*   la réalisation d’enquêtes auprès des utilisateurs,
-*   ainsi que la mise à disposition de contenus individualisés, par exemple des guides personnalisés.
+*   la mise en œuvre d’enquêtes auprès des utilisateurs,
+*   ainsi que la fourniture d’un contenu individualisé, par exemple des guides personnalisés.
 
-Ces mesures de publicité directe se rapportent exclusivement aux produits et services de Parship.
+Ces mesures de publicité directe concernent exclusivement les produits et services de Parship.
 
-Le traitement est effectué sur la base de notre **intérêt légitime** à vous proposer des recommandations de produits pertinentes, similaires à vos habitudes d’achat antérieures, sans vous importuner avec de la publicité non pertinente, conformément à l’art. 6, al. 1, let. f du RGPD en relation avec l’art. 22 de la directive européenne 2002/58/CE (directive ePrivacy) et l’art. 31, al. 1 de la nLPD.
+Le traitement est basé sur notre **intérêt légitime** à vous fournir des recommandations de produits pertinentes qui sont similaires à votre comportement d’achat précédent sans vous accabler de publicité non pertinente, conformément à l’art. 6 para. 1 lit. f GDPR en conjonction avec l’Art. 22 de la directive 2002/58/CE (directive « vie privée et communications électroniques ») et à l’art. 31 para. 1 nDSG.
 
-**Enquêtes d’opinion et sondages**.
+**Recherche d’opinion et enquêtes**
 
-Nous traitons vos données personnelles pour réaliser des enquêtes et des questionnaires – par exemple à des fins d’étude de marché, de mesure de la satisfaction des utilisateurs ou à des fins d’analyse comparables.
+Nous traitons vos données personnelles afin de réaliser des enquêtes et des questionnaires, par exemple à des fins d’étude de marché, de mesure de la satisfaction des utilisateurs ou à des fins d’analyse comparables.
 
-**Enquêtes d’opinion et sondages par e-mail** : Lorsque nous vous invitons à participer à une enquête par e-mail, nous le faisons sur la base d’un **intérêt légitime**, conformément à l’article 6, paragraphe 1, point f) du RGPD, en liaison avec l’article 22 de la directive européenne 2002/58/CE (directive ePrivacy) et l’article 31, paragraphe 1 de la nLPD. Notre intérêt est de vous proposer des services similaires et d’améliorer l’expérience utilisateur. Vous pouvez vous opposer à tout moment à une telle utilisation (par ex. via le lien de désinscription dans l’e-mail).
+**Recherche d’opinion et enquêtes par courriel:** Si nous vous invitons à participer à une enquête par courriel, cela se fait sur la base de l’ **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR en conjonction avec l’Art. 22 de la directive européenne 2002/58/CE (directive « vie privée et communications électroniques ») et à l’art. 31 para. 1 nDSG. Notre intérêt est de vous proposer des services similaires et d’améliorer l’expérience de l’utilisateur. Vous pouvez vous opposer à cette utilisation à tout moment (par exemple via le lien de désinscription dans l’e-mail).
 
-**Etudes d’opinion et sondages dans le cadre de nos services :** Si nous vous invitons à participer à un sondage directement dans le cadre de notre application ou de notre plateforme web, nous le faisons sur la base de votre **consentement** conformément à l’art. 6, al. 1, let. a et à l’art. 7 du RGPD ainsi qu’à l’art. 31, al. 1 de la nLPD.
+**Recherche d’opinion et enquêtes au sein de notre service:** Si nous vous invitons à participer à une enquête directement au sein de notre app ou plateforme web, cela se fait sur la base de votre **consentement** conformément à l’art. 6 para. 1 lit. a et Art. 7 GDPR et Art. 31 para. 1 nDSG.
 
-**Acquisition de connaissances et enrichissement des données**.
+**Accumuler des connaissances et enrichir les données**
 
-Nous traitons également les données personnelles à des fins d’analyse, en combinant les informations que nous collectons via notre service Parship avec d’autres données – aussi bien nos propres données que celles de tiers, collectées dans d’autres contextes. Cela nous permet notamment de mieux comprendre nos utilisateurs et leurs intérêts.
+Nous traitons également des données personnelles à des fins d’analyse en combinant les informations que nous collectons via notre service Parship avec d’autres données – les nôtres et celles de tiers collectées dans d’autres contextes. Cela nous permet notamment de mieux comprendre nos utilisateurs et leurs intérêts.
 
-Par exemple, nous pouvons combiner des informations démographiques disponibles dans le cadre d’études de marché ou via des fournisseurs tiers avec les données que nous collectons. En règle générale, ces informations combinées ne permettent pas d’identifier directement les personnes concernées.
+Par exemple, nous pouvons combiner des informations démographiques disponibles dans le cadre d’études de marché ou par l’intermédiaire de fournisseurs tiers avec les données que nous collectons. En règle générale, ces informations combinées ne permettent pas d’identifier directement les personnes concernées.
 
-Pour ce type de traitement des données, nous nous appuyons sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f du RGPD et à l’article 31, paragraphe 1 de la nLPD. L’intérêt légitime de Parship réside notamment dans l’analyse commerciale et l’optimisation de Parship, afin de mieux comprendre comment notre service est utilisé et comment nous pouvons développer notre offre de manière stratégique.
+Nous fondons ce type de traitement des données sur notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG. L’intérêt légitime de Parship réside en particulier dans l’analyse commerciale et l’optimisation de Parship afin de mieux comprendre comment notre service est utilisé et comment nous pouvons développer stratégiquement notre offre.
 
-**Accès et stockage d’informations sur le terminal de l’utilisateur**.
+**Accéder à des informations et les stocker sur l’appareil final de l’utilisateur**
 
-Nous pouvons enregistrer des informations (par exemple des cookies ou d’autres technologies de suivi) sur votre terminal ou accéder à des informations déjà enregistrées. Cela se fait notamment pour soutenir des fonctions techniques, pour analyser l’utilisation, pour optimiser et évaluer nos mesures de marketing ou pour personnaliser nos services.
+Nous pouvons stocker des informations (par exemple des cookies ou d’autres technologies de suivi) sur votre appareil final ou accéder à des informations qui ont déjà été stockées. Ceci est fait en particulier pour soutenir les fonctions techniques, pour analyser l’utilisation, pour optimiser et évaluer nos mesures de marketing ou pour personnaliser nos services.
 
-Dans la mesure où cet accès ou ce stockage **n’est pas absolument nécessaire** pour mettre Parship à disposition, il ne se fait que sur la base de votre **consentement** conformément à l’art. Art. 5 al. 3 de la directive européenne 2002/58/CE (directive ePrivacy) ainsi que le règlement 6.4 du PECR (Privacy and Electronic Communications Regulations).
+Dans la mesure où cet accès ou ce stockage n’est **pas absolument nécessaire** pour fournir Parship, il n’aura lieu que sur la base de votre **consentement** conformément à l’article. Art. 5 para. 3 de la directive 2002/58/CE de l’UE (directive « vie privée et communications électroniques ») et au règlement 6.4 du règlement relatif à la protection de la vie privée et aux communications électroniques (PECR).
 
-Vous avez à tout moment la possibilité de gérer ou de révoquer votre consentement via notre bannière de cookies ou notre plateforme de gestion du consentement (CMP).
+Vous pouvez gérer ou retirer votre consentement à tout moment via notre bannière de cookies ou notre plateforme de gestion des consentements (CMP).
 
-**Sécurité, prévention des abus et protection des droits**.
+**Sécurité, prévention des abus et protection des droits**
 
-Nous traitons vos données personnelles pour
+Nous traitons vos données personnelles afin de
 
-*   protéger la sécurité et l’intégrité de Parship, de nos systèmes et de nos activités commerciales
-*   détecter, prévenir ou poursuivre les accès non autorisés, les activités frauduleuses et autres abus de Parship
-*   d’enquêter sur d’éventuelles violations de nos Conditions générales ou de nos Community Guidelines,
-*   d’identifier ou de signaler des violations potentiellement illégales
-*   ainsi que de préserver les droits et les intérêts de Parship, de nos utilisateurs, de nos parties prenantes et de nos investisseurs.
+*   protéger la sécurité et l’intégrité de Parship, de nos systèmes et de nos processus commerciaux,
+*   détecter, prévenir ou poursuivre les accès non autorisés, les activités frauduleuses et toute autre utilisation abusive de Parship,
+*   enquêter sur d’éventuelles violations de nos conditions générales ou de nos lignes directrices communautaires,
+*   d’identifier ou de signaler des violations potentiellement illégales,
+*   et de protéger les droits et les intérêts de Parship, de ses utilisateurs, de ses parties prenantes et de ses investisseurs.
 
-Ce traitement est effectué sur la base de notre **intérêt légitime** conformément à l’art. 6, al. 1, let. f du RGPD et à l’art. 31, al. 1 de la nLPD. L’intérêt légitime de Parship consiste notamment en
+Ce traitement est effectué sur la base de notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG. L’intérêt légitime de Parship existe en particulier
 
-*   dans la protection contre les comportements de tiers contraires au contrat et à la loi,
-*   dans la sécurisation de nos systèmes et infrastructures informatiques,
-*   ainsi que dans la protection des données personnelles de nos utilisateurs contre tout accès non autorisé.
+*   la protection contre les comportements contractuels et illégaux de tiers,
+*   la sécurisation de nos systèmes et infrastructures informatiques,
+*   et la protection des données personnelles de nos utilisateurs contre tout accès non autorisé.
 
-_Note spéciale – données relatives à l’orientation sexuelle :_
+_Note spéciale – données sur l’orientation sexuelle:_.
 
-Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – notamment les informations relatives à l’orientation sexuelle – le traitement s’effectue en outre sur la base de l’article 9, paragraphe 2, point f) du RGPD, car il peut être nécessaire pour **l’exercice ou la défense de droits juridiques**.
+Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – en particulier des informations sur l’orientation sexuelle – le traitement est également effectué sur la base de l’art. 9 para. 2 lit. f GDPR, car il peut être nécessaire pour **l’affirmation, l’exercice ou la défense de réclamations légales**.
 
-**Compliance et procédures juridiques**
+**Conformité et procédures judiciaires**
 
-Nous traitons vos données à caractère personnel afin de nous conformer aux obligations légales, réglementaires et administratives. Cela comprend, entre autres
+Nous traitons vos données à caractère personnel afin de nous conformer aux obligations légales, réglementaires et officielles. Ceci inclut, mais n’est pas limité à :
 
 *   le respect des obligations légales de conservation,
-*   répondre aux demandes juridiques telles que les assignations à comparaître, les mandats de perquisition ou les décisions de justice,
-*   la participation à des enquêtes ou à des demandes de renseignements – formelles ou informelles – émanant d’autorités chargées de l’application de la loi ou de la surveillance.
+*   répondre à des demandes légales telles que des citations à comparaître, des mandats de perquisition ou des ordonnances judiciaires,
+*   la coopération dans le cadre d’enquêtes ou de demandes d’informations – formelles ou informelles – par les autorités chargées de l’application de la loi ou les autorités de contrôle.
 
-La base juridique dépend de chaque cas d’application :
+La base juridique dépend de l’application concernée :
 
-1.  **Respect d’une obligation légale**, si celle-ci découle du droit de l’Union européenne (UE) ou d’un État membre de l’UE, ainsi que du droit britannique ou du droit suisse, conformément à l’art. 6, al. 1, let. c du RGPD et à l’art. 31, al. 1 de la nLPD.
-2.  **Intérêts légitimes,** dans la mesure où l’obligation est basée sur le droit d’autres pays ou sur des prescriptions internationales, conformément à l’art. 6, al. 1, let. f du RGPD et à l’art. 31, al. 1 de la nLPD. Dans ces cas, l’intérêt légitime de Parship est de se conformer correctement aux obligations légales, même si celles-ci ne proviennent pas du droit de l’UE ou du droit britannique ou suisse.
+1.  **Exécution d’une obligation légale**, si celle-ci découle du droit de l’Union européenne (UE) ou d’un État membre de l’UE ainsi que du droit britannique ou du droit suisse, conformément à l’article 6, paragraphe 6, de la loi sur les marchés publics. 6 para. 1 lit. c GDPR et Art. 31 para. 1 nDSG.
+2.  **Intérêts légitimes,** dans la mesure où l’obligation est fondée sur le droit d’autres États ou sur des exigences internationales, conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG. Dans ces cas, l’intérêt légitime de Parship est de se conformer correctement aux obligations légales, même si celles-ci ne proviennent pas du droit de l’UE ou du droit britannique ou suisse.
 
-_Note spéciale – données relatives à l’orientation sexuelle :_
+_Note spéciale – données sur l’orientation sexuelle:_.
 
-Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – notamment les informations relatives à l’orientation sexuelle – le traitement s’effectue en outre sur la base de l’article 9, paragraphe 2, point f), du RGPD, car il peut être nécessaire pour faire valoir l’exercice ou la défense de droits juridiques.
+Dans la mesure où des catégories particulières de données à caractère personnel sont concernées – en particulier les informations sur l’orientation sexuelle – le traitement est également effectué sur la base de l’art. 9 para. 2 lit. f GDPR, car il peut être nécessaire pour l’affirmation, l’exercice ou la défense de réclamations légales.
 
-**Audit, rapports et processus internes de l’entreprise**.
+**Audit, rapports et processus internes de l’entreprise**
 
-Nous traitons des données à caractère personnel afin d’exécuter des processus internes de vérification et de contrôle. Cela comprend en particulier
+Nous traitons des données à caractère personnel afin de mener à bien des processus de vérification et de contrôle internes. Il s’agit en particulier
 
 *   Audits financiers, fiscaux et comptables,
-*   des audits internes et externes,
-*   Évaluations de notre activité commerciale,
-*   la vérification et l’application des directives internes dans les domaines de la protection des données, de la sécurité informatique et des finances,
-*   ainsi que des mesures d’évaluation des risques et de conformité aux exigences légales et réglementaires (compliance).
+*   les audits internes et externes,
+*   Évaluations de nos activités commerciales,
+*   l’examen et l’application des lignes directrices internes dans les domaines de la protection des données, de la sécurité informatique et des finances,
+*   ainsi que des mesures d’évaluation des risques et de conformité aux exigences légales et réglementaires.
 
-En outre, nous utilisons les données personnelles pour tenir correctement les dossiers commerciaux et pour appliquer les politiques et procédures internes.
+En outre, nous utilisons les données à caractère personnel pour la bonne tenue des dossiers commerciaux et pour l’application des politiques et procédures internes.
 
-Nous fondons le traitement des données à ces fins sur notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD.
+Nous fondons le traitement des données à ces fins sur notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG.
 
-L’intérêt légitime est d’assurer le bon fonctionnement de l’entreprise et de vérifier régulièrement que toutes les obligations de rapport, les mécanismes de contrôle et les exigences de conformité sont respectés.
+L’intérêt légitime est d’assurer le bon fonctionnement de l’entreprise et de vérifier régulièrement si toutes les obligations de déclaration, les mécanismes de contrôle et les exigences de conformité sont respectés.
 
-**Assistance commerciale et opérationnelle générale**.
+**Soutien général aux entreprises et aux opérations**
 
-Nous traitons vos données personnelles afin de soutenir les processus commerciaux et opérationnels généraux. Cela comprend notamment
+Nous traitons vos données à caractère personnel afin de soutenir les processus commerciaux et opérationnels généraux. Il s’agit en particulier
 
-*   l’évaluation et la réalisation de fusions, d’acquisitions en droit des sociétés, de restructurations, de procédures d’insolvabilité ou de transactions comparables,
-*   Les processus de financement ainsi que la préparation et l’exécution des ventes d’entreprises,
-*   la gestion de nos tâches comptables, d’audit, de conformité et juridiques,
-*   ainsi que la bonne tenue des dossiers et l’organisation interne.
+*   l’évaluation et la mise en œuvre de fusions, d’acquisitions d’entreprises, de restructurations, de procédures d’insolvabilité ou de transactions comparables,
+*   Les processus de financement et la préparation et l’exécution des ventes d’entreprises,
+*   la gestion de nos fonctions comptables, d’audit, de conformité et juridiques,
+*   ainsi qu’une bonne gestion des dossiers et une bonne organisation interne.
 
-Nous fondons ce traitement sur la base juridique de notre **intérêt légitime** conformément à l’article 6, paragraphe 1, point f), du RGPD et à l’article 31, paragraphe 1, de la nLPD.
+Nous fondons ce traitement sur la base juridique de notre **intérêt légitime** conformément à l’art. 6 para. 1 lit. f GDPR et Art. 31 para. 1 nDSG.
 
-Notre intérêt légitime réside en particulier dans la préservation et l’organisation de nos activités commerciales, y compris la possibilité de fournir des informations sur les actifs et les activités de l’entreprise à des acheteurs, investisseurs ou conseillers potentiels, dans la mesure où cela est nécessaire dans le cadre de transactions correspondantes.
+Notre intérêt légitime réside notamment dans la protection et l’organisation de nos opérations commerciales, y compris la possibilité de fournir aux acheteurs, investisseurs ou consultants potentiels des informations sur les valeurs et les activités de l’entreprise, dans la mesure où cela est nécessaire dans le cadre des transactions correspondantes.
 
-Les **objectifs** pour lesquels nous utilisons des **cookies et des technologies de suivi similaires** – notamment en ce qui concerne l’analyse de l’utilisation de Parship – sont décrits en détail dans **la section 6 Cookies et analyses**.
+Les **fins** pour lesquelles nous utilisons des **cookies et des technologies de suivi similaires** – en particulier en ce qui concerne l’analyse de l’utilisation de Parship – sont décrites en détail dans la **Section 6 Cookies et analyse**.
 
-Si le traitement de vos données personnelles est basé sur votre **consentement**, vous avez le droit de révoquer ce **consentement** à tout moment avec effet pour l’avenir. La révocation n’a aucune influence sur la légalité du traitement qui a été effectué sur la base de votre consentement jusqu’au moment de la révocation.
+Si le traitement de vos données personnelles est basé sur votre **consentement**, vous avez le droit de révoquer ce **consentement à tout moment avec effet pour l’avenir**. La révocation n’a aucune influence sur la légalité du traitement effectué sur la base de votre consentement jusqu’au moment de la révocation.
 
-Si le traitement repose sur la base juridique de notre intérêt légitime, vous avez le droit, conformément à l’article 21, paragraphe 1, du RGPD, de vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données à caractère personnel.
+Si le traitement est fondé sur la base juridique de notre intérêt légitime, vous avez le droit de vous opposer à tout moment au traitement de vos données à caractère personnel pour des raisons tenant à votre situation particulière, conformément à l’art. 21 (1) DU RGPD.
 
-Indépendamment de cela, vous avez le droit, conformément à l’article 21, paragraphe 2, du RGPD, de vous opposer à tout moment au traitement de vos données à des fins de marketing direct – sans avoir à indiquer de raisons particulières.
+Indépendamment de cela, vous avez le droit de vous opposer à tout moment au traitement de vos données à des fins de marketing direct, conformément à l’art. 21 (2) GDPR – sans indication de raisons spécifiques.
 
-En outre, vous pouvez vous opposer à tout moment à l’utilisation de vos adresses électroniques à des fins publicitaires ou de conseil personnalisé, soit dès l’enregistrement, soit ultérieurement.
+En outre, vous pouvez vous opposer à tout moment, lors de votre inscription ou ultérieurement, à l’utilisation de vos adresses électroniques à des fins publicitaires ou de conseil personnalisé.
 
 4\. Divulgation de données à caractère personnel
 ------------------------------------------------
 
-Nous pouvons transmettre les données personnelles que nous collectons aux fins décrites dans les présentes informations sur la protection des données – en particulier pour fournir Parship, traiter vos demandes ou si vous avez consenti à une telle transmission. Les destinataires peuvent notamment inclure les catégories suivantes :
+Nous pouvons divulguer les données personnelles que nous collectons aux fins décrites dans le présent avis de confidentialité – en particulier pour fournir Parship, pour traiter vos demandes ou si vous avez consenti à une telle divulgation. Les destinataires peuvent inclure les catégories suivantes en particulier :  
 
-*   **Sociétés affiliées****.** Nous partageons vos données personnelles avec des sociétés affiliées à nous.
-*   **Partenaires et prestataires de services externes****.** Nous transmettons des données à caractère personnel à des partenaires et prestataires de services externes qui assument certaines fonctions et prestations en notre nom. La transmission se fait exclusivement dans le cadre de l’objectif respectif et dans le respect des directives en vigueur en matière de protection des données.
+*   **Entreprises affiliées** Nous partageons vos données personnelles avec des entreprises qui nous sont affiliées.
+*   **Partenaires externes et prestataires de services** Nous transmettons des données à caractère personnel à des partenaires externes et à des prestataires de services qui exécutent certaines fonctions et certains services en notre nom. Le transfert a lieu exclusivement dans le cadre de l’objectif respectif et dans le respect des réglementations applicables en matière de protection des données.  
+      
+    Ces partenaires externes et prestataires de services comprennent en particulier:  
+    .
+    *   Fournisseur d’infrastructure informatique et d’hébergement de sites web,
+    *   Prestataire de services de paiement pour le traitement des transactions,
+    *   Prestataire de services dans le domaine du marketing, de la gestion de campagnes et des études de marché,
+    *   Fournisseur de systèmes d’assistance à la clientèle et de gestion de la relation client,
+    *   Fournisseur de solutions de stockage en nuage et de sécurité des données,
+    *   Entreprise pour l’analyse des données et l’établissement de rapports,
+    *   ainsi que des auditeurs, des consultants et des conseillers juridiques.
 
-Parmi ces partenaires et prestataires de services externes, on trouve notamment
+Tous les prestataires de services utilisés sont contractuellement tenus de garantir les données personnelles uniquement dans le cadre de leur mission et dans le respect de la confidentialité et de la sécurité des données.  
 
-*   Fournisseur d’infrastructures informatiques et d’hébergement de sites web,
-*   Prestataire de services de paiement pour le traitement des transactions,
-*   Prestataire de services dans le domaine du marketing, de la gestion de campagnes et des études de marché,
-*   Fournisseur de systèmes de support client et de gestion de la relation client,
-*   Fournisseur de solutions de stockage en nuage et de sécurité des données,
-*   Société d’analyse de données et de reporting,
-*   ainsi que des auditeurs, des consultants et des conseillers juridiques.
+*   **Partenaires de marketing et d’analyse.** Nous pouvons partager certaines données personnelles – en particulier les informations sur les appareils et les données d’activité et d’utilisation (par exemple, les sites Web visités, les chemins de clics et le temps de séjour) – avec des partenaires externes qui fournissent des services de marketing et d’analyse en notre nom.  
+      
+    Ces partenaires externes nous aident, par exemple, avec  
+    …
+    *   la mise en œuvre d’actions de marketing,
+    *   la gestion de nos activités de marketing,
+    *   mesurer le succès et optimiser nos mesures de marketing,
+    *   ainsi que pour analyser l’utilisation de notre site web ou de nos services en ligne.  
+          
+        Ces partenaires externes comprennent notamment  
+        
+    *   Fournisseur d’outils de marketing en ligne,
+    *   Services de suivi et d’analyse,
+    *   Plateformes permettant de s’adresser à des groupes cibles (par exemple pour le reciblage),
+    *   et des consultants externes dans les domaines du marketing et de l’analyse des données.
 
-Tous les prestataires de services auxquels il est fait appel sont tenus par contrat de ne garantir les données personnelles que dans le cadre de leur mandat et en respectant la confidentialité ainsi que la sécurité des données.
+_Note sur la transparence:_
 
-*   **Partenaires de marketing et d’analyse****.** Nous pouvons transmettre certaines données personnelles – notamment des informations sur les appareils ainsi que des données d’activité et d’utilisation (par ex. pages web visitées, chemins de clics ainsi que durée de la visite) – à des partenaires externes qui fournissent des prestations de marketing et d’analyse en notre nom.
+Vous trouverez un aperçu détaillé des destinataires et des services utilisés sous l’option de menu « Gérer les paramètres » dans le pied de page de notre site web – ou, si vous utilisez notre application, dans les paramètres de protection des données de l’application.
 
-Ces partenaires externes nous aident par exemple à
+**Responsabilité partagée pour le suivi des affiliés**
 
-*   la mise en œuvre d’actions de marketing,
-*   la gestion de nos actions de marketing,
-*   la mesure du succès et l’optimisation de nos mesures de marketing,
-*   ainsi qu’en cas d’analyse de l’utilisation de notre site web ou de nos services en ligne.
+Dans le cadre de notre suivi des affiliés, nous travaillons avec des opérateurs de réseaux d’affiliation spécialisés qui nous aident à attribuer les visites, les clics et les transactions sur le site web aux partenaires commerciaux et à facturer les commissions.
 
-Parmi ces partenaires externes, on trouve notamment
+Dans la mesure où des données à caractère personnel sont traitées – en particulier des adresses IP, des informations sur les cookies, des identifiants d’appareils et des informations sur les transactions – le traitement est effectué dans le cadre de la responsabilité conjointe conformément à l’art. 26 GDPR.
 
-*   Fournisseurs d’outils de marketing en ligne,
-*   Services de suivi et d’analyse,
-*   Plateformes de ciblage (par exemple pour le reciblage),
-*   ainsi que des consultants externes dans le domaine du marketing et de l’analyse des données.
+La responsabilité conjointe concerne en particulier
 
-_Remarque concernant la transparence :_
+*   la collecte et l’attribution à Parship de références provenant de sites web partenaires,
+*   la mesure des conversions,
+*   la préparation des rapports de performance et des rapports comptables.
 
-Vous trouverez un aperçu détaillé des destinataires et des services utilisés sous l’option de menu « Gérer les paramètres » dans le pied de page de notre site web – ou, si vous utilisez notre application, dans les paramètres de protection des données au sein de l’application.
+Nous et l’opérateur de réseau affilié respectif avons convenu contractuellement qui remplit quelles obligations en matière de protection des données. Nonobstant cet accord, vous pouvez faire valoir vos droits en tant que personne concernée à la fois contre nous et contre l’opérateur de réseau respectif. Parship reste votre principal point de contact.
 
-Nous pouvons également divulguer vos données personnelles dans certaines circonstances particulières, lorsque cela est nécessaire ou autorisé ou exigé par la loi. Ces cas incluent, entre autres
+De plus amples informations sur les technologies utilisées sont disponibles dans la [section 6 (Cookies, ciblage et analyse)](https://www.parship.de/privacypolicy/#pp06). Des informations sur les transferts internationaux de données sont disponibles dans la [section 5](https://www.parship.de/privacypolicy/#pp05).
 
-*   **Transfert d’entreprise.** Dans le cadre d’une fusion, d’une acquisition, d’un investissement, d’une restructuration ou d’une faillite, des données à caractère personnel peuvent être communiquées ou transférées à des tiers impliqués.
+Nous pouvons également partager vos données personnelles dans certaines circonstances particulières, lorsque cela est nécessaire, autorisé ou exigé par la loi. Ces cas incluent, mais ne sont pas limités à :  
 
-Concrètement, cela signifie que si Parship ou une entreprise liée est rachetée, fusionnée ou investie par une autre entreprise, ou si des parts d’entreprise ou des actifs sont transférés en tout ou partie (par exemple dans le cadre d’une procédure d’insolvabilité), les données personnelles que nous avons collectées peuvent être transférées à l’entreprise rachetante ou participante, conformément aux lois applicables en matière de protection des données.
-
-En outre, avant la conclusion d’une telle transaction, des données à caractère personnel peuvent être transmises à des prêteurs, des auditeurs, des avocats et d’autres conseillers externes si cela est nécessaire dans le cadre de ce que l’on appelle la « due diligence » ou pour structurer la transaction.
-
-*   **Se conformer aux obligations légales et aux procédures juridiques.** Nous pouvons transmettre des données à caractère personnel à des tiers si cela est nécessaire pour respecter des obligations légales ou pour répondre à une demande légitime des autorités. Cela comprend notamment :
-    *   la divulgation dans le cadre d’une citation à comparaître, d’une ordonnance du tribunal ou d’une procédure juridique similaire,
-    *   Les demandes émanant d’autorités de contrôle, d’organismes gouvernementaux ou d’autorités chargées de l’application de la loi,
-    *   ainsi que la transmission d’informations lorsque la loi l’exige dans le contexte de la sécurité nationale, notamment en cas de suspicion de participation à une infraction terroriste, ou d’enquêtes pénales.
-
-En outre, nous pouvons, le cas échéant, divulguer les noms des gagnants de tirages au sort et de concours, conformément à la législation en vigueur.
-
-*   **Sécurité et protection des droits****.** Nous pouvons divulguer vos données personnelles si nous le jugeons nécessaire pour protéger nos services, nos droits ou les droits et la sécurité de tiers. Cela inclut notamment les cas suivants.
-    *   Prévention, détection et réaction aux
-        *   La fraude,
-        *   les accès ou activités non autorisés,
+*   **Transmission d’entreprise**Dans le cadre d’une fusion, d’une acquisition, d’un investissement, d’une réorganisation ou d’une insolvabilité, les données personnelles peuvent être divulguées ou transférées aux tiers concernés.  
+      
+    Spécifiquement, cela signifie que si Parship ou une société affiliée est acquise par, fusionnée avec ou investie dans une autre société, ou si les actions ou les actifs de la société sont transférés en totalité ou en partie (par exemple dans le cadre d’une procédure d’insolvabilité), les données personnelles collectées par nous peuvent être transférées à la société acquéreuse ou impliquée conformément aux lois applicables en matière de protection des données. en outre, les données personnelles peuvent être divulguées aux prêteurs, auditeurs, avocats et autres conseillers externes avant la réalisation d’une telle transaction si cela est nécessaire dans le cadre d’une soi-disant diligence raisonnable ou pour structurer la transaction.  
+      
+    Les données personnelles que nous collectons peuvent être transférées à l’entreprise acquéreuse ou impliquée conformément aux lois applicables en matière de protection des données.  
+    
+*   **Respect des obligations légales et des procédures judiciaires.** Nous pouvons communiquer des données à caractère personnel à des tiers lorsqu’il est nécessaire de respecter des obligations légales ou de répondre à une demande légitime d’une autorité publique. Cela inclut notamment
+    *   la divulgation dans le cadre de citations à comparaître, d’ordonnances judiciaires ou de procédures judiciaires comparables,
+    *   Demandes émanant d’autorités de contrôle, d’agences gouvernementales ou d’organismes chargés de l’application de la loi,
+    *   et de divulguer des informations lorsque la loi l’exige dans le cadre de la sécurité nationale, y compris, mais sans s’y limiter, en cas de suspicion d’implication dans une infraction terroriste, ou dans le cadre d’enquêtes criminelles.  
+          
+        En outre, nous pouvons divulguer les noms des gagnants de sweepstakes et de concours, le cas échéant, conformément à la loi en vigueur.  
+        
+*   **Sécurité et protection des droits****.** Nous pouvons divulguer vos données personnelles si nous estimons que cela est nécessaire pour protéger nos services, nos droits ou les droits et la sécurité de tiers. Cela inclut notamment les cas suivants
+    *   Prévenir, détecter et réagir
+        *   Fraude,
+        *   l’accès ou les activités non autorisés,
         *   des actes illégaux, ou
         *   Abus de notre service.
-    *   La protection contre les menaces potentielles, par exemple pour la santé, la sécurité ou les droits des personnes ou des tiers ;
-    *   Faire appliquer nos conditions générales, y compris nos directives communautaires, y compris l’enquête et les sanctions en cas de violation éventuelle.
+    *   Protection contre les menaces potentielles, par exemple pour la santé, la sécurité ou les droits des personnes ou des tiers ;
+    *   Application de nos conditions générales et de nos lignes directrices communautaires, y compris l’investigation et la sanction d’éventuelles violations.
 
-En outre, nous pouvons également divulguer des données à caractère personnel dans le cadre de litiges en cours ou imminents et de procédures administratives, ainsi qu’à des fins internes, par ex :
+En outre, nous pouvons également divulguer des données à caractère personnel dans le cadre de litiges en cours ou imminents et de procédures officielles, ainsi qu’à des fins internes, par exemple dans le cadre de :
 
 *   Comptabilité,
 *   Audits et conformité,
-*   Mesures de journalisation et de sécurité,
-*   Conseil juridique et défense.
-*   **Autres divulgations****.** Dans des cas exceptionnels, nous pouvons être amenés à divulguer des données à caractère personnel d’une autre manière, non décrite jusqu’à présent.
+*   Journalisation et mesures de sécurité,
+*   Conseil et défense juridique.  
+      
+    
+*   **Autres divulgations.** Dans des circonstances exceptionnelles, nous pouvons aussi communiquer des données à caractère personnel d’une façon qui n’a pas été mentionnée ci-dessus :  
+      
+    *   nous vous en informerons expressément à l’avance,
+    *   Vous nous avez donné votre consentement pour le traitement en question, ou
+    *   Cette divulgation est autorisée ou requise par la loi.
 
-Toutefois, cela ne se produit que si :
+Dans tous les cas, nous veillons à ce que ce traitement soit effectué conformément aux lois applicables en matière de protection des données.
 
-*   nous vous en informons expressément au préalable,
-*   Vous nous avez donné votre consentement pour le traitement en question, ou
-*   Une telle divulgation est autorisée ou requise par la loi.
+**Utilisation de données anonymes et agrégées**
 
-Dans tous les cas, nous veillons à ce que ce traitement soit effectué conformément à la législation applicable en matière de protection des données.
-
-**Utilisation de données anonymes et agrégées**.
-
-Indépendamment des autres activités de traitement décrites dans la présente note d’information sur la protection des données, nous nous réservons le droit d’utiliser et de partager des données agrégées, anonymisées ou d’autres données non identifiables. Nous utilisons notamment ces données à des fins telles que
+Indépendamment des autres activités de traitement décrites dans le présent avis de protection des données, nous nous réservons le droit d’utiliser et de divulguer des données agrégées, anonymes ou d’autres données non identifiables. Nous utilisons ces données en particulier à des fins telles que
 
 *   Contrôle de la qualité,
 *   Analyses internes et externes,
 *   Recherche et développement,
-*   ainsi qu’à d’autres fins commerciales et opérationnelles.
+*   et à d’autres fins commerciales et opérationnelles.
 
-Les données anonymisées sont des informations qui ne peuvent plus être associées, directement ou indirectement, à une personne physique spécifique, à un ménage ou à un appareil personnel.
+Les données anonymes sont des informations qui ne peuvent plus être associées à une personne physique, un ménage ou un appareil personnel spécifique, que ce soit directement ou indirectement.
 
-Lorsque nous traitons de telles données ou les transmettons à des tiers :
+Lorsque nous traitons ces données ou les transmettons à des tiers :
 
-*   elles sont conservées durablement sous forme anonymisée,
-*   ne sont pas utilisés pour la ré-identification,
-*   sauf si cela est nécessaire pour vérifier que nos mesures d’anonymisation sont conformes aux exigences de la législation applicable en matière de protection des données (par exemple, dans le cadre d’audits internes ou d’évaluations réglementaires).
+*   elles sont stockées en permanence sous une forme anonyme,
+*   ne sont pas utilisés pour la réidentification,
+*   sauf si cela est nécessaire pour vérifier que nos mesures d’anonymisation sont conformes aux exigences des lois applicables en matière de protection des données (par exemple, dans le cadre d’audits internes ou d’évaluations réglementaires).
 
-5\. Transfert de données à caractère personnel vers des pays en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEE/UK/CH
-------------------------------------------------------------------------------------------------------------------------------------------------
+5\. Transfert de données à caractère personnel vers des pays situés en dehors de l’Espace économique européen, du Royaume-Uni et de la Suisse EEA/UK/CH
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Les destinataires des données à caractère personnel peuvent se trouver en dehors de l’Espace économique européen (EEE), du Royaume-Uni (UK) ou de la Suisse (CH) (appelés « pays tiers »).
+Les destinataires des données personnelles peuvent être situés en dehors de l’Espace économique européen (EEE), du Royaume-Uni (UK) ou de la Suisse (CH) (appelés « pays tiers »).
 
-Si des données personnelles sont transmises dans des pays qui ne sont pas soumis au champ d’application du RGPD ou de la nLPD – en particulier à des destinataires aux États-Unis – nous nous assurons que vos droits en matière de protection des données sont respectés conformément aux exigences légales.
+Si des données personnelles sont transférées vers des pays qui ne sont pas soumis au champ d’application du GDPR ou du nDSG – en particulier vers des destinataires aux États-Unis – nous nous assurons que vos droits en matière de protection des données sont sauvegardés conformément aux exigences légales.
 
 Cela se fait de l’une des manières suivantes :
 
-*   La Commission européenne, l’Information Commissioner’s Office (ICO) du Royaume-Uni ou le Préposé fédéral à la protection des données et à la transparence (PFPDT) de la Suisse ont décidé que le pays tiers concerné offre un niveau de protection des données adéquat (art. 45 RGPD ou art. 16 nLPD).
-*   La transmission s’effectue sur la base de garanties appropriées conformément à l’art. 46 RGPD ou à l’art. 16, al. 2, let. d nDSG, en particulier
-    *   en concluant des clauses contractuelles types de l’UE qui, le cas échéant, seront complétées par des clauses de confidentialité
-        *   un soi-disant addendum britannique, tel que prescrit par l’ICO,
-        *   ainsi qu’un addendum CH, conformément aux directives du PFPDT, ou
-    *   par des règles internes contraignantes en matière de protection des données (Binding Corporate Rules, BCR), établies conformément à l’article 46, paragraphe 2, point b), à l’article 47 du RGPD et à l’article 16, paragraphe 2, point d) de la nLPD.
-*   Dans des cas exceptionnels, une transmission peut également avoir lieu conformément à l’art. 49 RGPD ainsi qu’à l’art. 16 f. nDSG, pour autant que les conditions légales soient remplies.
+*   La Commission européenne, l’Information Commissioner’s Office (ICO) du Royaume-Uni ou le Préposé fédéral à la protection des données et à la transparence (PFPDT) de la Suisse ont décidé que le pays tiers en question offre un niveau adéquat de protection des données (art. 45 GDPR ou art. 16 nDSG).
+*   Le transfert a lieu sur la base de garanties appropriées conformément à l’art. 46 GDPR ou Art. 16 al. 2 lit. d nDSG, notamment par la conclusion de clauses contractuelles types de l’UE, qui sont complétées si nécessaire
+    *   un « addendum britannique », tel que spécifié par l’ICO,
+    *   ainsi qu’un « CH Addendum », conformément aux exigences du PFPDT, ou
+    *   par le biais de règles d’entreprise contraignantes (BCR) conformément à l’art. 46 para. 2 lit. b, Art. 47 GDPR et Art. 16 para. 2 lit. d nDSG.
+*   Dans des cas exceptionnels, les données peuvent également être transférées conformément à l’art. 49 GDPR et Art. 16 f. nDSG, à condition que les exigences légales soient respectées.
 
-En outre, nous évaluons le niveau de protection dans le pays destinataire et, si nécessaire, nous prenons des mesures techniques, organisationnelles ou contractuelles complémentaires afin de garantir un niveau de protection comparable au niveau européen de protection des données.
+En outre, nous évaluons le niveau de protection dans le pays destinataire et, si nécessaire, nous prenons des mesures techniques, organisationnelles ou contractuelles supplémentaires pour garantir un niveau de protection comparable au niveau européen de protection des données.
 
-Des exemples de telles mesures peuvent être par exemple le cryptage, la pseudonymisation ou des obligations contractuelles de transparence vis-à-vis des autorités.
+Ces mesures peuvent être, par exemple, le cryptage, la pseudonymisation ou les obligations contractuelles de transparence à l’égard des autorités.
 
-**Informations sur les transferts de données vers des pays tiers :**
+**Informations sur les transferts de données vers des pays tiers:**.
 
-Vous pouvez demander le mécanisme légal utilisé sur lequel nous nous appuyons pour le transfert ainsi qu’une liste des destinataires pertinents en dehors de l’EEE, du Royaume-Uni et de la Suisse à l’adresse e-mail suivante : [datenschutz@parship.de](mailto:datenschutz@parship.de).
+Vous pouvez demander le mécanisme juridique utilisé dans chaque cas, sur lequel nous basons le transfert, ainsi qu’une liste des destinataires concernés en dehors de l’EEE, du Royaume-Uni et de la Suisse à l’adresse électronique suivante : [privacypolicy@parship.fr](mailto:datenschutz@parship.de).
 
-Veuillez noter que les informations fournies peuvent être partiellement caviardées, dans la mesure où cela est nécessaire pour protéger des secrets commerciaux ou d’autres contenus confidentiels.
+Veuillez noter que certaines des informations fournies peuvent être occultées si cela est nécessaire pour protéger des secrets d’affaires ou d’autres contenus confidentiels.
 
 6\. Cookies, ciblage et analyse
 -------------------------------
 
-Nous et nos fournisseurs tiers utilisons différentes technologies de suivi – y compris des cookies, des pixels, des fichiers journaux ainsi que des mécanismes similaires – pour collecter automatiquement des informations sur le comportement d’utilisation, les appareils et les activités au sein de notre service.
+Nous et nos fournisseurs tiers utilisons diverses technologies de suivi – y compris des cookies, des pixels, des fichiers journaux et des mécanismes similaires – pour collecter automatiquement des informations sur le comportement d’utilisation, les appareils et les activités au sein de notre service.
 
-**Finalités du traitement des données**.
+**Finalités du traitement des données**
 
-Les technologies utilisées servent notamment aux objectifs suivants :
+Les technologies utilisées servent notamment les objectifs suivants :
 
 *   Analyse de l’utilisation de nos services et mesure de la portée,
-*   Suivi des interactions avec nos contenus et fonctionnalités,
-*   Détection et correction des erreurs et maintenance technique,
+*   Suivi des interactions avec notre contenu et nos fonctions,
+*   Détecter et rectifier les pannes et assurer la maintenance technique,
 *   Garantir la sécurité, la performance et la stabilité,
 *   Personnalisation du contenu et des recommandations,
 *   À des fins de marketing et d’analyse, y compris la mesure du succès des campagnes publicitaires et l’évaluation ciblée de la publicité.
 
-Dans la mesure où un traitement ne repose pas sur une nécessité légale, il n’a lieu qu’après consentement préalable via notre plateforme de gestion du consentement (CMP). Vous trouverez celle-ci dans le pied de page de notre site web sous Paramètres de consentement ainsi que dans les paramètres de suivi de notre application. Veuillez noter que les préférences sont spécifiques à l’appareil et au navigateur et qu’elles doivent être redéfinies après une suppression de cookies.
+Si le traitement n’est pas fondé sur une obligation légale, il n’aura lieu qu’avec un consentement préalable via notre plateforme de gestion des consentements (CMP). Vous la trouverez dans le pied de page de notre site web sous les paramètres de consentement et dans les paramètres de suivi de notre appli. Veuillez noter que les préférences sont spécifiques à l’appareil et au navigateur et qu’elles doivent être définies à nouveau après la suppression des cookies.
 
-**Aperçu des technologies utilisées**.
+Dans la mesure où des technologies de suivi sont utilisées dans le cadre de programmes d’affiliation, cela se fait en partie sous la responsabilité conjointe conformément à l’art. 26 GDPR (voir [section 4](https://www.parship.de/privacypolicy/#pp04)).
+
+**Une vue d’ensemble des technologies utilisées**
 
 **Cookies**
 
-Les cookies sont de petits fichiers texte qui sont enregistrés sur votre appareil (par ex. smartphone ou ordinateur). Ils facilitent la navigation, accélèrent les procédures de connexion, soutiennent les fonctions de sécurité et nous permettent de collecter des informations statistiques et agrégées sur le comportement d’utilisation.
+Les cookies sont de petits fichiers texte qui sont stockés sur votre appareil (p. ex. smartphone ou ordinateur). Ils facilitent la navigation, accélèrent les processus de connexion, soutiennent les fonctions de sécurité et nous permettent de collecter des informations statistiques et agrégées sur le comportement d’utilisation.
 
-**Balises pixel ou pixels espions**
+**Pixel tags ou web beacons**
 
-Les pixel tags sont des graphiques invisibles qui fonctionnent de manière similaire aux cookies, mais qui sont directement intégrés dans les pages web ou les e-mails. Ils nous aident à mesurer les interactions des utilisateurs – par exemple si les e-mails ont été ouverts ou transférés – et nous aident à analyser et à gérer notre contenu.
+Les balises pixel sont des graphiques invisibles qui fonctionnent de la même manière que les cookies, mais qui sont intégrés directement dans les sites web ou les courriels. Ils nous aident à mesurer les interactions avec les utilisateurs – par exemple, si les courriels ont été ouverts ou transférés – et soutiennent l’analyse et la gestion de notre contenu.
 
-**Fichiers journaux (logfiles)**.
+**Fichiers log (fichiers log)**
 
-Lorsque vous accédez à nos services, nous collectons automatiquement des informations de fichier journal telles que
+Lorsque vous accédez à nos services, nous collectons automatiquement des informations de fichiers journaux telles que
 
 *   Adresse IP,
-*   Le type et la version du navigateur,
+*   Type et version du navigateur,
 *   Paramètres de langue,
-*   les pages web visitées,
-*   les liens sur lesquels on a cliqué,
-*   ainsi que les URL de redirection ou de sortie.
+*   sites web visités,
+*   liens cliqués,
+*   ainsi que les URL redirigées ou abandonnées.
 
-Ces données servent à l’analyse des erreurs et à la maintenance technique.
+Ces données sont utilisées pour l’analyse des erreurs et la maintenance technique.
 
-**Analyse par des tiers**
+**Analyse par des fournisseurs tiers**
 
-Nous utilisons des outils pour analyser l’utilisation de Parship, des cookies et des pixels sont utilisés pour collecter des données d’utilisation pseudonymisées.
+Nous utilisons des outils pour analyser l’utilisation de Parship. Des cookies et des pixels sont utilisés pour collecter des données d’utilisation pseudonymisées.
 
 Vous trouverez une liste complète des partenaires d’analyse utilisés dans notre CMP.
 
-**Utilisation sur plusieurs appareils (si pertinent)**.
+**Utilisation croisée des appareils (le cas échéant)**
 
-Nous et nos partenaires pouvons combiner des informations collectées via différents appareils pour
+Nos partenaires et nous-mêmes pouvons combiner les informations collectées à partir de différents appareils afin de
 
-*   de reconnaître les appareils associés,
+*   pour reconnaître les dispositifs liés,
 *   Personnaliser le contenu et la publicité sur tous les appareils.
 
-**Des groupes cibles définis par l’utilisateur et des comparaisons de listes**.
+**Groupes cibles définis par l’utilisateur et correspondance des listes**
 
-Nous pouvons transmettre des informations de contact (par ex. adresse e-mail, nom) à des fournisseurs de services tiers pour :
+Nous pouvons transférer des informations de contact (par exemple, l’adresse électronique, le nom) à des fournisseurs tiers afin de :
 
-*   d’afficher des publicités ciblées sur des plateformes externes,
-*   ou des groupes cibles existants, d’ajouter des caractéristiques supplémentaires (par ex. des données démographiques) afin de cibler plus efficacement les mesures publicitaires.
+*   afficher des publicités ciblées sur des plateformes externes,
+*   ou d’élargir les groupes cibles existants en y incluant des caractéristiques supplémentaires (par exemple, des données démographiques) afin de cibler plus efficacement les mesures publicitaires.
 
-Pour savoir comment gérer votre consentement et vos préférences concernant les mécanismes de suivi répertoriés, veuillez consulter la section 7 – Vos options de confidentialité ci-dessous.
+Vous pouvez savoir comment gérer votre consentement et vos préférences pour les mécanismes de suivi énumérés dans la section 7 – Vos options en matière de protection de la vie privée.
 
-**Catégories de technologies et bases juridiques**.
+**Catégories de technologies et bases juridiques**
 
-**Les cookies indispensables et les technologies de suivi** servent à fournir nos services de manière sûre et correcte (par ex. authentification, lutte contre les abus, sécurité). Ils ne peuvent pas être désactivés.
+**Les cookies strictement nécessaires et les technologies de suivi associées** sont utilisés afin d’assurer la fourniture sécurisée et conforme de nos services (par exemple l’authentification, la prévention des abus, la sécurité). Leur désactivation n’est pas possible.
 
-Bases juridiques_:_ Art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. 6 de la directive RGPD. Art. 6, par. 1, let. b et f DGSCO \[EEE\], exception selon les Privacy and Electronic Communications Regulations (PECR) en relation avec l’art. 6, par. 1, let. b et f DGSCO \[EEE\]. UK GDPR \[UK\], l’art. 45c FMG (loi sur les télécommunications) autorise les cookies et les technologies de suivi techniquement nécessaires sans consentement séparé.
+Base juridique : Art. 5 para. 3 de la directive « vie privée et communications électroniques » (2002/58/CE) en liaison avec l’art. 6 para. 1 lit. b et f DGSCO \[EEE\]. Article 6, paragraphe 1, point b) et f), de la DGSCO \[EEE\]. 6 para. 1 lit. b et f DGSCO \[EEE\], exemption en vertu du règlement relatif à la protection de la vie privée et aux communications électroniques (PECR) en liaison avec le GDPR \[UK\], art. 45c TCA (loi sur les télécommunications) autorise les cookies et les technologies de suivi techniquement nécessaires sans consentement séparé.
 
-**Les cookies fonctionnels et les technologies de suivi** permettent des analyses statistiques et contribuent à l’amélioration de nos offres.
+**Les cookies fonctionnels et les technologies de suivi** permettent de réaliser des analyses statistiques et d’améliorer nos offres.
 
-_Fondement juridique:_ Art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. Art. 6, par. 1, lettre a du RGPD (consentement) \[EEE\], art. 6, par. 1, lettre a du UK GDPR (consentement) en relation avec le PECEC. PECR (UK), conformément à l’article 45c de la LTC, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
+_Base juridique:_ Art. 5 para. 3 de la directive « vie privée et communications électroniques » (2002/58/CE) en liaison avec l’art. Art. 6 para. 1 lit. a GDPR (consentement) \[EEE\], Art. 6 para. 1 lit. a GDPR UK (consentement) i.V.m. PECR (UK), conformément à l’art. 45c TCA, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
 
-**Les cookies marketing et les technologies de tracking** servent à créer des profils d’utilisation pseudonymes ainsi qu’à mesurer le succès des campagnes auprès de fournisseurs tiers. Les fournisseurs tiers (par ex. Google, Microsoft) peuvent également traiter les données sous leur propre responsabilité et en partie dans des pays tiers.
+**Les cookies de marketing et les technologies de suivi** sont utilisés pour créer des profils d’utilisateurs pseudonymes et pour mesurer le succès des campagnes avec des fournisseurs tiers. Les fournisseurs tiers (par exemple Google, Microsoft) peuvent également traiter des données sous leur propre responsabilité et, dans certains cas, dans des pays tiers.
 
-Bases juridiques : art. 5, par. 3 de la directive ePrivacy (2002/58/CE) en relation avec l’art. 6 DGS. Art. 6 al. 1 let. a DGSVO (consentement) \[EEE\], art. 6 al. 1 let. a UK GDPR (consentement) en relation avec PECEC. PECR (UK), conformément à l’article 45c de la LTC, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
+Base juridique : Art. 5 para. 3 de la directive « vie privée et communications électroniques » (2002/58/CE) en liaison avec l’art. Art. 6 para. 1 lit. a GDPR (consentement) \[EEE\], Art. 6 para. 1 lit. a GDPR UK (consentement) i.V.m. PECR (UK), conformément à l’art. 45c TCA, l’utilisateur doit être informé de l’utilisation de cookies et de technologies de suivi – ce qui est fait dans cette section – et avoir la possibilité de refuser leur utilisation (dans la section « _Gestion de vos préférences_« ).
 
-En ce qui concerne le traitement des données par les technologies de suivi fournies par **Google**, vous trouverez de plus amples informations ici :
+En ce qui concerne le traitement des données des technologies de suivi fournies par **Google**, vous pouvez trouver plus d’informations ici :
 
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
@@ -535,265 +553,267 @@ En ce qui concerne le traitement des données par les technologies de suivi four
 
 [https://safety.google/privacy/privacy-controls](https://safety.google/privacy/privacy-controls)
 
-**Gestion de vos préférences**.
+**Gérer vos préférences**
 
-Vous pouvez révoquer ou adapter votre consentement à tout moment via notre CMP ou dans les paramètres de suivi de l’application. En outre, vous pouvez réinitialiser ou désactiver complètement la publicité personnalisée dans les paramètres du terminal (par ex. IDFA pour iOS, Google Advertising ID pour Android). Le retrait de votre consentement n’affecte pas la légalité du traitement effectué jusqu’alors.
+Vous pouvez révoquer ou adapter votre consentement à tout moment via notre [CMP](#uc-first-modal-show) ou dans les paramètres de suivi de l’appli. Vous pouvez également réinitialiser ou désactiver complètement la publicité personnalisée dans les paramètres de l’appareil (par exemple IDFA pour iOS, Google Advertising ID pour Android). Le retrait de votre consentement n’affecte pas la légalité du traitement effectué jusqu’alors.
 
-Pour les utilisateurs résidant habituellement en Suisse : vous pouvez utiliser Parship sans cookies « marketing » et autres mécanismes de suivi web. Pour cela, veuillez cliquer sur ce [lien](https://www.parship.ch/cookiesandtracking/#pp23) pour désactiver ces cookies et mécanismes de tracking. Dans ce cas, seuls les [cookies « nécessaires »](https://www.parship.ch/cookiesandtracking/#pp13) subsistent et sont nécessaires à l’utilisation du site.
+Pour les utilisateurs ayant leur résidence habituelle en Suisse : Vous pouvez utiliser Parship sans cookies « marketing » et autres mécanismes de suivi du web. Pour ce faire, veuillez cliquer sur ce [lien](https://www.parship.ch/cookiesandtracking/#pp23) pour désactiver ces cookies et mécanismes de suivi. Dans ce cas, seuls les [cookies « nécessaires »](https://www.parship.ch/cookiesandtracking/#pp13) requis pour l’utilisation du site web seront conservés.
 
-7\. Vos options de protection des données
------------------------------------------
-
-Nous mettons à votre disposition différentes possibilités pour gérer vos préférences en matière de protection des données et pour prendre des décisions individuelles concernant le traitement de vos données personnelles :
-
-*   **Compte et profil.** Vous pouvez à tout moment consulter et mettre à jour les données personnelles affichées dans votre profil et que nous avons enregistrées.
-
-*   **Nous pouvons vous envoyer régulièrement des messages à caractère promotionnel** concernant nos services par le biais de différents canaux, tels que des e-mails ou des notifications push.  
-      
-    Tu peux te désinscrire à tout moment de ces messages via e-mail en suivant le lien de désinscription dans le message en question ou, pour les messages via d’autres canaux, en ajustant tes préférences de communication dans les paramètres de ton compte.  
-      
-    Vous pouvez choisir dans les paramètres de l’application mobile Parship ou de votre appareil les notifications push que vous souhaitez recevoir de notre part – aussi bien dans le cadre de l’exécution du contrat qu’à des fins publicitaires.  
-      
-    Remarque : même si vous choisissez de ne pas recevoir de messages à contenu promotionnel, nous pouvons continuer à vous envoyer des messages transactionnels (par exemple, des informations sur votre compte).
-*   **Préférences et analyses en matière de cookies et de suivi.** Nous vous offrons de nombreuses possibilités de gérer vos préférences en matière de cookies, de services d’analyse et de technologies de suivi similaires.  
-      
-    Veuillez également consulter la section correspondante au point 6.  
-      
-    **Remarque:** Les paramètres sont spécifiques à l’appareil et au navigateur. Si vous supprimez ou bloquez ces cookies, il se peut que vous deviez refaire vos réglages pour chaque appareil ou navigateur.
-*   **Consent Management Platform (CMP).** Les cookies et les technologies de suivi non indispensables ne sont placés ou utilisés qu’après votre consentement. Vous pouvez donner ou révoquer votre consentement à tout moment via notre plateforme de gestion du consentement (CMP). Cela s’applique à tous les utilisateurs ayant leur résidence habituelle dans l’EEE.  
-      
-    Vous trouverez également de plus amples informations au point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
-*   **Paramètres des cookies dans le navigateur.** Vous pouvez configurer votre navigateur web de manière à ce que
-    *   certains cookies soient bloqués,
-    *   Vous êtes averti(e) lorsque des cookies sont installés
-    *   ou les cookies sont automatiquement supprimés.  
-          
-        La plupart des navigateurs proposent des instructions à ce sujet dans la rubrique « Aide ». Veuillez noter que certaines fonctions de notre site web peuvent être limitées si les cookies sont désactivés.
-*   **Droits spéciaux dans certaines régions****.** Les résidents de certains pays ou États peuvent avoir des droits supplémentaires en matière de protection des données. Pour plus d’informations, voir le point 13 – Informations supplémentaires sur la protection des données pour certaines juridictions.
-
-8\. Durée du stockage et obligations de conservation
+7\. Vos options en matière de protection des données
 ----------------------------------------------------
+
+Nous vous proposons différentes options pour gérer vos préférences en matière de protection des données et prendre des décisions individuelles concernant le traitement de vos données personnelles :
+
+*   **Compte et profil** Vous pouvez à tout moment consulter et mettre à jour les données personnelles figurant dans votre profil et stockées par nos soins.
+
+*   **Communications marketing.** Nous pouvons régulièrement vous envoyer des messages avec du contenu promotionnel pour notre service via différents canaux tels que des courriels ou des notifications push.  
+      
+    Vous pouvez vous désabonner de ces messages par courriel à tout moment en suivant le lien de désabonnement dans le message respectif ou pour les messages via d’autres canaux en ajustant vos préférences de communication dans les paramètres de votre compte.  
+      
+    Vous pouvez choisir les notifications push que vous souhaitez recevoir de notre part – à la fois dans le cadre de l’exécution du contrat et à des fins promotionnelles – dans les paramètres de l’application mobile Parship ou de votre appareil.  
+      
+    **Note:**Même si vous vous désabonnez des messages à contenu promotionnel, nous pouvons toujours vous envoyer des messages transactionnels (par exemple, des informations sur votre compte).  
+    
+*   **Préférences en matière de cookies, de suivi et d’analyse** Nous vous proposons plusieurs façons de gérer vos préférences en matière de cookies, de services d’analyse et de technologies de suivi similaires.  
+      
+    Veuillez également vous référer à la section correspondante au point 6.  
+      
+    **Note:**Les paramètres sont spécifiques à chaque appareil et à chaque navigateur. Si vous supprimez ou bloquez ces cookies, il se peut que vos paramètres doivent être modifiés pour chaque appareil ou navigateur.
+*   **Les cookies et les technologies de suivi** qui ne sont pas absolument nécessaires ne sont installés ou utilisés qu’avec votre consentement. Vous pouvez donner ou retirer votre consentement à tout moment via notre plateforme de gestion des consentements (CMP). Ceci s’applique à tous les utilisateurs ayant leur résidence habituelle dans l’EEE.  
+      
+    Pour plus d’informations, veuillez également consulter le point 13 – Informations complémentaires sur la protection des données pour certaines juridictions.
+*   **Configuration des cookies dans le navigateur** Vous pouvez configurer votre navigateur web de manière à ce que
+    *   certains cookies sont bloqués,
+    *   Vous serez informé de la mise en place de cookies,
+    *   ou les cookies sont automatiquement supprimés.
+
+La plupart des navigateurs proposent des instructions correspondantes dans la section « Aide ». Veuillez noter que certaines fonctions de notre site web peuvent être limitées si les cookies sont désactivés.  
+
+*   **Droits spéciaux dans certaines régions****.** Les résidents de certains pays ou États peuvent bénéficier de droits supplémentaires en matière de protection des données. Pour plus d’informations, voir la section 13 – Informations complémentaires sur la protection des données dans certaines juridictions.
+
+8\. Durée des obligations de stockage et de conservation
+--------------------------------------------------------
 
 **Principes généraux**
 
-Nous ne conservons vos données personnelles que pendant la durée nécessaire à la fourniture des services de Parship : en particulier dans le cadre de votre adhésion de base ou premium, ou tant que nous avons un intérêt légitime à continuer à les conserver. Au-delà, uniquement dans la mesure où des obligations de conservation légales ou contractuelles exigent une durée de stockage plus longue (par ex. selon les prescriptions du droit fiscal ou commercial).
+Nous ne conservons vos données personnelles que pour la durée nécessaire à la fourniture des services de Parship : en particulier dans le cadre de votre adhésion de base ou premium, ou pour la durée pendant laquelle nous avons un intérêt légitime à les conserver. Au-delà, uniquement si des obligations légales ou contractuelles de conservation exigent une période de stockage plus longue (par exemple, selon les exigences du droit fiscal ou commercial).
 
-Dans tous les autres cas, nous supprimons vos données à caractère personnel ou limitons leur traitement lorsqu’il existe uniquement une obligation d’archivage.
+Dans tous les autres cas, nous supprimons vos données personnelles ou limitons leur traitement s’il n’y a qu’une obligation d’archivage.
 
-**Règles de conservation spécifiques par affiliation**
+**Règles de conservation spécifiques en fonction de l’appartenance**
 
-Pour les membres de base
+**Pour les membres de base**
 
-Vous pouvez à tout moment révoquer l’enregistrement de vos données de profil avec effet pour l’avenir. Si vous ne possédez pas de match unlocks, vous pouvez également supprimer vous-même vos données de profil – à condition d’avoir rempli le questionnaire Parship – via la rubrique « Paramètres du profil », aussi bien sur notre site web que dans notre application.
+Vous pouvez révoquer l’enregistrement de vos données de profil à tout moment avec effet pour l’avenir. Si vous n’avez pas de match unlock, vous pouvez également supprimer vous-même vos données de profil – à condition d’avoir rempli le questionnaire Parship – via la section « Paramètres du profil » sur notre site web et dans notre application.
 
-_Suppression automatisée_ : Après 24 mois d’inactivité, le profil ainsi que les données personnelles du profil sont automatiquement supprimés.
+_Suppression automatique_ : Après 24 mois d’inactivité, le profil et les données du profil personnel sont automatiquement supprimés.
 
-Match Unlocks : toutes les données de profil collectées et traitées dans le cadre de l’achat et de l’utilisation de Match Unlocks sont supprimées au plus tard après 4 ans ou après 2 ans d’inactivité.
+Match Unlocks : Toutes les données de profil collectées et traitées dans le cadre de l’achat et de l’utilisation de Match Unlocks seront supprimées au bout de 4 ans ou au plus tard après 2 ans d’inactivité.
 
-Pour les membres Premium
+**Pour les membres Premium**
 
-Les données personnelles sont enregistrées pendant la durée de l’adhésion Premium. À la fin de celle-ci, si l’utilisateur n’a pas supprimé son profil ou ne nous en a pas fait la demande, le profil est transformé en adhésion de base. Les règles applicables aux membres de base s’appliquent alors.
+Les données personnelles sont conservées pendant la durée de l’adhésion Premium. À l’issue de cette période, sauf si le profil a été supprimé par l’utilisateur ou si une demande nous a été adressée, le profil sera transféré vers une adhésion de base. Les règles applicables aux membres de base s’appliquent alors.
 
-Stockage des messages de chat
+**Sauvegarde des messages de chat**
 
-Si la limite de 5 000 chats enregistrés est dépassée, les chats plus anciens sont supprimés – sur la base de la date d’affichage dans le profil de l’utilisateur (cf. paragraphe 7.7 des CGU).
+Si la limite de 5 000 chats sauvegardés est dépassée, les chats plus anciens sont supprimés – en fonction de la date d’affichage dans le profil de l’utilisateur (voir section 7.7 des CGV).
 
 **Données techniques et analytiques**
 
-Cookies et technologies de suivi
+**Cookies et technologies de suivi**
 
-La durée de conservation des cookies et des technologies comparables dépend de leur objectif et de leur fournisseur.
+La durée de stockage des cookies et des technologies comparables dépend de leur finalité et de leur fournisseur.
 
-Vous trouverez un aperçu détaillé dans notre plateforme de gestion du consentement (CMP).
+Vous trouverez un aperçu détaillé dans notre plateforme de gestion des consentements (CMP).
 
-_Remarque_ : Les paramètres des cookies sont spécifiques à l’appareil et au navigateur et doivent éventuellement être réinitialisés après leur suppression.
+_Note_ : Les paramètres des cookies sont spécifiques à l’appareil et au navigateur et peuvent nécessiter une réinitialisation après leur suppression.
 
-Fichiers journaux (données log)
+**Fichiers de journalisation (données de journalisation)**
 
-Les fichiers journaux (par exemple les journaux d’accès, les interactions techniques) sont conservés dans des archives sécurisées pendant 30 jours, puis supprimés. Un stockage plus long n’a lieu que si ces données sont nécessaires dans un cas particulier à des fins de preuve (p. ex. pour la transmission aux autorités d’enquête).
+Les fichiers journaux (par exemple les journaux d’accès, les interactions techniques) sont conservés pendant 30 jours dans des archives sécurisées, puis supprimés. Les données ne sont conservées plus longtemps que si elles sont nécessaires dans des cas particuliers à des fins de preuve (par exemple, pour les transmettre aux autorités chargées de l’enquête).
 
-**Obligations de conservation et processus de suppression**
+**Obligations de conservation et processus d’effacement**
 
-Les données à caractère personnel soumises à des obligations légales de conservation (par exemple, les données de facturation) sont conservées pendant la durée du délai correspondant, puis supprimées. Pendant cette période, elles sont bloquées et ne sont traitées que pour satisfaire aux obligations légales. Si vous nous demandez de les supprimer et qu’aucune obligation légale ne s’y oppose, vos données à caractère personnel seront supprimées. Dans le cas contraire, elles seront d’abord bloquées, puis supprimées à l’expiration des délais.
+Les données à caractère personnel soumises à des obligations légales de conservation (par exemple, les données relatives aux factures) sont conservées pendant la durée de la période concernée, puis supprimées. Pendant cette période, elles sont bloquées et ne sont traitées que pour satisfaire aux obligations légales. Si vous nous demandez de supprimer vos données et qu’aucune obligation légale ne s’y oppose, vos données personnelles seront supprimées. Dans le cas contraire, elles seront d’abord bloquées puis effacées à l’expiration des délais.
 
-**Exercice des droits de la personne concernée**
+**Déclaration des droits des personnes concernées**
 
-À des fins de documentation et de preuve, Parship conserve certaines données personnelles (par exemple en rapport avec des demandes de renseignements ou de suppression) pendant le délai de prescription applicable.
+A des fins de documentation et de vérification, Parship conserve certaines données personnelles (par exemple en relation avec des demandes d’information ou de suppression) pendant le délai de prescription applicable.
 
 9\. Liens externes et fonctions de tiers
 ----------------------------------------
 
 Parship peut contenir des liens vers des sites web de tiers, des fonctions intégrées ou des services liés de fournisseurs externes.
 
-_Note:_ L’accès et l’utilisation de ces offres tierces ne sont pas soumis à la présente note d’information sur la protection des données, mais aux propres directives de protection des données ainsi qu’aux conditions d’utilisation des fournisseurs tiers concernés. Nous n’avons aucun contrôle sur le contenu ou les pratiques de protection des données de ces tiers et n’assumons donc aucune responsabilité quant à la collecte, au traitement ou à la transmission de vos données personnelles par ces tiers externes. Nous vous recommandons expressément de lire attentivement la politique de confidentialité de ces sites ou fonctions avant de les utiliser.
+_Remarque :_ L’accès et l’utilisation de ces offres de tiers ne sont pas régis par la présente politique de confidentialité, mais par les politiques de confidentialité et les conditions d’utilisation propres à chaque fournisseur tiers. Nous n’exerçons aucun contrôle sur le contenu ni sur les pratiques de protection des données de ces tiers et, par conséquent, déclinons toute responsabilité quant à la collecte, au traitement ou à la communication de vos données personnelles par ces prestataires externes. Nous vous conseillons vivement de lire attentivement les dispositions applicables en matière de protection des données avant d’utiliser ces sites web ou ces fonctionnalités.
 
 10\. Sécurité
 -------------
 
-Nous avons pris des mesures techniques et organisationnelles appropriées pour protéger les données à caractère personnel que nous traitons contre la perte, l’utilisation abusive, l’accès non autorisé, la divulgation, la modification ou la destruction. Ces mesures de sécurité s’appuient sur l’état de la technique et sont régulièrement contrôlées et développées.
+Nous avons pris des mesures techniques et organisationnelles appropriées pour protéger les données à caractère personnel que nous traitons contre la perte, l’utilisation abusive, l’accès non autorisé, la divulgation, l’altération ou la destruction. Ces mesures de sécurité sont basées sur l’état de l’art et sont régulièrement révisées et développées.
 
-Veuillez toutefois noter que, malgré tout le soin apporté, aucun système de sécurité ne peut garantir une sécurité absolue. La transmission de données via Internet (par ex. lors de la communication par e-mail) peut présenter des failles de sécurité sur lesquelles nous n’avons aucune influence.
+Veuillez toutefois noter qu’aucun système de sécurité ne peut garantir une sécurité absolue, malgré toute la prudence nécessaire. La transmission de données via Internet (par exemple lors de la communication par courrier électronique) peut présenter des lacunes de sécurité sur lesquelles nous n’avons aucun contrôle.
 
-Nous vous recommandons donc de toujours traiter les informations sensibles avec soin et de prendre également vos propres mesures de protection lors de l’utilisation de Parship (par ex. mots de passe sûrs, versions actuelles des logiciels).
+Nous vous recommandons donc de toujours traiter les informations sensibles avec prudence et de prendre vos propres mesures de protection lorsque vous utilisez Parship (par exemple, des mots de passe sécurisés, des versions de logiciels à jour).
 
-11\. Protection de la vie privée des enfants et des jeunes
-----------------------------------------------------------
+11\. Protéger la vie privée des enfants et des jeunes
+-----------------------------------------------------
 
-Parship ne s’adresse **pas aux enfants ou adolescents de moins de dix-huit (18) ans**. Nous ne collectons pas sciemment des données personnelles de mineurs dans cette tranche d’âge.
+Parship n’est **pas destiné aux enfants ou aux jeunes de moins de dix-huit (18) ans**. Nous ne collectons pas sciemment des données personnelles de mineurs de cette tranche d’âge.
 
-Si nous constatons que les données personnelles d’une personne de moins de 18 ans ont été traitées sans le consentement vérifiable de ses parents ou de son tuteur, nous prendrons immédiatement les mesures appropriées pour supprimer ces données.
+Si nous découvrons que les données à caractère personnel d’une personne âgée de moins de 18 ans ont été traitées sans le consentement vérifiable de ses parents ou de son tuteur, nous prendrons immédiatement les mesures appropriées pour supprimer ces données.
 
-Si vous êtes un parent ou une personne ayant la garde de l’enfant et que vous pensez que nous avons traité des données personnelles de votre enfant sans le consentement approprié, nous vous demandons de nous en informer en utilisant les coordonnées ci-dessous.
+Si vous êtes un parent ou un tuteur et que vous soupçonnez que nous avons traité les données personnelles de votre enfant sans son consentement, veuillez nous en informer en utilisant les coordonnées ci-dessous.
 
-12\. Modifications de la présente déclaration de confidentialité
-----------------------------------------------------------------
+12\. Modifications de la présente politique de confidentialité
+--------------------------------------------------------------
 
-La présente déclaration de confidentialité s’applique à compter de la date susmentionnée. Nous nous réservons le droit de modifier, d’actualiser ou de compléter cette déclaration de temps à autre afin de l’adapter aux évolutions juridiques, techniques ou commerciales.
+Cette politique de confidentialité est valable à partir de la date indiquée ci-dessus. Nous nous réservons le droit de modifier, d’actualiser ou de compléter cette déclaration de temps à autre afin de l’adapter aux évolutions juridiques, techniques ou commerciales.
 
-Nous vous recommandons de consulter régulièrement ces informations sur la protection des données afin de vous tenir au courant des éventuelles modifications.
+Nous vous recommandons de consulter régulièrement le présent avis de protection des données afin de vous tenir informé de tout changement.
 
 Toutes les mises à jour seront publiées ici.
 
-13\. Informations supplémentaires sur la protection des données pour certaines juridictions
+13\. Informations complémentaires sur la protection des données dans certaines juridictions
 -------------------------------------------------------------------------------------------
 
-Les résidents de certains pays ou régions ont des droits supplémentaires en vertu des lois sur la protection des données en vigueur, que nous expliquons ci-dessous :
+Les résidents de certains pays ou régions disposent de droits supplémentaires en vertu des lois applicables en matière de protection des données, que nous expliquons ci-dessous :
 
 ### A. Espace économique européen (EEE)
 
-Si vous résidez dans un État membre de l’Union européenne ou de l’Espace économique européen, vous disposez des droits suivants en vertu du règlement général sur la protection des données (RGPD), pour autant que les conditions légales correspondantes soient remplies :
+Si vous résidez dans un État membre de l’Union européenne ou de l’Espace économique européen, vous disposez des droits suivants en vertu du règlement général sur la protection des données (RGPD), à condition que les exigences légales pertinentes soient respectées :
 
-**Droit d’accès (art. 15 du RGPD)**
+**Droit d’accès (Art. 15 GDPR)**
 
-Vous avez le droit de demander si et dans quelle mesure nous traitons des données à caractère personnel vous concernant. Sur demande, nous vous fournirons une copie de ces données, à condition qu’il ne soit pas porté atteinte aux droits de tiers ou que des exceptions légales ne s’y opposent pas.
+Vous avez le droit de demander des informations pour savoir si et dans quelle mesure nous traitons des données personnelles vous concernant. Sur demande, nous vous fournirons une copie de ces données, à condition qu’aucun droit de tiers ne soit affecté ou que des exceptions légales s’appliquent.
 
-Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
+Nous pouvons demander une preuve d’identité à des fins de vérification de l’identité.
 
-**Droit de rectification (art. 16 du RGPD)**.
+**Droit de rectification (Art. 16 GDPR)**
 
-Vous pouvez demander que les données à caractère personnel inexactes soient rectifiées. Il est également possible de compléter des données incomplètes.
+Vous pouvez demander que les données personnelles incorrectes soient corrigées. Il est également possible de compléter des données incomplètes.
 
-**Droit à l’effacement (« droit à l’oubli », art. 17 du RGPD)**.
+**Droit à l’effacement (« droit à l’oubli », art. 17 GDPR)**
 
-Vous pouvez demander la suppression de vos données à caractère personnel, notamment si :
+Vous pouvez demander la suppression de vos données à caractère personnel, en particulier si
 
 *   les données ne sont plus nécessaires aux fins initiales,
-*   Vous avez révoqué votre consentement et qu’il n’existe pas d’autre base juridique,
+*   Vous avez retiré votre consentement et il n’y a pas d’autre base juridique,
 *   Vous vous êtes opposé au traitement,
-*   les données ont été traitées illégalement,
-*   il existe une obligation légale de suppression.
+*   les données ont été traitées de manière illicite,
+*   il existe une obligation légale d’effacer les données.
 
-Exception : le droit à l’effacement ne s’applique pas si le traitement est nécessaire au respect d’obligations légales ou à la constatation, à l’exercice ou à la défense de droits en justice.
+Exception : Le droit à l’effacement ne s’applique pas si le traitement est nécessaire au respect d’une obligation légale ou à la constatation, à l’exercice ou à la défense de droits en justice.
 
-**Droit à la limitation du traitement (art. 18 RGPD)**.
+**Droit à la limitation du traitement (Art. 18 GDPR)**
 
-Vous pouvez demander la limitation du traitement de vos données si :
+Vous pouvez demander la limitation du traitement de vos données si
 
-*   Vous contestez l’exactitude des données (pour la durée de l’examen),
-*   le traitement est illicite, mais vous ne souhaitez pas qu’il soit effacé,
-*   nous n’avons plus besoin de ces données, mais vous en avez besoin pour vous défendre en justice,
-*   Vous vous êtes opposé(e) à un traitement fondé sur des intérêts légitimes et qu’une mise en balance est en cours.
+*   Vous contestez l’exactitude des données (pendant la durée du contrôle),
+*   le traitement est illégal, mais vous ne souhaitez pas qu’il soit effacé,
+*   nous n’avons plus besoin des données, mais vous avez besoin de ces données pour votre défense juridique,
+*   Vous vous êtes opposé au traitement fondé sur des intérêts légitimes et une mise en balance des intérêts est toujours en cours.
 
-**Droit à la portabilité des données (art. 20 RGPD)**.
+**Droit à la portabilité des données (Art. 20 GDPR)**
 
-Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et de les transmettre à un autre responsable du traitement, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit automatisé.
+Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine, et de transmettre ces données à un autre responsable du traitement, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit effectué par des moyens automatisés.
 
-**Droit de retrait du consentement (art. 7, paragraphe 3, du RGPD)**.
+**Droit de retirer son consentement (Art. 7 para. 3 GDPR)**
 
-Vous pouvez révoquer à tout moment le consentement que vous nous avez donné, avec effet pour l’avenir. La légalité du traitement effectué jusqu’à la révocation n’en est pas affectée.
+Vous pouvez à tout moment révoquer le consentement que vous nous avez donné, avec effet pour l’avenir. La légalité du traitement effectué jusqu’à la révocation n’est pas affectée.
 
-**Droit d’opposition (art. 21 du RGPD)**.
+**Droit d’opposition (Art. 21 GDPR)**
 
-Vous avez le droit de vous opposer, pour des raisons tenant à votre situation particulière, au traitement de vos données sur la base d’intérêts légitimes.
+Vous avez le droit de vous opposer au traitement de vos données sur la base d’intérêts légitimes pour des raisons tenant à votre situation particulière.
 
-Dans ce cas, nous ne traitons plus vos données, sauf si nous pouvons prouver qu’il existe des raisons impérieuses et légitimes.
+Dans ce cas, nous ne traiterons plus vos données, sauf si nous pouvons démontrer des motifs légitimes impérieux de le faire.
 
 **Droit d’opposition au marketing direct**
 
 En outre, vous avez le droit absolu de vous opposer à tout moment au traitement de vos données personnelles à des fins de marketing direct, auquel cas nous n’utiliserons plus vos données à des fins publicitaires.
 
-_Remarque_ : Veuillez tenir compte du fait que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+_Note_ : Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne en cours.
 
-Vous pouvez également vous opposer à tout moment au traitement de vos données personnelles à des fins publicitaires (« opposition à la publicité »). Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+Vous pouvez également vous opposer à tout moment au traitement de vos données à caractère personnel à des fins publicitaires (« objection publicitaire »). Veuillez noter que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre objection et l’utilisation de vos données dans le cadre d’une campagne en cours.
 
-Alternativement, pour corriger les données que vous avez fournies lors de votre inscription ou pour vous opposer à la publicité, vous pouvez utiliser les options de paramétrage de votre profil, accessibles via le site web de Parship.
+Vous pouvez également utiliser les options de paramétrage de votre profil, auxquelles vous pouvez accéder via le site web de Parship, pour corriger les données que vous avez fournies lors de l’enregistrement ou pour vous opposer à la publicité.
 
-**Droit de recours auprès d’une autorité de contrôle (art. 77 RGPD)**.
+**Droit d’introduire une réclamation auprès d’une autorité de contrôle (Art. 77 GDPR)**
 
-Vous avez le droit de déposer une plainte auprès d’une autorité de contrôle de la protection des données si vous estimez que le traitement de vos données personnelles enfreint le RGPD.
+Vous avez le droit de déposer une plainte auprès d’une autorité de contrôle de la protection des données si vous estimez que le traitement de vos données personnelles viole le GDPR.
 
-**L’autorité de surveillance compétente pour nous est :**.
+**L’autorité de surveillance compétente pour nous est:**.
 
-**Le délégué hambourgeois à la protection des données et à la liberté d’information**.
+**Le commissaire de Hambourg pour la protection des données et la liberté d’information**
 
 Ludwig-Erhard-Str. 22  
-20459 Hambourg  
+20459 Hamburg  
 **mailbox@datenschutz.hamburg.de**  
 www.datenschutz-hamburg.de
 
-### B. Royaume-Uni (UK GDPR et Data (Use and Access) Act 2025)
+### B. Royaume-Uni (GDPR et Data (Use and Access) Act 2025)
 
-Si vous résidez habituellement au Royaume-Uni (UK), vous disposez des droits suivants en vertu du UK GDPR, transposé dans le droit britannique par la section 3 de la loi britannique de 2018 sur le retrait de l’Union européenne (Withdrawal), et des autres lois britanniques applicables en matière de protection des données, telles que le Data (Use and Access) Act 2025, pour autant que les conditions légales respectives soient remplies :
+Si vous résidez habituellement au Royaume-Uni (RU), vous disposez des droits suivants en vertu du GDPR britannique, qui a été transposé en droit britannique par la section 3 du UK Withdrawal from the European Union Act 2018, et d’autres lois britanniques applicables en matière de protection des données, telles que le Data (Use and Access) Act 2025, à condition que les exigences légales pertinentes soient respectées :
 
-**Droit à l’information (droit d’accès) (art. 15 UK GDPR)**
+**Droit à l’information (droit d’accès) (Art. 15 UK GDPR)**
 
-Vous avez le droit de demander la confirmation que nous traitons ou non des données à caractère personnel vous concernant, ainsi que d’obtenir une copie de ces données (ce que l’on appelle une Data Subject Access Request – DSAR).
+Vous avez le droit de demander la confirmation que nous traitons des données à caractère personnel vous concernant et de recevoir une copie de ces données (ce que l’on appelle la demande d’accès du sujet aux données – DSAR).
 
-Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
+Nous pouvons demander une preuve d’identité à des fins de vérification de l’identité.
 
-**Droit de rectification (art. 16 UK GDPR)**
+**Droit de rectification (Art. 16 UK GDPR)**
 
-Vous avez le droit de faire rectifier les données à caractère personnel inexactes et de demander que les données incomplètes soient complétées.
+Vous avez le droit de faire corriger les données personnelles incorrectes et de demander que les données incomplètes soient complétées.
 
-**Droit à l’effacement (« droit à l’oubli ») (art. 17 UK GDPR)**.
+**Droit à l’effacement (« droit à l’oubli ») (Art. 17 UK GDPR)**
 
-Vous pouvez demander la suppression de vos données personnelles dans certaines conditions, par exemple lorsque
+Dans certaines circonstances, vous pouvez demander la suppression de vos données personnelles, par exemple si
 
-*   le traitement n’est plus nécessaire,
+*   n’est plus nécessaire,
 *   Vous avez retiré votre consentement,
-*   Les données ont été traitées illégalement
-*   ou si vous vous êtes opposé au marketing direct ou au traitement sur la base d’intérêts légitimes.
+*   Les données ont été traitées de manière illicite,
+*   ou vous vous êtes opposé au marketing direct ou au traitement fondé sur des intérêts légitimes.
 
-Des exceptions s’appliquent notamment en cas d’obligations légales de conservation ou pour l’exercice de droits légaux.
+Des exceptions s’appliquent en particulier dans le cas d’obligations légales de conservation ou pour l’exercice de droits légaux.
 
-**Droit à la limitation du traitement (art. 18 UK GDPR)**.
+**Droit à la limitation du traitement (Art. 18 UK GDPR)**
 
-Vous avez le droit, dans certaines conditions, de nous demander de limiter le traitement de vos données. Dans ce cas, nous continuerons à enregistrer vos données, mais nous ne les traiterons plus.
+Dans certaines circonstances, vous avez le droit de nous demander de limiter le traitement de vos données. Dans ce cas, nous continuerons à stocker vos données, mais nous ne les traiterons plus.
 
-Ce droit s’applique notamment lorsque :
+Ce droit s’applique en particulier si
 
-*   Vous contestez l’exactitude des données (pour la durée de la vérification),
-*   le traitement est illicite, mais qu’aucun effacement n’est souhaité,
-*   les données ne sont plus nécessaires, mais sont nécessaires pour faire valoir des droits,
-*   ou si une opposition a été formulée conformément à l’article 21 UK GDPR et est encore en cours d’examen.
+*   Vous contestez l’exactitude des données (pendant la durée de l’examen),
+*   le traitement est illicite, mais l’effacement n’est pas demandé,
+*   les données ne sont plus requises, mais sont nécessaires pour faire valoir des droits,
+*   ou une objection en vertu de l’art. 21 UK GDPR existe et est toujours en cours d’examen.
 
-**Droit de s’opposer au traitement (art. 21 UK GDPR)**.
+**Droit d’opposition au traitement (Art. 21 UK GDPR)**
 
-Vous avez le droit de vous opposer, pour des raisons tenant à votre situation particulière, au traitement de vos données sur la base d’intérêts légitimes.
+Vous avez le droit de vous opposer au traitement de vos données sur la base d’intérêts légitimes pour des raisons tenant à votre situation particulière.
 
-Dans ce cas, nous ne traitons plus vos données, sauf si nous pouvons prouver qu’il existe des raisons impérieuses et légitimes.
+Dans ce cas, nous ne traiterons plus vos données, sauf si nous pouvons démontrer des motifs légitimes impérieux de le faire.
 
 **Droit d’opposition au marketing direct**
 
 En outre, vous avez le droit absolu de vous opposer à tout moment au traitement de vos données personnelles à des fins de marketing direct, auquel cas nous n’utiliserons plus vos données à des fins publicitaires.
 
-Remarque : veuillez tenir compte du fait que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+Note : Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne en cours.
 
-Vous pouvez également vous opposer à tout moment au traitement de vos données personnelles à des fins publicitaires (« opposition à la publicité »). Veuillez noter que, pour des raisons organisationnelles, il peut y avoir un chevauchement entre votre révocation et l’utilisation de vos données dans le cadre d’une campagne déjà en cours.
+Vous pouvez également vous opposer à tout moment au traitement de vos données à caractère personnel à des fins publicitaires (« objection publicitaire »). Veuillez noter que, pour des raisons d’organisation, il peut y avoir un chevauchement entre votre opposition et l’utilisation de vos données dans le cadre d’une campagne en cours.
 
-Alternativement, pour corriger les données que vous avez fournies lors de votre inscription ou pour vous opposer à la publicité, vous pouvez utiliser les options de paramétrage de votre profil, accessibles via le site web de Parship.
+Vous pouvez également utiliser les options de paramétrage de votre profil, auxquelles vous pouvez accéder via le site web de Parship, pour corriger les données que vous avez fournies lors de l’enregistrement ou pour vous opposer à la publicité.
 
-**Droit à la portabilité des données (art. 20 UK GDPR)**.
+**Droit à la portabilité des données (Art. 20 UK GDPR)**
 
-Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et – si cela est techniquement possible – de les faire transmettre directement à un autre responsable, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit automatisé.
+Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine et – lorsque cela est techniquement possible – de les faire transmettre directement à un autre responsable du traitement, à condition que le traitement soit fondé sur le consentement ou sur un contrat et qu’il soit effectué par des moyens automatisés.
 
-**Droit de retrait du consentement (art. 7, par. 3, RGPD britannique)**
+**Droit de retirer son consentement (Art. 7 (3) UK GDPR)**
 
 Vous pouvez révoquer votre consentement à tout moment avec effet pour l’avenir. La légalité du traitement jusqu’au moment de la révocation n’est pas affectée.
 
-**Exercice de vos droits**
+**Exercer ses droits**
 
-Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions sur le traitement de vos données, veuillez nous contacter en utilisant les moyens indiqués à la section 14 : Contact. Veuillez fournir suffisamment d’informations pour vous identifier.
+Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions concernant le traitement de vos données, veuillez nous contacter en utilisant les options fournies dans la section 14 : Contact. Veuillez fournir suffisamment d’informations pour vous identifier.
 
 **Représentant au Royaume-Uni**
 
@@ -803,13 +823,13 @@ Conformément à l’art. 27 UK GDPR, nous avons désigné le représentant brit
 
 3rd Floor, 1 Ashley Road  
 Altrincham, Cheshire WA14 2DT  
-United Kingdom
+Royaume-Uni
 
-**Transfert international de données**
+**Transferts internationaux de données**
 
-Pour plus d’informations sur les transferts de données en dehors du Royaume-Uni et les mesures de protection mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.
+Pour plus d’informations sur les transferts de données en dehors du Royaume-Uni et les garanties mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.
 
-**Droit de recours auprès de l’autorité de contrôle (art. 77 UK GDPR)**.
+**Droit de déposer une plainte auprès de l’autorité de contrôle (Art. 77 UK GDPR)**
 
 Vous avez le droit de déposer une plainte auprès de l’autorité de contrôle britannique compétente en matière de protection des données :
 
@@ -819,66 +839,66 @@ Wilmslow, Cheshire SK9 5AF
 **casework@ico.org.uk**  
 [www.ico.org.uk](http://www.ico.org.uk/)
 
-### C. Suisse (nLPD)
+### C. Suisse (nDSG)
 
-Si vous résidez en Suisse, vous disposez des droits suivants, conformément à la nouvelle loi suisse sur la protection des données (nLPD), pour autant que les conditions légales soient remplies :
+Si vous résidez en Suisse, vous disposez des droits suivants en vertu de la nouvelle loi suisse sur la protection des données (LPD), pour autant que les exigences légales soient respectées :
 
-**Droit d’accès (art. 25 nLPD)**
+**Droit à l’information (Art. 25 nDSG)**
 
-Vous avez le droit de savoir si nous traitons des données personnelles vous concernant et lesquelles. Vous pouvez également demander une copie de ces données.
+Vous avez le droit d’obtenir des informations pour savoir si nous traitons des données à caractère personnel vous concernant et lesquelles. Vous pouvez également demander une copie de ces données.
 
 Des exceptions à ce droit peuvent s’appliquer si des intérêts prépondérants de tiers ou des exceptions légales sont concernés.
 
-Pour vérifier l’identité, nous pouvons, le cas échéant, demander la présentation d’une pièce d’identité.
+Nous pouvons demander une preuve d’identité à des fins de vérification de l’identité.
 
-**Droit d’être autorisé (art. 32 nLPD)**
+**Droit à l’autorisation (Art. 32 nDSG)**
 
-Vous avez le droit de nous demander de rectifier des données à caractère personnel inexactes ou, si les données sont incomplètes, de les compléter.
+Vous avez le droit de nous demander de corriger des données personnelles incorrectes ou – si les données sont incomplètes – de les compléter.
 
-**Droit à l’effacement (« droit à l’oubli ») (art. 30 nLPD)**.
+**Droit à l’effacement (« droit à l’oubli ») (Art. 30 nDSG)**
 
-Dans certaines conditions, vous pouvez demander la suppression de vos données à caractère personnel. C’est notamment le cas lorsque
+Dans certaines circonstances, vous pouvez demander la suppression de vos données personnelles. C’est notamment le cas si
 
-*   les données ne sont plus nécessaires pour la finalité initiale,
+*   les données ne sont plus nécessaires à la finalité initiale,
 *   Vous avez retiré votre consentement,
-*   le traitement a été effectué de manière illicite,
-*   ou si vous vous êtes opposé au traitement.
+*   le traitement est illicite,
+*   ou vous vous êtes opposé au traitement.
 
-La suppression peut être refusée si, par exemple, il existe des obligations légales de conservation, si les données sont nécessaires à l’exercice de la liberté d’expression ou à la défense des droits ou s’il existe d’autres motifs prévus par la loi.
+La suppression peut être refusée si, par exemple, il existe des obligations légales de conservation, si les données sont nécessaires à l’exercice de la liberté d’expression ou de la défense juridique ou s’il existe d’autres raisons légalement réglementées.
 
-**Droit à la limitation du traitement (art. 32, al. 2, let. c, nLPD)**.
+**Droit à la limitation du traitement (Art. 32 para. 2 lit. c nDSG)**
 
-Vous pouvez nous demander de restreindre le traitement de vos données à caractère personnel si :
+Vous pouvez demander que nous limitions le traitement de vos données à caractère personnel dans les cas suivants :
 
 *   l’exactitude des données est contestée,
-*   le traitement est illégal, mais qu’aucune suppression n’est souhaitée,
-*   les données ne sont plus nécessaires, mais vous en avez besoin pour des droits légaux,
-*   ou si vous avez fait opposition et que la mise en balance des intérêts n’est pas encore terminée.
+*   le traitement est illicite, mais aucune suppression n’est souhaitée,
+*   les données ne sont plus nécessaires, mais vous en avez besoin pour des réclamations légales,
+*   soit vous avez introduit une objection et la pesée des intérêts n’est pas encore terminée.
 
-**Droit d’opposition au traitement (art. 30, al. 2, let. b, nLPD)**.
+**Droit d’opposition au traitement (Art. 30 para. 2 lit. b nDSG)**
 
-Vous avez le droit de vous opposer au traitement de vos données personnelles, notamment lorsque celui-ci est fondé sur un intérêt privé ou public prépondérant ou qu’il est effectué dans le cadre d’une activité officielle.
+Vous avez le droit de vous opposer au traitement de vos données personnelles, en particulier si ce traitement est fondé sur un intérêt privé ou public prépondérant ou s’il a lieu dans le cadre d’une activité officielle.
 
-**Droit d’opposition au marketing direct (art. 30, al. 2, let. b, nLPD en relation avec l’art. 3, let. o, nLPD)**.
+**Droit d’opposition au marketing direct (Art. 30 para. 2 lit. b nDSG en conjonction avec Art. 3 lit. o nDSG)**
 
-Vous pouvez à tout moment vous opposer à l’utilisation de vos données personnelles à des fins publicitaires.
+Vous pouvez vous opposer à tout moment à l’utilisation de vos données personnelles à des fins publicitaires.
 
-Remarque : veuillez noter que, pour des raisons d’organisation, il peut y avoir des chevauchements avec des campagnes déjà en cours.
+Note : Pour des raisons d’organisation, il peut y avoir des chevauchements avec des campagnes en cours.
 
-**Droit à la restitution ou à la portabilité des données (art. 28 nLPD)**.
+**Droit à la divulgation ou à la portabilité des données (Art. 28 nDSG)**
 
-Vous pouvez demander que nous vous remettions certaines données à caractère personnel que vous nous avez fournies dans un format électronique courant ou que nous les transférions à un tiers, à condition que
+Vous pouvez nous demander de vous fournir certaines données à caractère personnel que vous nous avez communiquées dans un format électronique couramment utilisé ou de les transférer à un tiers, à condition que
 
 *   le traitement est automatisé,
-*   et repose sur un consentement ou un contrat.
+*   et se fonde sur le consentement ou sur un contrat.
 
-**Exercice de vos droits**
+**Exercer ses droits**
 
-Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions concernant le traitement de vos données à caractère personnel, veuillez nous contacter en utilisant les moyens indiqués à la section 14 : Contact. Veuillez vous assurer que vous fournissez suffisamment d’informations pour que nous puissions confirmer clairement votre identité.
+Si vous souhaitez exercer l’un de vos droits ou si vous avez des questions concernant le traitement de vos données à caractère personnel, veuillez nous contacter en utilisant les méthodes décrites dans la section 14 : Contact. Veillez à fournir suffisamment d’informations pour que nous puissions clairement confirmer votre identité.
 
-**Représentants en Suisse**
+**Représentant en Suisse**
 
-Conformément à l’article 14 de la nLPD, nous avons désigné le représentant suivant en Suisse :
+Nous avons désigné le représentant suivant en Suisse conformément à l’art. 14 nDSG :
 
 **Treforma AG c/o MLL Legal**
 
@@ -887,14 +907,14 @@ Grabenstrasse 25
 Suisse  
 [**pedigital@dsg-mll.com**](mailto:pedigital@dsg-mll.com)
 
-**Transfert international de données**
+**Transferts internationaux de données**
 
-**Pour plus d’informations sur les transferts internationaux de données et les mesures de protection mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.**
+**Des informations sur les transferts internationaux de données et les mesures de protection utilisées figurent à la section 5 : Transfert de données à caractère personnel vers des pays extérieurs à l’EEE/au Royaume-Uni/à la Suisse.**
 
-**Droit de recours auprès de l’autorité de surveillance (art. 49 nLPD)**.
+**Droit de déposer une plainte auprès de l’autorité de contrôle (Art. 49 nDSG)**
 
-Vous avez le droit de déposer une plainte auprès de l’autorité de surveillance compétente en matière de protection des données en Suisse :
+Vous avez le droit de déposer une plainte auprès de l’autorité de contrôle de la protection des données compétente en Suisse :
 
-**Préposé fédéral à la protection des données et à la transparence (PFPDT)**  
+**Commissaire fédéral à la protection des données et à la transparence (PFPDT)**  
 [**Formulaire de contact du PFPDT**](https://www.edoeb.admin.ch/de/anzeigeformular-betroffene)  
 [www.edoeb.admin.ch](http://www.edoeb.admin.ch/)
