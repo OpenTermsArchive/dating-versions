@@ -1,7 +1,5 @@
 ![](https://framerusercontent.com/images/mXIKB0cQ4FFYrrA8WY3XfGRRr7Q.png?width=582&height=523)
 
-![](https://framerusercontent.com/images/mXIKB0cQ4FFYrrA8WY3XfGRRr7Q.png?width=582&height=523)
-
 Terms of Service
 ================
 
@@ -97,14 +95,6 @@ Your privacy rights are set forth in our Privacy Policy (“**Privacy Policy**�
 
 **4\. Account Registration & Face Verification**
 ------------------------------------------------
-
-4.1.  To use our Services, you must register an account with us using your mobile phone number, meaning you are authorizing us to access certain information in your profile account. By allowing us to access your user account, you expressly acknowledge and agree that we may obtain and share your name and profile picture, as well as the names and profile pictures of other users in your user account, other platforms, network or geolocation. 
-
-4.2.  You are prohibited from creating or maintaining more than one account. Any attempt to register multiple accounts using the same unique identifier (such as email address, phone number, or other unique personal information) is a violation of this Agreement and may result in the termination of all associated accounts.
-
-4.3.  Your facial data is collected and used by our authorized service providers for purposes such as account registration and authenticating your identity.
-
-Please take precautions to safeguard your login credential and ensure your mobile phone number is able to receive SMS for a One-Time Password to access our Services. Please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707) if you believe an unauthorized person has accessed your account.
 
 4.1.  To use our Services, you must register an account with us using your mobile phone number, meaning you are authorizing us to access certain information in your profile account. By allowing us to access your user account, you expressly acknowledge and agree that we may obtain and share your name and profile picture, as well as the names and profile pictures of other users in your user account, other platforms, network or geolocation. 
 
