@@ -1,9 +1,5 @@
 ![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png?width=794&height=737)
 
-![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png?width=794&height=737)
-
-![](https://framerusercontent.com/images/UcK8W4PQBs4qefWyb8v1RtfdI.png?width=794&height=737)
-
 **Privacy Policy**
 ==================
 
