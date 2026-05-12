@@ -1,9 +1,7 @@
 Privacy Policy
 ==============
 
-[Print or download as PDF file](https://www.eharmony.co.uk/legal/privacy-policy/)
-
-Version: November 27th 2025
+Version: May 12th 2026
 
 Thank you for using eharmony!
 
@@ -468,14 +466,6 @@ If you would like to exercise any of your rights, please use the information und
 Alternatively, you may use the setting options in your eharmony profile to rectify certain information that you provided during your registration or to object to advertising.
 
 You can also delete your data or your complete profile from an eharmony Basic Membership yourself in your profile (if you have completed the eharmony compatibility quiz). To do this, log in to your profile on the eharmony website and delete your profile under [Data & Settings / Profile](https://eharmony.co.uk/settings/dataandsettings). Alternatively, Basic Members can contact our customer service using the information under [Contact](https://www.eharmony.co.uk/privacypolicy/#pp07) and request the deletion of their data. However, please note that Premium Members can only delete data regarding their Premium Membership by contacting our customer care.
-
-**Right to lodge a complaint with a supervisory authority**
-
-You have the right to file a complaint with a data protection authority. If you are located in the UK, you can contact the UK’s data protection authority, the Information Commissioner’s Office, at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, Telephone Number: + 44 (0) 303 123 1113, Email: [casework@ico.org.uk](mailto:casework@ico.org.uk).
-
-If you are located elsewhere in Europe, you can contact your local data protection authority or our appointed data protection authority. This is:
-
-Free and Hanseatic City of Hamburg, The Hamburg Commissioner for Data Protection and Freedom of Information, E-Mail: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de)
 
 ### Social Media
 
