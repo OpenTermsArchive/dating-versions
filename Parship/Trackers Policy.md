@@ -1,7 +1,7 @@
 Politique de protection des données pour l’utilisation de Parship – France
 ==========================================================================
 
-Entrée en vigueur : 26 mars 2026
+Entrée en vigueur : 12.05.2026
 
 Merci d’utiliser Parship ! Parship protège votre vie privée. Cet avis de confidentialité décrit comment Parship collecte, utilise, divulgue et traite vos données personnelles, ainsi que les droits et les choix que vous avez en relation avec vos données personnelles.
 
@@ -828,16 +828,6 @@ Royaume-Uni
 **Transferts internationaux de données**
 
 Pour plus d’informations sur les transferts de données en dehors du Royaume-Uni et les garanties mises en place, veuillez consulter la section 5 : Transfert de données à caractère personnel en dehors de l’EEE/du Royaume-Uni/de la Suisse.
-
-**Droit de déposer une plainte auprès de l’autorité de contrôle (Art. 77 UK GDPR)**
-
-Vous avez le droit de déposer une plainte auprès de l’autorité de contrôle britannique compétente en matière de protection des données :
-
-**Information Commissioner’s Office (ICO)**  
-Wycliffe House, Water Lane  
-Wilmslow, Cheshire SK9 5AF  
-**casework@ico.org.uk**  
-[www.ico.org.uk](http://www.ico.org.uk/)
 
 ### C. Suisse (nDSG)
 
