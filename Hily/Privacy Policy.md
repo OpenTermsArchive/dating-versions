@@ -166,7 +166,7 @@ Additional processor: Lathinol Limited, a company with its registered address at
 
 **3.7. Sharing consumer information with the App Store.** By registering on our Hily app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.
 
-You can withdraw your consent at any time, please contact us at [support@hily.com](mailto:support@taimi.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
+You can withdraw your consent at any time, please contact us at [support@hily.com](mailto:support@hily.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
 
 **3.8. Moderation Practices.** We use moderators to monitor and review accounts (including name and any other information uploaded onto user profiles). If the user\`s profile meets certain criteria that demonstrate that the user is likely to breach the Terms of Use, the relevant profile will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Hily to contest the decision.
 
@@ -501,7 +501,7 @@ You may exercise your rights by contacting us at [support@hily.com](mailto:suppo
 
 **10.6. S****ale of personal information** **and process of personal information for targeted advertising.** We do not sell your personal information. We do not exchange your personal data for monetary consideration with third parties, so no opt-out choice is necessary for that. However, we do process your personal information for targeted advertising in the sense of the applicable state privacy laws. We display advertisements to you where such ads are based on personal data obtained from nonaffiliated websites or online applications. Please see also more information in section 5.8 above. You can opt-out of the processing of the personal data for purposes of targeted advertising by contacting us at [support@hily.com](mailto:support@hily.com).
 
-**10.7.** You can appoint an authorized agent to submit a Right to Know, Delete, or Correct request on your behalf by emailing support@taimi.com. If you do this, we will ask the agent to verify that they are authorized to act on your behalf. We may reach out to you directly to verify your identity or to permit the request from the agent.
+**10.7.** You can appoint an authorized agent to submit a Right to Know, Delete, or Correct request on your behalf by emailing support@hily.com. If you do this, we will ask the agent to verify that they are authorized to act on your behalf. We may reach out to you directly to verify your identity or to permit the request from the agent.
 
 11\. Data Subjects’ Access and Erasure Requests
 -----------------------------------------------
