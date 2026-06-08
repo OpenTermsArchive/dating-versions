@@ -6,10 +6,10 @@
 **If you live outside of the United States, this Privacy Policy will apply.**
 -----------------------------------------------------------------------------
 
-**Effective Date: January 21, 2026**
-------------------------------------
+**Effective Date: June 5, 2026**
+--------------------------------
 
-This Privacy Policy explains the information that Coffee Meets Bagel Pte. Ltd. (“**CMB**” "**we**", “**us**” or "**our**") collect about users of the CMB mobile app (“CMB App”) and websites, how we use that information, and with whom we share it. For the avoidance of doubt, CMB App, websites, software and related services accessed via any platform or device that link to this Privacy Policy shall hereinafter be collectively termed as the "**Platform**". If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page, and you agree that it is your responsibility to regularly check our website for all updates to this Privacy Policy. 
+This Privacy Policy explains the information that Coffee Meets Bagel Pte. Ltd. (“**CMB**” "**we**", “**us**” or "**our**") collect about users of the CMB mobile app (“**CMB App**”) and websites, how we use that information, and with whom we share it. For the avoidance of doubt, CMB App, websites, software and related services accessed via any platform or device that link to this Privacy Policy shall hereinafter be collectively termed as the "**Platform**". If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page, and you agree that it is your responsibility to regularly check our website for all updates to this Privacy Policy.
 
 This Privacy Policy is read in conjunction with, and is deemed incorporated by reference, to be part of the Terms of Service. Accordingly, if you use our Platform, you must agree with the terms and conditions set out herein this Privacy Policy, and the terms and conditions herein this Privacy Policy shall constitute a binding and enforceable agreement against you. In the event that you do not agree with any provision herein this Privacy Policy, please immediately cease all use of the Platform.
 
@@ -18,40 +18,46 @@ This Privacy Policy is read in conjunction with, and is deemed incorporated by r
 
 1.1. When you visit, access or use the Platform, we collect your Personal Data and Anonymised Data to fulfill the purposes we collected it for, and to satisfy our business and/or legal purposes.
 
-1.2. “Personal Data” refers to information with personal identifiers that can be used separately or collectively to identify an individual, such as biometric data (Face verification), name, address, national identity number, mobile number, email address, birthdate, gender, residency status, or photograph. 
+1.2. “Personal Data” refers to information with personal identifiers that can be used separately or collectively to identify an individual, such as biometric data (Face verification), name, address, national identity number, mobile number, email address, birthdate, gender, residency status, or photograph.
 
-1.3. "Anonymised Data" refers to information that is not associated with or linked to your Personal Data and cannot be used to identify individual persons.
+1.3. "Anonymised Data" refers to information that is not associated with or linked to your Personal Data and cannot be used to identify individual persons.  
+  
 
-For the purpose of definition under this Privacy Policy, Clause 1.2 is meant for general definition only. We will only collect Personal Data that is necessary for us to fulfil our Services to you, it does not mean all types of data specified under Clause 1.2 will be collected.
+For the purpose of definition under this Privacy Policy, section 1.2 is meant for general definition only. We will only collect Personal Data that is necessary for us to fulfil our Services to you, it does not mean all types of data specified under section 1.2 will be collected.
 
 **2\. Information that We Collect Automatically**
 -------------------------------------------------
 
 2.1. When you use our Platform, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
 
-a)     Your mobile device's unique ID number.
+1.  Your mobile device's unique ID number.
+    
 
-b)     Your mobile device's geographic location while the CMB App is actively running
+b. Your mobile device's geographic location while the CMB App is actively running
 
-c)     Your computer's IP address.
+c. Your computer's IP address.
 
-d)     Technical information about your computer or mobile device (such as type of device, web browser or operating system).
+d. Technical information about your computer or mobile device (such as type of device, web browser or operating system).
 
-e)     Your preferences and settings (time zone, language, privacy preferences, product preferences, etc.).
+e. Your preferences and settings (time zone, language, privacy preferences, product preferences, etc.).
 
-f)      The URL of the last web page you visited before coming to our website or one of our other related websites.
+f. The URL of the last web page you visited before coming to our website or one of our other related websites.
 
-g)     The buttons, controls and ads you clicked on (if any).
+g. The buttons, controls and ads you clicked on (if any).
 
-h)     How long you used the Platform and which services and features you used.
+h. How long you used the Platform and which services and features you used.
 
-i)      The online or offline status of your account.
+1.  The online or offline status of your account.  
+      
+    
 
-2.2. We allow third-party analytics companies to use tracking technologies to collect Anonymised Data about our users' computers or mobile devices and their online activities. These companies analyse this information to help us understand how the Platform are being used. Analytics companies may use mobile device IDs, as described in the paragraph below ("Mobile device IDs").
+2.2. We allow third-party analytics companies to use tracking technologies to collect Anonymised Data about our users' computers or mobile devices and their online activities. These companies analyse this information to help us understand how the Platform are being used. Analytics companies may use mobile device IDs, as described in the paragraph below ("Mobile device IDs").  
+  
 
 Mobile device IDs: In order to recognize you, store your preferences, and track your use of our application; we may store your Mobile device IDs (the unique identifier assigned to a device by the manufacturer) when you use the CMB App. Unlike cookies, Mobile device IDs cannot be deleted.
 
-What we don't share: We do not provide third parties analytics companies with your name, address, email address, or phone number.
+What we don't share: We do not provide third parties analytics companies with your name, address, email address, or phone number.  
+  
 
 2.3. We may publicly disclose aggregated information that is Anonymised Data about our users, such as the total number of our users and their overall demographics.
 
@@ -66,7 +72,7 @@ _**A. Account Registration and Profile**_
 
 3.3. You may also (but are not required to) provide additional information about yourself (such as your gender, location, URL, or a biography) to increase your scope of interaction with other CMB App users. Any additional image or information you provide may be publicly displayed.
 
-3.4. Accordingly, you hereby confirm that you grant your specific informed consent to our collection, use, retention, sharing, disclosure and/or transfer of your Personal Data as provided to us pursuant to clauses 3.1 to 3.3 above.
+3.4. Accordingly, you hereby confirm that you grant your specific informed consent to our collection, use, retention, sharing, disclosure and/or transfer of your Personal Data as provided to us pursuant to sections 3.1 to 3.3 above.
 
 3.5. At your request, we will delete your account information; to do so, please close your account by following the steps [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707).
 
@@ -76,7 +82,7 @@ _**B. Third-Party Sites and Mobile Applications**_
 
 _**C. App Tracking Transparency**_
 
-If you are using Apple’s iOS 14.5, and iPadOS 14.5 and above, we will seek your permission before tracking your activity. When you see a request to track your activity, you can tap ‘Allow’ or ‘Ask App Not to Track’. You can still use the full capabilities of the app, regardless of whether you allow the app to track your activity.
+If you are using Apple’s iOS 14.5, and iPadOS 14.5 and above, we will seek your permission before tracking your activity. When you see a request to track your activity, you can tap ‘_Allow_’ or ‘_Ask App Not to Track_’. You can still use the full capabilities of the app, regardless of whether you allow the app to track your activity. 
 
 At any time, you can give or withdraw permission for an app to track your activity.
 
@@ -84,21 +90,23 @@ At any time, you can give or withdraw permission for an app to track your activi
     
     *   On iPhone or iPad: go to Settings, then tap Privacy & Security, then tap Tracking.
         
-
-2. Tap to turn off or turn on permission to track for a specific app.
+2.  Tap to turn off or turn on permission to track for a specific app.
+    
 
 **4\. How long do we keep your Information**
 --------------------------------------------
 
-4.1. Your personal information will only be kept for as long as we need it for providing you our services and as permitted by applicable law. If you decide to stop using our services, you can close your account and your profile will no longer be visible to other members.
+4.1. We retain your Personal Data only for as long as is necessary to fulfil the specific purpose for which it was collected, or as otherwise required or permitted by applicable law including the Personal Data Protection Act 2012 (Singapore) and, where applicable, the General Data Protection Regulation (EU) 2016/679. If you decide to stop using our Services, you can close your account and your profile will no longer be visible to other members. 
 
-4.2. Note that we will close your account if your user account is inactive, or did not log into your account for a prolong period of time.
+4.2. Note that we will close your account if your user account is inactive, or did not log into your account for a prolonged period of time. Specifically, we will close your account if you have not logged in to the CMB App or Platform for a continuous period of 24 months (“Inactivity Period”). We will send a notification to your registered email address at least 30 days before we close your account due to inactivity, giving you an opportunity to log in and reactivate your account. Following account closure for inactivity, the post-closure retention period in section 4.3 below will apply.
 
-4.3. To facilitate potential investigation efforts of unlawful CMB app usage and misuse of user Information, we will retain your Personal Data for a period of twelve months after your account is closed, or in the case of an account ban, before your Information will be deleted. By doing so, we can better protect our users, as well as our business interests.
+4.3. To facilitate potential investigation efforts of unlawful CMB App usage and misuse of user data, we will retain your Personal Data for a period of 12 months after your account is closed, or in the case of an account ban, before your Information will be deleted. By doing so, we can better protect our users, as well as our business interests.
 
-4.4. Finally, we maintain personal information on the basis of our interest where there is an outstanding or potential issue, claim or dispute requiring us to keep information (in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings).
+4.4. We may retain Personal Data where we reasonably determine that such retention is necessary in connection with: (a) actual or reasonably anticipated legal proceedings, regulatory investigations, or enforcement actions to which we are or may become a party; (b) the establishment, exercise, or defence of legal claims; or (c) compliance with a valid legal subpoena, court order, or binding request from a competent authority (in which case we are required to retain the data to comply with our legal obligations). Retention under this section 4.4 will not exceed the period as required by applicable law or court order. We will review data retained under this section to assess whether continued retention remains necessary and will delete such data as soon as the relevant matter is resolved and no legal obligation to retain it subsists.
 
-4.5. Upon the final approval by our Data Protection Officer (DPO), your user account and Personal Data will be deleted.
+4.5. Account data will be deleted in accordance with deletion processes at a policy level to ensure compliance with applicable law. The DPO’s contact details are set out in section 8 of this Privacy Policy. For data deletion requests made by you, please refer to section 8.3.
+
+4.6. The retention periods above apply to identifiable Personal Data. Personal Data that has been validly anonymised or aggregated so that it can no longer reasonably be linked to any individual is no longer subject to data protection obligations and may be retained and used by us indefinitely for research, product development, and analytical purposes. We will review our retention schedule annually and update it where our data processing activities or applicable law change. Any material changes to retention periods will be notified to you in accordance with the modification provisions of this Privacy Policy.
 
 4.1 Your personal information will only be kept for as long as we need it for providing you our services and as permitted by applicable law. If you decide to stop using our services, you can close your account and your profile will no longer be visible to other members.
 
@@ -121,68 +129,76 @@ necessary as part of legal proceedings).
 **5\. Use of Your Information by Others**
 -----------------------------------------
 
-For the purpose of providing the Platform and our services to you, we engage third-party service providers. We may share user information (including your Personal Data) with the following parties:
+For the purpose of providing the Platform and our services to you, we engage third-party service providers. We may share user information (including your Personal Data) with the following parties: 
 
-*   **Service providers:** We will share your Personal Data to service providers who support our  
-    business, such as cloud service providers, identity verification agents, and providers of content moderation services to ensure that our Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform.
+*   **Service providers:** We will share your Personal Data to authorized service providers who support our business, such as cloud service providers, identity verification agents, AI processing vendors, and providers of content moderation services to ensure that our Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform.
     
-*   **Payment processors and transaction fulfilment providers:** If you choose to subscribe or  
-    conduct other payment related transactions, we will share your Personal Data with the relevant payment provider to facilitate this transaction. For subscription transactions, we share a transaction ID to enable us to identify you and credit your account with the correct subscription plan or promo code once you have made the payment.
+
+*   **Payment processors and transaction fulfilment providers:** If you choose to subscribe or conduct other payment related transactions, we will share your Personal Data with the relevant payment provider to facilitate this transaction. For subscription transactions, we share a transaction ID to enable us to identify you and credit your account with the correct subscription plan or promo code once you have made the payment.
     
-*   **Analytics providers:** We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted  
-    advertisements based on your preferences.
+*   **Analytics providers:** We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted advertisements based on your preferences.
     
-*   **Advertisers, Advertising Networks and Measurement Partners:** We share information with  
-    advertisers and third-party measurement companies to show how many and which users of the Platform have viewed or clicked on an advertisement.  
-    We are not responsible for the privacy practices of these third-parties, and the information  
-    practices of these third-parties are not covered by this Privacy Policy.
+
+*   **Advertisers, Advertising Networks and Measurement Partners:** We share information with advertisers and third-party measurement companies to show how many and which users of the Platform have viewed or clicked on an advertisement.
     
+
+We are not responsible for the privacy practices of these third-parties, and the information practices of these third-parties are not covered by this Privacy Policy.
+
 *   **Our Corporate Group**
     
 
-We may also share your Personal Data with other members, subsidiaries, or affiliates of our  
-corporate group, including to provide the Platform, to improve and optimise the Platform, to  
-prevent illegal use and to support users.
+We may also share your Personal Data with other members, subsidiaries, or affiliates of our corporate group, including to provide the Platform, to improve and optimise the Platform, to prevent illegal use and to support users.
 
-*   **For Legal Reasons:** We will share your Personal Data with law enforcement agencies, public  
-    authorities or other organisations if legally required to do so, or if such use is reasonably  
-    necessary to:  
-    a) comply with legal obligation, process or request;  
-    b) enforce our Terms of Service and other agreements, policies, and standards, including  
-    investigation of any potential violation thereof;  
-    c) detect, prevent or otherwise address security, fraud or technical issues; or  
-    d) protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and  
-    organisations for the purposes of fraud protection and credit risk reduction).
+*   **For Legal Reasons:** We will share your Personal Data with law enforcement agencies, public authorities or other organisations if legally required to do so, or if such use is reasonably necessary to:
     
-*   **Public Profiles:** Please note that if your profile is public, your content will be visible to anyone on the Platform and may also be accessed or shared by your friends and followers as well as third-parties such as search engines, content aggregators and news sites.
+
+1.  comply with legal obligation, process or request;
     
-*   **Sale, Merger or Other Business Transactions:** We may also disclose your information to  
-    third-parties:  
-    **1.** in the event that we sell or buy any business or assets (whether a result of liquidation,  
-    bankruptcy or otherwise), in which case we will disclose your personal data to the  
-    prospective seller or buyer of such business or assets; or  
-    **2**. if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or  
-    sell some or all of our assets. In such transactions, user information may be among the  
-    transferred assets.
+2.  enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof;
+    
+3.  detect, prevent or otherwise address security, fraud or technical issues; or
+    
+4.  protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+    
+
+*   **Public Profiles:** Please note that if your profile is public, your content will be visible to anyone on the Platform and may also be accessed or shared by your friends and followers as well as third-parties such as search engines, content aggregators and news sites. 
+    
+
+*   **Sale, Merger or Other Business Transactions:** We may also disclose your information to third-parties:
+    
+
+1.  in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your personal data to the prospective seller or buyer of such business or assets; or
+    
+2.  if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets. 
     
 
 **6\. Transferring Personal Data**
 ----------------------------------
 
-6.1. Pursuant to the purposes and activities as set out in sections 2 to 5 above, it may be necessary for us to transfer your Personal Data out of Singapore. You hereby agree and consent to the aforesaid transfer, on the understanding that the recipients of such Personal Data are also subject to applicable laws or contractual obligations similar to the obligations as set out in the Personal Data Protection Act 2012.
-
-6.2. If you are residing outside Singapore, your information (including your Personal Data) will be sent to and stored in Singapore, where our servers are located.
+Pursuant to the purposes and activities as set out in sections 2 to 5 above, it may be necessary for us to transfer your Personal Data out of Singapore. You hereby agree and consent to the aforesaid transfer, on the understanding that the recipients of such Personal Data are also subject to applicable laws or contractual obligations similar to the obligations as set out in the Personal Data Protection Act 2012.
 
 **7\. Your Consent**
 --------------------
 
 7.1. Based on the information that we have provided herein this Privacy Policy, you agree that by using the Platform, you hereby grant your specific informed consent to our collection, use, retention, disclosure and transfer of your Personal Data as set out in sections 2 to 6 above.
 
-7.2. You may at any time withdraw your consent to our use, retention, disclosure or transfer of your Personal Data pursuant to this Privacy Policy by emailing our Data Protection Officer at [DPO@coffeemeetsbagel.app](mailto:DPO@coffeemeetsbagel.app).
+7.2. You may at any time withdraw your consent to our use, retention, disclosure or transfer of your Personal Data pursuant to this Privacy Policy by emailing our Data Protection Officer at [DPO@coffeemeetsbagel.app](mailto:DPO@coffeemeetsbagel.app). 
 
 However, please note that any such withdrawal of consent may result in us being unable to continue providing our services or fulfilling our contractual obligations with you, including but not limited to termination of your access to the Platform (and therefore termination of any credits in your CMB App account), termination of any loyalty programme benefits that would otherwise have been available to you, inability to provide you with the opportunity to participate in promotions, and inability to fulfil any purchase orders that you may have submitted to or through the Platform. Accordingly, your withdrawal of consent may also lead to the termination of any contract(s) that you may have with CMB as well as termination of any purchase or subscription orders to third parties submitted through the Platform, for which CMB expressly reserves its rights and remedies thereto. 
 
-7.3. Should you wish to unsubscribe to any of our updates sent to you via the Platform or email, please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Please note however that this may result in us being unable to make available to you updates on our CMB App, your CMB App account, benefits under our loyalty programme and any ongoing promotions.
+7.3. Should you wish to unsubscribe to any of our updates sent to you via the CMB App or email, please create a ticket [here](https://coffeemeetsbagelww.zendesk.com/hc/en-us/requests/new?ticket_form_id=32874033394707). Please note however that this may result in us being unable to make available to you updates on our CMB App, your CMB App account, benefits under our loyalty programme and any ongoing promotions.
+
+  
+
+**7.4 Consent Artificial Intelligence ("AI") Features**
+
+7.4.1. From time to time, CMB may offer AI-powered features on the Platform (“AI Features”), such as personalised match recommendations, topic suggestions, profile optimisation tools, and other features that are powered by automated decision-making or machine learning technologies. Where an AI Feature involves the processing of your Personal Data beyond what is described in sections 2 to 6 of this Privacy Policy, we will seek your separate and specific informed consent before enabling such AI Feature for your account.
+
+7.4.2. When implementing any AI Feature, we will provide you with an announcement that sets out: (a) a description of the AI Feature and its purpose; (b) the categories of Personal Data that will be processed in connection with the AI Feature; (c) navigating the new AI Feature within the CMB App; and (d) any automated decision-making that may produce legal or similarly significant effects on you, and your right to request human review of such decisions. Your opt-in consent will be recorded and retained for audit purposes for so long as your account remains active or as required by applicable law.
+
+7.4.3. Your consent to any AI Feature is entirely voluntary. You may continue to use all other features of the Platform regardless of whether you opt in to any AI Feature. Where you choose not to opt in, or where you subsequently withdraw your consent to an AI Feature, we will cease processing your Personal Data for that AI Feature as soon as reasonably practicable. Withdrawal of consent to an AI Feature will not affect the lawfulness of any processing carried out prior to your withdrawal. To opt out of an AI Feature at any time, you may do so via the account settings in the CMB App.
+
+7.4.4. For the avoidance of doubt, section 7.2 (withdrawal of consent and its consequences) apply equally to any consent given under this section 7.4. Where a particular AI Feature is discontinued or materially changed in a manner that affects the processing of your Personal Data, we will notify you and, where required, seek fresh consent from you before the change takes effect.
 
 **8\. Access and Correction of Personal Data**
 ----------------------------------------------
@@ -207,7 +223,7 @@ It is thus the responsibility of parents and legal guardians to ensure that thei
 
 10.1. You should register your mobile number with DNC to minimize unsolicited and unwanted marketing calls.
 
-1.2. We respect your selections in relation to the channels via which you wish to receive our updates and other communications. Therefore, if you have registered your telephone and/or fax number with the Do-Not-Call Registries in relation to telephone calls, text or fax messages, we will not send you any communications via the channels that you have opted out of by registering with the Do-Not-Call Registries.
+10.2. We respect your selections in relation to the channels via which you wish to receive our updates and other communications. Therefore, if you have registered your telephone and/or fax number with the Do-Not-Call Registries in relation to telephone calls, text or fax messages, we will not send you any communications via the channels that you have opted out of by registering with the Do-Not-Call Registries.
 
 However, if you have previously consented to our sending you communications via your telephone number (calls or text messages) and/or facsimile number, we will continue doing so until you withdraw your consent by contacting our Data Protection Officer at DPO@coffeemeetsbagel.app.
 
