@@ -242,7 +242,7 @@ HAPPN and its partners cannot be held liable for actions by its Members which ar
 
 • An infringement of personal rights, such as image rights and the respect of the right to privacy.
 
-• Any such behaviour may result in the suspension or termination of these terms and conditions of use in accordance with Article 15.4 herein.
+• Any such behaviour may result in the suspension or termination of these terms and conditions of use in accordance with Article 14.4 herein.
 
 **7.3 Reporting and Community Moderation System**
 -------------------------------------------------
@@ -375,7 +375,7 @@ In order to remain a Member, all of the following conditions must be met:
 
 The Member shall not copy and/or disseminate, and/or transfer technical data that it might intercept on the network connected to the HAPPN application.
 
-Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 15.4 of these terms and conditions of use.
+Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 14.4 of these terms and conditions of use.
 
 Members also commit to abide by the following terms of use:
 
