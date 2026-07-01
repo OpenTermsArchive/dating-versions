@@ -9,7 +9,7 @@ CGU
 
 Personne n’aime lire les petits caractères – néanmoins, nous vous demandons de jeter également un coup d’œil à nos CGU en vigueur. Merci beaucoup.
 
-Dernière mise à jour: 17.06.2026
+Dernière mise à jour: 01.07.2026
 
 **Les présentes Conditions générales régissent la relation contractuelle payante ou non payante entre Parship (le contractant est PE Digital GmbH, Speersort 10, 20095 Hambourg, Allemagne) et ses clients, que vous accédiez à Parship via le site web ou les applications mobiles.**
 
@@ -228,9 +228,8 @@ Speersort 10
 20095 Hamburg  
 Allemagne
 
+téléphone: +49 (0) 30-48625531  
 e-mail: [aide@parship.fr](mailto:aide@parship.fr)
-
-téléphone: +49 (0) 30-48625531
 
 votre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation ([ici](https://www.parship.fr/termsandconditions/#widerruf) ou [https://parship.fr/static\_cms/parship/static/Downloads/Modele-de-formulaire-de-retractation-FR.pdf](https://parship.fr/static_cms/parship/static/Downloads/Modele-de-formulaire-de-retractation-FR.pdf)) mais ce n’est pas obligatoire.  
   
@@ -265,6 +264,8 @@ La langue du contrat est le français.
 
 Modèle de formulaire de rétractation
 ------------------------------------
+
+(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat)  
 
 À l’attention de PE Digital GmbH, Service Clientèle Parship France, Speersort 10, 20095 Hambourg, Allemagne ; e-mail: aide@parship.fr:
 
