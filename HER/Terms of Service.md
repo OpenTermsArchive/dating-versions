@@ -69,7 +69,7 @@ If at any time you cease to meet these requirements, all authorization to access
 **You agree that you will not:**
 
 1.  Misrepresent your identity, age, employment (current or previous), qualifications, or affiliations with a person or entity;
-2.  Use the Services in a way that damages the Services or prevents their use by other users;
+2.  Use the Services in a way that damages the Services or prevents their use by other users, **including but not limited to, misrepresenting your identity to access or bypass certain features of the Services**
 3.  Use our Services in a way to interfere with, disrupt or negatively affect the platform, the servers, or our Services’ networks;
 4.  Use our Services for any harmful, illegal, or nefarious purpose, including, but not limited to, using any Virtual Items for purposes of money laundering or other financial crimes;
 5.  Harass, bully, stalk, intimidate, assault, defame, harm or otherwise mistreat any person;
@@ -102,7 +102,7 @@ The license granted to you under these Terms and any authorization to access the
 
 HER prohibits uploading or sharing content that:
 
-1.  Could reasonably be deemed to be offensive or to harass, upset, embarrass, alarm or annoy any other person;
+1.  Could reasonably be deemed to be offensive or to harass, upset, embarrass, alarm or annoy any other person**, including but not limited to targeting members seeking a sapphic-only experience**
 2.  Is obscene, pornographic, violent or otherwise may offend human dignity, or contains nudity;
 3.  Is abusive, insulting or threatening, discriminatory or that promotes or encourages racism, sexism, hatred or bigotry;
 4.  Is illegal or encourages or facilitates any illegal activity, including, without limitation, terrorism, human trafficking, money muling, child abuse and exploitation, or the incitement of violence or hatred;
