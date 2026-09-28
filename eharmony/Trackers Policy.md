@@ -226,5 +226,3 @@ Furthermore, it is possible to reset the use of the ID on your device for target
 ### **Overview of tracking technologies used by eharmony when using the eharmony app**
 
 [Here](https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_uk_tracking_mechanisms_app.pdf)you can find a complete overview of all tracking technologies that we use on our platform. Together with the description of individual tracking technologies, we have also listed the cookie’s purpose, which data is processed, the data controller(s), and other important information.
-
-![](https://www.eharmony.co.uk/wp-content/uploads/sites/3/2026/09/icon-refresh.svg)History
