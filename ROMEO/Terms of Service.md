@@ -1,7 +1,7 @@
 ROMEO TERMS OF USE
 ==================
 
-From 22 October 2026  
+From 22 October 2026
 
 The current Terms of Use are still available below this updated version.
 
@@ -84,7 +84,7 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 8.  ROMEO may transfer the administration, control or registration of a group Account to ROMEO itself and/or to another User, when asked hereto by the admin or where ROMEO reasonably considers this necessary, including to resolve ownership or authorisation issues, address misuse or inactivity, protect Users or the Service, or preserve the continuity of the relevant group or community.
 9.  ROMEO may, at its sole discretion, request a User to provide additional information to verify Personal Data and/or User Content that the User has posted on their Account and/or the Service. Based on this additional information, ROMEO may decide to edit or delete Personal Data and/or User Content and/or to suspend or delete the Account and the User’s use of the Service.
 10.  The User can (temporarily) deactivate or delete their Account on the Website by editing their account settings under ‘edit profile’. Deactivating an Account will prevent the Profile of the User from being visible on the Website to other Users or viewers.
-11.  The User may terminate the Agreement at any time by deleting their account through the functionality provided on the Website. Termination will take effect immediately upon completion of the deletion process. After termination of the Agreement, ROMEO shall temporarily retain limited User data in accordance with our Privacy Statement. 
+11.  The User may terminate the Agreement at any time by deleting their account through the functionality provided on the Website. Termination will take effect immediately upon completion of the deletion process. After termination of the Agreement, ROMEO shall temporarily retain limited User data in accordance with our [Privacy Statement](https://www.romeo.com/en/privacy/). 
 12.  In case the User doesn’t log in the Website for more than 3 months, ROMEO will deactivate the Account of the User. In case the User doesn’t log in for more than 12 months, ROMEO will delete the Account of the User.
 
 **4\.** **ADDITIONAL SERVICES**
@@ -139,7 +139,7 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 **9\.** **CONTENT MODERATION AND SERVICE RESTRICTIONS**
 -------------------------------------------------------
 
-1.  ROMEO applies content moderation practices to ensure compliance with applicable law and these Terms of Use, including the rules set out in Article 2.5. These practices include both automated tools and human review processes. Moderation of specific User Content may take place before or after content is made publicly available on the platform.
+1.  ROMEO applies content moderation practices to ensure compliance with applicable law and these Terms of Use, including the rules set out in Article 2.4. These practices include both automated tools and human review processes. Moderation of specific User Content may take place before or after content is made publicly available on the platform.
 2.  Content submitted by users—such as profile text, images, and messages—may be reviewed at the time of upload and may be subject to further review upon receipt of Reports (Article 8) or detection by internal systems. ROMEO uses automated mechanisms to identify potentially harmful or non-compliant content and assess behavioral risks. Based on this assessment, content may be blocked, flagged for review, or subject to other measures.
 3.  Where ROMEO determines that content or behaviour violates these Terms of Use, applicable law and/or risk indicators identified through ROMEO’s moderation systems, it may take appropriate measures in accordance with Article 12. 
 4.  If ROMEO removes or restricts content or limits user access as a result of content moderation, the affected user will be informed of the decision and the grounds thereof, unless such notification would be contrary to legal obligations or the rights of third parties. Where applicable, the notice will also include options for redress.
@@ -210,7 +210,7 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 *   **Parties**: the User and ROMEO;
 *   **Personal Data**: any data that directly or indirectly relates to an identified or identifiable natural person;
 *   **ROMEO**: the private company with limited liability ROMEO B.V., having its office in (1013 AA) Amsterdam, the Netherlands, at De Ruijterkade 7;
-*   **Privacy Statement**: ROMEO’s privacy statement available on the [Website](https://www.romeo.com/en/privacy/) and in the App;
+*   [**Privacy Statement**](https://www.romeo.com/en/privacy/): ROMEO’s privacy statement available on the [Website](https://www.romeo.com/en/privacy/) and in the App;
 *   **Profile**: the part of the Account which is visible to other Users. The Profile is part of the Account;
 *   **Report**: the notice which can be used to report infringing User Content, available on the [Website](https://support.romeo.com/hc/en-us) and in the App;
 *   **Service**: all services, including Additional Services, provided by ROMEO by means of the Website and/or App;
