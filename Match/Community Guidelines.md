@@ -46,6 +46,8 @@ We’re all adults, and singles may send flirty and even sexy messages to each o
 
 We also do not accept messages or content depicting illegal activity or promoting commercial sexual services, human trafficking or non-consensual sexual acts. Breaking this rule will result in your account being removed.
 
+We strictly prohibit child sexual abuse and exploitation (CSAE) in any form. This includes, but not limited to, child sexual abuse material (CSAM), grooming, sextortion, trafficking, sexualization of minors, and any content or behavior that sexually exploits, endangers, or encourages harm to minors.
+
 ### Tips
 
 *   Never ask for or share private information.
