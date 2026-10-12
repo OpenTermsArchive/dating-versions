@@ -45,6 +45,8 @@ Wir sind alle erwachsen und Singles senden einander gelegentlich Nachrichten, di
 
 Wir akzeptieren auch keine Nachrichten oder Inhalte, die illegale Aktivitäten darstellen oder kommerzielle sexuelle Dienstleistungen, Menschenhandel oder nicht einvernehmliche sexuelle Handlungen bewerben. Wenn du gegen diese Regel verstößt, wird dein Konto entfernt.
 
+Wir verbieten ausdrücklich jedwede Form des sexuellen Missbrauchs und der sexuellen Ausbeutung von Kindern (CSAE). Dazu gehören insbesondere Darstellungen sexuellen Kindesmissbrauchs (CSAM), die gezielte Anbahnung sexueller Kontakte zu Minderjährigen (Grooming), sexuelle Erpressung (Sextortion), Menschenhandel, die Sexualisierung Minderjähriger sowie sämtliche Inhalte oder Verhaltensweisen, durch die Minderjährige sexuell ausgebeutet oder gefährdet werden oder die zu ihrer Schädigung aufrufen.
+
 ### Tipps
 
 *   Frage niemals nach privaten Informationen oder teile sie anderen mit.
