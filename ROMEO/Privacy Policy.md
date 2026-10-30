@@ -1,7 +1,7 @@
 Privacy and cookie statement ROMEO
 ==================================
 
-Updated 6 October 2026 
+Updated 30 October 2026 
 
 Your privacy and the protection of your personal data is of great importance to ROMEO B.V. (hereinafter: ROMEO). During the processing of your personal data both offline and online, via the ROMEO website (www.romeo.com) and the ROMEO app, ROMEO works in accordance with the requirements for the processing of personal data as laid down in the European privacy legislation (General Data Protection Regulation). This means ROMEO:
 
@@ -102,7 +102,7 @@ The parties that process personal data in ROMEO’s or your assignment:
 
 *   IT suppliers and service providers (in: Germany, United States, Netherlands, Ireland)
 
-Development, maintenance and improvement of the platform, website and app. Technical support, bug fixes and updates. Content delivery and DDoS protection. Full stack monitoring and analysis. Analytics and app performance measurement. Survey tools for feedback. Fraud prevention and customer relationship management (CRM).
+Development, maintenance and improvement of the platform, website and app. Technical support, bug fixes and updates. Content delivery and DDoS protection. Full stack monitoring and analysis. Analytics and app performance measurement. Survey tools for feedback. Fraud prevention, age verification and customer relationship management (CRM).
 
 *   Payment service providers (in: Netherlands)
 
